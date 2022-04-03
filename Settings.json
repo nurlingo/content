@@ -66,7 +66,7 @@
         ]
     },
     {
-        "id": "recommended",
+        "id": "recommended_apps",
         "titleRu": "Рекомендуем приложения и курсы",
         "commentRu": "",
         "titleEn": "Recommended Apps and Courses",
@@ -120,6 +120,15 @@
                 "hasQuizRu": 0,
                 "hasQuizEn": 0,
             },
+        ]
+    },
+    {
+        "id": "recommended_courses",
+        "titleRu": "Рекомендуем курсы",
+        "commentRu": "",
+        "titleEn": "Recommended Courses",
+        "commentEn": "",
+        "items": [
             {
                 "id": "kiflayn",
                 "type": "page",
@@ -163,7 +172,7 @@
                 "titleRu": "Платные уроки арабского с учителем",
                 "showRu": 1,
                 "urlEn": "https://bit.ly/3iddjwq",
-                "titleEn": "Read Arabic with a teacher",
+                "titleEn": "Paid Course: Learn to Read Arabic with a Teacher",
                 "showEn": 1,
                 "hasQuizRu": 0,
                 "hasQuizEn": 0,
