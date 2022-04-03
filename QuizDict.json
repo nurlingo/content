@@ -1,0 +1,482 @@
+{
+    "app_intro":[
+        {
+            "type":"singleSelection",
+            "body":{
+                "title": "The Status of Prayer",
+                "postscript": "You can write \"\\n\" in any string to add a line break inside your text.",
+                "reviewType": "singleSelection",
+                "question": "Is the statement below true or false?",
+                "hint": "It is a pillar of our religion",
+                "syntaxHighlighting": true,
+                "correct": [
+                    {
+                        "answer": "Praying is obligatory in Islam",
+                        "reason": ""
+                    }
+                ],
+                "wrong": [
+                ]}
+        },
+        {
+            "type":"PredictTheOutput",
+            "body":{
+                "title": "Number of prayers",
+                "code":"How many obligatory prayers does a Muslim perform on a daily basis?",
+                "hint": "We start in the early morning, and keep doing it till the night",
+                "answers":[
+                    {
+                        "correctTexts": [
+                            "five", "5", "Five"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type":"multipleSelection",
+            "body":{
+                "title":"Ihsan",
+                "postscript":"",
+                "reviewType":"multipleSelection",
+                "question":"What Arabic term do we use for obligatory actions in Islam?",
+                "hint":"Start with with the 6th letter of English alphabet",
+                "syntaxHighlighting":true,
+                "correct":[
+                    {
+                        "answer":"Fard",
+                        "reason":"Fard means obligatory."
+                    }
+                ],
+                "wrong":[
+                    {
+                        "answer":"Haram",
+                        "reason": "Haram means forbidden."
+                    },
+                    {
+                        "answer":"Sunnah",
+                        "reason":"Term sunnah usually denotes recommended acts."
+                    }
+                ]
+            }
+        },
+        {
+            "type":"multipleSelection",
+            "body":{
+                "title":"For whom?",
+                "postscript":"",
+                "reviewType":"multipleSelection",
+                "question":"What are the conditions that make prayer obligatory for a person?",
+                "hint":"There are three of them",
+                "syntaxHighlighting":true,
+                "correct":[
+                    {
+                        "answer":"Being a Muslim",
+                        "reason":"Being Muslim is the first condition."
+                    },
+                    {
+                        "answer":"Being sane",
+                        "reason":"Being sane is a condition, and insanity excuses one from the obligation."
+                    },
+                    {
+                        "answer":"Reaching puberty",
+                        "reason":"Reaching puberty is a condition, and praying is not obligatory for children."
+                    }
+                ],
+                "wrong":[
+                    {
+                        "answer":"Being a good person",
+                        "reason":"This is not a condition. Every Muslim has to pray, not only the \"good\" ones."
+                    },
+                    {
+                        "answer":"Not committing any sins",
+                        "reason":"This is not a condition. Instead, it is the prayer that helps one to stop committing sins."
+                    }
+                ]
+            }
+        },
+        {
+            "type":"RearrangeTheLines",
+            "body":{
+                "title": "The order of prayers",
+                "question":"Put the daily prayer in the correct order.",
+                "hint":"Fajr is the first",
+                "code":"Fajr - dawn prayer\nDhuhr - noon prayer\n'Asr - afternoon prayer\nMaghrib - sunset prayer\n'Isha - evening prayer"
+            }
+        },
+        {
+            "type":"TapToCode",
+            "body":{
+                "title": "The keys",
+                "question":"Reconstruct the famous saying of the Prophet (peace and blessings be upon him) from the blocks below.",
+                "hint":"There are two keys.",
+                "existingCode":"",
+                "components":[
+                    "the key",
+                    "to Paradise",
+                    "is prayer,",
+                    "and",
+                    "the key",
+                    "to prayer",
+                    "is wudu (ablution)"
+                ]
+            }
+        }
+    ],
+    "islam_intro_unused" : [
+        {
+            "type":"multipleSelection",
+            "body":{
+                "title":"The visitor's questions",
+                "postscript":"",
+                "reviewType":"multipleSelection",
+                "question":"What did the visitor ask about?",
+                "hint":"He asked about several things, all of them connected to religion.",
+                "syntaxHighlighting":true,
+                "correct":[
+                    {
+                        "answer":"Islam",
+                        "reason":"This was the first thing he asked about after arriving."
+                    },
+                    {
+                        "answer":"Imaan",
+                        "reason":"This was the second question."
+                    },
+                    {
+                        "answer":"Ihsan",
+                        "reason":"This was the third question."
+                    },
+                    {
+                        "answer":"The Hour and its signs.",
+                        "reason":"This was the last thing he asked before leaving."
+                    }
+                ],
+                "wrong":[
+                    {
+                        "answer":"Directions",
+                        "reason":"He didn't ask for directions, since he wasn't lost."
+                    },
+                    {
+                        "answer":"The people's names",
+                        "reason":"He didn't ask any names."
+                    }
+                ]
+            }
+        },
+        {
+            "type":"multipleSelection",
+            "body":{
+                "title":"Pillars of Islam",
+                "postscript":"",
+                "reviewType":"multipleSelection",
+                "question":"What are the five pillars of Islam?",
+                "hint":"The pillars are practices, i.e. actions.",
+                "syntaxHighlighting":true,
+                "correct":[
+                    {
+                        "answer":"testifying that there is no god but Allah and that Muhammad is the Messenger of Allah",
+                        "reason":"This is the first pillar."
+                    },
+                    {
+                        "answer":"performing the prayer",
+                        "reason":"Prayer (a.k.a. namaz or salah) is the second pillar of Islam obligatory for every Muslim person who reached puberty."
+                    },
+                    {
+                        "answer":"giving zakat",
+                        "reason":"Zakat is the charity obligatory for wealthy Muslims, and is the third pillar of Islam"
+                    },
+                    {
+                        "answer":"fasting in Ramadan",
+                        "reason":"This is the forth pillar of Islam. In the holy month of Ramadan, Muslims fast during daytime."
+                    },
+                    {
+                        "answer":"performing pilgrimage to the House",
+                        "reason":"Hajj to Makkah is the fifth pillar, and is obligatory for those who have the means to perform it."
+                    }
+                ],
+                "wrong":[
+                    {
+                        "answer":"seeing Angels",
+                        "reason": "Believing in angels is part of Imaan (true faith). Seeing them is not a must."
+                    },
+                    {
+                        "answer":"reading Revealed Books",
+                        "reason":"Believing in Revealed Books is part of Imaan (true faith). Reading and memorizing the Quran is praiseworthy."
+                    }
+                ]
+            }
+        },
+        {
+            "type":"multipleSelection",
+            "body":{
+                "title":"The visitor",
+                "postscript":"",
+                "reviewType":"multipleSelection",
+                "question":"What was surprising about the visitor?",
+                "hint":"Several things were surprising in fact",
+                "syntaxHighlighting":true,
+                "correct":[
+                    {
+                        "answer":"His appearance: pure white clothing and jet black hair",
+                        "reason":"The visitor has got style!"
+                    },
+                    {
+                        "answer":"He wasn’t from Madinah, nor was he a traveller",
+                        "reason":"Where did he come from then?"
+                    },
+                    {
+                        "answer":"He asked and then confirmed the answer",
+                        "reason":"Why did he ask if he knew the answer?"
+                    }
+                ],
+                "wrong":[
+                ]
+            }
+        },
+    ],
+    "islam_intro":[
+        {
+            "type":"singleSelection",
+            "body":{
+                "title": "The visitor's questions",
+                "postscript": "You can write \"\\n\" in any string to add a line break inside your text.",
+                "reviewType": "singleSelection",
+                "question": "Is the statement below true or false?",
+                "hint": "There were four questions",
+                "syntaxHighlighting": true,
+                "correct": [
+                    {
+                        "answer": "The visitor asked about:\n- Islam\n- Imaan\n- Ihsan\n- The Hour and its signs",
+                        "reason": ""
+                    }
+                ],
+                "wrong": [
+                ]}
+        },
+        {
+            "type":"RearrangeTheLines",
+            "body":{
+                "title": "The order of pillars",
+                "question":"Put the pillars of Islam in the correct order.",
+                "hint":"The prayer is second, Hajj is last.",
+                "code":"The testification of faith (shahadah)\nPrayer (salah, namaz)\nZakat (charity)\nFast of Ramadan\nHajj (Pilgrimage to Makkah)"
+            }
+        },
+        {
+            "type":"TapToCode",
+            "body":{
+                "title": "The first pillar",
+                "question":"The first pillar of Islam is the testification of faith (shahadah). How do we say it?",
+                "hint":"Who is your god, and who is His messenger?",
+                "existingCode":"",
+                "components":[
+                    "I testify",
+                    "that there is no god",
+                    "but Allah,",
+                    "and I testify",
+                    "that Muhammad",
+                    "is the Messenger of Allah."
+                ]
+            }
+        },
+        {
+            "type":"PredictTheOutput",
+            "body":{
+                "title": "Terminology",
+                "code":"What is the Arabic for 'faith'?",
+                "hint":"It starts with 'Im'",
+                "answers":[
+                    {
+                        "correctTexts": [
+                            "imaan","iman","eman","الإيمان","ايمان","الايمان","إيمان"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type":"TapToCode",
+            "body":{
+                "title": "Principles of imaan",
+                "question":"How did the Messenger (blessing and peace be upon him) describe imaan (true faith)?",
+                "hint":"Angels conveyed the Books to Messengers (peace be upon them)",
+                "existingCode":"",
+                "components":[
+                    "Imaan is to believe",
+                    "in Allah,",
+                    "His angels,",
+                    "His revealed Books,",
+                    "His messengers,",
+                    "the Resurrection Day,",
+                    "and in destiny, its good and evil."
+                ]
+            }
+        },
+        {
+            "type":"multipleSelection",
+            "body":{
+                "title":"Ihsan",
+                "postscript":"",
+                "reviewType":"multipleSelection",
+                "question":"What is the correct way to complete the following sentence: ‘Ihsan is to worship Allah as if you see Him, and if you don’t see Him, ...‘",
+                "hint":"He is All-Seeing",
+                "syntaxHighlighting":true,
+                "correct":[
+                    {
+                        "answer":"He still sees you.",
+                        "reason":"This is correct! Ihsan is the sincerity and perfection of faith that we should strive for."
+                    }
+                ],
+                "wrong":[
+                    {
+                        "answer":"then live your life as you wish.",
+                        "reason": "Muslims try to live their lives in full submission and obedience to Allah, instead of just following our desires."
+                    },
+                    {
+                        "answer":"ask Allah for forgiveness.",
+                        "reason":"Asking Allah's forgiveness for our sins is always a good idea, and He is the Forgiving and Merciful. However, this is not how the sentence ends."
+                    }
+                ]
+            }
+        },
+        {
+            "type":"multipleSelection",
+            "body":{
+                "title":"The visitor's identity",
+                "postscript":"",
+                "reviewType":"multipleSelection",
+                "question":"Who was the visitor and what was the purpose of his visit?",
+                "hint":"It was the archangel",
+                "syntaxHighlighting":true,
+                "correct":[
+                    {
+                        "answer":"Jibreel came to teach Muslims about our deen (religion).",
+                        "reason":"Correct! Jibreel (peace be upon him) is the archangel who brings revelation to prophets (peace be upon them)."
+                    },
+                ],
+                "wrong":[
+                    {
+                        "answer":"Mikaeel came to greet the Muslims.",
+                        "reason":"Mikaeel (peace be upon him) is the angel responsible for weather. It wasn't him visiting though."
+                    },
+                    {
+                        "answer":"The angel of death  came to converse with the Muslims.",
+                        "reason":"This angel is responsible for taking souls of people when their time comes. Some narration mention his name as Azrail (peace be upon him). It wasn't him visiting though."
+                    }
+                ]
+            }
+        },
+    ],
+    "islam_intro_unused" : [
+        {
+            "type":"multipleSelection",
+            "body":{
+                "title":"The visitor's questions",
+                "postscript":"",
+                "reviewType":"multipleSelection",
+                "question":"What did the visitor ask about?",
+                "hint":"He asked about several things, all of them connected to religion.",
+                "syntaxHighlighting":true,
+                "correct":[
+                    {
+                        "answer":"Islam",
+                        "reason":"This was the first thing he asked about after arriving."
+                    },
+                    {
+                        "answer":"Imaan",
+                        "reason":"This was the second question."
+                    },
+                    {
+                        "answer":"Ihsan",
+                        "reason":"This was the third question."
+                    },
+                    {
+                        "answer":"The Hour and its signs.",
+                        "reason":"This was the last thing he asked before leaving."
+                    }
+                ],
+                "wrong":[
+                    {
+                        "answer":"Directions",
+                        "reason":"He didn't ask for directions, since he wasn't lost."
+                    },
+                    {
+                        "answer":"The people's names",
+                        "reason":"He didn't ask any names."
+                    }
+                ]
+            }
+        },
+        {
+            "type":"multipleSelection",
+            "body":{
+                "title":"Pillars of Islam",
+                "postscript":"",
+                "reviewType":"multipleSelection",
+                "question":"What are the five pillars of Islam?",
+                "hint":"The pillars are practices, i.e. actions.",
+                "syntaxHighlighting":true,
+                "correct":[
+                    {
+                        "answer":"testifying that there is no god but Allah and that Muhammad is the Messenger of Allah",
+                        "reason":"This is the first pillar."
+                    },
+                    {
+                        "answer":"performing the prayer",
+                        "reason":"Prayer (a.k.a. namaz or salah) is the second pillar of Islam obligatory for every Muslim person who reached puberty."
+                    },
+                    {
+                        "answer":"giving zakat",
+                        "reason":"Zakat is the charity obligatory for wealthy Muslims, and is the third pillar of Islam"
+                    },
+                    {
+                        "answer":"fasting in Ramadan",
+                        "reason":"This is the forth pillar of Islam. In the holy month of Ramadan, Muslims fast during daytime."
+                    },
+                    {
+                        "answer":"performing pilgrimage to the House",
+                        "reason":"Hajj to Makkah is the fifth pillar, and is obligatory for those who have the means to perform it."
+                    }
+                ],
+                "wrong":[
+                    {
+                        "answer":"seeing Angels",
+                        "reason": "Believing in angels is part of Imaan (true faith). Seeing them is not a must."
+                    },
+                    {
+                        "answer":"reading Revealed Books",
+                        "reason":"Believing in Revealed Books is part of Imaan (true faith). Reading and memorizing the Quran is praiseworthy."
+                    }
+                ]
+            }
+        },
+        {
+            "type":"multipleSelection",
+            "body":{
+                "title":"The visitor",
+                "postscript":"",
+                "reviewType":"multipleSelection",
+                "question":"What was surprising about the visitor?",
+                "hint":"Several things were surprising in fact",
+                "syntaxHighlighting":true,
+                "correct":[
+                    {
+                        "answer":"His appearance: pure white clothing and jet black hair",
+                        "reason":"The visitor has got style!"
+                    },
+                    {
+                        "answer":"He wasn’t from Madinah, nor was he a traveller",
+                        "reason":"Where did he come from then?"
+                    },
+                    {
+                        "answer":"He asked and then confirmed the answer",
+                        "reason":"Why did he ask if he knew the answer?"
+                    }
+                ],
+                "wrong":[
+                ]
+            }
+        },
+    ]
+    
+}
