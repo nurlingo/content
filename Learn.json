@@ -43,6 +43,18 @@
                 "hasQuizEn": 0,
             },
             {
+                "id": "hadith_on_niyyah",
+                "type": "article",
+                "urlRu": "https://sites.google.com/view/niyyah-ru",
+                "titleRu": "Намерение и искренность",
+                "showRu": 1,
+                "urlEn": "https://sites.google.com/view/niyyah-en",
+                "titleEn": "Intention and sincerity",
+                "showEn": 0,
+                "hasQuizRu": 0,
+                "hasQuizEn": 0,
+            },
+            {
                 "id": "ramadan_faq",
                 "type": "article",
                 "urlRu": "https://sites.google.com/view/ramadan-faq",
