@@ -1,24 +1,5 @@
 [
     {
-        "id": "settings",
-        "titleRu": "Настройки",
-        "commentRu": "",
-        "titleEn": "Settings",
-        "commentEn": "",
-        "items": [
-            {
-                "id": "Location",
-                "type": "switch",
-                "titleRu": "Поделиться местоположением (beta)",
-                "detailRu": "Используется для определения времени намаза",
-                "showRu": 1,
-                "titleEn": "Share location (beta)",
-                "detailEn": "Used to determine the prayer times",
-                "showEn": 1,
-            },
-        ]
-    },
-    {
         "id": "namazapp",
         "titleRu": "NamazApp",
         "commentRu": "",
