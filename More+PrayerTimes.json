@@ -9,11 +9,11 @@
             {
                 "id": "location",
                 "type": "switch",
-                "titleRu": "Показывать время намаза (бета)",
-                "detailRu": "Необходим доступ к местоположению",
+                "titleRu": "Показывать время намаза (beta)",
+                "detailRu": "Использует ваше местоположение",
                 "showRu": 1,
                 "titleEn": "Show prayer times (beta)",
-                "detailEn": "Requires geolocation",
+                "detailEn": "Uses your geolocation",
                 "showEn": 1,
             },
             {
