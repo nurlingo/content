@@ -9,7 +9,7 @@
             {
                 "id": "location",
                 "type": "switch",
-                "titleRu": "Показывать время намаза (бета-версия)",
+                "titleRu": "Показывать время намаза (бета)",
                 "detailRu": "Требует определение местоположения",
                 "showRu": 1,
                 "titleEn": "Show prayer times (beta)",
