@@ -116,11 +116,11 @@
                 "id": "support_app",
                 "type": "action",
                 "urlRu": "",
-                "titleRu": "Поддержать разработчика",
+                "titleRu": "Поддержать НамазАпп",
                 "detailRu": "",
                 "showRu": 1,
                 "urlEn": "",
-                "titleEn": "Donate to the project",
+                "titleEn": "Donate to NamazApp",
                 "detailEn": "",
                 "showEn": 1,
             },
@@ -296,7 +296,39 @@
                 "hasQuizEn": 0,
             },
         ]
-        
+    },
+    {
+        "id": "legal",
+        "titleRu": "Соглашения",
+        "commentRu": "",
+        "titleEn": "Legal Agreements",
+        "commentEn": "",
+        "items": [
+            {
+                "id": "privacy",
+                "type": "page",
+                "urlRu": "https://sites.google.com/view/namaz-privacy-ru",
+                "titleRu": "Политика конфиденциальности",
+                "showRu": 1,
+                "urlEn": "https://sites.google.com/view/namaz-privacy",
+                "titleEn": "Privacy Policy",
+                "showEn": 1,
+                "hasQuizRu": 0,
+                "hasQuizEn": 0,
+            },
+            {
+                "id": "terms",
+                "type": "page",
+                "urlRu": "https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+                "titleRu": "Пользовательское соглашение",
+                "showRu": 1,
+                "urlEn": "https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+                "titleEn": "The Terms of Use",
+                "showEn": 1,
+                "hasQuizRu": 0,
+                "hasQuizEn": 0,
+            },
+        ]
     }
 ]
  
