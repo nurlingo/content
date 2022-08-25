@@ -130,6 +130,18 @@
         "commentEn": "",
         "items": [
             {
+                "id": "shkola-odnogo-dnya",
+                "type": "page",
+                "urlRu": "https://bit.ly/3PI5hsY",
+                "titleRu": "Школа одного дня – уроки по основам Ислама для новичков (г.Казань)",
+                "showRu": 1,
+                "urlEn": "No data",
+                "titleEn": "A free course on the basics of prayer and fasting: starts Dec 6th",
+                "showEn": 0,
+                "hasQuizRu": 0,
+                "hasQuizEn": 0,
+            },
+            {
                 "id": "kiflayn",
                 "type": "page",
                 "urlRu": "No data",
