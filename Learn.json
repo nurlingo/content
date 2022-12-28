@@ -100,6 +100,18 @@
                 "hasQuizEn": 0,
             },
             {
+                "id": "physical_impurities",
+                "type": "article",
+                "urlRu": "https://sites.google.com/view/physical-impurities-haqiqi-ru/home",
+                "titleRu": "Физические нечистоты",
+                "showRu": 0,
+                "urlEn": "https://sites.google.com/view/physical-impurities-haqiqi/home",
+                "titleEn": "Physical Impurities",
+                "showEn": 1,
+                "hasQuizRu": 0,
+                "hasQuizEn": 0,
+            },
+            {
                 "id": "istindja",
                 "type": "article",
                 "urlRu": "https://sites.google.com/view/istinja-ru/home",
