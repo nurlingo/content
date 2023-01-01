@@ -1,0 +1,170 @@
+[
+    {
+        "id": "age_range",
+        "type": "singleChoice",
+        "image": "",
+        "titleEn": "How old are you?",
+        "titleRu": "Сколько вам лет?",
+        "descriptionEn": "",
+        "descriptionRu": "",
+        "optionsData": [
+            {
+               "id": "under_14",
+               "emoji": "",
+               "textEn": "Under 14",
+               "textRu": "До 14"
+            },
+            {
+               "id": "14-18",
+               "emoji": "",
+               "textEn": "14-18",
+               "textRu": "14-18"
+            },
+            {
+               "id": "19-24",
+               "emoji": "",
+               "textEn": "19-24",
+               "textRu": "19-24"
+            },
+            {
+               "id": "25-32",
+               "emoji": "",
+               "textEn": "25-32",
+               "textRu": "25-32"
+            },
+            {
+               "id": "33-40",
+               "emoji": "",
+               "textEn": "33-40",
+               "textRu": "33-40"
+            },
+            {
+               "id": "Above 40",
+               "emoji": "",
+               "textEn": "Above 40",
+               "textRu": "Старше 40"
+            }
+         ]
+    },
+    {
+        "id": "marketing_source",
+        "type": "singleChoice",
+        "image": "",
+        "titleEn": "How did your know about us?",
+        "titleRu": "Как вы узнали о НамазАпп?",
+        "descriptionEn": "",
+        "descriptionRu": "",
+        "optionsData": [
+            {
+               "id": "appstore",
+               "emoji": "📱",
+               "textEn": "App Store Search",
+               "textRu": "Поиск в App Store"
+            },
+            {
+               "id": "search",
+               "emoji": "🔎",
+               "textEn": "Google Search",
+               "textRu": "Поиск в Google/Yandex"
+            },
+            {
+               "id": "friends_family",
+               "emoji": "📻",
+               "textEn": "Friends/Family",
+               "textRu": "Друзья/Родственники"
+            },
+            {
+               "id": "other",
+               "emoji": "",
+               "textEn": "Other",
+               "textRu": "Другое"
+            }
+         ]
+    },
+    {
+        "id": "knowledge_level",
+        "type": "singleChoice",
+        "image": "",
+        "titleEn": "How much do you know about prayer?",
+        "titleRu": "Как вы оцениваете свой уровень знаний по намазу?",
+        "descriptionEn": "",
+        "descriptionRu": "",
+        "optionsData": [
+            {
+               "id": "absolute_beginner",
+               "emoji": "🛴",
+               "textEn": "I'm an absolute beginner",
+               "textRu": "Начинаю изучать с нуля"
+            },
+            {
+               "id": "knows_little",
+               "emoji": "🚲",
+               "textEn": "I know some, but not much",
+               "textRu": "Знаю, но немного"
+            },
+            {
+               "id": "knows_basics",
+               "emoji": "🛵",
+               "textEn": "I know all the basics",
+               "textRu": "Знаю основы"
+            },
+            {
+               "id": "knows_well",
+               "emoji": "🏍",
+               "textEn": "I know the fiqh of prayer more or less well",
+               "textRu": "Знаю правила довольно хорошо"
+            }
+         ]
+    },
+    {
+        "id": "motivation",
+        "type": "singleChoice",
+        "image": "",
+        "titleEn": "What would you like to achieve with NamazApp?",
+        "titleRu": "Чего вы хотели бы достичь с помощью НамазАпп?",
+        "descriptionEn": "",
+        "descriptionRu": "",
+        "optionsData": [
+            {
+               "id": "learn_to_pray",
+               "emoji": "💪",
+               "textEn": "Learn how to pray in a correct way",
+               "textRu": "Научиться правильно читать намаз"
+            },
+            {
+               "id": "pray_on_time",
+               "emoji": "⌚️",
+               "textEn": "Pray regularly and on time",
+               "textRu": "Читать регулярно и в положенное время"
+            },
+            {
+               "id": "memorize_quran_duas",
+               "emoji": "🎧",
+               "textEn": "Memorize more Quran and duas",
+               "textRu": "Выучить наизусть новые суры и дуа"
+            },
+            {
+               "id": "find_for_friend",
+               "emoji": "💌",
+               "textEn": "Recommend a prayer app to a friend/relative",
+               "textRu": "Найти хорошее приложение для друга/родственника"
+            },
+            {
+               "id": "other",
+               "emoji": "",
+               "textEn": "Other",
+               "textRu": "Другое"
+            }
+         ],
+    },
+    {
+        "id": "thank_you",
+        "type": "image",
+        "image": "grades-bro",
+        "titleEn": "Thank you for sharing with us!",
+        "titleRu": "Спасибо, что рассказали о себе!",
+        "descriptionEn": "InshaAllah we'll try to understand our users' needs better, and improve the app accordingly. May Allah give us all beneficial knowledge and good actions.\n\nIf you have any questions feel free to contact us by tapping \"Contact Developer\" in the \"More\" tab",
+        "descriptionRu": "ИншаАллах, мы будем и дальше изучать потребности наших пользователей и улучшать апп.\n\nЕсли у вас есть вопросы или предложения, пожалуйста пишите нам через ссылку в разделе \"Разное\"",
+        "optionsData": []
+    },
+]
