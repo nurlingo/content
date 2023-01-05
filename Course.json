@@ -30,8 +30,8 @@
                     "descriptionRu": "Молитва в Исламе и НамазАпп",
                     "showRu": 1,
                     "urlEn": "https://sites.google.com/view/namaz-intro-en",
-                    "titleEn": "About Namaz",
-                    "descriptionRu": "Prayer & NamazApp",
+                    "titleEn": "About Namaz & NamazApp",
+                    "descriptionEn": "FAQ from the developer",
                     "showEn": 1,
                 },
                 {
@@ -76,7 +76,7 @@
             "id": "taharah-part1",
             "titleRu": "Тахарат: очищение перед намазом",
             "descriptionRu": "Для того чтобы совершать Намаз, необходимо пребывать в состоянии физической и ритуальной чистоты.",
-            "titleEn": "Taharah: cleaning the body and cloth",
+            "titleEn": "Taharah: physical purity",
             "descriptionEn": "Taharah means purification. In this module, we'll look into cleaning one's body, cloth and place of prayer from the physical impurities.",
             "lessons": [
                 {
@@ -133,7 +133,7 @@
             "id": "taharah-part2",
             "titleRu": "Тахарат: Омовение перед намазом",
             "descriptionRu": "Для того чтобы совершать Намаз, необходимо пребывать в состоянии ритуальной чистоты. Мы достигаем этого с помощью определенных действий.",
-            "titleEn": "Taharah: Ritual purification before prayer",
+            "titleEn": "Taharah: ritual purity",
             "descriptionEn": "Being in a state of ritual purity is a prerequisite of prayer. It is reached through particular actions, which we discuss in this module.",
             "lessons": [
                 {
@@ -169,7 +169,7 @@
                     "showRu": 1,
                     "urlEn": "https://sites.google.com/view/wudu-en/home",
                     "titleEn": "The Two Keys",
-                    "descriptionEn": "",
+                    "descriptionEn": "What do they unlock?",
                     "showEn": 1,
                 },
                 {
@@ -190,7 +190,7 @@
             "id": "beneficial",
             "titleRu": "Польза для души и тела",
             "descriptionRu": "",
-            "titleEn": "Curing the body and soul",
+            "titleEn": "Strengthen your iman",
             "descriptionEn": "",
             "lessons": [
                 {
@@ -238,3 +238,4 @@
         },
     ]
 }
+
