@@ -100,7 +100,7 @@
                     "showRu": 0,
                     "urlEn": "https://sites.google.com/view/physical-impurities-haqiqi/home",
                     "titleEn": "Physical Impurities",
-                    "descriptionEn": "Learn about common impure substances.",
+                    "descriptionEn": "Learn about common impure substances",
                     "showEn": 1,
                 },
                 {
@@ -112,7 +112,7 @@
                     "showRu": 0,
                     "urlEn": "https://sites.google.com/view/howtoremoveimpurities/home",
                     "titleEn": "How to remove physical impurities",
-                    "descriptionEn": "Practical knowledge needed for prayer.",
+                    "descriptionEn": "Practical knowledge needed for prayer",
                     "showEn": 1,
                 },
                 {
@@ -124,7 +124,7 @@
                     "showRu": 1,
                     "urlEn": "https://sites.google.com/view/istinja-en/home",
                     "titleEn": "Istinja - cleaning after toilet",
-                    "descriptionEn": "Water, paper, and important aspects",
+                    "descriptionEn": "Water, paper, and other important aspects",
                     "showEn": 1,
                 },
             ],
@@ -145,7 +145,7 @@
                     "showRu": 1,
                     "urlEn": "https://sites.google.com/view/ghusl-en/home",
                     "titleEn": "Ghusl - full-body washing",
-                    "descriptionEn": "Washing after sexual intercourse, orgasm, or end of menstruation period.",
+                    "descriptionEn": "Washing after sexual intercourse, orgasm, or end of menstruation period",
                     "showEn": 1,
                 },
                 {
@@ -157,7 +157,7 @@
                     "showRu": 1,
                     "urlEn": "https://sites.google.com/view/wudu-en/home",
                     "titleEn": "Wudu - ablution",
-                    "descriptionEn": "Washing after releaving oneself, passing a wind, sleeping and a few other things.",
+                    "descriptionEn": "Washing after releaving oneself, passing a wind, sleeping and a few other things",
                     "showEn": 1,
                 },
                 {
@@ -181,7 +181,7 @@
                     "showRu": 1,
                     "urlEn": "https://sites.google.com/view/tayammum-en/home",
                     "titleEn": "Tayammum - dry purification",
-                    "descriptionEn": "Performed in the place of ghusl and wudu, when there is no water or using it will harm the person.",
+                    "descriptionEn": "Performed in the place of ghusl and wudu, when there is no water or using it will harm the person",
                     "showEn": 1,
                 }
             ],
@@ -201,6 +201,7 @@
                     "showRu": 1,
                     "urlEn": "https://sites.google.com/view/niyyah-en",
                     "titleEn": "Intention and Sincerity",
+                    "descriptionEn": "Something emphasized in our deen",
                     "showEn": 1,
                 },
                 {
@@ -211,7 +212,7 @@
                     "showRu": 1,
                     "urlEn": "https://sites.google.com/view/hadith-of-jibreel/home",
                     "titleEn": "Islam, Iman, and Ihsan",
-                    "descriptionEn": "Jibreel (peace be upon him) visits Muslims.",
+                    "descriptionEn": "Jibreel (peace be upon him) visits Muslims",
                     "showEn": 1,
                 },
                 {
@@ -232,6 +233,7 @@
                     "showRu": 1,
                     "urlEn": "https://sites.google.com/view/ramadan-fast/home",
                     "titleEn": "Fasting in Ramadan",
+                    "descriptionEn": "The best of deeds in the best of months",
                     "showEn": 1,
                 },
             ],
