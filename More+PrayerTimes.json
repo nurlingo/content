@@ -85,11 +85,11 @@
                 "urlRu": "",
                 "titleRu": "Расскажите о себе",
                 "detailRu": "",
-                "showRu": 0,
+                "showRu": 1,
                 "urlEn": "",
                 "titleEn": "Tell us about yourself",
                 "detailEn": "",
-                "showEn": 0,
+                "showEn": 1,
             },
             {
                 "id": "contact_developer",
