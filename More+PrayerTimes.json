@@ -81,12 +81,10 @@
             },
             {
                 "id": "personalization",
-                "type": "page",
-                "urlRu": "",
+                "type": "action",
                 "titleRu": "Расскажите о себе",
                 "detailRu": "",
                 "showRu": 1,
-                "urlEn": "",
                 "titleEn": "Tell us about yourself",
                 "detailEn": "",
                 "showEn": 1,
