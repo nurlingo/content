@@ -70,10 +70,10 @@
             {
                 "id": "advanced_time_settings",
                 "type": "action",
-                "titleRu": "Продвинутые настройки времени намаза",
+                "titleRu": "Настройки времени намаза",
                 "detailRu": "",
                 "showRu": 1,
-                "titleEn": "Advanced prayer time settings",
+                "titleEn": "Prayer time settings",
                 "detailEn": "",
                 "segments": [
                     "english",
