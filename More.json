@@ -104,6 +104,18 @@
                 "showEn": 1,
             },
             {
+                "id": "support_app",
+                "type": "action",
+                "urlRu": "",
+                "titleRu": "Поддержите НамазАпп",
+                "detailRu": "",
+                "showRu": 1,
+                "urlEn": "",
+                "titleEn": "Donate to NamazApp",
+                "detailEn": "",
+                "showEn": 1,
+            },
+            {
                 "id": "personalization",
                 "type": "action",
                 "titleRu": "Расскажите о себе",
@@ -143,18 +155,6 @@
                 "showRu": 1,
                 "titleEn": "Rate us",
                 "detailEn": "Your ratings and reviews will help us reach more people",
-                "showEn": 1,
-            },
-            {
-                "id": "support_app",
-                "type": "action",
-                "urlRu": "",
-                "titleRu": "Поддержите НамазАпп",
-                "detailRu": "",
-                "showRu": 1,
-                "urlEn": "",
-                "titleEn": "Donate to NamazApp",
-                "detailEn": "",
                 "showEn": 1,
             }
         ]
