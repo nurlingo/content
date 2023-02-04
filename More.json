@@ -68,7 +68,7 @@
                 "showEn": 1,
             },
             {
-                "id": "advanced_time_settings",
+                "id": "prayer_time_settings",
                 "type": "action",
                 "titleRu": "Настройки времени намаза",
                 "detailRu": "",
