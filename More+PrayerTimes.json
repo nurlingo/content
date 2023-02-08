@@ -293,6 +293,18 @@
                 "hasQuizEn": 0,
             },
             {
+                "id": "turkey_earthquake",
+                "type": "page",
+                "urlRu": "https://m.tooba.com/7xhu",
+                "titleRu": "Помощь пострадавшим от землятрясения в Турции и Сирии",
+                "showRu": 1,
+                "urlEn": "https://campaigns.givebrite.com/fundraiser?fundraiser=emergency-appeal-smiletojannah",
+                "titleEn": "Emergency appeal: Earthquake in Turkey & Syria",
+                "showEn": 1,
+                "hasQuizRu": 0,
+                "hasQuizEn": 0,
+            },
+            {
                 "id": "inno_masjid",
                 "type": "page",
                 "urlRu": "https://halalstarter.com/ru/mosque/innopolis/about",
