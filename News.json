@@ -1,6 +1,6 @@
 [
     {
-        "id": "ramadan_is_coming",
+        "id": "ramadan_faq",
         "isShown": 1,
         "type": "article",
         "titleEn": "Ramadan is coming soon!",
@@ -11,20 +11,20 @@
         "dateRu": "02.03.23",
         "urlEn": "https://sites.google.com/view/ramadan-fast/home",
         "urlRu": "https://sites.google.com/view/ramadan-faq",
-        "image": "moon",
+        "image": "moon"
     },
     {
         "id": "whats_new",
         "isShown": 1,
         "type": "celebrate",
         "titleEn": "What's new",
-        "titleRu": "Раздел новости",
-        "descriptionEn": "As-salaamu 3alaikum! Alhamdulillah, we've added this section with news and messages. Very excited to be more in touch with you! Thank you for using NamazApp.",
-        "descriptionRu": "Ас-саляму 'алейкум! Альхамдулиллях, мы добавили раздел 'Новости'. Очень рады новому каналу связи с вами, наши дорогие пользователи! ИншаАллах, будем тут публиковать что есть нового в аппе, предстоящими событиями, и делиться планами.",
+        "titleRu": "Раздел \"Новости\"",
+        "descriptionEn": "We've added \"What's new\" section, alhamdulillah. Here, we'd like to publish news and some tips on how to use the app. Press on this item to celebrate with us!",
+        "descriptionRu": "Мы добавили новый раздел с новостями и сообщениями, альхамдулиллях. Очень рады новому каналу связи с вами, наши дорогие пользователи! ИншаАллах, будем тут публиковать что есть нового в аппе, предстоящими событиями, и делиться планами.",
         "dateEn": "Mar 01",
         "dateRu": "01.03.23",
         "urlEn": "",
         "urlRu": "",
-        "image": "quote.bubble",
+        "image": "quote.bubble"
     },
 ]
