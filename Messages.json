@@ -1,0 +1,16 @@
+[
+    {
+        "id": "namaz",
+        "isShown": 1,
+        "type": "message",
+        "titleEn": "As-salaamu 3alaikum! Welcome to NamazApp.",
+        "titleRu": "Ас-саляму 'аляйкум! Добро пожаловать в НамазАпп.",
+        "descriptionEn": "Tap here to learn more about NamazApp and prayer in general.",
+        "descriptionRu": "Нажмите сюда, чтобы узнать больше о нашем приложении и о намазе в целом.",
+        "dateEn": "Mar 01",
+        "dateRu": "01.03.23",
+        "urlEn": "https://sites.google.com/view/namaz-intro-en",
+        "urlRu": "https://sites.google.com/view/namaz-intro-ru",
+        "image": "info.bubble"
+    }
+]
