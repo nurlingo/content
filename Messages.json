@@ -2,7 +2,7 @@
     {
         "id": "namaz",
         "isShown": 1,
-        "type": "message",
+        "type": "article",
         "titleEn": "As-salaamu 3alaikum! Welcome to NamazApp.",
         "titleRu": "Ас-саляму 'аляйкум! Добро пожаловать в НамазАпп.",
         "descriptionEn": "Tap here to learn more about NamazApp and prayer in general.",
