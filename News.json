@@ -7,8 +7,8 @@
         "titleRu": "Рамадан совсем скоро!",
         "descriptionEn": "Alhamdulillah, we are approaching the best month in the year, the month of the Quran and fasting, the month of drawing closer to Allah! Read our FAQ about the fast of Ramadan.",
         "descriptionRu": "Альхамдулиллях, наступает самый лучший месяц в году, месяц Корана и уразы, месяц приближения к Аллаху! Прочитайте часто-задаваемые вопросы о посте в месяц Рамадан.",
-        "dateEn": "Mar 02",
-        "dateRu": "02.03.23",
+        "dateEn": "Mar 03",
+        "dateRu": "03.03.23",
         "urlEn": "https://sites.google.com/view/ramadan-fast/home",
         "urlRu": "https://sites.google.com/view/ramadan-faq",
         "image": "moon"
@@ -21,10 +21,24 @@
         "titleRu": "Раздел \"Новости\"",
         "descriptionEn": "We've added \"What's new\" section, alhamdulillah. Here, we'd like to publish news and some tips on how to use the app. Press on this item to celebrate with us!",
         "descriptionRu": "Мы добавили новый раздел с новостями и сообщениями, альхамдулиллях. Очень рады новому каналу связи с вами, наши дорогие пользователи! ИншаАллах, будем тут публиковать что есть нового в аппе, предстоящими событиями, и делиться планами.",
-        "dateEn": "Mar 01",
-        "dateRu": "01.03.23",
+        "dateEn": "Mar 02",
+        "dateRu": "02.03.23",
         "urlEn": "",
         "urlRu": "",
         "image": "quote.bubble"
     },
+    {
+        "id": "namaz",
+        "isShown": 1,
+        "type": "article",
+        "titleEn": "What is Namaz?",
+        "titleRu": "Что такое намаз?",
+        "descriptionEn": "As-salaamu 3alaikum! Welcome to NamazApp. Tap here to learn more about NamazApp and prayer in general.",
+        "descriptionRu": "Ас-саляму 'аляйкум! Добро пожаловать в НамазАпп. Нажмите сюда, чтобы узнать больше о нашем приложении и о намазе в целом.",
+        "dateEn": "Mar 01",
+        "dateRu": "01.03.23",
+        "urlEn": "https://sites.google.com/view/namaz-intro-en",
+        "urlRu": "https://sites.google.com/view/namaz-intro-ru",
+        "image": "info.bubble"
+    }
 ]
