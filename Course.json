@@ -18,9 +18,9 @@
         {
             "id": "general",
             "titleRu": "Вступление",
-            "descriptionRu": "Рассказываем о намазе, этом приложение и основах нашей веры",
+            "descriptionRu": "Вопросы и ответы о намазе, этом приложении, и о посте священного месяца Рамадан.",
             "titleEn": "Introduction",
-            "descriptionEn": "We discuss the prayer, how to use this app, and the basics of our belief as Muslims",
+            "descriptionEn": "Questions and answers on prayer, this app, and the fast of Ramadan.",
             "lessons": [
                 {
                     "id": "namaz",
@@ -175,10 +175,10 @@
         },
         {
             "id": "beneficial",
-            "titleRu": "Польза для души и тела",
-            "descriptionRu": "",
+            "titleRu": "Укрепление имана",
+            "descriptionRu": "Основы веры в Исламе",
             "titleEn": "Strengthen your iman",
-            "descriptionEn": "",
+            "descriptionEn": "Some basics of our beliefs as Muslims",
             "lessons": [
                 {
                     "id": "faith_faq",
