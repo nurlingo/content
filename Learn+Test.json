@@ -2,9 +2,9 @@
     {
         "id": "general",
         "titleRu": "Введение",
-        "detailRu": "Рассказываем о намазе, этом приложение и основах нашей веры",
+        "detailRu": "Рассказываем о намазе. Кроме того, уже совсем скоро пост священного месяца Рамадан!",
         "titleEn": "Introduction",
-        "detailEn": "We discuss the prayer, how to use this app, and the basics of our belief as Muslims",
+        "detailEn": "We discuss the prayer. and ",
         "items": [
             {
                 "id": "namaz",
@@ -143,17 +143,17 @@
                 "showRu": 1,
                 "urlEn": "https://sites.google.com/view/tayammum-en/home",
                 "titleEn": "Tayammum - dry purification",
-                "detailEn": "Performed in the place of ghusl and wudu, when there is no water or using it will harm the person",
+                "detailEn": "м in the place of ghusl and wudu, when there is no water or using it will harm the person",
                 "showEn": 1,
             }
         ],
     },
     {
         "id": "beneficial",
-        "titleRu": "Укрепление веры",
-        "detailRu": "",
+        "titleRu": "Укрепление имана",
+        "detailRu": "Иман на арабском означает вера, и она является основой всей религии",
         "titleEn": "Strengthen your iman",
-        "detailEn": "",
+        "detailEn": "Some basics of our belief as Muslims",
         "items": [
             {
                 "id": "faith_faq",
