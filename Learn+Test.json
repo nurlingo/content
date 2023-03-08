@@ -1,10 +1,10 @@
 [
     {
         "id": "general",
-        "titleRu": "Введение",
-        "detailRu": "Рассказываем о намазе. Кроме того, уже совсем скоро пост священного месяца Рамадан!",
+        "titleRu": "Вступление",
+        "descriptionRu": "Вопросы и ответы о намазе, этом приложении, и о посте священного месяца Рамадан.",
         "titleEn": "Introduction",
-        "detailEn": "We discuss the prayer. Also, Ramadan is so soon alhamdulillah!",
+        "descriptionEn": "Questions and answers on prayer, this app, and the fast of Ramadan.",
         "items": [
             {
                 "id": "namaz",
