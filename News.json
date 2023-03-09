@@ -1,5 +1,19 @@
 [
     {
+        "id": "dark_mode",
+        "isShown": 1,
+        "type": "page",
+        "titleEn": "Do you like Dark Mode?",
+        "titleRu": "Темный режим - можно выбирать",
+        "descriptionEn": "Alhamdulillah, now you can disable or enable the Dark Mode.\n\nInshaAllah, this should satisfy the varying preferences of our users, as some prefer to have Dark Mode at night, while others like the clean black text on the white background at all times.\n\nYou can find the switch in the 'More' tab. Tap on this news to make sure to that you've got the latest version of the app on the AppStore.",
+        "descriptionRu": "Альхамдулиллях, теперь вы может включать и отключать переход на темный режим во время ночи.\n\nИншаАллах, это позволит нам учесть предпочтения всех наших пользователей: кому-то больше по душе темный режим, чтобы ночью не слепило глаза, в то время как другим нравится чистый белый фон вне зависимости от времени суток.\n\nНайти настройку можно во вкладке 'Разное'. Нажмите на эту новость, чтобы убедиться что у вас последняя версия нашего приложения в Аппстор.",
+        "dateEn": "Mar 09",
+        "dateRu": "09.03.23",
+        "urlEn": "https://apps.apple.com/app/namaz-learning-for-beginners/id1447056625",
+        "urlRu": "https://apps.apple.com/app/namaz-learning-for-beginners/id1447056625",
+        "image": "lightbulb.circle"
+    },
+    {
         "id": "ramadan_faq",
         "isShown": 1,
         "type": "article",
@@ -20,7 +34,7 @@
         "titleEn": "What's new",
         "titleRu": "Раздел \"Новости\"",
         "descriptionEn": "Alhamdulillah, we've added \"What's new\" section. Here, we'd like to publish news and some tips on how to use the app. In this update we've also added dark mode. Press on this item to celebrate with us!",
-        "descriptionRu": "Альхамдулиллях, мы добавили новый раздел с новостями и сообщениями. Очень рады новому каналу связи с вами, наши дорогие пользователи! ИншаАллах, будем тут публиковать что есть нового в аппе, предстоящими событиями, и делиться планами.",
+        "descriptionRu": "Альхамдулиллях, мы добавили новый раздел с новостями и сообщениями. Очень рады новому каналу связи с вами, наши дорогие пользователи! ИншаАллах, будем тут публиковать что есть нового в аппе и делиться планами. Нажмите на эту новость, чтобы порадоваться вместе с нами (будет звук).",
         "dateEn": "Mar 02",
         "dateRu": "02.03.23",
         "urlEn": "",
