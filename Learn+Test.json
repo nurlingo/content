@@ -40,7 +40,7 @@
                 "titleEn": "Fasting in Ramadan",
                 "detailEn": "The best of deeds in the best of months",
                 "showEn": 1,
-            },
+            }
         ]
     },
     {
@@ -146,7 +146,7 @@
                 "detailEn": "Performed in the place of ghusl and wudu, when there is no water or using it will harm the person",
                 "showEn": 1,
             }
-        ],
+        ]
     },
     {
         "id": "beneficial",
@@ -210,7 +210,7 @@
                 "urlEn": "https://sites.google.com/view/hadith-of-jibreel/home",
                 "titleEn": "Questions about the noble visitor",
                 "showEn": 1,
-            },
-        ],
-    },
+            }
+        ]
+    }
 ]
