@@ -18,9 +18,9 @@
         {
             "id": "general",
             "titleRu": "Вступление",
-            "descriptionRu": "Вопросы и ответы о намазе, этом приложении, и о посте священного месяца Рамадан.",
+            "descriptionRu": "Коротко о намазе и этом приложении.",
             "titleEn": "Introduction",
-            "descriptionEn": "Questions and answers on prayer, this app, and the fast of Ramadan.",
+            "descriptionEn": "A brief note on Muslim prayer and this app.",
             "lessons": [
                 {
                     "id": "namaz",
