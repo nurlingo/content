@@ -2,9 +2,9 @@
     {
         "id": "general",
         "titleRu": "Вступление",
-        "detailRu": "Вопросы и ответы о намазе, этом приложении, и о посте священного месяца Рамадан.",
+        "detailRu": "Коротко о намазе и этом приложении.",
         "titleEn": "Introduction",
-        "detailEn": "Questions and answers on prayer, this app, and the fast of Ramadan.",
+        "detailEn": "A brief note on this app and Muslim prayer.",
         "items": [
             {
                 "id": "namaz",
@@ -29,7 +29,16 @@
                 "titleEn": "What is Namaz?",
                 "detailEn": "Check your understanding",
                 "showEn": 1
-            },
+            }
+        ]
+    },
+    {
+        "id": "ramadan",
+        "titleRu": "Рамадан",
+        "detailRu": "Вопросы и ответы по священному месяцу и посту в нем.",
+        "titleEn": "Ramadan",
+        "detailEn": "Questions and answers on the blessed month and fasting.",
+        "items": [
             {
                 "id": "ramadan_faq",
                 "type": "article",
@@ -39,6 +48,18 @@
                 "urlEn": "https://sites.google.com/view/ramadan-fast/home",
                 "titleEn": "Fasting in Ramadan",
                 "detailEn": "The best of deeds in the best of months",
+                "showEn": 1
+            },
+            {
+                "id": "taraweeh",
+                "type": "article",
+                "urlRu": "",
+                "titleRu": "Тарауих намаз",
+                "detailRu": "https://sites.google.com/view/taraweeh-ru/home",
+                "showRu": 0,
+                "urlEn": "https://sites.google.com/view/taraweeh/home",
+                "titleEn": "Taraweeh prayer",
+                "detailEn": "",
                 "showEn": 1
             }
         ]
