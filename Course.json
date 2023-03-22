@@ -44,8 +44,17 @@
                     "urlEn": "",
                     "titleEn": "What is Namaz?",
                     "descriptionEn": "Check your understanding",
-                    "showEn": 1,
-                },
+                    "showEn": 1
+                }
+            ]
+        },
+        {
+            "id": "ramadan",
+            "titleRu": "Рамадан",
+            "descriptionRu": "Вопросы и ответы по священному месяцу и посту в нем.",
+            "titleEn": "Ramadan",
+            "descriptionEn": "Questions and answers on the blessed month and fasting.",
+            "lessons": [
                 {
                     "id": "ramadan_faq",
                     "type": "article",
@@ -54,9 +63,21 @@
                     "showRu": 1,
                     "urlEn": "https://sites.google.com/view/ramadan-fast/home",
                     "titleEn": "Fasting in Ramadan",
-                    "descriptionEn": "The best of deeds in the best of months",
-                    "showEn": 1,
+                    "detailEn": "The best of deeds in the best of months",
+                    "showEn": 1
                 },
+                {
+                    "id": "taraweeh",
+                    "type": "article",
+                    "urlRu": "",
+                    "titleRu": "Тарауих намаз",
+                    "detailRu": "https://sites.google.com/view/taraweeh-ru/home",
+                    "showRu": 0,
+                    "urlEn": "https://sites.google.com/view/taraweeh/home",
+                    "titleEn": "Taraweeh prayer",
+                    "detailEn": "",
+                    "showEn": 1
+                }
             ]
         },
         {
@@ -76,7 +97,7 @@
                     "urlEn": "https://sites.google.com/view/the-two-types-of-purity-en/home",
                     "titleEn": "The two types of purity",
                     "descriptionEn": "Islam highlights both physical & spiritual purity",
-                    "showEn": 1,
+                    "showEn": 1
                 },
                 {
                     "id": "physical_impurities",
@@ -88,7 +109,7 @@
                     "urlEn": "https://sites.google.com/view/physical-impurities-haqiqi/home",
                     "titleEn": "Physical Impurities",
                     "descriptionEn": "Learn about common impure substances",
-                    "showEn": 1,
+                    "showEn": 1
                 },
                 {
                     "id": "removing_impurities",
@@ -100,7 +121,7 @@
                     "urlEn": "https://sites.google.com/view/howtoremoveimpurities/home",
                     "titleEn": "How to remove physical impurities",
                     "descriptionEn": "Practical knowledge needed for prayer",
-                    "showEn": 1,
+                    "showEn": 1
                 },
                 {
                     "id": "istinja",
@@ -112,9 +133,9 @@
                     "urlEn": "https://sites.google.com/view/istinja-en/home",
                     "titleEn": "Istinja - cleaning after toilet",
                     "descriptionEn": "Water, paper, and other important aspects",
-                    "showEn": 1,
-                },
-            ],
+                    "showEn": 1
+                }
+            ]
         },
         {
             "id": "taharah-part2",
@@ -133,7 +154,7 @@
                     "urlEn": "https://sites.google.com/view/ghusl-en/home",
                     "titleEn": "Ghusl - full-body washing",
                     "descriptionEn": "Washing after sexual intercourse, orgasm, or end of menstruation period",
-                    "showEn": 1,
+                    "showEn": 1
                 },
                 {
                     "id": "wudu",
@@ -145,7 +166,7 @@
                     "urlEn": "https://sites.google.com/view/wudu-en/home",
                     "titleEn": "Wudu - ablution",
                     "descriptionEn": "Washing after releaving oneself, passing a wind, sleeping and a few other things",
-                    "showEn": 1,
+                    "showEn": 1
                 },
                 {
                     "id": "wudu_key",
@@ -157,7 +178,7 @@
                     "urlEn": "https://sites.google.com/view/wudu-en/home",
                     "titleEn": "The Two Keys",
                     "descriptionEn": "What do they unlock?",
-                    "showEn": 1,
+                    "showEn": 1
                 },
                 {
                     "id": "tayammum",
@@ -169,9 +190,9 @@
                     "urlEn": "https://sites.google.com/view/tayammum-en/home",
                     "titleEn": "Tayammum - dry purification",
                     "descriptionEn": "Performed in the place of ghusl and wudu, when there is no water or using it will harm the person",
-                    "showEn": 1,
+                    "showEn": 1
                 }
-            ],
+            ]
         },
         {
             "id": "beneficial",
@@ -190,7 +211,7 @@
                     "urlEn": "https://sites.google.com/view/shahadah-en/home",
                     "titleEn": "The Declaration of Faith",
                     "descriptionEn": "What makes one a Muslim",
-                    "showEn": 1,
+                    "showEn": 1
                 },
                 {
                     "id": "shahada",
@@ -202,7 +223,7 @@
                     "urlEn": "",
                     "titleEn": "Make a declaration",
                     "descriptionEn": "Can you reconstruct it?",
-                    "showEn": 1,
+                    "showEn": 1
                 },
                 {
                     "id": "hadith_on_niyyah",
@@ -213,7 +234,7 @@
                     "urlEn": "https://sites.google.com/view/niyyah-en",
                     "titleEn": "Intention and Sincerity",
                     "descriptionEn": "Something emphasized in our deen",
-                    "showEn": 1,
+                    "showEn": 1
                 },
                 {
                     "id": "islam_imaan_ihsan",
@@ -224,7 +245,7 @@
                     "urlEn": "https://sites.google.com/view/hadith-of-jibreel/home",
                     "titleEn": "Islam, Iman, and Ihsan",
                     "descriptionEn": "Jibreel (peace be upon him) visits Muslims",
-                    "showEn": 1,
+                    "showEn": 1
                 },
                 {
                     "id": "hadeeth_quiz",
@@ -234,10 +255,9 @@
                     "showRu": 0,
                     "urlEn": "https://sites.google.com/view/hadith-of-jibreel/home",
                     "titleEn": "What have they discussed?",
-                    "showEn": 1,
-                },
-            ],
-        },
+                    "showEn": 1
+                }
+            ]
+        }
     ]
 }
-
