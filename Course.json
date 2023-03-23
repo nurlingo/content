@@ -18,9 +18,9 @@
         {
             "id": "general",
             "titleRu": "Вступление",
-            "descriptionRu": "Коротко о намазе и этом приложении.",
+            "descriptionRu": "",
             "titleEn": "Introduction",
-            "descriptionEn": "A brief note on the Muslim prayer and this app.",
+            "descriptionEn": "",
             "lessons": [
                 {
                     "id": "namaz",
@@ -51,9 +51,9 @@
         {
             "id": "ramadan",
             "titleRu": "Рамадан",
-            "descriptionRu": "Вопросы и ответы по священному месяцу и посту в нем.",
+            "descriptionRu": "",
             "titleEn": "Ramadan",
-            "descriptionEn": "Questions and answers on the blessed month and fasting.",
+            "descriptionEn": "",
             "lessons": [
                 {
                     "id": "ramadan_faq",
@@ -85,7 +85,7 @@
             "titleRu": "Тахарат: очищение перед намазом",
             "descriptionRu": "Для того чтобы совершать Намаз, необходимо пребывать в состоянии физической и ритуальной чистоты.",
             "titleEn": "Taharah: physical purity",
-            "descriptionEn": "Taharah means purification. In this module, we'll look into cleaning one's body, cloth and place of prayer from the physical impurities.",
+            "descriptionEn": "Taharah means purification. Let's look into cleaning one's body, cloth and place of prayer.",
             "lessons": [
                 {
                     "id": "purity_types",
@@ -142,7 +142,7 @@
             "titleRu": "Тахарат: Омовение перед намазом",
             "descriptionRu": "Для того чтобы совершать Намаз, необходимо пребывать в состоянии ритуальной чистоты. Мы достигаем этого с помощью определенных действий.",
             "titleEn": "Taharah: ritual purity",
-            "descriptionEn": "Being in a state of ritual purity is a prerequisite of prayer. It is reached through particular actions, which we discuss in this module.",
+            "descriptionEn": "Being in a state of ritual purity is a prerequisite of prayer. Let's see how we can aqcuire it.",
             "lessons": [
                 {
                     "id": "ghusl",
@@ -199,7 +199,7 @@
             "titleRu": "Укрепление имана",
             "descriptionRu": "Основы веры в Исламе",
             "titleEn": "Strengthen your iman",
-            "descriptionEn": "Some basics of our beliefs as Muslims",
+            "descriptionEn": "",
             "lessons": [
                 {
                     "id": "faith_faq",
