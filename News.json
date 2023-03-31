@@ -1,5 +1,19 @@
 [
     {
+        "id": "short_surah",
+        "isShown": 1,
+        "type": "page",
+        "titleEn": "Choice between surahs and increased speed",
+        "titleRu": "Выбор между сурами и увеличение скорости",
+        "descriptionEn": "You can now choose between surahs al-Kauthar and al-Kafiroon in the first rak'ah of obligatory prayers. This should make memorizing easier for beginners inshAllah.\n\nMoreover, you can now put the audio speed up to 3x, which was also requested by some of our users. Alhamdulillah.",
+        "descriptionRu": "Теперь вы сможете выбирать между сурами аль-Кяусар и аль-Кафирун в первом ракате обязательных намазов. ИншаАллах, это облегчит запоминание для начинающих.\n\nКроме того, теперь можно увеличить скорость проигрывания до 3x, о чем уже давно просили некоторые из наших пользователей. Alhamdulillah.",
+        "dateEn": "Mar 31",
+        "dateRu": "31.03.23",
+        "urlEn": "https://onelink.to/namaz",
+        "urlRu": "https://onelink.to/namaz",
+        "image": "dots.and.line.vertical.and.cursorarrow.rectangle"
+    },
+    {
         "id": "ramadan",
         "isShown": 1,
         "type": "page",
