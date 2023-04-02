@@ -45,6 +45,18 @@
                     "titleEn": "What is Namaz?",
                     "descriptionEn": "Check your understanding",
                     "showEn": 1
+                },
+                {
+                    "id": "prayer_categories",
+                    "type": "article",
+                    "urlRu": "",
+                    "titleRu": "Категории намаза",
+                    "descriptionRu": "",
+                    "showRu": 0,
+                    "urlEn": "https://www.namaz.live/prayer-categories",
+                    "titleEn": "Prayer categories",
+                    "descriptionEn": "",
+                    "showEn": 1
                 }
             ]
         },
