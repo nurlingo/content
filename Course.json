@@ -54,7 +54,19 @@
                     "descriptionRu": "",
                     "showRu": 0,
                     "urlEn": "https://www.namaz.live/prayer-categories",
-                    "titleEn": "Prayer categories",
+                    "titleEn": "Categories of prayer",
+                    "descriptionEn": "",
+                    "showEn": 1
+                },
+                {
+                    "id": "prayer_times",
+                    "type": "article",
+                    "urlRu": "",
+                    "titleRu": "Время намаза",
+                    "descriptionRu": "",
+                    "showRu": 0,
+                    "urlEn": "https://www.namaz.live/prayer-times",
+                    "titleEn": "Prayer times",
                     "descriptionEn": "",
                     "showEn": 1
                 }
