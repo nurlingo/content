@@ -45,9 +45,9 @@
             {
                 "id": "prayer_times",
                 "type": "article",
-                "urlRu": "",
+                "urlRu": "https://www.namaz.live/prayer-times-ru",
                 "titleRu": "О времени намаза",
-                "detailRu": "https://www.namaz.live/prayer-times-ru",
+                "detailRu": "",
                 "showRu": 1,
                 "urlEn": "https://www.namaz.live/prayer-times",
                 "titleEn": "Prayer times",
