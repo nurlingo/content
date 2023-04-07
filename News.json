@@ -1,5 +1,19 @@
 [
     {
+        "id": "prayer_times",
+        "isShown": 1,
+        "type": "celebrate",
+        "titleEn": "Prayer times",
+        "titleRu": "Время намаза",
+        "descriptionEn": "Enable prayer times in the 'More' tab, and they will appear on the main page next to each prayer. You can then add widgets to your iPhone's lock screen and menu.\n\nWe've also have an article about prayer times in the 'Learn' section. Definitely give it a read!",
+        "descriptionRu": "Время намаза можно включить во вкладке «Разное», и оно появится на главной странице. После включения можно добавлять виджеты на экран блокировки и меню вашего iPhone.\n\nА в разделе «Обучение» у нас новая статья о том, как мы определяем время каждого намаза. Обязательно посмотрите!",
+        "dateEn": "Apr 6",
+        "dateRu": "06.04.23",
+        "urlEn": "",
+        "urlRu": "",
+        "image": "clock.badge"
+    },
+    {
         "id": "short_surah",
         "isShown": 1,
         "type": "page",
