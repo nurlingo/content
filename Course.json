@@ -49,7 +49,7 @@
                 {
                     "id": "prayer_categories",
                     "type": "article",
-                    "urlRu": "",
+                    "urlRu": "https://www.namaz.live/prayer-categories-ru",
                     "titleRu": "Категории намаза",
                     "descriptionRu": "",
                     "showRu": 0,
@@ -61,7 +61,7 @@
                 {
                     "id": "prayer_times",
                     "type": "article",
-                    "urlRu": "",
+                    "urlRu": "https://www.namaz.live/prayer-times-ru",
                     "titleRu": "Время намаза",
                     "descriptionRu": "",
                     "showRu": 0,
@@ -93,9 +93,9 @@
                 {
                     "id": "taraweeh",
                     "type": "article",
-                    "urlRu": "",
+                    "urlRu": "https://sites.google.com/view/taraweeh-ru/home",
                     "titleRu": "Тарауих намаз",
-                    "detailRu": "https://sites.google.com/view/taraweeh-ru/home",
+                    "detailRu": "",
                     "showRu": 1,
                     "urlEn": "https://sites.google.com/view/taraweeh/home",
                     "titleEn": "Taraweeh prayer",
@@ -105,9 +105,9 @@
                 {
                     "id": "laylatul_qadr",
                     "type": "article",
-                    "urlRu": "",
+                    "urlRu": "https://sites.google.com/view/laylatul-qadr-ru/home",
                     "titleRu": "Ночь Предопределения",
-                    "detailRu": "https://sites.google.com/view/laylatul-qadr-ru/home",
+                    "detailRu": "",
                     "showRu": 0,
                     "urlEn": "https://www.namaz.live/laylatul-qadr",
                     "titleEn": "Laylatul Qadr: the Night of Divine Decree",
