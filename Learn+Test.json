@@ -85,6 +85,18 @@
                 "titleEn": "Taraweeh prayer",
                 "detailEn": "",
                 "showEn": 1
+            },
+            {
+                "id": "laylatul_qadr",
+                "type": "article",
+                "urlRu": "https://sites.google.com/view/night-of-power/home",
+                "titleRu": "Ночь Предопределения",
+                "detailRu": "",
+                "showRu": 1,
+                "urlEn": "https://www.namaz.live/laylatul-qadr",
+                "titleEn": "Laylatul Qadr: the Night of Divine Decree",
+                "detailEn": "",
+                "showEn": 1
             }
         ]
     },
