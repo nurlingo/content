@@ -1,5 +1,19 @@
 [
     {
+        "id": "laylatul-qadr",
+        "isShown": 1,
+        "type": "celebrate",
+        "titleEn": "Laylatul Qadr",
+        "titleRu": "Ляйлятуль-Кадр",
+        "descriptionEn": "The last 10 days of Radaman have arrived. Among them is the Night of Decree that is worth more than 1000 months! Read about in our new article in the Learn section.",
+        "descriptionRu": "Наступили последние 10 дней Рамадана. Среди них есть особенная ночь, которая лучше чем 1000 месяцев! Почитайте нашу новую статью в разделе Обучение.",
+        "dateEn": "Apr 11",
+        "dateRu": "11.04.23",
+        "urlEn": "",
+        "urlRu": "",
+        "image": "moon.stars"
+    },
+    {
         "id": "prayer_times",
         "isShown": 1,
         "type": "celebrate",
@@ -16,7 +30,7 @@
     {
         "id": "short_surah",
         "isShown": 1,
-        "type": "page",
+        "type": "celebrate",
         "titleEn": "Choice between surahs",
         "titleRu": "Выбор между сурами",
         "descriptionEn": "You can now choose between surahs al-Kauthar and al-Kafiroon in the first rak'ah of obligatory prayers. InshaAllah, this should make memorizing easier for beginners.",
