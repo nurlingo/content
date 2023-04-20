@@ -57,50 +57,6 @@
         ]
     },
     {
-        "id": "ramadan",
-        "titleRu": "Рамадан",
-        "detailRu": "Вопросы и ответы по священному месяцу и посту в нем.",
-        "titleEn": "Ramadan",
-        "detailEn": "Questions and answers on the blessed month and fasting.",
-        "items": [
-            {
-                "id": "ramadan_faq",
-                "type": "article",
-                "urlRu": "https://sites.google.com/view/ramadan-faq",
-                "titleRu": "Пост в Рамадан",
-                "showRu": 1,
-                "urlEn": "https://sites.google.com/view/ramadan-fast/home",
-                "titleEn": "Fasting in Ramadan",
-                "detailEn": "The best of deeds in the best of months",
-                "showEn": 1
-            },
-            {
-                "id": "taraweeh",
-                "type": "article",
-                "urlRu": "https://sites.google.com/view/taraweeh-ru/home",
-                "titleRu": "Таравих намаз",
-                "detailRu": "",
-                "showRu": 1,
-                "urlEn": "https://sites.google.com/view/taraweeh/home",
-                "titleEn": "Taraweeh prayer",
-                "detailEn": "",
-                "showEn": 1
-            },
-            {
-                "id": "laylatul_qadr",
-                "type": "article",
-                "urlRu": "https://sites.google.com/view/night-of-power/home",
-                "titleRu": "Ляйлятуль-Кадр: Ночь Предопределения",
-                "detailRu": "",
-                "showRu": 1,
-                "urlEn": "https://www.namaz.live/laylatul-qadr",
-                "titleEn": "Laylatul Qadr: the Night of Divine Decree",
-                "detailEn": "",
-                "showEn": 1
-            }
-        ]
-    },
-    {
         "id": "taharah",
         "titleRu": "Тахарат: омовение перед намазом",
         "detailRu": "Для того чтобы совершать Намаз, необходимо пребывать в состоянии физической и ритуальной чистоты.",
@@ -266,6 +222,50 @@
                 "showRu": 0,
                 "urlEn": "https://sites.google.com/view/hadith-of-jibreel/home",
                 "titleEn": "Questions about the noble visitor",
+                "showEn": 1
+            }
+        ]
+    },
+    {
+        "id": "ramadan",
+        "titleRu": "Рамадан",
+        "detailRu": "Вопросы и ответы по священному месяцу и посту в нем.",
+        "titleEn": "Ramadan",
+        "detailEn": "Questions and answers on the blessed month and fasting.",
+        "items": [
+            {
+                "id": "ramadan_faq",
+                "type": "article",
+                "urlRu": "https://sites.google.com/view/ramadan-faq",
+                "titleRu": "Пост в Рамадан",
+                "showRu": 1,
+                "urlEn": "https://sites.google.com/view/ramadan-fast/home",
+                "titleEn": "Fasting in Ramadan",
+                "detailEn": "The best of deeds in the best of months",
+                "showEn": 1
+            },
+            {
+                "id": "taraweeh",
+                "type": "article",
+                "urlRu": "https://sites.google.com/view/taraweeh-ru/home",
+                "titleRu": "Таравих намаз",
+                "detailRu": "",
+                "showRu": 1,
+                "urlEn": "https://sites.google.com/view/taraweeh/home",
+                "titleEn": "Taraweeh prayer",
+                "detailEn": "",
+                "showEn": 1
+            },
+            {
+                "id": "laylatul_qadr",
+                "type": "article",
+                "urlRu": "https://sites.google.com/view/night-of-power/home",
+                "titleRu": "Ляйлятуль-Кадр: Ночь Предопределения",
+                "detailRu": "",
+                "showRu": 1,
+                "urlEn": "https://www.namaz.live/laylatul-qadr",
+                "titleEn": "Laylatul Qadr: the Night of Divine Decree",
+                "detailEn": "",
                 "showEn": 1
             }
         ]
