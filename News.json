@@ -1,5 +1,33 @@
 [
     {
+        "id": "3idul-fitr-23",
+        "isShown": 1,
+        "type": "celebrate",
+        "titleEn": "Eid Mubarak!",
+        "titleRu": "'Ид Мубарак!",
+        "descriptionEn": "Dear brothers and sisters, we congratulate you with Eid al-Fitr! May Allah Almighty accept from us and from you, and bring all of us to the next Ramadan in a good state pleasing to Him!",
+        "descriptionRu": "Дорогие братья и сестры, поздравляем вас с праздником Ураза-Байрам!  Да примет Аллах от нас и от вас, и доведет нас всех до следующего Рамадана! Амин!",
+        "dateEn": "Apr 21",
+        "dateRu": "21.04.23",
+        "urlEn": "",
+        "urlRu": "",
+        "image": "party.popper"
+    },
+    {
+        "id": "barakah-ramadan",
+        "isShown": 1,
+        "type": "celebrate",
+        "titleEn": "Barakah of Ramadan",
+        "titleRu": "'Баракят Рамадана",
+        "descriptionEn": "Alhamdulillah, during this amazing month, we've had half a million active users from over 150 countries. This is an incredible result for us, and we praise Allah Almighty for giving us such a blessing. We would also like to thank you for using the app, supporting us, and giving suggestion on how to improve it. May Almighty Allah grant all of us beneficial knowledge and good deeds, and make us sincere thankful slaves of His! Ameen!",
+        "descriptionRu": "Радостная новость: за этот Рамадан нашим аппом воспользовалось полмиллиона людей из более чем 150 стран, альхамдулиллях. Для нас это просто невероятный результат, и мы благодарим Всевышнего Аллаха за такое благословение в нашем деле. Мы также хотим сказать сердечное спасибо вам, что пользуетесь нашим аппом, поддерживаете нас, и даете ценные советы по улучшению. Пусть Всевышний Аллах дарует нам всем полезных знаний, искренности, и хороших дел!",
+        "dateEn": "Apr 21",
+        "dateRu": "21.04.23",
+        "urlEn": "",
+        "urlRu": "",
+        "image": "heart"
+    },
+    {
         "id": "laylatul-qadr",
         "isShown": 1,
         "type": "celebrate",
