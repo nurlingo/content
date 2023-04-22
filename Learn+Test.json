@@ -13,7 +13,7 @@
                 "titleRu": "НамазАпп",
                 "detailRu": "Молитва в Исламе и это приложение",
                 "showRu": 1,
-                "urlEn": "https://sites.google.com/view/namaz-intro-en",
+                "urlEn": "https://www.namaz.live/what-is-namaz",
                 "titleEn": "About Namaz & NamazApp",
                 "detailEn": "FAQ from the developer",
                 "showEn": 1
@@ -70,7 +70,7 @@
                 "titleRu": "Чистота в Исламе",
                 "detailRu": "Два вида чистоты: физическая и ритуальная",
                 "showRu": 0,
-                "urlEn": "https://sites.google.com/view/the-two-types-of-purity-en/home",
+                "urlEn": "https://www.namaz.live/purity-types",
                 "titleEn": "The two types of purity",
                 "detailEn": "Islam highlights both physical & spiritual purity",
                 "showEn": 1
@@ -82,7 +82,7 @@
                 "titleRu": "Физические нечистоты",
                 "detailRu": "Знать, чтобы избегать",
                 "showRu": 0,
-                "urlEn": "https://sites.google.com/view/physical-impurities-haqiqi/home",
+                "urlEn": "https://www.namaz.live/physical-impurities",
                 "titleEn": "Physical Impurities",
                 "detailEn": "Learn about common impure substances",
                 "showEn": 1
@@ -94,7 +94,7 @@
                 "titleRu": "Очищение тела, одежды и места",
                 "detailRu": "Как подготовить их к намазу",
                 "showRu": 0,
-                "urlEn": "https://sites.google.com/view/howtoremoveimpurities/home",
+                "urlEn": "https://www.namaz.live/removing-physical-impurities",
                 "titleEn": "How to remove physical impurities",
                 "detailEn": "Practical knowledge needed for prayer",
                 "showEn": 1
@@ -106,7 +106,7 @@
                 "titleRu": "Истинжда - очищение после туалета",
                 "detailRu": "Вода, бумага и другие аспекты",
                 "showRu": 1,
-                "urlEn": "https://sites.google.com/view/istinja-en/home",
+                "urlEn": "https://www.namaz.live/istinja",
                 "titleEn": "Istinja - cleaning after toilet",
                 "detailEn": "Water, paper, and other important aspects",
                 "showEn": 1
@@ -118,7 +118,7 @@
                 "titleRu": "Гусль - полное омовение",
                 "detailRu": "Совершается впоследствии оргазма, секса или завершения менструации.",
                 "showRu": 1,
-                "urlEn": "https://sites.google.com/view/ghusl-en/home",
+                "urlEn": "https://www.namaz.live/ghusl",
                 "titleEn": "Ghusl - full-body washing",
                 "detailEn": "Washing after sexual intercourse, orgasm, or end of menstruation period",
                 "showEn": 1
@@ -130,7 +130,7 @@
                 "titleRu": "Вуду - малое омовение",
                 "detailRu": "Совершается после справления нужды, пускания газов, сна, и нескольких других действий.",
                 "showRu": 1,
-                "urlEn": "https://sites.google.com/view/wudu-en/home",
+                "urlEn": "https://www.namaz.live/wudu",
                 "titleEn": "Wudu - ablution",
                 "detailEn": "Washing after releaving oneself, passing a wind, sleeping and a few other things",
                 "showEn": 1
@@ -138,11 +138,11 @@
             {
                 "id": "wudu_key",
                 "type": "test",
-                "urlRu": "https://sites.google.com/view/wudu-ru/home",
+                "urlRu": "",
                 "titleRu": "Два ключа",
                 "detailRu": "",
                 "showRu": 0,
-                "urlEn": "https://sites.google.com/view/wudu-en/home",
+                "urlEn": "",
                 "titleEn": "The Two Keys",
                 "detailEn": "What do they unlock?",
                 "showEn": 1
@@ -154,7 +154,7 @@
                 "titleRu": "Таяммум - сухое очищение",
                 "detailRu": "Совершается когда необходимо сделать гусль или вуду, но нет воды, либо ее применение опасно для здоровья",
                 "showRu": 1,
-                "urlEn": "https://sites.google.com/view/tayammum-en/home",
+                "urlEn": "https://www.namaz.live/tayammum",
                 "titleEn": "Tayammum - dry purification",
                 "detailEn": "Performed in the place of ghusl and wudu, when there is no water or using it will harm the person",
                 "showEn": 1
@@ -175,7 +175,7 @@
                 "titleRu": "Вопросы и ответы о вере",
                 "detailRu": "Просто о важном",
                 "showRu": 1,
-                "urlEn": "https://sites.google.com/view/shahadah-en/home",
+                "urlEn": "https://www.namaz.live/shahadah",
                 "titleEn": "The Declaration of Faith",
                 "detailEn": "What makes one a Muslim",
                 "showEn": 1
@@ -198,7 +198,7 @@
                 "urlRu": "https://sites.google.com/view/niyyah-ru",
                 "titleRu": "Намерение и искренность",
                 "showRu": 1,
-                "urlEn": "https://sites.google.com/view/niyyah-en",
+                "urlEn": "https://www.namaz.live/intention",
                 "titleEn": "Intention and Sincerity",
                 "detailEn": "Something emphasized in our deen",
                 "showEn": 1
@@ -209,7 +209,7 @@
                 "urlRu": "https://sites.google.com/view/islam-and-iman",
                 "titleRu": "Врата, ведущие в Ислам",
                 "showRu": 1,
-                "urlEn": "https://sites.google.com/view/hadith-of-jibreel/home",
+                "urlEn": "https://www.namaz.live/islam-iman-ihsan",
                 "titleEn": "Islam, Iman, and Ihsan",
                 "detailEn": "Jibreel (peace be upon him) visits Muslims",
                 "showEn": 1
@@ -217,10 +217,10 @@
             {
                 "id": "hadeeth_quiz",
                 "type": "test",
-                "urlRu": "https://sites.google.com/view/islam-and-iman",
+                "urlRu": "",
                 "titleRu": "О чем был разговор?",
                 "showRu": 0,
-                "urlEn": "https://sites.google.com/view/hadith-of-jibreel/home",
+                "urlEn": "",
                 "titleEn": "Questions about the noble visitor",
                 "showEn": 1
             }
@@ -239,7 +239,7 @@
                 "urlRu": "https://sites.google.com/view/ramadan-faq",
                 "titleRu": "Пост в Рамадан",
                 "showRu": 1,
-                "urlEn": "https://sites.google.com/view/ramadan-fast/home",
+                "urlEn": "https://www.namaz.live/ramadan",
                 "titleEn": "Fasting in Ramadan",
                 "detailEn": "The best of deeds in the best of months",
                 "showEn": 1
@@ -251,7 +251,7 @@
                 "titleRu": "Таравих намаз",
                 "detailRu": "",
                 "showRu": 1,
-                "urlEn": "https://sites.google.com/view/taraweeh/home",
+                "urlEn": "https://www.namaz.live/taraweeh",
                 "titleEn": "Taraweeh prayer",
                 "detailEn": "",
                 "showEn": 1
