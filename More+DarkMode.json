@@ -270,7 +270,7 @@
                 "showRu": 0,
                 "urlEn": "https://www.isyllabus.org/product/ramadan2023/",
                 "titleEn": "Free course: The Fast of Ramadan",
-                "showEn": 1,
+                "showEn": 0,
                 "hasQuizRu": 0,
                 "hasQuizEn": 0,
             },
@@ -325,36 +325,12 @@
                 "urlRu": "https://bit.ly/3xeBVJn",
                 "titleRu": "Намаз-набор для начинающих",
                 "showRu": 0,
-                "urlEn": "no data",
-                "titleEn": "no data",
-                "showEn": 0,
-                "hasQuizRu": 0,
-                "hasQuizEn": 0,
-            },
-            {
-                "id": "turkey_earthquake",
-                "type": "page",
-                "urlRu": "https://m.tooba.com/7xhu",
-                "titleRu": "Помощь пострадавшим от землятрясения в Турции и Сирии",
-                "showRu": 0,
-                "urlEn": "https://campaigns.givebrite.com/fundraiser?fundraiser=emergency-appeal-smiletojannah",
-                "titleEn": "Emergency appeal: Earthquake in Turkey & Syria",
+                "urlEn": "https://www.justgiving.com/page/quranacademy",
+                "titleEn": "Quran Memorisation Academy",
                 "showEn": 1,
                 "hasQuizRu": 0,
                 "hasQuizEn": 0,
-            },
-            {
-                "id": "make_winter_ward",
-                "type": "page",
-                "urlRu": "",
-                "titleRu": "",
-                "showRu": 0,
-                "urlEn": "https://www.justgiving.com/page/alidawah-winter2022",
-                "titleEn": "Make Winter Warm",
-                "showEn": 1,
-                "hasQuizRu": 0,
-                "hasQuizEn": 0,
-            },
+            }
         ]
     },
     {
@@ -387,7 +363,7 @@
                 "showEn": 1,
                 "hasQuizRu": 0,
                 "hasQuizEn": 0,
-            },
+            }
         ]
     }
 ]
