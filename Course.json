@@ -73,50 +73,6 @@
             ]
         },
         {
-            "id": "ramadan",
-            "titleRu": "Рамадан",
-            "descriptionRu": "",
-            "titleEn": "Ramadan",
-            "descriptionEn": "",
-            "lessons": [
-                {
-                    "id": "ramadan_faq",
-                    "type": "article",
-                    "urlRu": "https://sites.google.com/view/ramadan-faq",
-                    "titleRu": "Пост в Рамадан",
-                    "showRu": 1,
-                    "urlEn": "https://www.namaz.live/ramadan",
-                    "titleEn": "Fasting in Ramadan",
-                    "detailEn": "The best of deeds in the best of months",
-                    "showEn": 1
-                },
-                {
-                    "id": "taraweeh",
-                    "type": "article",
-                    "urlRu": "https://sites.google.com/view/taraweeh-ru/home",
-                    "titleRu": "Тарауих намаз",
-                    "detailRu": "",
-                    "showRu": 1,
-                    "urlEn": "https://www.namaz.live/taraweeh",
-                    "titleEn": "Taraweeh prayer",
-                    "detailEn": "",
-                    "showEn": 1
-                },
-                {
-                    "id": "laylatul_qadr",
-                    "type": "article",
-                    "urlRu": "https://sites.google.com/view/night-of-power/home",
-                    "titleRu": "Ночь Предопределения",
-                    "detailRu": "",
-                    "showRu": 1,
-                    "urlEn": "https://www.namaz.live/laylatul-qadr",
-                    "titleEn": "Laylatul Qadr: the Night of Divine Decree",
-                    "detailEn": "",
-                    "showEn": 1
-                }
-            ]
-        },
-        {
             "id": "taharah-part1",
             "titleRu": "Тахарат: очищение перед намазом",
             "descriptionRu": "Для того чтобы совершать Намаз, необходимо пребывать в состоянии физической и ритуальной чистоты.",
@@ -291,6 +247,50 @@
                     "showRu": 0,
                     "urlEn": "https://sites.google.com/view/hadith-of-jibreel/home",
                     "titleEn": "What have they discussed?",
+                    "showEn": 1
+                }
+            ]
+        },
+        {
+            "id": "ramadan",
+            "titleRu": "Рамадан",
+            "descriptionRu": "",
+            "titleEn": "Ramadan",
+            "descriptionEn": "",
+            "lessons": [
+                {
+                    "id": "ramadan_faq",
+                    "type": "article",
+                    "urlRu": "https://sites.google.com/view/ramadan-faq",
+                    "titleRu": "Пост в Рамадан",
+                    "showRu": 1,
+                    "urlEn": "https://www.namaz.live/ramadan",
+                    "titleEn": "Fasting in Ramadan",
+                    "detailEn": "The best of deeds in the best of months",
+                    "showEn": 1
+                },
+                {
+                    "id": "taraweeh",
+                    "type": "article",
+                    "urlRu": "https://sites.google.com/view/taraweeh-ru/home",
+                    "titleRu": "Тарауих намаз",
+                    "detailRu": "",
+                    "showRu": 1,
+                    "urlEn": "https://www.namaz.live/taraweeh",
+                    "titleEn": "Taraweeh prayer",
+                    "detailEn": "",
+                    "showEn": 1
+                },
+                {
+                    "id": "laylatul_qadr",
+                    "type": "article",
+                    "urlRu": "https://sites.google.com/view/night-of-power/home",
+                    "titleRu": "Ночь Предопределения",
+                    "detailRu": "",
+                    "showRu": 1,
+                    "urlEn": "https://www.namaz.live/laylatul-qadr",
+                    "titleEn": "Laylatul Qadr: the Night of Divine Decree",
+                    "detailEn": "",
                     "showEn": 1
                 }
             ]
