@@ -48,18 +48,6 @@
                 ],
                 "showEn": 1,
                 "restriction": "iOS 13"
-            },
-            {
-                "id": "information_center",
-                "type": "action",
-                "urlRu": "",
-                "titleRu": "Новости и связь с нами",
-                "detailRu": "",
-                "showRu": 1,
-                "urlEn": "",
-                "titleEn": "Information Center",
-                "detailEn": "",
-                "showEn": 1
             }
         ]
     },
@@ -98,42 +86,34 @@
         ]
     },
     {
-        "id": "recommended_apps",
-        "titleRu": "Рекомендуем приложения",
+        "id": "miscellaneous",
+        "titleRu": "Дополнительно",
         "commentRu": "",
-        "titleEn": "Recommended Apps",
+        "titleEn": "Miscellaneous",
         "commentEn": "",
         "items": [
             {
-                "id": "quranapp",
-                "type": "link",
-                "urlRu": "https://apps.apple.com/app/id1498169172",
-                "titleRu": "Коран Апп: читаем учим наизусть",
+                "id": "information_center",
+                "type": "action",
+                "urlRu": "",
+                "titleRu": "Новости и связь с нами",
+                "detailRu": "",
                 "showRu": 1,
-                "urlEn": "https://apps.apple.com/app/id1498169172",
-                "titleEn": "Quran App: Listen Read Memorize",
+                "urlEn": "",
+                "titleEn": "Information Center",
+                "detailEn": "",
                 "showEn": 1
             },
             {
-                "id": "joode",
-                "type": "link",
-                "urlRu": "https://apps.apple.com/us/app/id1138728895",
-                "titleRu": "Joode: Арабский алфавит за два часа",
+                "id": "recommended",
+                "type": "action",
+                "urlRu": "",
+                "titleRu": "Рекоммендуем",
+                "detailRu": "",
                 "showRu": 1,
-                "urlEn": "https://apps.apple.com/us/app/id1138728895",
-                "titleEn": "Joode: Arabic Alphabet in two hours",
-                "showEn": 1
-            },
-            {
-                "id": "readar",
-                "type": "link",
-                "urlRu": "https://apps.apple.com/app/id1364988718",
-                "titleRu": "Read Arabic App",
-                "detailRu": "Второй шаг после Joode",
-                "showRu": 1,
-                "urlEn": "https://apps.apple.com/app/id1364988718",
-                "titleEn": "Read Arabic App",
-                "detailEn": "Next step after Joode",
+                "urlEn": "",
+                "titleEn": "Recommended",
+                "detailEn": "",
                 "showEn": 1
             }
         ]
