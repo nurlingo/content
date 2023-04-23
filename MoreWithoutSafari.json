@@ -1,1 +1,171 @@
-
+[
+    {
+        "id": "settings",
+        "titleRu": "Настройки",
+        "commentRu": "",
+        "titleEn": "Settings",
+        "commentEn": "",
+        "items": [
+            {
+                "id": "language",
+                "type": "segmented",
+                "titleRu": "Язык приложения",
+                "detailRu": "",
+                "showRu": 1,
+                "titleEn": "App Language",
+                "detailEn": "",
+                "segments": [
+                    "english",
+                    "russian"
+                ],
+                "showEn": 1
+            },
+            {
+                "id": "gender",
+                "type": "segmented",
+                "titleRu": "Намаз для",
+                "detailRu": "",
+                "showRu": 1,
+                "titleEn": "Prayer for",
+                "detailEn": "",
+                "segments": [
+                    "male",
+                    "female"
+                ],
+                "showEn": 1
+            },
+            {
+                "id": "dark_mode",
+                "type": "switch",
+                "titleRu": "Разрешить темный режим",
+                "detailRu": "Включается ночью",
+                "showRu": 1,
+                "titleEn": "Allow dark mode",
+                "detailEn": "Gets enabled at night",
+                "segments": [
+                    "male",
+                    "female"
+                ],
+                "showEn": 1,
+                "restriction": "iOS 13"
+            },
+            {
+                "id": "information_center",
+                "type": "action",
+                "urlRu": "",
+                "titleRu": "Новости и связь с нами",
+                "detailRu": "",
+                "showRu": 1,
+                "urlEn": "",
+                "titleEn": "Information Center",
+                "detailEn": "",
+                "showEn": 1,
+                "restriction": "iOS 15"
+            }
+        ]
+    },
+    {
+        "id": "prayer_time",
+        "titleRu": "Время намаза",
+        "commentRu": "",
+        "titleEn": "Prayer times",
+        "commentEn": "",
+        "items": [
+            {
+                "id": "location",
+                "type": "switch",
+                "titleRu": "Показывать время намаза (beta)",
+                "detailRu": "Использует ваше местоположение",
+                "showRu": 1,
+                "titleEn": "Show prayer times (beta)",
+                "detailEn": "Uses your geolocation",
+                "showEn": 1
+            },
+            {
+                "id": "prayer_time_settings",
+                "type": "action",
+                "titleRu": "Настройки времени намаза",
+                "detailRu": "",
+                "showRu": 1,
+                "titleEn": "Prayer time settings",
+                "detailEn": "",
+                "segments": [
+                    "english",
+                    "russian"
+                ],
+                "showEn": 1,
+                "restriction": "iOS 15"
+            }
+        ]
+    },
+    {
+        "id": "recommended_apps",
+        "titleRu": "Рекомендуем приложения",
+        "commentRu": "",
+        "titleEn": "Recommended Apps",
+        "commentEn": "",
+        "items": [
+            {
+                "id": "quranapp",
+                "type": "link",
+                "urlRu": "https://apps.apple.com/app/id1498169172",
+                "titleRu": "Коран Апп: читаем учим наизусть",
+                "showRu": 1,
+                "urlEn": "https://apps.apple.com/app/id1498169172",
+                "titleEn": "Quran App: Listen Read Memorize",
+                "showEn": 1
+            },
+            {
+                "id": "joode",
+                "type": "link",
+                "urlRu": "https://apps.apple.com/us/app/id1138728895",
+                "titleRu": "Joode: Арабский алфавит за два часа",
+                "showRu": 1,
+                "urlEn": "https://apps.apple.com/us/app/id1138728895",
+                "titleEn": "Joode: Arabic Alphabet in two hours",
+                "showEn": 1
+            },
+            {
+                "id": "readar",
+                "type": "link",
+                "urlRu": "https://apps.apple.com/app/id1364988718",
+                "titleRu": "Read Arabic App",
+                "detailRu": "Второй шаг после Joode",
+                "showRu": 1,
+                "urlEn": "https://apps.apple.com/app/id1364988718",
+                "titleEn": "Read Arabic App",
+                "detailEn": "Next step after Joode",
+                "showEn": 1
+            }
+        ]
+    },
+    {
+        "id": "legal",
+        "titleRu": "Соглашения",
+        "commentRu": "",
+        "titleEn": "Legal Agreements",
+        "commentEn": "",
+        "items": [
+            {
+                "id": "privacy",
+                "type": "article",
+                "urlRu": "https://sites.google.com/view/namaz-privacy-ru",
+                "titleRu": "Политика конфиденциальности",
+                "showRu": 1,
+                "urlEn": "https://sites.google.com/view/namaz-privacy",
+                "titleEn": "Privacy Policy",
+                "showEn": 1
+            },
+            {
+                "id": "terms",
+                "type": "article",
+                "urlRu": "https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+                "titleRu": "Пользовательское соглашение",
+                "showRu": 1,
+                "urlEn": "https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+                "titleEn": "The Terms of Use",
+                "showEn": 1
+            }
+        ]
+    }
+]
