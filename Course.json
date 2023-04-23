@@ -64,7 +64,7 @@
                     "urlRu": "https://www.namaz.live/prayer-times-ru",
                     "titleRu": "Время намаза",
                     "descriptionRu": "",
-                    "showRu": 0,
+                    "showRu": 1,
                     "urlEn": "https://www.namaz.live/prayer-times",
                     "titleEn": "Prayer times",
                     "descriptionEn": "",
@@ -74,8 +74,8 @@
         },
         {
             "id": "taharah-part1",
-            "titleRu": "Тахарат: очищение перед намазом",
-            "descriptionRu": "Для того чтобы совершать Намаз, необходимо пребывать в состоянии физической и ритуальной чистоты.",
+            "titleRu": "Тахарат: физическая чистота",
+            "descriptionRu": "Для того чтобы совершать Намаз, необходимо пребывать в состоянии физической чистоты.",
             "titleEn": "Taharah: physical purity",
             "descriptionEn": "Taharah means purification. Let's look into cleaning one's body, cloth and place of prayer.",
             "lessons": [
@@ -131,8 +131,8 @@
         },
         {
             "id": "taharah-part2",
-            "titleRu": "Тахарат: Омовение перед намазом",
-            "descriptionRu": "Для того чтобы совершать Намаз, необходимо пребывать в состоянии ритуальной чистоты. Мы достигаем этого с помощью определенных действий.",
+            "titleRu": "Тахарат: ритуальное очищение",
+            "descriptionRu": "Состояние ритуальной чистоты мы достигаем с помощью определенных действий.",
             "titleEn": "Taharah: ritual purity",
             "descriptionEn": "Being in a state of ritual purity is a prerequisite of prayer. Let's see how we can aqcuire it.",
             "lessons": [
@@ -189,7 +189,7 @@
         {
             "id": "beneficial",
             "titleRu": "Укрепление имана",
-            "descriptionRu": "Основы веры в Исламе",
+            "descriptionRu": "",
             "titleEn": "Strengthen your iman",
             "descriptionEn": "",
             "lessons": [
