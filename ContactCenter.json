@@ -16,7 +16,7 @@
                 "urlEn": "https://www.namaz.live/about-us/",
                 "titleEn": "About us",
                 "detailEn": "",
-                "showEn": 1,
+                "showEn": 1
             },
             {
                 "id": "support_app",
@@ -28,7 +28,7 @@
                 "urlEn": "",
                 "titleEn": "Donate to NamazApp",
                 "detailEn": "",
-                "showEn": 1,
+                "showEn": 1
             },
             {
                 "id": "personalization",
@@ -38,7 +38,7 @@
                 "showRu": 1,
                 "titleEn": "Tell us about yourself",
                 "detailEn": "",
-                "showEn": 1,
+                "showEn": 1
             },
             {
                 "id": "contact_developer",
@@ -50,7 +50,7 @@
                 "urlEn": "https://api.whatsapp.com/send?phone=+77765206766&text=As-salaamu%20%27alaikum!%20I%27m%20using%20NamazApp.%20I%20have%20the%20following%20question%20or%20suggestion:",
                 "titleEn": "Contact the developer",
                 "detailEn": "",
-                "showEn": 1,
+                "showEn": 1
             },
             {
                 "id": "share_app",
@@ -70,7 +70,7 @@
                 "showRu": 1,
                 "titleEn": "Rate us",
                 "detailEn": "Your ratings and reviews will help us reach more people",
-                "showEn": 1,
+                "showEn": 1
             }
         ]
     }
