@@ -1,0 +1,16 @@
+[
+    {
+        "id": "namaz",
+        "isShown": 1,
+        "type": "article",
+        "titleEn": "About Namaz",
+        "titleRu": "О намазе",
+        "descriptionEn": "As-salaamu عalaikum and welcome to NamazApp! Tap here to learn more about NamazApp and prayer in Islam.",
+        "descriptionRu": "Ас-саляму 'аляйкум! Добро пожаловать в НамазАпп. Нажмите сюда, чтобы узнать больше о нашем приложении и о намазе в целом.",
+        "dateEn": "Apr 26",
+        "dateRu": "26.04.23",
+        "urlEn": "https://www.namaz.live/what-is-namaz",
+        "urlRu": "https://sites.google.com/view/namaz-intro-ru",
+        "image": "info.bubble"
+    }
+]
