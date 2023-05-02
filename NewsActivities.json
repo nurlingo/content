@@ -1,5 +1,4 @@
-[
-    
+[ 
     {
         "id": "notifications",
         "titleRu": "Уведомления",
@@ -23,7 +22,6 @@
                 "image": "info.bubble"
             }
         ]
-        
     },
     {
         "id": "news",
@@ -145,9 +143,7 @@
         "descriptionRu": "",
         "titleEn": "Contact us",
         "descriptionEn": "",
-        "items":
-        
-        [
+        "items": [
             {
                 "id": "contact_developer",
                 "type": "link",
