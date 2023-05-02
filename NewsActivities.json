@@ -1,4 +1,4 @@
-[ 
+[
     {
         "id": "notifications",
         "titleRu": "Уведомления",
@@ -19,7 +19,7 @@
                 "dateRu": "01.03.23",
                 "urlEn": "https://sites.google.com/view/namaz-intro-en",
                 "urlRu": "https://sites.google.com/view/namaz-intro-ru",
-                "image": "info.bubble"
+                "icon": "info.bubble"
             }
         ]
     },
@@ -43,7 +43,7 @@
                 "dateRu": "21.04.23",
                 "urlEn": "",
                 "urlRu": "",
-                "image": "party.popper"
+                "icon": "party.popper"
             },
             {
                 "id": "laylatul-qadr",
@@ -58,7 +58,7 @@
                 "dateRu": "11.04.23",
                 "urlEn": "",
                 "urlRu": "",
-                "image": "moon.stars"
+                "icon": "moon.stars"
             },
             {
                 "id": "prayer_times",
@@ -73,7 +73,7 @@
                 "dateRu": "06.04.23",
                 "urlEn": "",
                 "urlRu": "",
-                "image": "clock.badge"
+                "icon": "clock.badge"
             },
             {
                 "id": "short_surah",
@@ -88,7 +88,7 @@
                 "dateRu": "31.03.23",
                 "urlEn": "",
                 "urlRu": "",
-                "image": "dots.and.line.vertical.and.cursorarrow.rectangle"
+                "icon": "dots.and.line.vertical.and.cursorarrow.rectangle"
             },
             {
                 "id": "ramadan",
@@ -103,7 +103,7 @@
                 "dateRu": "23.03.23",
                 "urlEn": "",
                 "urlRu": "",
-                "image": "moon"
+                "icon": "moon"
             },
             {
                 "id": "dark_mode",
@@ -118,7 +118,7 @@
                 "dateRu": "09.03.23",
                 "urlEn": "",
                 "urlRu": "",
-                "image": "lightbulb.circle"
+                "icon": "lightbulb.circle"
             },
             {
                 "id": "namaz",
@@ -133,7 +133,7 @@
                 "dateRu": "01.03.23",
                 "urlEn": "https://sites.google.com/view/namaz-intro-en",
                 "urlRu": "https://sites.google.com/view/namaz-intro-ru",
-                "image": "info.bubble"
+                "icon": "info.bubble"
             }
         ]
     },
