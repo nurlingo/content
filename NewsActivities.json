@@ -34,7 +34,7 @@
                 "id": "prayer_time_settings",
                 "showEn": 1,
                 "showRu": 0,
-                "type": "setting",
+                "type": "more",
                 "titleEn": "12h format for prayer times",
                 "titleRu": "",
                 "descriptionEn": "We've received several requests to allow 12h format for prayer times, and now you can set it in the Prayer time settings. Check out both homescreen and lockscreen widgets too, as we've updated them along the way.",
