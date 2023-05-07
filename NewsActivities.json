@@ -31,6 +31,21 @@
         "descriptionEn": "",
         "items": [
             {
+                "id": "persuasion_course",
+                "showEn": 1,
+                "showRu": 0,
+                "type": "link",
+                "titleEn": "The Prophetic Art of Persuasion",
+                "titleRu": "",
+                "descriptionEn": "A new 4 week Online Short Course!\n\nThe Prophetic Art of Persuasion - Forty Communication Techniques of the Prophet Mohammed ﷺ\n\nStart Date: Saturday 20th May 2023\n\nTime: 11am - 1.30pm (British Time).\n\n3 Week Live Short Course plus 1 week Live Q&A with Shaykh Ruzwan!\n\nThe art of persuasion is the art of change, and the Messengers were the ultimate communicators and teachers sent by God to affect change. They communicated with individuals and communities in the most effective manner what divine guidance is and how to follow it. The foremost of these was the Prophet Mohammed, may God bless and grant him peace. His life stands as a testament to the power of effective persuasion and teaching, and every person that came in contact with him was left with an imprint of the powerful and articulate manner in which he convinced people of the need to change their situation.\n\nENROL NOW!",
+                "descriptionRu": "",
+                "dateEn": "May 7",
+                "dateRu": "07.05.23",
+                "urlEn": "https://www.isyllabus.org/product/the-prophetic-art-of-persuasion/",
+                "urlRu": "",
+                "icon": "graduationcap"
+            },
+            {
                 "id": "3idul-fitr-23",
                 "showEn": 1,
                 "showRu": 1,
