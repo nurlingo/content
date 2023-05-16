@@ -69,23 +69,23 @@
                 "showEn": 1
             },
             {
-                "id": "prayer_time_notifications",
-                "type": "switch",
-                "titleRu": "Включить уведомления",
-                "descriptionRu": "",
-                "showRu": 1,
-                "titleEn": "Enable notifications",
-                "descriptionEn": "",
-                "showEn": 1,
-                "restriction": "iOS 15"
-            },
-            {
                 "id": "prayer_time_settings",
                 "type": "action",
                 "titleRu": "Настройки метода подсчета",
                 "descriptionRu": "",
                 "showRu": 1,
                 "titleEn": "Calculation settings",
+                "descriptionEn": "",
+                "showEn": 1,
+                "restriction": "iOS 15"
+            },
+            {
+                "id": "prayer_time_notifications",
+                "type": "switch",
+                "titleRu": "Включить уведомления",
+                "descriptionRu": "",
+                "showRu": 1,
+                "titleEn": "Enable notifications",
                 "descriptionEn": "",
                 "showEn": 1,
                 "restriction": "iOS 15"
