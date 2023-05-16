@@ -78,17 +78,6 @@
                 "descriptionEn": "",
                 "showEn": 1,
                 "restriction": "iOS 15"
-            },
-            {
-                "id": "prayer_time_notifications",
-                "type": "switch",
-                "titleRu": "Включить уведомления",
-                "descriptionRu": "",
-                "showRu": 1,
-                "titleEn": "Enable notifications",
-                "descriptionEn": "",
-                "showEn": 1,
-                "restriction": "iOS 15"
             }
         ]
     },
