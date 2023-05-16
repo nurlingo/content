@@ -10,10 +10,10 @@
                 "id": "language",
                 "type": "segmented",
                 "titleRu": "Язык приложения",
-                "detailRu": "",
+                "descriptionRu": "",
                 "showRu": 1,
                 "titleEn": "App Language",
-                "detailEn": "",
+                "descriptionEn": "",
                 "segments": [
                     "english",
                     "russian"
@@ -24,10 +24,10 @@
                 "id": "gender",
                 "type": "segmented",
                 "titleRu": "Намаз для",
-                "detailRu": "",
+                "descriptionRu": "",
                 "showRu": 1,
                 "titleEn": "Prayer for",
-                "detailEn": "",
+                "descriptionEn": "",
                 "segments": [
                     "male",
                     "female"
@@ -38,10 +38,10 @@
                 "id": "dark_mode",
                 "type": "switch",
                 "titleRu": "Разрешить темный режим",
-                "detailRu": "Включается ночью",
+                "descriptionRu": "Включается ночью",
                 "showRu": 1,
                 "titleEn": "Allow dark mode",
-                "detailEn": "Gets enabled at night",
+                "descriptionEn": "Gets enabled at night",
                 "segments": [
                     "male",
                     "female"
@@ -61,25 +61,32 @@
             {
                 "id": "location",
                 "type": "switch",
-                "titleRu": "Показывать время намаза (beta)",
-                "detailRu": "Использует ваше местоположение",
+                "titleRu": "Показывать время намаза",
+                "descriptionRu": "Использует ваше местоположение",
                 "showRu": 1,
-                "titleEn": "Show prayer times (beta)",
-                "detailEn": "Uses your geolocation",
+                "titleEn": "Show prayer times",
+                "descriptionEn": "Uses your geolocation",
                 "showEn": 1
             },
             {
                 "id": "prayer_time_settings",
                 "type": "action",
-                "titleRu": "Настройки времени намаза",
-                "detailRu": "",
+                "titleRu": "Настройки метода подсчета",
+                "descriptionRu": "",
                 "showRu": 1,
-                "titleEn": "Prayer time settings",
-                "detailEn": "",
-                "segments": [
-                    "english",
-                    "russian"
-                ],
+                "titleEn": "Calculation settings",
+                "descriptionEn": "",
+                "showEn": 1,
+                "restriction": "iOS 15"
+            },
+            {
+                "id": "prayer_time_notifications",
+                "type": "switch",
+                "titleRu": "Включить уведомления",
+                "descriptionRu": "",
+                "showRu": 1,
+                "titleEn": "Enable notifications",
+                "descriptionEn": "",
                 "showEn": 1,
                 "restriction": "iOS 15"
             }
@@ -97,11 +104,11 @@
                 "type": "action",
                 "urlRu": "",
                 "titleRu": "Связь с нами",
-                "detailRu": "",
+                "descriptionRu": "",
                 "showRu": 1,
                 "urlEn": "",
                 "titleEn": "Connect with the developer",
-                "detailEn": "",
+                "descriptionEn": "",
                 "showEn": 1
             },
             {
@@ -109,11 +116,11 @@
                 "type": "action",
                 "urlRu": "",
                 "titleRu": "Рекоммендации и соглашения",
-                "detailRu": "",
+                "descriptionRu": "",
                 "showRu": 1,
                 "urlEn": "",
                 "titleEn": "Recommendations and agreements",
-                "detailEn": "",
+                "descriptionEn": "",
                 "showEn": 1
             }
         ]
