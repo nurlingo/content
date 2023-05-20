@@ -69,6 +69,38 @@
                     ]
                   }
                 }
+              },
+              {
+                "node": {
+                  "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzI=",
+                  "handle": "strawberry-cake",
+                  "availableForSale": true,
+                  "title": "Strawberry Cake",
+                  "description": "Delicious strawberry cake with cream",
+                  "descriptionHtml": "<p>Delicious strawberry cake with cream</p>",
+                  "priceRange": {
+                    "minVariantPrice": {
+                      "amount": "10.00",
+                      "currencyCode": "USD"
+                    },
+                    "maxVariantPrice": {
+                      "amount": "10.00",
+                      "currencyCode": "USD"
+                    }
+                  },
+                  "images": {
+                    "edges": [
+                      {
+                        "node": {
+                          "originalSrc": "https://example.com/images/strawberry-cake.jpg",
+                          "altText": "Strawberry Cake",
+                          "width": 800,
+                          "height": 800
+                        }
+                      }
+                    ]
+                  }
+                }
               }
             ]
           }
@@ -103,6 +135,38 @@
                         "node": {
                           "originalSrc": "https://example.com/images/strawberry-jam.jpg",
                           "altText": "Strawberry Jam",
+                          "width": 800,
+                          "height": 800
+                        }
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "node": {
+                  "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzM=",
+                  "handle": "blueberry-jam",
+                  "availableForSale": true,
+                  "title": "Blueberry Jam",
+                  "description": "Delicious homemade blueberry jam",
+                  "descriptionHtml": "<p>Delicious homemade blueberry jam</p>",
+                  "priceRange": {
+                    "minVariantPrice": {
+                      "amount": "5.00",
+                      "currencyCode": "USD"
+                    },
+                    "maxVariantPrice": {
+                      "amount": "5.00",
+                      "currencyCode": "USD"
+                    }
+                  },
+                  "images": {
+                    "edges": [
+                      {
+                        "node": {
+                          "originalSrc": "https://example.com/images/blueberry-jam.jpg",
+                          "altText": "Blueberry Jam",
                           "width": 800,
                           "height": 800
                         }
