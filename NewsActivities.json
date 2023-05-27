@@ -31,21 +31,6 @@
         "descriptionEn": "",
         "items": [
             {
-                "id": "persuasion_course",
-                "showEn": 1,
-                "showRu": 0,
-                "type": "link",
-                "titleEn": "The Prophetic Art of Persuasion",
-                "titleRu": "",
-                "descriptionEn": "A new 4 week Online Short Course!\n\nThe Prophetic Art of Persuasion - Forty Communication Techniques of the Prophet Mohammed ﷺ\n\nStart Date: Saturday 20th May 2023\n\nTime: 11am - 1.30pm (British Time).\n\n3 Week Live Short Course plus 1 week Live Q&A with Shaykh Ruzwan!\n\nThe art of persuasion is the art of change, and the Messengers were the ultimate communicators and teachers sent by God to affect change. They communicated with individuals and communities in the most effective manner what divine guidance is and how to follow it. The foremost of these was the Prophet Mohammed, may God bless and grant him peace. His life stands as a testament to the power of effective persuasion and teaching, and every person that came in contact with him was left with an imprint of the powerful and articulate manner in which he convinced people of the need to change their situation.\n\nENROL NOW!",
-                "descriptionRu": "",
-                "dateEn": "May 7",
-                "dateRu": "07.05.23",
-                "urlEn": "https://www.isyllabus.org/product/the-prophetic-art-of-persuasion/",
-                "urlRu": "",
-                "icon": "graduationcap"
-            },
-            {
                 "id": "3idul-fitr-23",
                 "showEn": 1,
                 "showRu": 1,
@@ -148,32 +133,32 @@
                 "id": "contact_developer",
                 "type": "link",
                 "urlRu": "https://api.whatsapp.com/send?phone=+77765206766&text=%D0%90%D1%81%D1%81%D0%B0%D0%BB%D1%8F%D0%BC%D1%83+%D0%B0%D0%BB%D1%8F%D0%B9%D0%BA%D1%83%D0%BC%21+%D0%AF+%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D1%8E+%D0%9D%D0%B0%D0%BC%D0%B0%D0%B7%D0%90%D0%BF%D0%BF.",
-                "titleRu": "Задать",
+                "titleRu": "Задать\nвопрос",
                 "descriptionRu": "",
                 "showRu": 1,
                 "urlEn": "https://api.whatsapp.com/send?phone=+77765206766&text=As-salaamu%20%27alaikum!%20I%27m%20using%20NamazApp.%20I%20have%20the%20following%20question%20or%20suggestion:",
                 "titleEn": "Ask",
                 "descriptionEn": "",
                 "showEn": 1,
-                "icon": "questionmark.circle"
+                "icon": "questionmark.bubble"
             },
             {
                 "id": "support_app",
                 "type": "action",
                 "urlRu": "",
-                "titleRu": "Поддержать",
+                "titleRu": "Поддержать\nдонатом",
                 "descriptionRu": "",
                 "showRu": 1,
                 "urlEn": "",
                 "titleEn": "Donate",
                 "descriptionEn": "",
                 "showEn": 1,
-                "icon": "heart"
+                "icon": "heart.fill"
             },
             {
                 "id": "rate_app",
                 "type": "action",
-                "titleRu": "Оценить",
+                "titleRu": "Поддержать\nотзывом",
                 "descriptionRu": "",
                 "showRu": 1,
                 "titleEn": "Rate",
@@ -185,7 +170,7 @@
                 "id": "share_app",
                 "type": "action",
                 "descriptionRu": "",
-                "titleRu": "Рекомендовать",
+                "titleRu": "Поделиться\nссылкой",
                 "showRu": 1,
                 "titleEn": "Share",
                 "descriptionEn": "",
@@ -195,7 +180,7 @@
             {
                 "id": "personalization",
                 "type": "action",
-                "titleRu": "Рассказать",
+                "titleRu": "Рассказать\nо себе",
                 "descriptionRu": "",
                 "showRu": 1,
                 "titleEn": "Tell",
