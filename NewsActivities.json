@@ -61,36 +61,6 @@
                 "icon": "compass.drawing"
             },
             {
-                "id": "3idul-fitr-23",
-                "showEn": 1,
-                "showRu": 1,
-                "type": "celebrate",
-                "titleEn": "Eid Mubarak and good news",
-                "titleRu": "'Ид Мубарак и хорошие новости",
-                "descriptionEn": "Dear brothers and sisters, we congratulate you with Eid al-Fitr! May Allah Almighty accept from us and from you, and bring us all to the next Ramadan in a good state pleasing to Him!\n\nAlhamdulillah, during this amazing month, we've had half a million active users from over 150 countries! This is an incredible result, and we praise Allah Almighty for granting it to us. We would also like to thank you our dear users for using the app, supporting us, and giving suggestions on how to improve it. May Almighty Allah make grant us all beneficial knowledge and good deeds, and make us sincere thankful slaves of His! Ameen!",
-                "descriptionRu": "Дорогие братья и сестры, поздравляем вас с праздником Ураза-Байрам!  Да примет Аллах от нас и от вас, и доведет нас всех до следующего Рамадана!\n\nАльхамдулиллях, за этот благословенный месяц нашим аппом воспользовалось полмиллиона людей из более чем 150 стран! Для нас это просто невероятный результат, и мы благодарим Всевышнего Аллаха за такое благословение в нашем деле. Мы также хотим сказать сердечное спасибо вам, что пользуетесь нашим аппом, поддерживаете и даете ценные советы по улучшению. Пусть Всевышний Аллах дарует нам всем полезных знаний, искренности, и хороших дел!",
-                "dateEn": "Apr 21",
-                "dateRu": "21.04.23",
-                "urlEn": "",
-                "urlRu": "",
-                "icon": "party.popper"
-            },
-            {
-                "id": "097",
-                "showEn": 1,
-                "showRu": 1,
-                "type": "audio",
-                "titleEn": "Laylatul Qadr",
-                "titleRu": "Ляйлятуль-Кадр",
-                "descriptionEn": "The last 10 days of Radaman have arrived. Among them is a night that is worth more than 1000 months! It's called Laylatul-Qadr (the Night of Divine Decree), and you can read more about at the Ramadan section of the Learn tab.",
-                "descriptionRu": "Наступили последние 10 дней Рамадана. Среди них есть особенная ночь, которая лучше чем 1000 месяцев! Эта ночь называется Ляйлятуль-Кадр (Ночь предопределения). Узнайте больше прочитав статью в разделе Обучение.",
-                "dateEn": "Apr 11",
-                "dateRu": "11.04.23",
-                "urlEn": "",
-                "urlRu": "",
-                "icon": "moon.stars"
-            },
-            {
                 "id": "location",
                 "showEn": 1,
                 "showRu": 1,
@@ -104,21 +74,6 @@
                 "urlEn": "",
                 "urlRu": "",
                 "icon": "clock.badge"
-            },
-            {
-                "id": "short_surah",
-                "showEn": 1,
-                "showRu": 1,
-                "type": "celebrate",
-                "titleEn": "Choice between surahs",
-                "titleRu": "Выбор между сурами",
-                "descriptionEn": "You can now choose between surahs al-Kauthar and al-Kafiroon in the first rak'ah of obligatory prayers. InshaAllah, this should make memorizing easier for beginners.",
-                "descriptionRu": "Теперь вы сможете выбирать между сурами аль-Кяусар и аль-Кафирун в первом ракате обязательных намазов. ИншаАллах, это облегчит запоминание для начинающих.",
-                "dateEn": "Mar 31",
-                "dateRu": "31.03.23",
-                "urlEn": "",
-                "urlRu": "",
-                "icon": "dots.and.line.vertical.and.cursorarrow.rectangle"
             },
             {
                 "id": "dark_mode",
