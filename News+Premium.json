@@ -31,6 +31,21 @@
         "descriptionEn": "",
         "items": [
             {
+                "id": "premium",
+                "showEn": 1,
+                "showRu": 1,
+                "type": "more",
+                "titleEn": "Namaz Premium, Istikhara, and Dhul Hijjah",
+                "titleRu": "Дуа Истихара и 10 дней Зуль-Хиджы",
+                "descriptionEn": "This version is important to us as we've introduced Premium subscription, alhamdulillah! This should allow us to make the app a sustainable full-time effort.\n\nWe've also made dua Istikhara available in the Audios section. Many people where asking about it lately, seems like now is the time a lot of us are making decisions in life. May Allah guide us to the best of things.\n\nLastly, it's Dhul Hijjah, the first 10 days. These are incredible days! Let's fill them with good. Wa jazaakumuLlahu khairan!",
+                "descriptionRu": "Мы сделали дуа Истихара доступным в разделе Аудио. В последнее время нас часто спрашивали об этом дуа, похоже, что сейчас время когда многие из принимают решения. Да направит нас Аллах к лучшему!\n\nАльхамдулилляh, начались первые 10 дней Зуль-Хиджы. Это очень ценные дни! Давайте наполним их зикром и шукром. Уа джазаакумуЛлаhу хайран!",
+                "dateEn": "Jun 19",
+                "dateRu": "19.06.23",
+                "urlEn": "",
+                "urlRu": "",
+                "icon": "moon.stars.circle"
+            },
+            {
                 "id": "prayer_time_notifications",
                 "showEn": 1,
                 "showRu": 1,
