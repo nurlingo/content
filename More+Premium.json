@@ -1,0 +1,161 @@
+[
+    {
+        "id": "settings",
+        "titleRu": "Настройки",
+        "commentRu": "",
+        "titleEn": "Settings",
+        "commentEn": "",
+        "items": [
+            {
+                "id": "language",
+                "type": "segmented",
+                "titleRu": "Язык приложения",
+                "descriptionRu": "",
+                "showRu": 1,
+                "titleEn": "App Language",
+                "descriptionEn": "",
+                "segments": [
+                    "english",
+                    "russian"
+                ],
+                "showEn": 1
+            },
+            {
+                "id": "gender",
+                "type": "segmented",
+                "titleRu": "Намаз для",
+                "descriptionRu": "",
+                "showRu": 1,
+                "titleEn": "Prayer for",
+                "descriptionEn": "",
+                "segments": [
+                    "male",
+                    "female"
+                ],
+                "showEn": 1
+            },
+            {
+                "id": "dark_mode",
+                "type": "switch",
+                "titleRu": "Разрешить темный режим",
+                "descriptionRu": "Включается ночью",
+                "showRu": 1,
+                "titleEn": "Allow dark mode",
+                "descriptionEn": "Gets enabled at night",
+                "segments": [
+                    "male",
+                    "female"
+                ],
+                "showEn": 1,
+                "restriction": "iOS 13"
+            }
+        ]
+    },
+    {
+        "id": "prayer_time",
+        "titleRu": "Время намаза",
+        "commentRu": "",
+        "titleEn": "Prayer times",
+        "commentEn": "",
+        "items": [
+            {
+                "id": "location",
+                "type": "switch",
+                "titleRu": "Показывать время намаза",
+                "descriptionRu": "Использует ваше местоположение",
+                "showRu": 1,
+                "titleEn": "Show prayer times",
+                "descriptionEn": "Uses your geolocation",
+                "showEn": 1
+            },
+            {
+                "id": "prayer_time_settings",
+                "type": "action",
+                "titleRu": "Настройки метода подсчета",
+                "descriptionRu": "",
+                "showRu": 1,
+                "titleEn": "Calculation settings",
+                "descriptionEn": "",
+                "showEn": 1,
+                "restriction": "iOS 15"
+            },
+            {
+                "id": "prayer_time_notifications",
+                "type": "switch",
+                "titleRu": "Включить уведомления",
+                "descriptionRu": "",
+                "showRu": 1,
+                "titleEn": "Enable notifications",
+                "descriptionEn": "",
+                "showEn": 1,
+                "restriction": "iOS 15"
+            }
+        ]
+    },
+    {
+        "id": "premium",
+        "titleRu": "Намаз Премиум",
+        "commentRu": "",
+        "titleEn": "Namaz Premium",
+        "commentEn": "",
+        "items": [
+            {
+                "id": "premium",
+                "type": "action",
+                "titleRu": "Получить Намаз Премиум",
+                "descriptionRu": "",
+                "showRu": 0,
+                "titleEn": "Get Namaz Premium",
+                "descriptionEn": "",
+                "showEn": 1,
+                "restriction": "iOS 15"
+            },
+            {
+                "id": "group_call",
+                "type": "link",
+                "titleRu": "Регулярный созвон с разработчиками",
+                "descriptionRu": "",
+                "showRu": 0,
+                "urlRu": "",
+                "titleEn": "Monthly Q&A for Premium users",
+                "descriptionEn": "2023-06-24T17:00:00Z",
+                "showEn": 1,
+                "urlEn": "https://us04web.zoom.us/j/77469434442?pwd=hNskR8Up4HBMtLdarE4GbpKnikRBaI.1",
+                "restriction": "premium"
+            }
+        ]
+    },
+    {
+        "id": "miscellaneous",
+        "titleRu": "Дополнительно",
+        "commentRu": "",
+        "titleEn": "Miscellaneous",
+        "commentEn": "",
+        "items": [
+            {
+                "id": "information_center",
+                "type": "action",
+                "urlRu": "",
+                "titleRu": "Связь с нами",
+                "descriptionRu": "",
+                "showRu": 1,
+                "urlEn": "",
+                "titleEn": "Connect with the developer",
+                "descriptionEn": "",
+                "showEn": 1
+            },
+            {
+                "id": "recommended",
+                "type": "action",
+                "urlRu": "",
+                "titleRu": "Рекоммендации и соглашения",
+                "descriptionRu": "",
+                "showRu": 1,
+                "urlEn": "",
+                "titleEn": "Recommendations and agreements",
+                "descriptionEn": "",
+                "showEn": 1
+            }
+        ]
+    }
+]
