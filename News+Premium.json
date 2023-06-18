@@ -1,0 +1,178 @@
+[
+    {
+        "id": "notifications",
+        "titleRu": "Уведомления",
+        "descriptionRu": "",
+        "titleEn": "Notifications",
+        "descriptionEn": "",
+        "items": [
+            {
+                "id": "namaz",
+                "showEn": 1,
+                "showRu": 1,
+                "type": "article",
+                "titleEn": "As-salaamu 3alaikum! Welcome to NamazApp.",
+                "titleRu": "Ас-саляму 'аляйкум! Добро пожаловать в НамазАпп.",
+                "descriptionEn": "Tap here to learn more about NamazApp and prayer in general.",
+                "descriptionRu": "Нажмите сюда, чтобы узнать больше о нашем приложении и о намазе в целом.",
+                "dateEn": "Mar 01",
+                "dateRu": "01.03.23",
+                "urlEn": "https://sites.google.com/view/namaz-intro-en",
+                "urlRu": "https://sites.google.com/view/namaz-intro-ru",
+                "icon": "info.bubble"
+            }
+        ]
+    },
+    {
+        "id": "news",
+        "titleRu": "Новости",
+        "descriptionRu": "",
+        "titleEn": "What's new",
+        "descriptionEn": "",
+        "items": [
+            {
+                "id": "prayer_time_notifications",
+                "showEn": 1,
+                "showRu": 1,
+                "type": "more",
+                "titleEn": "Prayer time notifications",
+                "titleRu": "Уведомления о времени намаза",
+                "descriptionEn": "You can enable the notifications in the 'More' tab. Then you'll receive one for each prayer.\n\nThe title will be the prayer name and the number of rakaat for fard and sunnah, while in the body you will see some advice. InshaAllah, you'll find it useful. Peace!",
+                "descriptionRu": "Уведомления можно включить во вкладке «Разное», и приложение будет посылать вам сообщение по наступлению времени.\n\nВ заголовке уведомления будет название намаза и количество ракаатов, а в описание - совет, относящийся к этому конкретному намазу. ИншаАллах, вам понравится. Салям!",
+                "dateEn": "May 25",
+                "dateRu": "27.05.23",
+                "urlEn": "",
+                "urlRu": "",
+                "icon": "app.badge"
+            },
+            {
+                "id": "qibla",
+                "showEn": 1,
+                "showRu": 1,
+                "type": "action",
+                "titleEn": "Qibla: prayer direction",
+                "titleRu": "Кибла: направление намаза",
+                "descriptionEn": "Alhamdulillah, we can now find the Qibla direction using the app. Check it out on the main page.\n\nImportant to mention that iPhone's compass is not always 100% accurate. Sometimes it struggles to determine the precise direction you are looking. That's why we've added the map for you to double check by comparing it to your actual surroundings. Take care!",
+                "descriptionRu": "Альхамдулиллях, теперь вы можете посмотреть в каком направлении кибла. Опробуйте этот функционал на главной странице.\n\nВажно отметить, что компас iPhone не всегда 100% точен, и иногда он не может определить куда именно повернут телефон. Поэтому у нас есть карта, чтобы вы могли перепроверить, сверив карту со своим окружением.\n\nОбязательно опробуйте, иншаАллах!",
+                "dateEn": "May 25",
+                "dateRu": "27.05.23",
+                "urlEn": "",
+                "urlRu": "",
+                "icon": "compass.drawing"
+            },
+            {
+                "id": "location",
+                "showEn": 1,
+                "showRu": 1,
+                "type": "more",
+                "titleEn": "Prayer times",
+                "titleRu": "Время намаза",
+                "descriptionEn": "Enable prayer times in the 'More' tab, and they will appear on the main page next to each prayer. You can then add our widgets to your iPhone's lock screen and menu.\n\nWe also have an article about prayer times in the 'Learn' section. Definitely give it a read!",
+                "descriptionRu": "Время намаза можно включить во вкладке «Разное», и оно появится на главной странице. После включения можно добавлять виджеты на экран блокировки и меню вашего iPhone.\n\nА в разделе «Обучение» у нас новая статья о том, как мы определяем время каждого намаза. Обязательно посмотрите!",
+                "dateEn": "Apr 6",
+                "dateRu": "06.04.23",
+                "urlEn": "",
+                "urlRu": "",
+                "icon": "clock.badge"
+            },
+            {
+                "id": "dark_mode",
+                "showEn": 1,
+                "showRu": 1,
+                "type": "more",
+                "titleEn": "Do you like Dark Mode?",
+                "titleRu": "Темный режим",
+                "descriptionEn": "Alhamdulillah, now you can disable or enable the Dark Mode. You can find the switch in the 'More' tab.\n\nThis feature should make the screen light easier on the eyes inshaAllah. In any case, let's not spend too much time on the phone during the night, and instead get a good sleep after praying Isha.",
+                "descriptionRu": "Альхамдулиллях, теперь вы можете включать и отключать ночной переход на темный режим.  Найти настройку можно во вкладке 'Разное'.\n\nК нам неоднократно писали с этим запросом, и смысл в том, чтобы уменьшить нагрузку на глаза. При этом некоторым нашим пользователям больше нравится белый фон, независимо от времени суток.\n\nКонечно, лучше не смотреть слишком долго в экран ночью, а вместо этого, прочитав Иша, ложиться спать)",
+                "dateEn": "Mar 09",
+                "dateRu": "09.03.23",
+                "urlEn": "",
+                "urlRu": "",
+                "icon": "lightbulb.circle"
+            },
+            {
+                "id": "namaz",
+                "showEn": 1,
+                "showRu": 1,
+                "type": "article",
+                "titleEn": "As-salaamu عalaikum!",
+                "titleRu": "Ас-саляму 'аляйкум!",
+                "descriptionEn": "Welcome to NamazApp! Our goal is to help you with prayer by supplying all things a beginner needs to get started. Tap on the button below to learn more about NamazApp and prayer in Islam.\n\nIf you have any questions, feel free to message us on WhatsApp.\n\nIf you are at the beginning of your journey, say bismiLlah (in the name of Allah) and proceed. We ask Allah to make things easy and beneficial for you, ameen!",
+                "descriptionRu": "Добро пожаловать в НамазАпп. Наша цель - помочь вам встать на намаз, дав вам все самое необходимое чтобы начать. Нажмите на кнопку ниже, чтобы узнать больше о нашем приложении и о намазе в целом.\n\nЕсли у вас вопросы, то пишите нам на Вотсапп без стеснений.\n\nЕсли вы в самом начале пути, то скажите БисмиЛляh (с именем Аллаха) и вставайте на намаз. И пусть Всевышний облегчит вам получения полезных знаний и откроет для вас врата Своей Милости, амин!",
+                "dateEn": "Mar 01",
+                "dateRu": "01.03.23",
+                "urlEn": "https://sites.google.com/view/namaz-intro-en",
+                "urlRu": "https://sites.google.com/view/namaz-intro-ru",
+                "icon": "info.bubble"
+            }
+        ]
+    },
+    {
+        "id": "news_navigation",
+        "titleRu": "Связь с нами",
+        "descriptionRu": "",
+        "titleEn": "Contact us",
+        "descriptionEn": "",
+        "items": [
+            {
+                "id": "contact_developer",
+                "type": "link",
+                "urlRu": "https://api.whatsapp.com/send?phone=+77765206766&text=%D0%90%D1%81%D1%81%D0%B0%D0%BB%D1%8F%D0%BC%D1%83+%D0%B0%D0%BB%D1%8F%D0%B9%D0%BA%D1%83%D0%BC%21+%D0%AF+%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D1%8E+%D0%9D%D0%B0%D0%BC%D0%B0%D0%B7%D0%90%D0%BF%D0%BF.",
+                "titleRu": "Задать\nвопрос",
+                "descriptionRu": "",
+                "showRu": 1,
+                "urlEn": "https://api.whatsapp.com/send?phone=+77765206766&text=As-salaamu%20%27alaikum!%20I%27m%20using%20NamazApp.%20I%20have%20the%20following%20question%20or%20suggestion:",
+                "titleEn": "Ask\na question",
+                "descriptionEn": "",
+                "showEn": 1,
+                "icon": "questionmark.bubble"
+            },
+            {
+                "id": "rate_app",
+                "type": "action",
+                "titleRu": "Поддержать\nотзывом",
+                "descriptionRu": "",
+                "showRu": 1,
+                "titleEn": "Rate us on\nAppStore",
+                "descriptionEn": "Your ratings and reviews will help us reach more people",
+                "showEn": 1,
+                "icon": "star.square"
+            },
+            {
+                "id": "support_app",
+                "type": "action",
+                "urlRu": "",
+                "titleRu": "Поддержать\nдонатом",
+                "descriptionRu": "",
+                "showRu": 1,
+                "urlEn": "",
+                "titleEn": "Become\na supporter",
+                "descriptionEn": "",
+                "showEn": 1,
+                "icon": "heart.fill"
+            },
+            {
+                "id": "share_app",
+                "type": "action",
+                "descriptionRu": "",
+                "titleRu": "Поделиться\nссылкой",
+                "showRu": 1,
+                "titleEn": "Share\nthe link",
+                "descriptionEn": "",
+                "showEn": 1,
+                "icon": "square.and.arrow.up"
+            },
+            {
+                "id": "personalization",
+                "type": "action",
+                "titleRu": "Рассказать\nо себе",
+                "descriptionRu": "",
+                "showRu": 1,
+                "titleEn": "Tell about\nyourself",
+                "descriptionEn": "",
+                "showEn": 1,
+                "icon": "person.text.rectangle"
+            }
+        ]
+    }
+]
