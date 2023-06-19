@@ -31,6 +31,22 @@
         "descriptionEn": "",
         "items": [
             {
+                "id": "dhul-hijjah",
+                "type": "article",
+                "showEn": 1,
+                "showRu": 1,
+                "type": "article",
+                "titleEn": "The 10 days of Dhul Hijjah",
+                "titleRu": "Зуль-Хиджа: первые 10 дней",
+                "descriptionEn": "The first ten days of Dhul Hijjah are blessed and special. Let's see how we can spend them in the best way.",
+                "descriptionRu": "Зуль-Хиджа - это месяц хаджа и праздника жертвоприношения. Первые 10 дней этого месяца имеют много достоинств и являются лучшими днями перед Аллахом.",
+                "dateEn": "Jun 19",
+                "dateRu": "19.06.23",
+                "urlEn": "https://www.namaz.live/dhul-hijjah",
+                "urlRu": "https://www.namaz.live/dhul-hijjah-ru",
+                "icon": "moon.stars.circle"
+            },
+            {
                 "id": "prayer_time_notifications",
                 "showEn": 1,
                 "showRu": 1,
