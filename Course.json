@@ -248,6 +248,16 @@
                     "urlEn": "https://sites.google.com/view/hadith-of-jibreel/home",
                     "titleEn": "What have they discussed?",
                     "showEn": 1
+                },
+                {
+                    "id": "dhul-hijjah",
+                    "type": "test",
+                    "urlRu": "https://www.namaz.live/dhul-hijjah-ru",
+                    "titleRu": "Зуль-Хиджа: первые 10 дней",
+                    "showRu": 1,
+                    "urlEn": "https://www.namaz.live/dhul-hijjah",
+                    "titleEn": "The 10 days of Dhul Hijjah",
+                    "showEn": 0
                 }
             ]
         },
