@@ -47,6 +47,39 @@
                     "showEn": 1
                 },
                 {
+                    "id": "action_categories",
+                    "type": "article",
+                    "urlRu": "https://www.namaz.live/ction-categories-ru",
+                    "titleRu": "Категории действий в Исламе",
+                    "descriptionRu": "",
+                    "showRu": 0,
+                    "urlEn": "https://www.namaz.live/action-categories",
+                    "titleEn": "Categories of action in Islam",
+                    "descriptionEn": "",
+                    "showEn": 1
+                }
+            ]
+        },
+        {
+            "id": "prayer_rules",
+            "titleRu": "Правила Намаза",
+            "descriptionRu": "",
+            "titleEn": "Prayer rules",
+            "descriptionEn": "",
+            "lessons": [
+                {
+                    "id": "prayer_essentials",
+                    "type": "article",
+                    "urlRu": "https://www.namaz.live/prayer-fard-ru",
+                    "titleRu": "Фард действия в намазе",
+                    "descriptionRu": "",
+                    "showRu": 0,
+                    "urlEn": "https://www.namaz.live/prayer-fard",
+                    "titleEn": "Fard of salah: 11 essentials in prayer",
+                    "descriptionEn": "",
+                    "showEn": 1
+                },
+                {
                     "id": "prayer_categories",
                     "type": "article",
                     "urlRu": "https://www.namaz.live/prayer-categories-ru",
@@ -276,7 +309,7 @@
                     "showRu": 1,
                     "urlEn": "https://www.namaz.live/ramadan",
                     "titleEn": "Fasting in Ramadan",
-                    "detailEn": "The best of deeds in the best of months",
+                    "descriptionEn": "The best of deeds in the best of months",
                     "showEn": 1
                 },
                 {
@@ -284,11 +317,11 @@
                     "type": "article",
                     "urlRu": "https://sites.google.com/view/taraweeh-ru/home",
                     "titleRu": "Тарауих намаз",
-                    "detailRu": "",
+                    "descriptionRu": "",
                     "showRu": 1,
                     "urlEn": "https://www.namaz.live/taraweeh",
                     "titleEn": "Taraweeh prayer",
-                    "detailEn": "",
+                    "descriptionEn": "",
                     "showEn": 1
                 },
                 {
@@ -296,11 +329,11 @@
                     "type": "article",
                     "urlRu": "https://sites.google.com/view/night-of-power/home",
                     "titleRu": "Ночь Предопределения",
-                    "detailRu": "",
+                    "descriptionRu": "",
                     "showRu": 1,
                     "urlEn": "https://www.namaz.live/laylatul-qadr",
                     "titleEn": "Laylatul Qadr: the Night of Divine Decree",
-                    "detailEn": "",
+                    "descriptionEn": "",
                     "showEn": 1
                 }
             ]
