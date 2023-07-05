@@ -124,7 +124,7 @@
                 "restriction": "premium"
             },
             {
-                "id": "group_call",
+                "id": "telegram_chat",
                 "type": "link",
                 "titleRu": "Регулярный созвон с разработчиками",
                 "descriptionRu": "",
