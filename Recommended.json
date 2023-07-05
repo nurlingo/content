@@ -31,11 +31,11 @@
                 "type": "link",
                 "urlRu": "https://apps.apple.com/app/id1364988718",
                 "titleRu": "Read Arabic App",
-                "detailRu": "Второй шаг после Joode",
+                "descriptionRu": "Второй шаг после Joode",
                 "showRu": 1,
                 "urlEn": "https://apps.apple.com/app/id1364988718",
                 "titleEn": "Read Arabic App",
-                "detailEn": "Next step after Joode",
+                "descriptionEn": "Next step after Joode",
                 "showEn": 1
             }
         ]
@@ -51,17 +51,17 @@
                 "id": "youtube",
                 "type": "link",
                 "urlRu": "https://www.youtube.com/@namazlive",
-                "titleRu": "Наш Youtube канал",
+                "titleRu": "Youtube канал",
                 "showRu": 1,
                 "urlEn": "https://www.youtube.com/@namazlive",
-                "titleEn": "Our Youtube channel",
+                "titleEn": "Youtube channel",
                 "showEn": 1
             },
             {
                 "id": "telegram",
                 "type": "link",
                 "urlRu": "https://t.me/salahapp",
-                "titleRu": "Канал в Телеграм",
+                "titleRu": "Телеграм Канал",
                 "showRu": 1,
                 "urlEn": "https://t.me/salahapp",
                 "titleEn": "Telegram channel",
@@ -72,11 +72,9 @@
                 "type": "link",
                 "urlRu": "https://twitter.com/namazapp",
                 "titleRu": "Аккаунт в Twitter",
-                "detailRu": "",
                 "showRu": 1,
                 "urlEn": "https://twitter.com/namazapp",
                 "titleEn": "Twitter account",
-                "detailEn": "",
                 "showEn": 1
             }
         ]
