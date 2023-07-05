@@ -41,6 +41,47 @@
         ]
     },
     {
+        "id": "social_media",
+        "titleRu": "Наши социальные сети",
+        "commentRu": "Подпишитесь, и возвращайтесь в наш апп",
+        "titleEn": "Our social media",
+        "commentEn": "Subscribe and come back to our app",
+        "items": [
+            {
+                "id": "youtube",
+                "type": "link",
+                "urlRu": "https://www.youtube.com/@namazlive",
+                "titleRu": "Наш Youtube канал",
+                "showRu": 1,
+                "urlEn": "https://www.youtube.com/@namazlive",
+                "titleEn": "Our Youtube channel",
+                "showEn": 1
+            },
+            {
+                "id": "telegram",
+                "type": "link",
+                "urlRu": "https://t.me/salahapp",
+                "titleRu": "Канал в Телеграм",
+                "showRu": 1,
+                "urlEn": "https://t.me/salahapp",
+                "titleEn": "Telegram channel",
+                "showEn": 1
+            },
+            {
+                "id": "readar",
+                "type": "link",
+                "urlRu": "https://twitter.com/namazapp",
+                "titleRu": "Аккаунт в Twitter",
+                "detailRu": "",
+                "showRu": 1,
+                "urlEn": "https://twitter.com/namazapp",
+                "titleEn": "Twitter account",
+                "detailEn": ",
+                "showEn": 1
+            }
+        ]
+    },
+    {
         "id": "legal",
         "titleRu": "Соглашения",
         "commentRu": "",
