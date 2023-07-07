@@ -122,6 +122,19 @@
                 "showEn": 1,
                 "urlEn": "https://us04web.zoom.us/j/77466812093?pwd=rXDUpsBzUdLYQ0pLOTvG3dhbQ2Y1Mp.1",
                 "restriction": "premium"
+            },
+            {
+                "id": "telegram_chat",
+                "type": "link",
+                "titleRu": "Telegram группа для премиум пользователей",
+                "descriptionRu": "",
+                "showRu": 0,
+                "urlRu": "",
+                "titleEn": "Telegram group for premium users",
+                "descriptionEn": "Join the community!",
+                "showEn": 1,
+                "urlEn": "https://t.me/+ND42pitTHqViNzMy",
+                "restriction": "premium"
             }
         ]
     },
