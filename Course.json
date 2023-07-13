@@ -80,6 +80,18 @@
                     "showEn": 1
                 },
                 {
+                    "id": "prayer_conditions",
+                    "type": "article",
+                    "urlRu": "https://www.namaz.live/prayer-shurut-ru",
+                    "titleRu": "Условия намаза",
+                    "descriptionRu": "",
+                    "showRu": 0,
+                    "urlEn": "https://www.namaz.live/prayer-shurut",
+                    "titleEn": "Shurut: conditions for validity of prayer",
+                    "descriptionEn": "",
+                    "showEn": 1
+                },
+                {
                     "id": "prayer_categories",
                     "type": "article",
                     "urlRu": "https://www.namaz.live/prayer-categories-ru",
