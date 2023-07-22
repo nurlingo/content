@@ -5,7 +5,7 @@
         "image": "learning-bro",
         "titleEn": "As-salaamu 3alaikum!",
         "titleRu": "Ассаляму аляйкум!",
-        "descriptionEn": "Please tell us about yourself, if you have a minute.\n\nWe want to understand our users and what motivates you to use the app.",
+        "descriptionEn": "Please tell us about yourself, if you have a minute.\n\nWe want to better understand our users to improve the product.",
         "descriptionRu": "Пожалуйста, расскажите о себе, если у вас есть свободная минута.\n\nНам хочется лучше понимать наших пользователей, и что мотивирует вас использовать НамазАпп.",
         "optionsData": []
     },
@@ -165,7 +165,7 @@
                "textEn": "Other",
                "textRu": "Другое"
             }
-         ]
+         ],
     },
     {
         "id": "thank_you",
@@ -173,8 +173,8 @@
         "image": "grades-bro",
         "titleEn": "Thank you for sharing with us!",
         "titleRu": "Спасибо, что рассказали о себе!",
-        "descriptionEn": "InshaAllah, it'll help us further improve NamazApp.\n\nIf you have any questions feel free to contact us by tapping \"Contact Developer\" in the \"More\" tab",
-        "descriptionRu": "ИншаАллах, это поможет нам и дальше улучшать НамазАпп.\n\nЕсли у вас есть вопросы или предложения, пожалуйста пишите нам через ссылку в разделе \"Разное\"",
+        "descriptionEn": "InshaAllah, it'll help us further improve NamazApp.\n\nIf you have any questions feel free to contact us.",
+        "descriptionRu": "ИншаАллах, это поможет нам и дальше улучшать НамазАпп.\n\nЕсли у вас есть вопросы или предложения, пожалуйста пишите нам.",
         "optionsData": []
-    }
+    },
 ]
