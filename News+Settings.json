@@ -34,7 +34,7 @@
                 "id": "premium",
                 "showEn": 1,
                 "showRu": 0,
-                "type": "settings",
+                "type": "action",
                 "titleEn": "Namaz Premium",
                 "titleRu": "Намаз Премиум",
                 "descriptionEn": "Alhamdulillah, we've launched Premium subscription! InshaAllah, this should allow us to make the app a sustainable full-time effort.",
@@ -76,10 +76,10 @@
                 "icon": "play.square"
             },
             {
-                "id": "location",
+                "id": "prayer_time",
                 "showEn": 1,
                 "showRu": 1,
-                "type": "settings",
+                "type": "action",
                 "titleEn": "Prayer time functionality",
                 "titleRu": "Функционал для времени намаза",
                 "descriptionEn": "Alhamdulillah, we have some nice features related to prayer time!\n\nYou can enable and configure the times in the 'Settings' tab, and they will appear on the main page of our app next to each prayer.\n\nYou can also add NamazApp widgets to your home and lock screens, which makes it easier to view the time without too many taps.\n\nDo you want to know how the prayer times are derived? See the corresponding article in the 'Learn' section, called 'Prayer times'.\n\nLastly, we have notifications! If you enable them, you'll receive one for each prayer. A sort of a reminder that can work together with the widgets.\n\nWe actually use and enjoy these features ourselves, and we hope you will find them useful too, inshaAllah!",
