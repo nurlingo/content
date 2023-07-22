@@ -57,7 +57,7 @@
                 "id": "account",
                 "type": "action",
                 "titleEn": "Early access",
-                "descriptionEn": "You get to be the first to try our new functionality and give us feedback. At the moment, we are testing user account functionality. InshaAllah, having user accounts will allow us to have discussion forum and other social features in the future.",
+                "descriptionEn": "You get to be the first to try our new functionality and give us feedback. At the moment, we are testing user account functionality.",
                 "showEn": 1,
                 "titleRu": "Ранний доступ",
                 "descriptionRu": "Вы становитесь первым, кто испытывает нашу новую функциональность и дает нам обратную связь.",
@@ -89,7 +89,7 @@
         "titleRu": "Поздравляем, у вас есть Премиум подписка!",
         "titleEn": "Congrats, you have Premium subscription!",
         "descriptionRu": "ИншаАллах, мы будем продолжать развивать приложение и помогать людям учиться.\n\nВ качестве благодарности мы хотели бы, чтобы вы воспользовались нашими премиум опциями. Нажмите на любую из них, чтобы попробовать.",
-        "descriptionEn": "InshaAllah, we'll keep developing the app and help people learn.\n\nAs a token of gratitude, we'd like you to use some of the premium perks. Tap any of them to try.",
+        "descriptionEn": "Thank you for supporting us! InshaAllah, we'll keep improving the app.\n\nAs a token of gratitude, we'd like you to use some of the premium perks. Tap any of them to try.",
         "image": "premium",
         "items": []
     },
