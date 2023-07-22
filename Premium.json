@@ -1,6 +1,6 @@
 [
     {
-        "id": "premium",
+        "id": "premium_header",
         "titleRu": "Намаз Премиум",
         "descriptionRu": "Купите подписку Намаз Премиум, чтобы поддержать нас и получить приятные бонусы.",
         "titleEn": "Namaz Premium",
@@ -68,7 +68,7 @@
         ]
     },
     {
-        "id": "about_premium",
+        "id": "premium_about",
         "titleRu": "About Namaz Premium",
         "descriptionRu": "Namaz Premium is an opportunity for you to support our effort and receive some pleasant perks in return.\n\nContributions from Namaz Premium users allow us to cover costs and also help Namaz stay free for everyone.",
         "titleEn": "About Namaz Premium",
@@ -79,72 +79,19 @@
                 "type": "action",
                 "titleEn": "By subscribing to Namaz Premium you agree to the Namaz Terms of Service and Privacy Policy. These agreements can be viewed in the 'Settings' tab of the app.",
                 "showEn": 1,
-                "titleRu": "Подписываясь на Namaz Premium, вы соглашаетесь с Условиями обслуживания Namaz и Политикой конфиденциальности. Эти соглашения можно просмотреть в разделе «Разное» приложения».",
+                "titleRu": "Подписываясь на Namaz Premium, вы соглашаетесь с Условиями обслуживания Namaz и Политикой конфиденциальности. Эти соглашения можно просмотреть в разделе «Настройки» приложения».",
                 "showRu": 1
             }
         ]
     },
     {
-        "id": "premium_user",
+        "id": "premium_congrats",
         "titleRu": "Поздравляем, у вас есть Премиум подписка!",
         "titleEn": "Congrats, you have Premium subscription!",
-        "descriptionRu": "ИншаАллах, ваша поддержка позволит нам продолжать развивать приложение и помогать людям учиться. В знак благодарности мы хотели бы, чтобы вы опробовали некоторые из премиальных привилегий, которые у нас есть. Коснитесь любой из них, чтобы попробовать.",
-        "descriptionEn": "InshaAllah, your support will allow us to keep developing the app and help people learn. As a token of gratitude, we'd like you to try out some of the premium perks we have. Tap any of them to try.",
+        "descriptionRu": "ИншаАллах, мы будем продолжать развивать приложение и помогать людям учиться.\n\nВ качестве благодарности мы хотели бы, чтобы вы воспользовались нашими премиум опциями. Нажмите на любую из них, чтобы попробовать.",
+        "descriptionEn": "InshaAllah, we'll keep developing the app and help people learn.\n\nAs a token of gratitude, we'd like you to use some of the premium perks. Tap any of them to try.",
         "image": "premium",
-        "items": [
-            {
-                "id": "002001005",
-                "type": "listen",
-                "titleEn": "Premium content",
-                "descriptionEn": "Right now, you will get 5 additional items in the 'Audios' section.",
-                "showEn": 1,
-                "titleRu": "Премиум-контент",
-                "descriptionRu": "Прямо сейчас вы получите 5 дополнительных элементов в разделе 'Аудио'.",
-                "showRu": 1,
-                "icon": "beats.headphones"
-            },
-            {
-                "id": "group_call",
-                "type": "link",
-                "titleRu": "Регулярный созвон с разработчиками",
-                "descriptionRu": "Раз в неделю мы проводим групповой созвон для премиум-подписчиков.",
-                "showRu": 0,
-                "urlRu": "",
-                "dateRu": "2023-07-22T17:00:00Z",
-                "titleEn": "Weekly online meet up",
-                "descriptionEn": "Once a week we host a group call for premium members. The call is audio only, no camera needed.",
-                "dateEn": "2023-07-22T17:00:00Z",
-                "showEn": 1,
-                "urlEn": "https://meet.google.com/emb-qmtk-han",
-                "restriction": "premium",
-                "icon": "rectangle.3.group.bubble.left"
-            },
-            {
-                "id": "telegram_chat",
-                "type": "link",
-                "titleRu": "Telegram группа для премиум пользователей",
-                "descriptionRu": "",
-                "showRu": 0,
-                "urlRu": "",
-                "titleEn": "Telegram group for premium users",
-                "descriptionEn": "Join the community! We've created a chat for us to interact and discuss questions.",
-                "showEn": 1,
-                "urlEn": "https://t.me/+ND42pitTHqViNzMy",
-                "icon": "paperplane.circle"
-            },
-            {
-                "id": "account",
-                "type": "action",
-                "titleEn": "Early access",
-                "descriptionEn": "You get to be the first to try our new functionality and give us feedback. At the moment, we are testing user account functionality.",
-                "showEn": 1,
-                "titleRu": "Ранний доступ",
-                "descriptionRu": "Вы становитесь первым, кто испытывает нашу новую функциональность и дает нам обратную связь.",
-                "showRu": 1,
-                "icon": "testtube.2"
-                
-            }
-        ]
+        "items": []
     },
     {
         "id": "cancel_or_refund",
