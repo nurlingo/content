@@ -165,7 +165,7 @@
                "textEn": "Other",
                "textRu": "Другое"
             }
-         ],
+         ]
     },
     {
         "id": "thank_you",
@@ -176,5 +176,5 @@
         "descriptionEn": "InshaAllah, it'll help us further improve NamazApp.\n\nIf you have any questions feel free to contact us.",
         "descriptionRu": "ИншаАллах, это поможет нам и дальше улучшать НамазАпп.\n\nЕсли у вас есть вопросы или предложения, пожалуйста пишите нам.",
         "optionsData": []
-    },
+    }
 ]
