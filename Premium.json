@@ -17,27 +17,26 @@
                 "id": "002001005",
                 "type": "listen",
                 "titleEn": "Premium content",
-                "descriptionEn": "Right now, you will get 5 additional items in the 'Audios' section.",
+                "descriptionEn": "You will get 5 additional items in the 'Audios' section.",
                 "showEn": 1,
                 "titleRu": "Премиум-контент",
-                "descriptionRu": "Прямо сейчас вы получите 5 дополнительных элементов в разделе 'Аудио'.",
+                "descriptionRu": "Вы получите 5 дополнительных дорожек в разделе 'Аудио'.",
                 "showRu": 1,
                 "icon": "beats.headphones"
             },
             {
                 "id": "group_call",
                 "type": "link",
-                "titleRu": "Регулярный созвон с разработчиками",
+                "titleRu": "Созвоны с разработчиками",
                 "descriptionRu": "Раз в неделю мы проводим групповой созвон для премиум-подписчиков.",
-                "showRu": 0,
-                "urlRu": "",
-                "dateRu": "2023-07-22T17:00:00Z",
+                "showRu": 1,
+                "urlRu": "https://meet.google.com/emb-qmtk-han",
+                "dateRu": "2023-07-30T14:00:00Z",
                 "titleEn": "Weekly online meet up",
                 "descriptionEn": "Once a week we host a group call for premium members. The call is audio only, no camera needed.",
-                "dateEn": "2023-07-22T17:00:00Z",
+                "dateEn": "2023-07-29T17:00:00Z",
                 "showEn": 1,
                 "urlEn": "https://meet.google.com/emb-qmtk-han",
-                "restriction": "premium",
                 "icon": "rectangle.3.group.bubble.left"
             },
             {
@@ -60,7 +59,7 @@
                 "descriptionEn": "You get to be the first to try our new functionality and give us feedback. At the moment, we are testing user accounts.",
                 "showEn": 1,
                 "titleRu": "Ранний доступ",
-                "descriptionRu": "Вы становитесь первым, кто испытывает нашу новую функциональность и дает нам обратную связь.",
+                "descriptionRu": "Вы будете первыми, кто пробует наш новый функционал и дает нам обратную связь. Сейчас мы внедряем аккаунты пользователей.",
                 "showRu": 1,
                 "icon": "testtube.2"
                 
@@ -69,8 +68,8 @@
     },
     {
         "id": "premium_about",
-        "titleRu": "About Namaz Premium",
-        "descriptionRu": "Namaz Premium is an opportunity for you to support our effort and receive some pleasant perks in return.\n\nContributions from Namaz Premium users allow us to cover costs and also help Namaz stay free for everyone.",
+        "titleRu": "О премиум подписке",
+        "descriptionRu": "Намаз Премиум — это возможность поддержать нас и получить взамен приятные бонусы.\n\nВклад премиум пользователей позволяет нам покрывать расходы, а также помогает приложению оставаться бесплатным для всех остальных пользователей.",
         "titleEn": "About Namaz Premium",
         "descriptionEn": "Namaz Premium is an opportunity for you to support our effort and receive some pleasant perks in return.\n\nContributions from Namaz Premium users allow us to cover costs and also help Namaz stay free for everyone.",
         "items": [
