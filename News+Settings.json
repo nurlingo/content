@@ -33,14 +33,14 @@
             {
                 "id": "premium",
                 "showEn": 1,
-                "showRu": 0,
+                "showRu": 1,
                 "type": "action",
                 "titleEn": "Namaz Premium",
                 "titleRu": "Намаз Премиум",
-                "descriptionEn": "Alhamdulillah, we've launched Premium subscription! InshaAllah, this should allow us to make the app a sustainable full-time effort.",
-                "descriptionRu": "Альхамдулиллях, мы запустили Намаз Премиум!",
+                "descriptionEn": "Alhamdulillah, we've launched Premium subscription! It is an opportunity for our users to support NamazApp and get some pleasant perks in return. Even before the subscription, there were already donations in the app, and we regularly received financial support from our users along with kind words, and now we would like to give some small bonuses in return to show our gratitude. The core functionality remains free. We hope this is a well-balanced solution, that should allow us to make the app a sustainable full-time effort, inshaAllah. Please check it out and do become a subscriber if you can afford it. Wa jazakumuLlahu khairan!",
+                "descriptionRu": "Альхамдулиллях, мы запустили Намаз Премиум! Премиум подписка - это возможность для наших пользователей поддержать НамазАпп. Важно заметить, что и до подписки в аппе уже были донаты, и мы регулярно получали финансовую поддержку от наших пользователей вместе с добрыми словами, а теперь мы будем давать небольшие бонусы в знак благодарности. Весь основной функционал остается бесплатным: Мы надеемся, что это хорошее решение, которое позволит нам работать над проектом на постоянной основе, иншаАллах.",
                 "dateEn": "Jul 12",
-                "dateRu": "12.07.23",
+                "dateRu": "26.07.23",
                 "urlEn": "",
                 "urlRu": "",
                 "icon": "p.square.fill"
@@ -206,4 +206,3 @@
         ]
     }
 ]
-
