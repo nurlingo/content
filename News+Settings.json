@@ -31,6 +31,21 @@
         "descriptionEn": "",
         "items": [
             {
+                "id": "ashura",
+                "showEn": 1,
+                "showRu": 1,
+                "type": "celebrate",
+                "titleEn": "The day of 'Ashura",
+                "titleRu": "День 'Ашура",
+                "descriptionEn": "Ashura is the tenth day of the blessed month of Muharram, which falls on July 28th this year.\n\nIbn Abbas narrates: The Prophet (ﷺ) came to Medina and saw the Jews fasting on the day of Ashura. He asked them about that. They replied, \"This is a good day, the day on which Allah rescued Bani Israel from their enemy. So, Moses fasted this day.\" The Prophet (ﷺ) said, \"We have more claim over Moses than you.\" So, the Prophet fasted on that day and ordered (the Muslims) to fast (on that day). (Al-Bukhari, Muslim)\n\nTo differentiate from the Jews, the Prophet, peace be upon him, instructed us: \"Fast the day of 'Ashura, and be different from the Jews with regard to it; fast the day before it or the day after it.\" (Ahmad)\n\nTo summarize, it is recommended to fast on the day of Ashura and also a day before or after it, i.e. either on July 27th & 28th OR on July 28th & 29th.",
+                "descriptionRu": "День ‘Ашура - это десятый день благословенного месяца Мухаррам, который в этом году выпадает на 28 июля.\n\nИбн ‘Аббас рассказывал: «Когда Пророк, мир ему и благословение Аллаха, прибыл в Медину, он увидел, что иудеи постятся в день ‘Ашура. Тогда он спросил их: 'Что это за день?'. Они ответили: 'Это – благой день, тот день, когда Аллах спас сынов Исраиля от их врага, и поэтому Муса стал соблюдать пост в этот день'. На это Пророк, мир ему и благословение Аллаха, сказал: 'Я имею на Мусу больше прав, чем вы!', после чего стал соблюдать пост в этот день сам и велел делать это всем остальным.» (аль-Бухари, Муслим)\n\nА чтобы отличаться от иудеев, Пророк, мир ему и благословение Аллаха, указал нам: «Поститесь в день ‘Ашура и отличайтесь от иудеев, соблюдая пост за день до него или следующий день» (Ахмад).\n\nПоэтому желательно поститься в этот день и еще день до или после него, т.е. 27 и 28 июля, либо 28 и 29 июля.\n\nНаписано на основе поста на телеграм канале 'Электронный Минбар'",
+                "dateEn": "Jul 27",
+                "dateRu": "27.07.23",
+                "urlEn": "",
+                "urlRu": "",
+                "icon": "10.square"
+            },
+            {
                 "id": "premium",
                 "showEn": 1,
                 "showRu": 1,
