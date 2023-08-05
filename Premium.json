@@ -25,19 +25,26 @@
                 "icon": "beats.headphones"
             },
             {
-                "id": "group_call",
-                "type": "link",
-                "titleRu": "Созвоны с разработчиками",
-                "descriptionRu": "Раз в неделю мы проводим групповой созвон для премиум-подписчиков.",
-                "showRu": 1,
-                "urlRu": "https://meet.google.com/emb-qmtk-han",
-                "dateRu": "2023-08-06T05:30:00Z",
-                "titleEn": "Weekly online meet up",
-                "descriptionEn": "Once a week we host a group call for premium members. The call is audio only, no camera needed.",
-                "dateEn": "2023-08-05T17:00:00Z",
+                "id": "notification_settings",
+                "type": "action",
+                "titleEn": "Notification settings",
+                "descriptionEn": "Get extra configurations for notifications, including choosing the sound for each particular prayer.",
                 "showEn": 1,
-                "urlEn": "https://meet.google.com/emb-qmtk-han",
-                "icon": "rectangle.3.group.bubble.left"
+                "titleRu": "Настройка уведомлений",
+                "descriptionRu": "Вы сможете настраивать уведомления, в том числе выбирать звук уведомления для каждого намаза.",
+                "showRu": 1,
+                "icon": "gear.badge"
+            },
+            {
+                "id": "account",
+                "type": "action",
+                "titleEn": "Create an account (early access)",
+                "descriptionEn": "At the moment, we are testing user accounts. If you register, we'll see you as premium user in our database. Also, if you register an account and enable the notifications, we can notify you on meetings and updates.",
+                "showEn": 1,
+                "titleRu": "Создание аккаунта (ранний доступ)",
+                "descriptionRu": "Сейчас мы внедряем пользовательские аккаунты. Это позволит нам видеть вас как премиум-пользователя в нашей базе, а также уведомлять вас о встречах и обновлениях, если у вас включены уведомления.",
+                "showRu": 1,
+                "icon": "person.circle"
             },
             {
                 "id": "telegram_chat",
@@ -53,16 +60,21 @@
                 "icon": "paperplane.circle"
             },
             {
-                "id": "account",
-                "type": "action",
-                "titleEn": "Early access",
-                "descriptionEn": "You get to be the first to try our new functionality and give us feedback. At the moment, we are testing user accounts.",
-                "showEn": 1,
-                "titleRu": "Ранний доступ",
-                "descriptionRu": "Вы будете первыми, кто пробует наш новый функционал и дает нам обратную связь. Сейчас мы внедряем аккаунты пользователей.",
+                "id": "group_call",
+                "type": "link",
+                "titleRu": "Созвоны с разработчиками",
+                "descriptionRu": "Раз в неделю мы проводим аудио созвон для премиум-подписчиков, на котором обсуждаем вопросы и общаемся.\n\nПринимать участие в дискуссии можно либо через сообщения в чате, либо использовуя микрофон. Камеры не включаем.",
                 "showRu": 1,
-                "icon": "testtube.2"
-                
+                "urlRu": "https://meet.google.com/emb-qmtk-han",
+                "dateRu": "2023-07-30T14:00:00Z",
+                "dateCommentRu": "Следующий созвон планируется:\n",
+                "titleEn": "Weekly office hours",
+                "descriptionEn": "Once a week we host an audio call for premium members. Join it to ask questions, chat, or simply say salam. You can participate through text or using the microphone. No cameras, audio and text only.",
+                "dateEn": "2023-07-29T17:00:00Z",
+                "dateCommentEn": "The next call is planned on: ",
+                "showEn": 1,
+                "urlEn": "https://meet.google.com/emb-qmtk-han",
+                "icon": "rectangle.3.group.bubble.left"
             }
         ]
     },
@@ -88,7 +100,7 @@
         "titleRu": "Поздравляем, у вас есть Премиум подписка!",
         "titleEn": "Congrats, you have Namaz Premium!",
         "descriptionRu": "ИншаАллах, мы будем продолжать развивать приложение и помогать людям учиться.\n\nВ качестве благодарности мы хотели бы, чтобы вы воспользовались нашими премиум опциями. Нажмите на любую из них, чтобы попробовать.",
-        "descriptionEn": "Thank you for supporting us! InshaAllah, we'll keep improving the app.\n\nAs a token of gratitude, we'd like you to use some of the premium perks. Tap any of them to try.",
+        "descriptionEn": "Thank you for supporting us! InshaAllah, we'll keep improving the app.\n\nAs a token of gratitude, we'd like you to use some of the premium perks and early access features. Tap any of them to try.",
         "image": "premium",
         "items": []
     },
