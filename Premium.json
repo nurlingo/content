@@ -36,30 +36,6 @@
                 "icon": "gear.badge"
             },
             {
-                "id": "account",
-                "type": "action",
-                "titleEn": "Create an account (early access)",
-                "descriptionEn": "At the moment, we are testing user accounts. If you register, we'll see you as premium user in our database. Also, if you register an account and enable the notifications, we can notify you on meetings and updates.",
-                "showEn": 1,
-                "titleRu": "Создание аккаунта (ранний доступ)",
-                "descriptionRu": "Сейчас мы внедряем пользовательские аккаунты. Это позволит нам видеть вас как премиум-пользователя в нашей базе, а также уведомлять вас о встречах и обновлениях, если у вас включены уведомления.",
-                "showRu": 1,
-                "icon": "person.circle"
-            },
-            {
-                "id": "telegram_chat",
-                "type": "link",
-                "titleRu": "Telegram группа для премиум пользователей",
-                "descriptionRu": "",
-                "showRu": 0,
-                "urlRu": "",
-                "titleEn": "Telegram group for premium users",
-                "descriptionEn": "Join the community! We've created a chat for us to interact and discuss questions.",
-                "showEn": 1,
-                "urlEn": "https://t.me/+ND42pitTHqViNzMy",
-                "icon": "paperplane.circle"
-            },
-            {
                 "id": "group_call",
                 "type": "link",
                 "titleRu": "Созвоны с разработчиками",
@@ -75,6 +51,30 @@
                 "showEn": 1,
                 "urlEn": "https://meet.google.com/emb-qmtk-han",
                 "icon": "rectangle.3.group.bubble.left"
+            },
+            {
+                "id": "telegram_chat",
+                "type": "link",
+                "titleRu": "Telegram группа для премиум пользователей",
+                "descriptionRu": "",
+                "showRu": 0,
+                "urlRu": "",
+                "titleEn": "Telegram group for premium users",
+                "descriptionEn": "Join the community! We've created a chat for us to interact and discuss questions.",
+                "showEn": 1,
+                "urlEn": "https://t.me/+ND42pitTHqViNzMy",
+                "icon": "paperplane.circle"
+            },
+            {
+                "id": "account",
+                "type": "action",
+                "titleEn": "Create an account (early access)",
+                "descriptionEn": "At the moment, we are testing user accounts. If you register, we'll see you as premium user in our database. Also, if you register an account and enable the notifications, we can notify you on meetings and updates.",
+                "showEn": 1,
+                "titleRu": "Создание аккаунта (ранний доступ)",
+                "descriptionRu": "Сейчас мы внедряем пользовательские аккаунты. Это позволит нам видеть вас как премиум-пользователя в нашей базе, а также уведомлять вас о встречах и обновлениях, если у вас включены уведомления.",
+                "showRu": 1,
+                "icon": "person.circle"
             }
         ]
     },
