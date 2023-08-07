@@ -20,16 +20,7 @@
                 "urlEn": "https://sites.google.com/view/namaz-intro-en",
                 "urlRu": "https://sites.google.com/view/namaz-intro-ru",
                 "icon": "info.bubble"
-            }
-        ]
-    },
-    {
-        "id": "news",
-        "titleRu": "Новости",
-        "descriptionRu": "",
-        "titleEn": "What's new",
-        "descriptionEn": "",
-        "items": [
+            },
             {
                 "id": "ashura",
                 "showEn": 1,
@@ -44,6 +35,30 @@
                 "urlEn": "",
                 "urlRu": "",
                 "icon": "10.square"
+            }
+        ]
+    },
+    {
+        "id": "news",
+        "titleRu": "Новости",
+        "descriptionRu": "",
+        "titleEn": "What's new",
+        "descriptionEn": "",
+        "items": [
+            {
+                "id": "999010",
+                "showEn": 1,
+                "showRu": 1,
+                "type": "audio",
+                "titleEn": "Adhan and Iqamah",
+                "titleRu": "Азан и Иқамат",
+                "descriptionEn": "You can now find Iqamah in the Audios section.\n\nIqamah is the call to prayer that is given after Adhan and right before the prayer starts. It is an emphasized sunnah for men to say the Iqamah before starting a fard prayer.\n\nImportant to mention that it is also recommended to make dua in the period between Adhan and Iqamah, as the Messenger of Allah (ﷺ) said: 'The supplication made between the Adhan and the Iqamah is not rejected.' [Abu Dawud]. In fact, there is a special dua that is made straight after adhan, and we'll inshaAllah add it in the future updates.",
+                "descriptionRu": "Во вкладке Аудио теперь можно найти Икамат.\n\nИкамат - это призыв-оповещение о начале намаза, который дают уже после Азана непосредственно перед совершением молитвы. Читать Икамат перед фард намазом - это закрепленная сунна для мужчин.\n\nВажно упомянуть, что рекоммендуется делать дуа в промежуток между азаном и иқаматом. В хадисе говорится: \"Дуа между азаном и иқаматом не будет отвергнуто\" [Абу Дауд]. Есть специальное дуа, которое произноситься после азана. ИншаАллах, его мы добавим в будущих обновлениях.",
+                "dateEn": "Aug 7th",
+                "dateRu": "07.08.23",
+                "urlEn": "",
+                "urlRu": "",
+                "icon": "megaphone"
             },
             {
                 "id": "premium",
