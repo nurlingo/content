@@ -46,11 +46,26 @@
         "descriptionEn": "",
         "items": [
             {
+                "id": "999011",
+                "showEn": 1,
+                "showRu": 1,
+                "type": "listen",
+                "titleEn": "Rabbannaa, Istikhara, and other du'a",
+                "titleRu": "Раббанаа, Истихара, и другие ду'а",
+                "descriptionEn": "We have several Du'a from the Quran and Sunnah in the Listen tab. Du'a is a supplication, i.e. it is the action of asking for something from Allah with earnesty, humbleness, and hope.\n\nThe latest addition is the duas that begin with the phrase 'Rabbanaa' ('Our Lord!'). These are the duas from the Qur'an that were utterred by the prophets (peace be upon them) and their righteous followers, and from them we learn what kind of things to ask from Allah the Most High.\n\nEarlier, we've added Istikhara, which is a nafl prayer followed by a special dua. We say it when making a decision, and from it we learn how to rely on Allah's infinite Knowledge and Power over our own limited capabilities.\n\nInshaAllah, in the future we'll add other du'a from the Sunnah, and also compile a short guide on the ettiquettes of du'a. In the meantime, do check the Du'a section out in the Listen tab, and let's ask Allah often, as He loves when we call unto Him.\n\nWe ask Allah to guide us to the best of things, and to give us the success of calling unto Him in the most beautiful way, and that our du'a are accepted! Ameen!",
+                "descriptionRu": "У нас есть дуа из Корана и Сунны во вкладке Аудио. Дуа - это когда мы взываем к Аллаху и просим Его о чем-то с искренностью и доверием.\n\nВ одном из последних релизов мы добавили дуа, начинающиеся с фразы «Раббанаа» (Господь наш!). Это дуа из Корана, которые произносили пророки (мир им) и их праведные последователи. У них мы можем учиться тому, как и о чем просить у Всевышнего Аллаха.\n\nДо этого мы добавил Истихару. Истихара – это дополнительный намаз, за которым следует особое дуа. Мы можем произносить его, принимая решение. Истихара учит нас, как полагаться на Всезнающего и Всемогущего Аллаха.\n\nИншаАллах, в будущем мы также планируем добавить дуа из Сунны и составить краткую статью, о том как правильно делать дуа. Ну а пока, обязательно посмотрите вкладку «Аудио».\n\nДавайте часто просить Аллаха, так как Он любит, когда мы взываем к Нему. Мы просим Аллаха принять наши дуа и направить нас к всему самому лучшему! Амин!",
+                "dateEn": "Aug 13",
+                "dateRu": "13.08.23",
+                "urlEn": "",
+                "urlRu": "",
+                "icon": "play.square"
+            },
+            {
                 "id": "999010",
                 "showEn": 1,
                 "showRu": 1,
                 "type": "audio",
-                "titleEn": "Adhan and Iqamah",
+                "titleEn": "Adhan and iqamah",
                 "titleRu": "Азан и Иқамат",
                 "descriptionEn": "You can now find Iqamah in the Audios section.\n\nIqamah is the call to prayer that is given after Adhan and right before the prayer starts. It is an emphasized sunnah for men to say the Iqamah before starting a fard prayer.\n\nImportant to mention that it is also recommended to make dua in the period between Adhan and Iqamah, as the Messenger of Allah (ﷺ) said: 'The supplication made between the Adhan and the Iqamah is not rejected.' [Abu Dawud]. In fact, there is a special dua that is made straight after adhan, and we'll inshaAllah add it in the future updates.",
                 "descriptionRu": "Во вкладке Аудио теперь можно найти Икамат.\n\nИкамат - это призыв-оповещение о начале намаза, который дают уже после Азана непосредственно перед совершением молитвы. Читать Икамат перед фард намазом - это закрепленная сунна для мужчин.\n\nВажно упомянуть, что рекоммендуется делать дуа в промежуток между азаном и иқаматом. В хадисе говорится: \"Дуа между азаном и иқаматом не будет отвергнуто\" [Абу Дауд]. Есть специальное дуа, которое произноситься после азана. ИншаАллах, его мы добавим в будущих обновлениях.",
@@ -80,7 +95,7 @@
                 "showEn": 1,
                 "showRu": 0,
                 "type": "settings",
-                "titleEn": "Presence in Social Media",
+                "titleEn": "Presence in social media",
                 "titleRu": "Аккаунты в социальных сетях",
                 "descriptionEn": "We are activating our social media channels, among them Youtube, Telegram, and Twitter.\n\nWe also released our first video on how actions are classified in Islam. In it, we review how actions are prioritized and what this prioritization means for us.\n\nThe links to all of our accounts can be found in the 'Settings' tab.\n\nMay Allah put benefit into this effort and protect us from the harm of these 'nets'.",
                 "descriptionRu": "Мы активизируем наши социальные аккаунты в Ютуб, Телеграм и Твиттер.\n\nПросим у Аллаха, чтобы он вложил в это дело пользу, и защитил нас от зла этих 'сетей'.",
@@ -89,21 +104,6 @@
                 "urlEn": "",
                 "urlRu": "",
                 "icon": "network"
-            },
-            {
-                "id": "999007",
-                "showEn": 1,
-                "showRu": 1,
-                "type": "audio",
-                "titleEn": "Dua Istikhara",
-                "titleRu": "Дуа Истихара",
-                "descriptionEn": "We've made dua Istikhara available in the Audios section. Many people where asking about it lately, seems like now is the time a lot of us are making decisions in life. May Allah guide us to the best of things! Ameen!",
-                "descriptionRu": "Мы сделали дуа Истихара доступным в разделе Аудио. В последнее время нас часто спрашивали об этом дуа, похоже, что сейчас время когда многие из принимают решения. Да направит нас Аллах к тому, что хорошо для нас! Амин",
-                "dateEn": "Jun 20",
-                "dateRu": "20.06.23",
-                "urlEn": "",
-                "urlRu": "",
-                "icon": "play.square"
             },
             {
                 "id": "prayer_time",
