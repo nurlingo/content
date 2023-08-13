@@ -28,7 +28,7 @@
                 "id": "notification_settings",
                 "type": "action",
                 "titleEn": "Notification settings",
-                "descriptionEn": "Get extra configurations for notifications, including choosing the sound for each particular prayer.",
+                "descriptionEn": "Get extra configurations for notifications, including choosing the sound for each prayer.",
                 "showEn": 1,
                 "titleRu": "Настройка уведомлений",
                 "descriptionRu": "Вы сможете настраивать уведомления, в том числе выбирать звук уведомления для каждого намаза.",
@@ -36,21 +36,15 @@
                 "icon": "gear.badge"
             },
             {
-                "id": "group_call",
-                "type": "link",
-                "titleRu": "Созвоны с разработчиками",
-                "descriptionRu": "Раз в неделю мы проводим аудио созвон для премиум-подписчиков, на котором обсуждаем вопросы и общаемся.\n\nПринимать участие в дискуссии можно либо через сообщения в чате, либо использовуя микрофон. Камеры не включаем.",
-                "showRu": 1,
-                "urlRu": "https://meet.google.com/emb-qmtk-han",
-                "dateRu": "2023-08-09T15:00:00Z",
-                "dateCommentRu": "Следующий созвон планируется:\n",
-                "titleEn": "Weekly office hours",
-                "descriptionEn": "Once a week we host an audio call for premium members. Join it to ask questions, chat, or simply say salam. You can participate through text or using the microphone. No cameras, audio and text only.",
-                "dateEn": "2023-08-09T17:00:00Z",
-                "dateCommentEn": "The next call is planned on: ",
+                "id": "account",
+                "type": "action",
+                "titleEn": "Learner Profile",
+                "descriptionEn": "You get to see your activities history and your profile information.",
                 "showEn": 1,
-                "urlEn": "https://meet.google.com/emb-qmtk-han",
-                "icon": "rectangle.3.group.bubble.left"
+                "titleRu": "Профиль обучающегося",
+                "descriptionRu": "Вы можете увидеть свою пользовательскую историю и другую информацию своего профиля.",
+                "showRu": 1,
+                "icon": "graduationcap.circle"
             },
             {
                 "id": "telegram_chat",
@@ -66,15 +60,21 @@
                 "icon": "paperplane.circle"
             },
             {
-                "id": "account",
-                "type": "action",
-                "titleEn": "Create an account (early access)",
-                "descriptionEn": "At the moment, we are testing user accounts. If you register, we'll see you as premium user in our database. Also, if you register an account and enable the notifications, we can notify you on meetings and updates.",
-                "showEn": 1,
-                "titleRu": "Создание аккаунта (ранний доступ)",
-                "descriptionRu": "Сейчас мы внедряем пользовательские аккаунты. Это позволит нам видеть вас как премиум-пользователя в нашей базе, а также уведомлять вас о встречах и обновлениях, если у вас включены уведомления.",
+                "id": "group_call",
+                "type": "link",
+                "titleRu": "Созвоны с разработчиками",
+                "descriptionRu": "Раз в неделю мы проводим аудио созвон для премиум-подписчиков.",
                 "showRu": 1,
-                "icon": "person.circle"
+                "urlRu": "https://meet.google.com/emb-qmtk-han",
+                "dateRu": "2023-08-16T14:00:00Z",
+                "dateCommentRu": "Следующий созвон:\n",
+                "titleEn": "Weekly office hours",
+                "descriptionEn": "Once a week we host an audio call for premium members.",
+                "dateEn": "2023-08-16T17:00:00Z",
+                "dateCommentEn": "The next call is on: ",
+                "showEn": 1,
+                "urlEn": "https://meet.google.com/emb-qmtk-han",
+                "icon": "rectangle.3.group.bubble.left"
             }
         ]
     },
@@ -131,6 +131,28 @@
                 "descriptionRu": "Если вы хотите вернуть деньги за совершенную покупку, вам необходимо заполнить форму на официальном сайте Apple.",
                 "showRu": 1
                 
+            }
+        ]
+    },
+    {
+        "id": "contact_developer",
+        "titleRu": "Свяжитесь с нами",
+        "descriptionRu": "",
+        "titleEn": "Contact us",
+        "descriptionEn": "",
+        "items": [
+            {
+                "id": "contact_developer",
+                "type": "link",
+                "urlRu": "https://api.whatsapp.com/send?phone=+77765206766&text=%D0%90%D1%81%D1%81%D0%B0%D0%BB%D1%8F%D0%BC%D1%83%20%27%D0%B0%D0%BB%D1%8F%D0%B9%D0%BA%D1%83%D0%BC%21%20%D0%AF%20%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D1%8E%20%D0%9D%D0%B0%D0%BC%D0%B0%D0%B7%D0%90%D0%BF%D0%BF.",
+                "titleRu": "Задать\nвопрос",
+                "descriptionRu": "",
+                "showRu": 1,
+                "urlEn": "https://api.whatsapp.com/send?phone=+77765206766&text=As-salaamu%20%27alaikum!%20I%27m%20using%20NamazApp.%20I%20have%20the%20following%20question%20or%20suggestion:",
+                "titleEn": "Ask\na question",
+                "descriptionEn": "",
+                "showEn": 1,
+                "icon": "questionmark.bubble"
             }
         ]
     }
