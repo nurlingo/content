@@ -17,10 +17,10 @@
                 "id": "002001005",
                 "type": "listen",
                 "titleEn": "Premium content",
-                "descriptionEn": "You will get 5 additional items in the 'Audios' section.",
+                "descriptionEn": "You will get additional items in the 'Audios' section.",
                 "showEn": 1,
                 "titleRu": "Премиум-контент",
-                "descriptionRu": "Вы получите 5 дополнительных дорожек в разделе 'Аудио'.",
+                "descriptionRu": "Вы получите дополнительные дорожки в разделе 'Аудио'.",
                 "showRu": 1,
                 "icon": "beats.headphones"
             },
