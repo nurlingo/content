@@ -239,19 +239,18 @@
             "descriptionEn": "",
             "lessons": [
                 {
-                    "id": "faith_faq",
+                    "id": "shahadah",
                     "type": "article",
-                    "urlRu": "https://sites.google.com/view/faith-questions",
-                    "titleRu": "Вопросы и ответы о вере",
-                    "descriptionRu": "Просто о важном",
+                    "urlRu": "https://sites.google.com/view/islam-and-iman",
+                    "titleRu": "Врата, ведущие в Ислам",
                     "showRu": 1,
                     "urlEn": "https://www.namaz.live/shahadah",
-                    "titleEn": "The Declaration of Faith",
+                    "titleEn": "Shahadah: The Declaration of Faith",
                     "descriptionEn": "What makes one a Muslim",
                     "showEn": 1
                 },
                 {
-                    "id": "shahada",
+                    "id": "shahadah-quiz",
                     "type": "test",
                     "urlRu": "",
                     "titleRu": "Свидетельство веры",
@@ -263,13 +262,25 @@
                     "showEn": 1
                 },
                 {
+                    "id": "iman",
+                    "type": "article",
+                    "urlRu": "https://sites.google.com/view/faith-questions",
+                    "titleRu": "Вопросы и ответы о вере",
+                    "descriptionRu": "Просто о важном",
+                    "showRu": 1,
+                    "urlEn": "https://www.namaz.live/iman",
+                    "titleEn": "Iman: true faith",
+                    "descriptionEn": "What makes one a Muslim",
+                    "showEn": 1
+                },
+                {
                     "id": "hadith_on_niyyah",
                     "type": "article",
                     "urlRu": "https://sites.google.com/view/niyyah-ru",
-                    "titleRu": "Намерение и искренность",
+                    "titleRu": "Хадис о намерении",
                     "showRu": 1,
                     "urlEn": "https://www.namaz.live/intention",
-                    "titleEn": "Intention and Sincerity",
+                    "titleEn": "The Hadith of intention",
                     "descriptionEn": "Something emphasized in our deen",
                     "showEn": 1
                 },
@@ -277,11 +288,11 @@
                     "id": "islam_imaan_ihsan",
                     "type": "article",
                     "urlRu": "https://sites.google.com/view/islam-and-iman",
-                    "titleRu": "Врата, ведущие в Ислам",
-                    "showRu": 1,
+                    "titleRu": "Хадис Джибриля (мир ему)",
+                    "showRu": 0,
                     "urlEn": "https://www.namaz.live/islam-iman-ihsan",
-                    "titleEn": "Islam, Iman, and Ihsan",
-                    "descriptionEn": "Jibreel (peace be upon him) visits Muslims",
+                    "titleEn": "The Hadith of Jibreel (peace be upon him)",
+                    "descriptionEn": "Islam, Iman, Ihsan",
                     "showEn": 1
                 },
                 {
@@ -293,24 +304,14 @@
                     "urlEn": "https://sites.google.com/view/hadith-of-jibreel/home",
                     "titleEn": "What have they discussed?",
                     "showEn": 1
-                },
-                {
-                    "id": "dhul-hijjah",
-                    "type": "article",
-                    "urlRu": "https://www.namaz.live/dhul-hijjah-ru",
-                    "titleRu": "Зуль-Хиджа: первые 10 дней",
-                    "showRu": 1,
-                    "urlEn": "https://www.namaz.live/dhul-hijjah",
-                    "titleEn": "The 10 days of Dhul Hijjah",
-                    "showEn": 1
                 }
             ]
         },
         {
             "id": "ramadan",
-            "titleRu": "Рамадан",
+            "titleRu": "Рамадан и другие особые даты",
             "descriptionRu": "",
-            "titleEn": "Ramadan",
+            "titleEn": "Ramadan and other special dates",
             "descriptionEn": "",
             "lessons": [
                 {
@@ -346,6 +347,16 @@
                     "urlEn": "https://www.namaz.live/laylatul-qadr",
                     "titleEn": "Laylatul Qadr: the Night of Divine Decree",
                     "descriptionEn": "",
+                    "showEn": 1
+                },
+                {
+                    "id": "dhul-hijjah",
+                    "type": "article",
+                    "urlRu": "https://www.namaz.live/dhul-hijjah-ru",
+                    "titleRu": "Зуль-Хиджа: первые 10 дней",
+                    "showRu": 1,
+                    "urlEn": "https://www.namaz.live/dhul-hijjah",
+                    "titleEn": "The 10 days of Dhul Hijjah",
                     "showEn": 1
                 }
             ]
