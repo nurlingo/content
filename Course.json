@@ -274,6 +274,18 @@
                     "showEn": 1
                 },
                 {
+                    "id": "quran",
+                    "type": "article",
+                    "urlRu": "https://www.namaz.live/quran-ru",
+                    "titleRu": "Коран: Книга Аллаха",
+                    "descriptionRu": "",
+                    "showRu": 0,
+                    "urlEn": "https://www.namaz.live/quran",
+                    "titleEn": "Al Quran: the Book of Allah",
+                    "descriptionEn": "",
+                    "showEn": 1
+                },
+                {
                     "id": "hadith_on_niyyah",
                     "type": "article",
                     "urlRu": "https://sites.google.com/view/niyyah-ru",
