@@ -50,7 +50,7 @@
         "commentRu": "",
         "titleEn": "Prayer rules",
         "commentEn": "",
-        "lessons": [
+        "items": [
             {
                 "id": "prayer_essentials",
                 "type": "article",
@@ -95,7 +95,7 @@
         "commentRu": "",
         "titleEn": "Taharah: physical purity",
         "commentEn": "Taharah means purification. Let's look into cleaning one's body, cloth and place of prayer.",
-        "lessons": [
+        "items": [
             {
                 "id": "purity_types",
                 "type": "article",
@@ -152,7 +152,7 @@
         "commentRu": "",
         "titleEn": "Taharah: ritual purity",
         "commentEn": "Being in a state of ritual purity is a prerequisite of prayer. Let's see how we can aqcuire it.",
-        "lessons": [
+        "items": [
             {
                 "id": "wudu_key",
                 "type": "test",
@@ -233,7 +233,7 @@
         "commentRu": "",
         "titleEn": "Strengthen your iman",
         "commentEn": "",
-        "lessons": [
+        "items": [
             {
                 "id": "faith_faq",
                 "type": "article",
@@ -308,7 +308,7 @@
         "commentRu": "",
         "titleEn": "Ramadan",
         "commentEn": "",
-        "lessons": [
+        "items": [
             {
                 "id": "ramadan_faq",
                 "type": "article",
