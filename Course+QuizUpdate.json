@@ -206,14 +206,14 @@
                     "showEn": 1
                 },
                 {
-                    "id": "ghusl_quiz",
+                    "id": "performing_ghusl",
                     "type": "test",
                     "urlRu": "",
                     "titleRu": "Действия в вуду",
                     "descriptionRu": "Проверьте свое понимание",
                     "showRu": 0,
                     "urlEn": "",
-                    "titleEn": "Ghusl quiz",
+                    "titleEn": "Performing ghusl",
                     "descriptionEn": "Check your understanding",
                     "showEn": 1
                 },
@@ -230,14 +230,14 @@
                     "showEn": 1
                 },
                 {
-                    "id": "wudu_quiz",
+                    "id": "performing_wudu",
                     "type": "test",
                     "urlRu": "",
                     "titleRu": "Действия в вуду",
                     "descriptionRu": "Проверьте свое понимание",
                     "showRu": 0,
                     "urlEn": "",
-                    "titleEn": "Wudu quiz",
+                    "titleEn": "Performing wudu",
                     "descriptionEn": "Check your understanding",
                     "showEn": 1
                 },
