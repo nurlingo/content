@@ -66,20 +66,18 @@
                 ],
                 "source": "https://www.namaz.live/action-categories"
             }
-        }
-    ],
-    "ghusl_quiz": [
+        },
         {
             "type":"TrueOrFalse",
             "body":{
-                "title": "Fard of Ghusl",
+                "title": "Intention in Wudu",
                 "question": "Is the statement below true or false?",
                 "hint": "",
                 "syntaxHighlighting": true,
                 "correct": [
                     {
-                        "answer": "To fulfill the fard of ghusl, you need to:\n- wash your entire body,\n- rinse your mouth,\n- rinse your nose.",
-                        "reason": "These actions are indeed the necessary minimum of ghusl"
+                        "answer": "It is sunnah to make an intention to perform wudu",
+                        "reason": "Making an intention is indeed sunnah of wudu in Hanafi. However, other schools consider it fard, so better not to miss it."
                     }
                 ],
                 "wrong": [],
@@ -87,54 +85,19 @@
             }
         },
         {
-            "type":"RearrangeTheLines",
-            "body":{
-                "title": "Ghusl according to sunnah",
-                "question":"Put the steps of performing ghusl in the desired order.",
-                "hint":"",
-                "components":"Make the intention for ghusl\nsay Bismillahir-Rahmanir-Raheem\ntake off the cloth\nwash hands until the wrists\nwash private parts\nwash any filth from the body\nrinse mouth and nose properly\nperform wudu\npour water and wash entire body",
-                "source": "https://www.namaz.live/ghusl"
-            }
-        },
-        {
-            "type":"PredictTheOutput",
-            "body":{
-                "title": "Ghusl and Public Places",
-                "question":"Is it okay to reveal one's nudity while performing ghusl in public places?",
-                "hint":"",
-                "answers":[
-                    {
-                        "correctTexts": [
-                            "No", "no", "NO", "false", "False"
-                        ]
-                    }
-                ],
-                "source": "https://www.namaz.live/ghusl"
-            }
-        }
-    ],
-    "wudu_quiz": [
-        {
-            "type": "PredictTheOutput",
+            "type": "TrueOrFalse",
             "body": {
-                "title": "Number of Obligatory Actions",
-                "question": "How many obligatory actions are there in wudu?",
+                "title": "Obligatory Actions in Wudu",
+                "question": "True or false?",
                 "hint": "",
-                "answers": [
+                "syntaxHighlighting": false,
+                "correct": [
                     {
-                        "correctTexts": ["4", "Four"]
+                        "answer": "Washing the face is an obligatory action in wudu",
+                        "reason": "Washing the face is one of the obligatory actions in wudu. It is necessary to wash the entire face, from the top of the forehead to the bottom of the chin, and from one earlobe to the other."
                     }
                 ],
-                "source": "https://www.namaz.live/wudu"
-            }
-        },
-        {
-            "type":"RearrangeTheLines",
-            "body":{
-                "title": "Fard steps in wudu",
-                "question":"Arrange the fard steps of wudu in the correct order.",
-                "hint":"",
-                "components":"Wash the face\nwash the hands and arms\nwipe the head\nwash the feet",
+                "wrong": [],
                 "source": "https://www.namaz.live/wudu"
             }
         },
@@ -169,149 +132,94 @@
         {
             "type":"MultipleSelection",
             "body":{
-                "title":"Non-Obligatory Actions in Wudu (Ablution)",
-                "question":"What are some of the non-obligatory but recommended actions in Wudu (Ablution)?",
+                "title":"Sunnah of Ablution",
+                "question":"What sunnah principles should be observed while performing Wudu (Ablution)?",
                 "hint":"",
                 "syntaxHighlighting":true,
                 "correct":[
                     {
-                        "answer":"Using a toothstick (miswak)",
-                        "reason":"Using a toothstick (miswak) is not an obligatory action in ablution. In the absence of a toothstick, the thumb and index finger of the right hand can be used."
+                        "answer":"Maintaining continuity and order",
+                        "reason":"Maintaining continuity and order is a principle in performing ablution."
                     },
                     {
-                        "answer":"Rinsing the entire mouth and the soft part of the nose three times",
-                        "reason":"Rinsing the entire mouth and the soft part of the nose three times is not an obligatory action in ablution."
-                    }
-                ],
-                "wrong":[
+                        "answer":"Rubbing the body parts while washing them",
+                        "reason":"Rubbing the body parts while washing them is a principle in performing ablution."
+                    },
                     {
-                        "answer":"Washing the hair",
-                        "reason":"Washing the hair is not a recommended action in ablution."
+                        "answer":"When fasting, be careful to not let water down the throat while rinsing mouth and nose",
+                        "reason":"When fasting, avoid gargling and only rinse the soft part of the nose."
                     }
                 ],
+                "wrong":[],
                 "source": "https://www.namaz.live/wudu"
             }
         },
         {
-            "type":"MultipleSelection",
+            "type":"PredictTheOutput",
             "body":{
-                "title":"Actions in Wudu",
-                "question":"Which of these are among the sunnahs of wudu?",
+                "title": "Number of times according to sunnah",
+                "question":"How many times do you wash face, hands, and feet during wudu?",
                 "hint":"",
-                "syntaxHighlighting":true,
-                "correct":[
+                "answers":[
                     {
-                        "answer":"Rinsing the mouth and nose",
-                        "reason":""
-                    },
-                    {
-                        "answer":"Using miswak",
-                        "reason":"Miswak is a toothstick, it is sunnah to brush the teeth during wudu. In the absence of a toothstick, the thumb and index finger of the right hand can be used."
-                    },
-                    {
-                        "answer":"Saying Basmala",
-                        "reason":"BismiLlaahir-Rahmaanir-Raheem."
+                        "correctTexts": [
+                            "three", "3", "Three"
+                        ],
+                        "reason": "The face and limbs are washed three times during wudu.",
+                        "source": "https://www.namaz.live/wudu"
                     }
-                ],
-                "wrong":[
-                    {
-                        "answer":"Washing the belly",
-                        "reason":"It is not a part of wudu."
-                    }
-                ],
-                "source": "https://www.namaz.live/wudu"
+                ]
             }
         },
         {
-           "type":"RearrangeTheLines",
-           "body":{
-               "title": "Wudu according to sunnah",
-               "question":"Put the actions of wudu in the correct order.",
-               "hint":"The intention comes first",
-               "components": "Make an intention to perform wudu\nSay Bismillahir-Rahmanir-Raheem\nWash your hands up to the wrists\nUse miswak to brush your teeth\nRinse your mouth and nose three times\nWash your face three times\nRun wet fingers through the beard\nWash the hands and arm up to and including the elbows\nWipe the entire head once, and ears with the same water\nWash both feet up to and including the ankles, while using fingers to wash between the toes"
-           },
-           "source": "https://www.namaz.live/wudu"
-        },
-        {
-            "type":"TrueOrFalse",
-            "body":{
-                "title": "Intention in Wudu",
-                "question": "Is the statement below true or false?",
-                "hint": "",
-                "syntaxHighlighting": true,
-                "correct": [
-                    {
-                        "answer": "It is sunnah to make an intention to perform wudu",
-                        "reason": "Making an intention is indeed sunnah of wudu in Hanafi. However, other schools consider it fard, so better not to miss it."
-                    }
-                ],
-                "wrong": [],
-                "source": "https://www.namaz.live/wudu"
-            }
-        },
-        {
-            "type": "TapToWrite",
+            "type": "MultipleSelection",
             "body": {
-                "title": "The First Obligatory Action",
-                "question": "What is the first obligatory action in wudu?",
-                "hint": "",
-                "existingText": "",
-                "components": [
-                    "Wash",
-                    "the",
-                    "face"
-                ],
-                "source": "https://www.namaz.live/wudu"
-            }
-        },
-        {
-            "type": "TrueOrFalse",
-            "body": {
-                "title": "Obligatory Actions in Wudu",
-                "question": "True or false?",
+                "title": "Washing the Feet",
+                "question": "How far up must the feet be washed during wudu?",
                 "hint": "",
                 "syntaxHighlighting": false,
                 "correct": [
                     {
-                        "answer": "Washing the face is an obligatory action in wudu",
-                        "reason": "Washing the face is one of the obligatory actions in wudu. It is necessary to wash the entire face, from the top of the forehead to the bottom of the chin, and from one earlobe to the other."
+                        "answer": "Up to and including the ankles",
+                        "reason": "This is fard in wudu."
                     }
                 ],
-                "wrong": [],
-                "source": "https://www.namaz.live/wudu"
-            }
-        },
-        {
-            "type": "TapToWrite",
-            "body": {
-                "title": "The Second Obligatory Action",
-                "question": "What is the second obligatory action in wudu?",
-                "hint": "",
-                "existingText": "",
-                "components": [
-                    "Wash",
-                    "the",
-                    "hands",
-                    "and",
-                    "arms"
+                "wrong": [
+                    {
+                        "answer": "Only the soles of the feet",
+                        "reason": "Washing only the soles of the feet is not sufficient for fulfilling the obligatory action of washing the feet in wudu."
+                    },
+                    {
+                        "answer": "Up to the knees",
+                        "reason": "Washing the feet up to the knees is not required in wudu."
+                    }
                 ],
                 "source": "https://www.namaz.live/wudu"
             }
         },
         {
-            "type":"TrueOrFalse",
-            "body":{
-                "title": "Wudu and Nail Polish",
-                "question": "Is the statement below true or false?",
+            "type": "MultipleSelection",
+            "body": {
+                "title": "Fard of Wiping the Head",
+                "question": "How much of the head MUST be wiped during wudu?",
                 "hint": "",
-                "syntaxHighlighting": true,
+                "syntaxHighlighting": false,
                 "correct": [
                     {
-                        "answer": "Nail polish must be removed before performing wudu",
-                        "reason": "All substances blocking water from reaching the nails or skin must be removed before performing the wudu."
+                        "answer": "At least a quarter of the head",
+                        "reason": "A quarter of the head is around the size of your palm."
                     }
                 ],
-                "wrong": [],
+                "wrong": [
+                    {
+                        "answer": "The entire head",
+                        "reason": "It is not obligatory to be wipe the whole head, rather it is recommended."
+                    },
+                    {
+                        "answer": "Only the hairline",
+                        "reason": "Only wiping the hairline is not sufficient."
+                    }
+                ],
                 "source": "https://www.namaz.live/wudu"
             }
         },
@@ -379,47 +287,6 @@
             }
         },
         {
-            "type": "TapToWrite",
-            "body": {
-                "title": "The Third Obligatory Action",
-                "question": "What is the third obligatory action in wudu?",
-                "hint": "",
-                "existingText": "",
-                "components": [
-                    "Wipe",
-                    "the",
-                    "head"
-                ],
-                "source": "https://www.namaz.live/wudu"
-            }
-        },
-        {
-            "type": "MultipleSelection",
-            "body": {
-                "title": "Fard of Wiping the Head",
-                "question": "How much of the head MUST be wiped during wudu?",
-                "hint": "",
-                "syntaxHighlighting": false,
-                "correct": [
-                    {
-                        "answer": "At least a quarter of the head",
-                        "reason": "A quarter of the head is around the size of your palm."
-                    }
-                ],
-                "wrong": [
-                    {
-                        "answer": "The entire head",
-                        "reason": "It is not obligatory to be wipe the whole head, rather it is recommended."
-                    },
-                    {
-                        "answer": "Only the hairline",
-                        "reason": "Only wiping the hairline is not sufficient."
-                    }
-                ],
-                "source": "https://www.namaz.live/wudu"
-            }
-        },
-        {
             "type":"TrueOrFalse",
             "body":{
                 "title": "Wiping the ears",
@@ -435,81 +302,6 @@
                 ],
                 "wrong": [
                 ]
-            }
-        },
-        {
-            "type": "TapToWrite",
-            "body": {
-                "title": "The Fourth Obligatory Action",
-                "question": "What is the fourth obligatory action in wudu?",
-                "hint": "",
-                "existingText": "",
-                "components": [
-                    "Wash",
-                    "the",
-                    "feet"
-                ],
-                "source": "https://www.namaz.live/wudu"
-            }
-        },
-        {
-            "type": "MultipleSelection",
-            "body": {
-                "title": "Washing the Feet",
-                "question": "How far up must the feet be washed during wudu?",
-                "hint": "",
-                "syntaxHighlighting": false,
-                "correct": [
-                    {
-                        "answer": "Up to and including the ankles",
-                        "reason": "This is fard in wudu."
-                    }
-                ],
-                "wrong": [
-                    {
-                        "answer": "Only the soles of the feet",
-                        "reason": "Washing only the soles of the feet is not sufficient for fulfilling the obligatory action of washing the feet in wudu."
-                    },
-                    {
-                        "answer": "Up to the knees",
-                        "reason": "Washing the feet up to the knees is not required in wudu."
-                    }
-                ],
-                "source": "https://www.namaz.live/wudu"
-            }
-        },
-        {
-            "type":"PredictTheOutput",
-            "body":{
-                "title": "Number of times according to sunnah",
-                "question":"How many times do you wash face, hands, and feet during wudu?",
-                "hint":"",
-                "answers":[
-                    {
-                        "correctTexts": [
-                            "three", "3", "Three"
-                        ],
-                        "reason": "The face and limbs are washed three times during wudu.",
-                        "source": "https://www.namaz.live/wudu"
-                    }
-                ]
-            }
-        },
-        {
-            "type":"TrueOrFalse",
-            "body":{
-                "title": "Wounds in wudu",
-                "question": "Is the statement below true or false?",
-                "hint": "",
-                "syntaxHighlighting": true,
-                "correct": [
-                    {
-                        "answer": "If you have open wounds that cannot be washed, it's sufficient to wipe the wound or bandage during wudu",
-                        "reason": "Shari'ah gives us dispensations to avoid harm to our health"
-                    }
-                ],
-                "wrong": [],
-                "source": "https://www.namaz.live/wudu"
             }
         },
         {
@@ -533,13 +325,172 @@
         {
             "type":"TrueOrFalse",
             "body":{
-                "title": "The Role of Water in Ablution",
+                "title": "Wounds in wudu",
                 "question": "Is the statement below true or false?",
                 "hint": "",
                 "syntaxHighlighting": true,
                 "correct": [
                     {
-                        "answer": "When washing the face, arms and feet the water has to cover all the demarcated areas, without leaving a dry place. Washing must have water dripping, with the minimum of two drops",
+                        "answer": "If you have open wounds that cannot be washed, it's sufficient to wipe the wound or bandage during wudu",
+                        "reason": "Shari'ah gives us dispensations to avoid harm to our health."
+                    }
+                ],
+                "wrong": [],
+                "source": "https://www.namaz.live/wudu"
+            }
+        }
+    ],
+    "performing_ghusl": [
+        {
+            "type":"TrueOrFalse",
+            "body":{
+                "title": "Fard of Ghusl",
+                "question": "Is the statement below true or false?",
+                "hint": "",
+                "syntaxHighlighting": true,
+                "correct": [
+                    {
+                        "answer": "To fulfill the fard of ghusl, you need to:\n- wash your entire body,\n- rinse your mouth,\n- rinse your nose.",
+                        "reason": "These actions are indeed the necessary minimum of ghusl"
+                    }
+                ],
+                "wrong": [],
+                "source": "https://www.namaz.live/wudu"
+            }
+        },
+        {
+            "type":"RearrangeTheLines",
+            "body":{
+                "title": "Ghusl according to sunnah",
+                "question":"Put the steps of performing ghusl in the desired order.",
+                "hint":"",
+                "components":"Make the intention for ghusl\nsay Bismillahir-Rahmanir-Raheem\ntake off the cloth\nwash hands until the wrists\nwash private parts\nwash any filth from the body\nrinse mouth and nose properly\nperform wudu\npour water and wash entire body",
+                "source": "https://www.namaz.live/ghusl"
+            }
+        },
+        {
+            "type":"PredictTheOutput",
+            "body":{
+                "title": "Ghusl and Public Places",
+                "question":"Is it okay to reveal one's nudity while performing ghusl in public places?",
+                "hint":"",
+                "answers":[
+                    {
+                        "correctTexts": [
+                            "No", "no", "NO", "false", "False"
+                        ]
+                    }
+                ],
+                "source": "https://www.namaz.live/ghusl"
+            }
+        }
+    ],
+    "performing_wudu": [
+        {
+            "type": "PredictTheOutput",
+            "body": {
+                "title": "Fard Actions",
+                "question": "How many obligatory (fard) actions are there in wudu?",
+                "hint": "",
+                "answers": [
+                    {
+                        "correctTexts": ["4", "Four", "four"]
+                    }
+                ],
+                "source": "https://www.namaz.live/wudu"
+            }
+        },
+        {
+            "type":"RearrangeTheLines",
+            "body":{
+                "title": "Fard steps in wudu",
+                "question":"Arrange the fard steps of wudu in the correct order.",
+                "hint":"",
+                "components":"Wash the face\nwash the hands and arms\nwipe the head\nwash the feet",
+                "source": "https://www.namaz.live/wudu"
+            }
+        },
+        {
+            "type": "TapToWrite",
+            "body": {
+                "title": "The First Fard of Wudu",
+                "question": "What is the first obligatory action in wudu?",
+                "hint": "",
+                "existingText": "",
+                "components": [
+                    "Wash the entire face,",
+                    "from the top",
+                    "of the forehead",
+                    "to the bottom",
+                    "of the chin,",
+                    "and from one earlobe",
+                    "to the other."
+                ],
+                "source": "https://www.namaz.live/wudu"
+            }
+        },
+        {
+            "type": "TapToWrite",
+            "body": {
+                "title": "The Second Fard of Wudu",
+                "question": "What is the second obligatory action in wudu?",
+                "hint": "",
+                "existingText": "",
+                "components": [
+                    "Wash",
+                    "the hands",
+                    "and arms",
+                    "up to",
+                    "and including",
+                    "the elbows."
+                ],
+                "source": "https://www.namaz.live/wudu"
+            }
+        },
+        {
+            "type":"TrueOrFalse",
+            "body":{
+                "title": "Wudu and Nail Polish",
+                "question": "Is the statement below true or false?",
+                "hint": "",
+                "syntaxHighlighting": true,
+                "correct": [
+                    {
+                        "answer": "Nail polish must be removed before performing wudu",
+                        "reason": "All substances blocking water from reaching the nails or skin must be removed before performing the wudu."
+                    }
+                ],
+                "wrong": [],
+                "source": "https://www.namaz.live/wudu"
+            }
+        },
+        {
+            "type": "TapToWrite",
+            "body": {
+                "title": "The Third Fard of Wudu",
+                "question": "What is the third obligatory action in wudu?",
+                "hint": "",
+                "existingText": "",
+                "components": [
+                    "Wipe",
+                    "at least a quarter",
+                    "of the head",
+                    "with wet",
+                    "hands."
+                ],
+                "source": "https://www.namaz.live/wudu"
+            }
+        },
+        {
+            "type":"TrueOrFalse",
+            "body":{
+                "title": "Washing vs wiping",
+                "question": "Is the statement below true or false?",
+                "hint": "",
+                "syntaxHighlighting": true,
+                "correct": [
+                    {
+                        "answer": "Washing means the water has to cover all the demarcated areas, without leaving a dry place. Washing is different from wiping, as washing has some water dripping, at least a couple of drops.",
                         "reason": "This is true. Adequate use of water is required for washing during ablution."
                     }
                 ],
@@ -549,29 +500,89 @@
             }
         },
         {
+            "type": "TapToWrite",
+            "body": {
+                "title": "The Fourth Fard of Wudu",
+                "question": "What is the fourth obligatory action in wudu?",
+                "hint": "",
+                "existingText": "",
+                "components": [
+                    "Wash",
+                    "the feet",
+                    "up to",
+                    "and including",
+                    "the ankles."
+                ],
+                "source": "https://www.namaz.live/wudu"
+            }
+        },
+        {
             "type":"MultipleSelection",
             "body":{
-                "title":"Sunnah of Ablution",
-                "question":"What sunnah principles should be observed while performing Wudu (Ablution)?",
+                "title":"Sunnahs of Wudu",
+                "question":"Which of these are among the sunnahs of wudu?",
                 "hint":"",
                 "syntaxHighlighting":true,
                 "correct":[
                     {
-                        "answer":"Maintaining continuity and order",
-                        "reason":"Maintaining continuity and order is a principle in performing ablution."
+                        "answer": "Making an intention",
+                        "reason": "Making an intention is indeed a sunnah act of wudu according to Hanafi madhhab. However, other schools consider it fard, so better not to miss it."
+                    },
+                    {
+                        "answer":"Rinsing the mouth and nose",
+                        "reason":"Rinse three times. Use right hand to take water in, and left hand to blow it out."
+                    },
+                    {
+                        "answer":"Using miswak",
+                        "reason":"Miswak is a toothstick, it is sunnah to brush the teeth during wudu. In the absence of a toothstick, the thumb and index finger of the right hand can be used."
+                    },
+                    {
+                        "answer":"Saying Basmala",
+                        "reason":"BismiLlaahir-Rahmaanir-Raheem."
+                    },
+                    {
+                        "answer":"Maintaining the order of actions",
+                        "reason":"First face, then arms, then head, then feet."
                     },
                     {
                         "answer":"Rubbing the body parts while washing them",
-                        "reason":"Rubbing the body parts while washing them is a principle in performing ablution."
+                        "reason":"Rub your skin gently when making the wudu, as opposed to just putting it under water."
                     },
                     {
-                        "answer":"When fasting, be careful to not let water down the throat while rinsing mouth and nose",
-                        "reason":"When fasting, avoid gargling and only rinse the soft part of the nose."
+                        "answer":"Washing limbs three times",
+                        "reason":"It is sunnah to wash the face, hands, and feet three times"
+                    },
+                    {
+                        "answer":"Wiping the ears when wiping the head",
+                        "reason":"Wipe the insides with your index finger and behind the ears with your thumb."
                     }
                 ],
-                "wrong":[],
+                "wrong":[
+                    {
+                        "answer":"Using too little water",
+                        "reason":"It is disliked as it turns washing into wiping."
+                    },
+                    {
+                        "answer":"Using too much water",
+                        "reason":"It is disliked to waste water, i.e. don't spend more than necessary."
+                    },
+                    {
+                        "answer":"Speaking to people during wudu",
+                        "reason":"During wudu, one should avoid speaking unnecessarily."
+                    }
+                ],
                 "source": "https://www.namaz.live/wudu"
             }
+        },
+        {
+           "type":"RearrangeTheLines",
+           "body":{
+               "title": "Wudu according to sunnah",
+               "question":"Put the actions of wudu in the correct order in accordance with sunnah.",
+               "hint":"The intention comes first",
+               "components": "Make an intention to perform wudu\nSay Bismillahir-Rahmanir-Raheem\nWash your hands up to the wrists\nUse miswak to brush your teeth\nRinse your mouth and nose three times\nWash your face three times\nRun wet fingers through the beard\nWash the hands and arm up to and including the elbows\nWipe the entire head once, and ears with the same water\nWash both feet up to and including the ankles, while using fingers to wash between the toes"
+           },
+           "source": "https://www.namaz.live/wudu"
         }
     ],
     "namaz_quiz":[
