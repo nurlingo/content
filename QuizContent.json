@@ -1,4 +1,458 @@
 {
+    "wudu_key":[
+        {
+            "type":"TapToWrite",
+            "body":{
+                "title": "The key to the key",
+                "question":"Reconstruct the famous saying of the Prophet (peace and blessings be upon him) from the blocks below.",
+                "hint":"There are two keys.",
+                "existingText":"",
+                "components":[
+                    "The key",
+                    "to Paradise",
+                    "is prayer,",
+                    "and",
+                    "the key",
+                    "to prayer",
+                    "is wudu (ablution)"
+                ]
+            }
+        }
+    ],
+    "performing_ghusl": [
+        {
+            "type":"TrueOrFalse",
+            "body":{
+                "title": "Fard of Ghusl",
+                "question": "Is the statement below true or false?",
+                "hint": "",
+                "syntaxHighlighting": true,
+                "correct": [
+                    {
+                        "answer": "To fulfill the fard of ghusl, you need to:\n- wash your entire body,\n- rinse your mouth,\n- rinse your nose.",
+                        "reason": "These actions are indeed the necessary minimum of ghusl"
+                    }
+                ],
+                "wrong": [],
+                "source": "https://www.namaz.live/wudu"
+            }
+        },
+        {
+            "type":"RearrangeTheLines",
+            "body":{
+                "title": "Ghusl according to sunnah",
+                "question":"Put the steps of performing ghusl in the desired order in accordance with sunnah.",
+                "hint":"",
+                "components":"Make the intention for ghusl\nsay Bismillahir-Rahmanir-Raheem\ntake off the cloth\nwash hands until the wrists\nwash private parts\nwash any filth from the body\nrinse mouth and nose properly\nperform wudu\npour water and wash entire body",
+                "source": "https://www.namaz.live/ghusl"
+            }
+        }
+    ],
+    "performing_wudu": [
+        {
+            "type": "PredictTheOutput",
+            "body": {
+                "title": "Fard Actions",
+                "question": "How many obligatory (fard) actions are there in wudu?",
+                "hint": "",
+                "answers": [
+                    {
+                        "correctTexts": ["4", "Four", "four"]
+                    }
+                ],
+                "source": "https://www.namaz.live/wudu"
+            }
+        },
+        {
+            "type":"RearrangeTheLines",
+            "body":{
+                "title": "Fard steps in wudu",
+                "question":"Arrange the fard steps of wudu in the correct order.",
+                "hint":"",
+                "components":"Wash the face\nwash the hands and arms\nwipe the head\nwash the feet",
+                "source": "https://www.namaz.live/wudu"
+            }
+        },
+        {
+            "type": "TapToWrite",
+            "body": {
+                "title": "The First Fard of Wudu",
+                "question": "What is the first obligatory action in wudu?",
+                "hint": "",
+                "existingText": "",
+                "components": [
+                    "Wash the entire face,",
+                    "from the top",
+                    "of the forehead",
+                    "to the bottom",
+                    "of the chin,",
+                    "and from one earlobe",
+                    "to the other."
+                ],
+                "source": "https://www.namaz.live/wudu"
+            }
+        },
+        {
+            "type": "TapToWrite",
+            "body": {
+                "title": "The Second Fard of Wudu",
+                "question": "What is the second obligatory action in wudu?",
+                "hint": "",
+                "existingText": "",
+                "components": [
+                    "Wash",
+                    "the hands",
+                    "and arms",
+                    "up to",
+                    "and including",
+                    "the elbows."
+                ],
+                "source": "https://www.namaz.live/wudu"
+            }
+        },
+        {
+            "type":"TrueOrFalse",
+            "body":{
+                "title": "Wudu and Nail Polish",
+                "question": "Is the statement below true or false?",
+                "hint": "",
+                "syntaxHighlighting": true,
+                "correct": [
+                    {
+                        "answer": "Nail polish must be removed before performing wudu",
+                        "reason": "All substances blocking water from reaching the nails or skin must be removed before performing the wudu."
+                    }
+                ],
+                "wrong": [],
+                "source": "https://www.namaz.live/wudu"
+            }
+        },
+        {
+            "type": "TapToWrite",
+            "body": {
+                "title": "The Third Fard of Wudu",
+                "question": "What is the third obligatory action in wudu?",
+                "hint": "",
+                "existingText": "",
+                "components": [
+                    "Wipe",
+                    "at least a quarter",
+                    "of the head",
+                    "with wet",
+                    "hands."
+                ],
+                "source": "https://www.namaz.live/wudu"
+            }
+        },
+        {
+            "type":"TrueOrFalse",
+            "body":{
+                "title": "Washing vs wiping",
+                "question": "Is the statement below true or false?",
+                "hint": "",
+                "syntaxHighlighting": true,
+                "correct": [
+                    {
+                        "answer": "Washing means the water has to cover all the demarcated areas, without leaving a dry place. Washing is different from wiping, as washing has some water dripping, at least a couple of drops.",
+                        "reason": "This is true. Adequate use of water is required for washing during ablution."
+                    }
+                ],
+                "wrong": [
+                ],
+                "source": "https://www.namaz.live/wudu"
+            }
+        },
+        {
+            "type": "TapToWrite",
+            "body": {
+                "title": "The Fourth Fard of Wudu",
+                "question": "What is the fourth obligatory action in wudu?",
+                "hint": "",
+                "existingText": "",
+                "components": [
+                    "Wash",
+                    "the feet",
+                    "up to",
+                    "and including",
+                    "the ankles."
+                ],
+                "source": "https://www.namaz.live/wudu"
+            }
+        },
+        {
+            "type":"MultipleSelection",
+            "body":{
+                "title":"Sunnahs of Wudu",
+                "question":"Which of these are among the sunnahs of wudu?",
+                "hint":"",
+                "syntaxHighlighting":true,
+                "correct":[
+                    {
+                        "answer": "Making an intention",
+                        "reason": "Making an intention is indeed a sunnah act of wudu according to Hanafi madhhab. However, other schools consider it fard, so better not to miss it."
+                    },
+                    {
+                        "answer":"Rinsing the mouth and nose",
+                        "reason":"Rinse three times. Use right hand to take water in, and left hand to blow it out."
+                    },
+                    {
+                        "answer":"Using miswak",
+                        "reason":"Miswak is a toothstick, it is sunnah to brush the teeth during wudu. In the absence of a toothstick, the thumb and index finger of the right hand can be used."
+                    },
+                    {
+                        "answer":"Saying Basmala",
+                        "reason":"BismiLlaahir-Rahmaanir-Raheem."
+                    },
+                    {
+                        "answer":"Maintaining the order of actions",
+                        "reason":"First face, then arms, then head, then feet."
+                    },
+                    {
+                        "answer":"Rubbing the body parts while washing them",
+                        "reason":"Rub your skin gently when making the wudu, as opposed to just putting it under water."
+                    },
+                    {
+                        "answer":"Washing limbs three times",
+                        "reason":"It is sunnah to wash the face, hands, and feet three times"
+                    },
+                    {
+                        "answer":"Wiping the ears when wiping the head",
+                        "reason":"Wipe the insides with your index finger and behind the ears with your thumb."
+                    }
+                ],
+                "wrong":[
+                    {
+                        "answer":"Using too little water",
+                        "reason":"It is disliked as it turns washing into wiping."
+                    },
+                    {
+                        "answer":"Using too much water",
+                        "reason":"It is disliked to waste water, i.e. don't spend more than necessary."
+                    },
+                    {
+                        "answer":"Speaking to people during wudu",
+                        "reason":"During wudu, one should avoid speaking unnecessarily."
+                    }
+                ],
+                "source": "https://www.namaz.live/wudu"
+            }
+        },
+        {
+           "type":"RearrangeTheLines",
+           "body":{
+               "title": "Wudu according to sunnah",
+               "question":"Put the actions of wudu in the correct order in accordance with sunnah.",
+               "hint":"The intention comes first",
+               "components": "Make an intention to perform wudu\nSay Bismillahir-Rahmanir-Raheem\nWash your hands up to the wrists\nUse miswak to brush your teeth\nRinse your mouth and nose three times\nWash your face three times\nRun wet fingers through the beard\nWash the hands and arm up to and including the elbows\nWipe the entire head once, and ears with the same water\nWash both feet up to and including the ankles, while using fingers to wash between the toes"
+           },
+           "source": "https://www.namaz.live/wudu"
+        }
+    ],
+    "namaz_quiz":[
+        {
+            "type":"TrueOrFalse",
+            "body":{
+                "title": "The Status of Prayer",
+                "question": "Is the statement below true or false?",
+                "hint": "",
+                "syntaxHighlighting": true,
+                "correct": [
+                    {
+                        "answer": "Praying is obligatory in Islam",
+                        "reason": "It is obligatory. In fact, prayer is a pillar of our religion."
+                    }
+                ],
+                "wrong": [
+                ]}
+        },
+        {
+            "type":"PredictTheOutput",
+            "body":{
+                "title": "Number of prayers",
+                "question":"How many obligatory prayers does a Muslim perform on a daily basis?",
+                "hint": "We start in the early morning, and keep doing it till the night",
+                "answers":[
+                    {
+                        "correctTexts": [
+                            "five", "5", "Five"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type":"MultipleSelection",
+            "body":{
+                "title":"Obligatory actions",
+                "question":"What Arabic term do we use for obligatory actions in Islam?",
+                "hint":"Start with with the 6th letter of English alphabet",
+                "syntaxHighlighting":true,
+                "correct":[
+                    {
+                        "answer":"Fard",
+                        "reason":"Fard means obligatory."
+                    }
+                ],
+                "wrong":[
+                    {
+                        "answer":"Haram",
+                        "reason": "Haram means forbidden."
+                    },
+                    {
+                        "answer":"Sunnah",
+                        "reason":"Term sunnah usually denotes recommended acts."
+                    }
+                ]
+            }
+        },
+        {
+            "type":"MultipleSelection",
+            "body":{
+                "title":"For whom?",
+                "question":"What are the conditions that make prayer obligatory for a person?",
+                "hint":"There are three of them",
+                "syntaxHighlighting":true,
+                "correct":[
+                    {
+                        "answer":"Being a Muslim",
+                        "reason":"Being Muslim is the first condition."
+                    },
+                    {
+                        "answer":"Being sane",
+                        "reason":"Being sane is a condition, and insanity excuses one from the obligation."
+                    },
+                    {
+                        "answer":"Reaching puberty",
+                        "reason":"Reaching puberty is a condition, and praying is not obligatory for children."
+                    }
+                ],
+                "wrong":[
+                    {
+                        "answer":"Being a good person",
+                        "reason":"This is not a condition. Every Muslim has to pray, not only the \"good\" ones."
+                    },
+                    {
+                        "answer":"Not committing any sins",
+                        "reason":"This is not a condition. Instead, it is the prayer that helps one to stop committing sins."
+                    }
+                ]
+            }
+        },
+        {
+            "type":"RearrangeTheLines",
+            "body":{
+                "title": "The order of prayers",
+                "question":"Put the daily prayer in the correct order.",
+                "hint":"Fajr is the first",
+                "components":"Fajr - dawn prayer\nDhuhr - noon prayer\n'Asr - afternoon prayer\nMaghrib - sunset prayer\n'Isha - evening prayer"
+            }
+        }
+    ],
+    "say_shahada":[
+        {
+            "type":"TapToWrite",
+            "body":{
+                "title": "The first pillar",
+                "question":"The first pillar of Islam is the testification of faith (shahadah). How do we say it?",
+                "hint":"Who is your god, and who is His messenger?",
+                "existingText":"",
+                "components":[
+                    "I testify",
+                    "that there is no god",
+                    "but Allah,",
+                    "and I testify",
+                    "that Muhammad",
+                    "is the Messenger of Allah."
+                ]
+            }
+        }
+    ],
+    "islam_imaan_ihsan_quiz":[
+        {
+            "type":"TrueOrFalse",
+            "body":{
+                "title": "The visitor's questions",
+                "postscript": "You can write \"\\n\" in any string to add a line break inside your text.",
+                "question": "Is the statement below true or false?",
+                "hint": "There were four questions",
+                "syntaxHighlighting": true,
+                "correct": [
+                    {
+                        "answer": "The visitor asked about:\n- Islam\n- Imaan\n- Ihsan\n- the Hour and its signs",
+                        "reason": ""
+                    }
+                ],
+                "wrong": [
+                ]}
+        },
+        {
+            "type":"RearrangeTheLines",
+            "body":{
+                "title": "The order of pillars",
+                "question":"Put the pillars of Islam in the correct order.",
+                "hint":"The prayer is second, Hajj is last.",
+                "components":"The testification of faith (shahadah)\nPrayer (salah, namaz)\nZakat (charity)\nFast of Ramadan\nHajj (Pilgrimage to Makkah)"
+            }
+        },
+        {
+            "type":"PredictTheOutput",
+            "body":{
+                "title": "Terminology",
+                "question":"What is the Arabic for 'faith'?",
+                "hint":"It starts with 'Im'",
+                "answers":[
+                    {
+                        "correctTexts": [
+                            "imaan","iman","eman","الإيمان","ايمان","الايمان","إيمان"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type":"TapToWrite",
+            "body":{
+                "title": "Principles of imaan",
+                "question":"How did the Messenger (blessing and peace be upon him) describe imaan (true faith)?",
+                "hint":"Angels conveyed the Books to Messengers (peace be upon them)",
+                "existingText":"",
+                "components":[
+                    "Imaan is to believe",
+                    "in Allah,",
+                    "His angels,",
+                    "His revealed Books,",
+                    "His messengers,",
+                    "the Resurrection Day,",
+                    "and in destiny, its good and evil."
+                ]
+            }
+        },
+        {
+            "type":"MultipleSelection",
+            "body":{
+                "title":"Ihsan",
+                "question":"What is the correct way to complete the following sentence: ‘Ihsan is to worship Allah as if you see Him, and if you don’t see Him, ...‘",
+                "hint":"He is All-Seeing",
+                "syntaxHighlighting":true,
+                "correct":[
+                    {
+                        "answer":"He still sees you.",
+                        "reason":"This is correct! Ihsan is the sincerity and perfection of faith that we should strive for."
+                    }
+                ],
+                "wrong":[
+                    {
+                        "answer":"then live your life as you wish.",
+                        "reason": "Muslims try to live their lives in full submission and obedience to Allah, instead of just following our desires."
+                    },
+                    {
+                        "answer":"ask Allah for forgiveness.",
+                        "reason":"Asking Allah's forgiveness for our sins is always a good idea, and He is the Forgiving and Merciful. However, this is not how the sentence ends."
+                    }
+                ]
+            }
+        }
+    ],
     "potentially_useful": [
         {
             "type":"TapToWrite",
@@ -338,35 +792,6 @@
                 "wrong": [],
                 "source": "https://www.namaz.live/wudu"
             }
-        }
-    ],
-    "performing_ghusl": [
-        {
-            "type":"TrueOrFalse",
-            "body":{
-                "title": "Fard of Ghusl",
-                "question": "Is the statement below true or false?",
-                "hint": "",
-                "syntaxHighlighting": true,
-                "correct": [
-                    {
-                        "answer": "To fulfill the fard of ghusl, you need to:\n- wash your entire body,\n- rinse your mouth,\n- rinse your nose.",
-                        "reason": "These actions are indeed the necessary minimum of ghusl"
-                    }
-                ],
-                "wrong": [],
-                "source": "https://www.namaz.live/wudu"
-            }
-        },
-        {
-            "type":"RearrangeTheLines",
-            "body":{
-                "title": "Ghusl according to sunnah",
-                "question":"Put the steps of performing ghusl in the desired order.",
-                "hint":"",
-                "components":"Make the intention for ghusl\nsay Bismillahir-Rahmanir-Raheem\ntake off the cloth\nwash hands until the wrists\nwash private parts\nwash any filth from the body\nrinse mouth and nose properly\nperform wudu\npour water and wash entire body",
-                "source": "https://www.namaz.live/ghusl"
-            }
         },
         {
             "type":"PredictTheOutput",
@@ -384,432 +809,6 @@
                 "source": "https://www.namaz.live/ghusl"
             }
         }
-    ],
-    "performing_wudu": [
-        {
-            "type": "PredictTheOutput",
-            "body": {
-                "title": "Fard Actions",
-                "question": "How many obligatory (fard) actions are there in wudu?",
-                "hint": "",
-                "answers": [
-                    {
-                        "correctTexts": ["4", "Four", "four"]
-                    }
-                ],
-                "source": "https://www.namaz.live/wudu"
-            }
-        },
-        {
-            "type":"RearrangeTheLines",
-            "body":{
-                "title": "Fard steps in wudu",
-                "question":"Arrange the fard steps of wudu in the correct order.",
-                "hint":"",
-                "components":"Wash the face\nwash the hands and arms\nwipe the head\nwash the feet",
-                "source": "https://www.namaz.live/wudu"
-            }
-        },
-        {
-            "type": "TapToWrite",
-            "body": {
-                "title": "The First Fard of Wudu",
-                "question": "What is the first obligatory action in wudu?",
-                "hint": "",
-                "existingText": "",
-                "components": [
-                    "Wash the entire face,",
-                    "from the top",
-                    "of the forehead",
-                    "to the bottom",
-                    "of the chin,",
-                    "and from one earlobe",
-                    "to the other."
-                ],
-                "source": "https://www.namaz.live/wudu"
-            }
-        },
-        {
-            "type": "TapToWrite",
-            "body": {
-                "title": "The Second Fard of Wudu",
-                "question": "What is the second obligatory action in wudu?",
-                "hint": "",
-                "existingText": "",
-                "components": [
-                    "Wash",
-                    "the hands",
-                    "and arms",
-                    "up to",
-                    "and including",
-                    "the elbows."
-                ],
-                "source": "https://www.namaz.live/wudu"
-            }
-        },
-        {
-            "type":"TrueOrFalse",
-            "body":{
-                "title": "Wudu and Nail Polish",
-                "question": "Is the statement below true or false?",
-                "hint": "",
-                "syntaxHighlighting": true,
-                "correct": [
-                    {
-                        "answer": "Nail polish must be removed before performing wudu",
-                        "reason": "All substances blocking water from reaching the nails or skin must be removed before performing the wudu."
-                    }
-                ],
-                "wrong": [],
-                "source": "https://www.namaz.live/wudu"
-            }
-        },
-        {
-            "type": "TapToWrite",
-            "body": {
-                "title": "The Third Fard of Wudu",
-                "question": "What is the third obligatory action in wudu?",
-                "hint": "",
-                "existingText": "",
-                "components": [
-                    "Wipe",
-                    "at least a quarter",
-                    "of the head",
-                    "with wet",
-                    "hands."
-                ],
-                "source": "https://www.namaz.live/wudu"
-            }
-        },
-        {
-            "type":"TrueOrFalse",
-            "body":{
-                "title": "Washing vs wiping",
-                "question": "Is the statement below true or false?",
-                "hint": "",
-                "syntaxHighlighting": true,
-                "correct": [
-                    {
-                        "answer": "Washing means the water has to cover all the demarcated areas, without leaving a dry place. Washing is different from wiping, as washing has some water dripping, at least a couple of drops.",
-                        "reason": "This is true. Adequate use of water is required for washing during ablution."
-                    }
-                ],
-                "wrong": [
-                ],
-                "source": "https://www.namaz.live/wudu"
-            }
-        },
-        {
-            "type": "TapToWrite",
-            "body": {
-                "title": "The Fourth Fard of Wudu",
-                "question": "What is the fourth obligatory action in wudu?",
-                "hint": "",
-                "existingText": "",
-                "components": [
-                    "Wash",
-                    "the feet",
-                    "up to",
-                    "and including",
-                    "the ankles."
-                ],
-                "source": "https://www.namaz.live/wudu"
-            }
-        },
-        {
-            "type":"MultipleSelection",
-            "body":{
-                "title":"Sunnahs of Wudu",
-                "question":"Which of these are among the sunnahs of wudu?",
-                "hint":"",
-                "syntaxHighlighting":true,
-                "correct":[
-                    {
-                        "answer": "Making an intention",
-                        "reason": "Making an intention is indeed a sunnah act of wudu according to Hanafi madhhab. However, other schools consider it fard, so better not to miss it."
-                    },
-                    {
-                        "answer":"Rinsing the mouth and nose",
-                        "reason":"Rinse three times. Use right hand to take water in, and left hand to blow it out."
-                    },
-                    {
-                        "answer":"Using miswak",
-                        "reason":"Miswak is a toothstick, it is sunnah to brush the teeth during wudu. In the absence of a toothstick, the thumb and index finger of the right hand can be used."
-                    },
-                    {
-                        "answer":"Saying Basmala",
-                        "reason":"BismiLlaahir-Rahmaanir-Raheem."
-                    },
-                    {
-                        "answer":"Maintaining the order of actions",
-                        "reason":"First face, then arms, then head, then feet."
-                    },
-                    {
-                        "answer":"Rubbing the body parts while washing them",
-                        "reason":"Rub your skin gently when making the wudu, as opposed to just putting it under water."
-                    },
-                    {
-                        "answer":"Washing limbs three times",
-                        "reason":"It is sunnah to wash the face, hands, and feet three times"
-                    },
-                    {
-                        "answer":"Wiping the ears when wiping the head",
-                        "reason":"Wipe the insides with your index finger and behind the ears with your thumb."
-                    }
-                ],
-                "wrong":[
-                    {
-                        "answer":"Using too little water",
-                        "reason":"It is disliked as it turns washing into wiping."
-                    },
-                    {
-                        "answer":"Using too much water",
-                        "reason":"It is disliked to waste water, i.e. don't spend more than necessary."
-                    },
-                    {
-                        "answer":"Speaking to people during wudu",
-                        "reason":"During wudu, one should avoid speaking unnecessarily."
-                    }
-                ],
-                "source": "https://www.namaz.live/wudu"
-            }
-        },
-        {
-           "type":"RearrangeTheLines",
-           "body":{
-               "title": "Wudu according to sunnah",
-               "question":"Put the actions of wudu in the correct order in accordance with sunnah.",
-               "hint":"The intention comes first",
-               "components": "Make an intention to perform wudu\nSay Bismillahir-Rahmanir-Raheem\nWash your hands up to the wrists\nUse miswak to brush your teeth\nRinse your mouth and nose three times\nWash your face three times\nRun wet fingers through the beard\nWash the hands and arm up to and including the elbows\nWipe the entire head once, and ears with the same water\nWash both feet up to and including the ankles, while using fingers to wash between the toes"
-           },
-           "source": "https://www.namaz.live/wudu"
-        }
-    ],
-    "namaz_quiz":[
-        {
-            "type":"TrueOrFalse",
-            "body":{
-                "title": "The Status of Prayer",
-                "question": "Is the statement below true or false?",
-                "hint": "",
-                "syntaxHighlighting": true,
-                "correct": [
-                    {
-                        "answer": "Praying is obligatory in Islam",
-                        "reason": "It is obligatory. In fact, prayer is a pillar of our religion."
-                    }
-                ],
-                "wrong": [
-                ]}
-        },
-        {
-            "type":"PredictTheOutput",
-            "body":{
-                "title": "Number of prayers",
-                "question":"How many obligatory prayers does a Muslim perform on a daily basis?",
-                "hint": "We start in the early morning, and keep doing it till the night",
-                "answers":[
-                    {
-                        "correctTexts": [
-                            "five", "5", "Five"
-                        ]
-                    }
-                ]
-            }
-        },
-        {
-            "type":"MultipleSelection",
-            "body":{
-                "title":"Obligatory actions",
-                "question":"What Arabic term do we use for obligatory actions in Islam?",
-                "hint":"Start with with the 6th letter of English alphabet",
-                "syntaxHighlighting":true,
-                "correct":[
-                    {
-                        "answer":"Fard",
-                        "reason":"Fard means obligatory."
-                    }
-                ],
-                "wrong":[
-                    {
-                        "answer":"Haram",
-                        "reason": "Haram means forbidden."
-                    },
-                    {
-                        "answer":"Sunnah",
-                        "reason":"Term sunnah usually denotes recommended acts."
-                    }
-                ]
-            }
-        },
-        {
-            "type":"MultipleSelection",
-            "body":{
-                "title":"For whom?",
-                "question":"What are the conditions that make prayer obligatory for a person?",
-                "hint":"There are three of them",
-                "syntaxHighlighting":true,
-                "correct":[
-                    {
-                        "answer":"Being a Muslim",
-                        "reason":"Being Muslim is the first condition."
-                    },
-                    {
-                        "answer":"Being sane",
-                        "reason":"Being sane is a condition, and insanity excuses one from the obligation."
-                    },
-                    {
-                        "answer":"Reaching puberty",
-                        "reason":"Reaching puberty is a condition, and praying is not obligatory for children."
-                    }
-                ],
-                "wrong":[
-                    {
-                        "answer":"Being a good person",
-                        "reason":"This is not a condition. Every Muslim has to pray, not only the \"good\" ones."
-                    },
-                    {
-                        "answer":"Not committing any sins",
-                        "reason":"This is not a condition. Instead, it is the prayer that helps one to stop committing sins."
-                    }
-                ]
-            }
-        },
-        {
-            "type":"RearrangeTheLines",
-            "body":{
-                "title": "The order of prayers",
-                "question":"Put the daily prayer in the correct order.",
-                "hint":"Fajr is the first",
-                "components":"Fajr - dawn prayer\nDhuhr - noon prayer\n'Asr - afternoon prayer\nMaghrib - sunset prayer\n'Isha - evening prayer"
-            }
-        }
-    ],
-    "say_shahada":[
-        {
-            "type":"TapToWrite",
-            "body":{
-                "title": "The first pillar",
-                "question":"The first pillar of Islam is the testification of faith (shahadah). How do we say it?",
-                "hint":"Who is your god, and who is His messenger?",
-                "existingText":"",
-                "components":[
-                    "I testify",
-                    "that there is no god",
-                    "but Allah,",
-                    "and I testify",
-                    "that Muhammad",
-                    "is the Messenger of Allah."
-                ]
-            }
-        }
-    ],
-    "wudu_key":[
-        {
-            "type":"TapToWrite",
-            "body":{
-                "title": "The key to the key",
-                "question":"Reconstruct the famous saying of the Prophet (peace and blessings be upon him) from the blocks below.",
-                "hint":"There are two keys.",
-                "existingText":"",
-                "components":[
-                    "The key",
-                    "to Paradise",
-                    "is prayer,",
-                    "and",
-                    "the key",
-                    "to prayer",
-                    "is wudu (ablution)"
-                ]
-            }
-        }
-    ],
-    "islam_imaan_ihsan_quiz":[
-        {
-            "type":"TrueOrFalse",
-            "body":{
-                "title": "The visitor's questions",
-                "postscript": "You can write \"\\n\" in any string to add a line break inside your text.",
-                "question": "Is the statement below true or false?",
-                "hint": "There were four questions",
-                "syntaxHighlighting": true,
-                "correct": [
-                    {
-                        "answer": "The visitor asked about:\n- Islam\n- Imaan\n- Ihsan\n- the Hour and its signs",
-                        "reason": ""
-                    }
-                ],
-                "wrong": [
-                ]}
-        },
-        {
-            "type":"RearrangeTheLines",
-            "body":{
-                "title": "The order of pillars",
-                "question":"Put the pillars of Islam in the correct order.",
-                "hint":"The prayer is second, Hajj is last.",
-                "components":"The testification of faith (shahadah)\nPrayer (salah, namaz)\nZakat (charity)\nFast of Ramadan\nHajj (Pilgrimage to Makkah)"
-            }
-        },
-        {
-            "type":"PredictTheOutput",
-            "body":{
-                "title": "Terminology",
-                "question":"What is the Arabic for 'faith'?",
-                "hint":"It starts with 'Im'",
-                "answers":[
-                    {
-                        "correctTexts": [
-                            "imaan","iman","eman","الإيمان","ايمان","الايمان","إيمان"
-                        ]
-                    }
-                ]
-            }
-        },
-        {
-            "type":"TapToWrite",
-            "body":{
-                "title": "Principles of imaan",
-                "question":"How did the Messenger (blessing and peace be upon him) describe imaan (true faith)?",
-                "hint":"Angels conveyed the Books to Messengers (peace be upon them)",
-                "existingText":"",
-                "components":[
-                    "Imaan is to believe",
-                    "in Allah,",
-                    "His angels,",
-                    "His revealed Books,",
-                    "His messengers,",
-                    "the Resurrection Day,",
-                    "and in destiny, its good and evil."
-                ]
-            }
-        },
-        {
-            "type":"MultipleSelection",
-            "body":{
-                "title":"Ihsan",
-                "question":"What is the correct way to complete the following sentence: ‘Ihsan is to worship Allah as if you see Him, and if you don’t see Him, ...‘",
-                "hint":"He is All-Seeing",
-                "syntaxHighlighting":true,
-                "correct":[
-                    {
-                        "answer":"He still sees you.",
-                        "reason":"This is correct! Ihsan is the sincerity and perfection of faith that we should strive for."
-                    }
-                ],
-                "wrong":[
-                    {
-                        "answer":"then live your life as you wish.",
-                        "reason": "Muslims try to live their lives in full submission and obedience to Allah, instead of just following our desires."
-                    },
-                    {
-                        "answer":"ask Allah for forgiveness.",
-                        "reason":"Asking Allah's forgiveness for our sins is always a good idea, and He is the Forgiving and Merciful. However, this is not how the sentence ends."
-                    }
-                ]
-            }
-        }
-        
     ],
     "islam_intro_unused" : [
         {
