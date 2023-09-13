@@ -58,6 +58,19 @@
                 "icon": "rectangle.portrait.tophalf.inset.filled"
             },
             {
+                "id": "telegram_chat",
+                "type": "link",
+                "titleRu": "Telegram группа для премиум пользователей",
+                "descriptionRu": "",
+                "showRu": 0,
+                "urlRu": "",
+                "titleEn": "Telegram group for premium users",
+                "descriptionEn": "Join the community! We've created a chat for us to interact and discuss questions. Later this chat will be moved to a forum inside the app itself inshaAllah.",
+                "showEn": 1,
+                "urlEn": "https://t.me/+ND42pitTHqViNzMy",
+                "icon": "paperplane.circle"
+            },
+            {
                 "id": "group_call",
                 "type": "link",
                 "titleRu": "Созвоны с разработчиками",
