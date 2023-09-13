@@ -17,10 +17,10 @@
                 "id": "002001005",
                 "type": "listen",
                 "titleEn": "Premium content",
-                "descriptionEn": "You will get additional items in the 'Audios' section.",
+                "descriptionEn": "You will get 5 additional items in the 'Audios' section.",
                 "showEn": 1,
                 "titleRu": "Премиум-контент",
-                "descriptionRu": "Вы получите дополнительные дорожки в разделе 'Аудио'.",
+                "descriptionRu": "Вы получите 5 дополнительных дорожек в разделе 'Аудио'.",
                 "showRu": 1,
                 "icon": "beats.headphones"
             },
@@ -47,17 +47,15 @@
                 "icon": "graduationcap.circle"
             },
             {
-                "id": "telegram_chat",
-                "type": "link",
-                "titleRu": "Telegram группа для премиум пользователей",
-                "descriptionRu": "",
-                "showRu": 0,
-                "urlRu": "",
-                "titleEn": "Telegram group for premium users",
-                "descriptionEn": "Join the community! We've created a chat for us to interact and discuss questions.",
+                "id": "001",
+                "type": "listen",
+                "titleRu": "Полноэкранный режим для аудио",
+                "descriptionRu": "Слушая суры и дуа, можно переключиться на полноэкранный режим, и будет крупным шрифтом показываться проигрываеммый аят.",
+                "showRu": 1,
+                "titleEn": "Full screen mode in audios",
+                "descriptionEn": "When listening to surahs and duas, you can enter this minimalistic mode where each ayah is shown by itself with a big font.",
                 "showEn": 1,
-                "urlEn": "https://t.me/+ND42pitTHqViNzMy",
-                "icon": "paperplane.circle"
+                "icon": "rectangle.portrait.tophalf.inset.filled"
             },
             {
                 "id": "group_call",
@@ -66,15 +64,13 @@
                 "descriptionRu": "Раз в неделю мы проводим аудио созвон для премиум-подписчиков.",
                 "showRu": 1,
                 "urlRu": "https://meet.google.com/emb-qmtk-han",
-                "dateRu": "2023-09-13T15:00:00Z",
+                "dateRu": "2023-08-16T14:00:00Z",
                 "dateCommentRu": "Следующий созвон:\n",
                 "titleEn": "Weekly office hours",
-                "descriptionEn": "Once a week we host an audio call for premium members.",
-                "dateEn": "2023-09-13T17:00:00Z",
-                "dateCommentEn": "The next call is on: ",
+                "descriptionEn": "Book a one-to-one consultation to ask questions, make a learning plan, or just chat.",
                 "showEn": 1,
-                "urlEn": "https://meet.google.com/emb-qmtk-han",
-                "icon": "rectangle.3.group.bubble.left"
+                "urlEn": "https://calendly.com/namazapp/30min",
+                "icon": "calendar.badge.clock"
             }
         ]
     },
@@ -153,6 +149,28 @@
                 "descriptionEn": "",
                 "showEn": 1,
                 "icon": "questionmark.bubble"
+            }
+        ]
+    },
+    {
+        "id": "unused",
+        "titleRu": "Свяжитесь с нами",
+        "descriptionRu": "",
+        "titleEn": "Contact us",
+        "descriptionEn": "",
+        "items": [
+            {
+                "id": "telegram_chat",
+                "type": "link",
+                "titleRu": "Telegram группа для премиум пользователей",
+                "descriptionRu": "",
+                "showRu": 0,
+                "urlRu": "",
+                "titleEn": "Telegram group for premium users",
+                "descriptionEn": "Join the community! We've created a chat for us to interact and discuss questions.",
+                "showEn": 1,
+                "urlEn": "https://t.me/+ND42pitTHqViNzMy",
+                "icon": "paperplane.circle"
             }
         ]
     }
