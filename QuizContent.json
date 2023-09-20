@@ -1,9 +1,102 @@
 {
+    "say_shahada_ru":[
+        {
+            "type":"TapToWrite",
+            "body":{
+                "title": "Свидетельство веры",
+                "question":"Свидетельство веры - первый столп Ислама. Как мы его произносим?",
+                "hint":"Веруем в Аллаhа и Его посланник (ﷺ)",
+                "existingText":"",
+                "components":[
+                    "Я свидетельствую,",
+                    "что нету бога",
+                    "кроме Аллаhа,",
+                    "и свидетельствую,",
+                    "что Мухаммад",
+                    "- посланник Аллаhа."
+                ]
+            }
+        }
+    ],
+    "performing_ghusl_ru": [
+        {
+            "type":"TrueOrFalse",
+            "body":{
+                "title": "Фард действия гусля",
+                "question": "Верно или нет?",
+                "hint": "",
+                "syntaxHighlighting": true,
+                "correct": [
+                    {
+                        "answer": "Гусль состоит из трех обязательных действий:\n- омыть все тело, не оставляя сухих мест,\n- прополоскать водой рот до горла,\n- глубоко промыть нос водой.",
+                        "reason": "Это необходимый минимум, вода должна полностью омыть кожу."
+                    }
+                ],
+                "wrong": [],
+                "source": "https://www.namaz.live/ghusl-ru"
+            }
+        },
+        {
+            "type":"RearrangeTheLines",
+            "body":{
+                "title": "Гусль по сунне",
+                "question":"В каком порядке делается гусль по сунне?",
+                "hint":"",
+                "components":"Сделать намерение совершить Гусль\nПроизнести Бисмилляhир-Рахманир-Рахим до снятия одежды\nПомыть кисти рук и прочистить ногти\nВымыть половые органы (спереди и сзади)\nУдалить с тела нечистоты\nСделать вуду (малое омовение) в обычном порядке, включая полоскание рта и носа.\nОмыть все тело потирая ладонями\nПомыть ступни",
+                "source": "https://www.namaz.live/ghusl-ru"
+            }
+        }
+    ],
+    "performing_wudu_ru":[
+        {
+            "type":"TapToWrite",
+            "body":{
+                "title": "Ключи",
+                "question":"Составьте фразу переданную от Пророка ﷺ",
+                "hint":"",
+                "existingText":"",
+                "components":[
+                    "Ключ",
+                    "к Раю",
+                    "-",
+                    "намаз,",
+                    "а ключ",
+                    "к намазу",
+                    "-",
+                    "вуду (омовение)"
+                ]
+            }
+        },
+        {
+            "type": "PredictTheOutput",
+            "body": {
+                "title": "Фард действия",
+                "question": "Сколько обязательных (фард) действий в вуду (омовении)?",
+                "hint": "",
+                "answers": [
+                    {
+                        "correctTexts": ["4", "Четыре", "четыре"]
+                    }
+                ],
+                "source": "https://www.namaz.live/wudu-ru"
+            }
+        },
+        {
+            "type":"RearrangeTheLines",
+            "body":{
+                "title": "Порядок действий",
+                "question":"Распределите обязательные (фард) действия в правильном порядке",
+                "hint":"",
+                "components":"Помыть лицо\nПомыть обе руки по локоть включительно\nПротереть как минимум четверть поверхности головы\nПомыть обе ступни по щиколотки включительно",
+                "source": "https://www.namaz.live/wudu-ru"
+            }
+        }
+    ],
     "wudu_key":[
         {
             "type":"TapToWrite",
             "body":{
-                "title": "The key to the key",
+                "title": "The keys",
                 "question":"Reconstruct the famous saying of the Prophet (peace and blessings be upon him) from the blocks below.",
                 "hint":"There are two keys.",
                 "existingText":"",
