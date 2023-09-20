@@ -41,7 +41,7 @@
                     "titleRu": "Что такое намаз?",
                     "descriptionRu": "Проверьте свое понимание",
                     "showRu": 0,
-                    "urlEn": "",
+                    "urlEn": "namaz_quiz",
                     "titleEn": "What is Namaz?",
                     "descriptionEn": "Check your understanding",
                     "showEn": 1
@@ -184,13 +184,13 @@
                 {
                     "id": "wudu_key",
                     "type": "test",
-                    "urlRu": "",
+                    "urlRu": "wudu_key_ru",
                     "titleRu": "Два ключа",
                     "descriptionRu": "",
                     "showRu": 0,
-                    "urlEn": "",
+                    "urlEn": "wudu_key",
                     "titleEn": "The key to prayer",
-                    "descriptionEn": "",
+                    "descriptionEn": "wudu_key",
                     "showEn": 1
                 },
                 {
@@ -208,11 +208,11 @@
                 {
                     "id": "performing_ghusl",
                     "type": "test",
-                    "urlRu": "",
-                    "titleRu": "Действия в вуду",
+                    "urlRu": "performing_ghusl_ru",
+                    "titleRu": "Действия в гусле",
                     "descriptionRu": "Проверьте свое понимание",
-                    "showRu": 0,
-                    "urlEn": "",
+                    "showRu": 1,
+                    "urlEn": "performing_ghusl",
                     "titleEn": "Performing ghusl",
                     "descriptionEn": "Check your understanding",
                     "showEn": 1
@@ -232,11 +232,11 @@
                 {
                     "id": "performing_wudu",
                     "type": "test",
-                    "urlRu": "",
+                    "urlRu": "performing_wudu_ru",
                     "titleRu": "Действия в вуду",
                     "descriptionRu": "Проверьте свое понимание",
-                    "showRu": 0,
-                    "urlEn": "",
+                    "showRu": 1,
+                    "urlEn": "performing_wudu",
                     "titleEn": "Performing wudu",
                     "descriptionEn": "Check your understanding",
                     "showEn": 1
@@ -276,11 +276,11 @@
                 {
                     "id": "say_shahada",
                     "type": "test",
-                    "urlRu": "",
+                    "urlRu": "say_shahada_ru",
                     "titleRu": "Свидетельство веры",
                     "descriptionRu": "Сможете его составить?",
-                    "showRu": 0,
-                    "urlEn": "",
+                    "showRu": 1,
+                    "urlEn": "say_shahada",
                     "titleEn": "Make a declaration",
                     "descriptionEn": "Can you reconstruct it?",
                     "showEn": 1
@@ -334,10 +334,10 @@
                 {
                     "id": "islam_imaan_ihsan_quiz",
                     "type": "test",
-                    "urlRu": "",
+                    "urlRu": "islam_imaan_ihsan_quiz_ru",
                     "titleRu": "О чем был разговор?",
                     "showRu": 0,
-                    "urlEn": "",
+                    "urlEn": "islam_imaan_ihsan_quiz",
                     "titleEn": "What have they discussed?",
                     "showEn": 1
                 }
