@@ -2,110 +2,65 @@
     {
         "id": "general",
         "titleRu": "Вступление",
-        "commentRu": "",
+        "detailRu": "Коротко о намазе и этом приложении.",
         "titleEn": "Introduction",
-        "commentEn": "",
+        "detailEn": "A brief note on this app and Muslim prayer.",
         "items": [
             {
                 "id": "namaz",
                 "type": "article",
-                "urlRu": "https://www.namaz.live/namaz-intro-ru",
+                "urlRu": "https://sites.google.com/view/namaz-intro-ru",
                 "titleRu": "О намазе",
-                "descriptionRu": "Молитва в Исламе и НамазАпп",
+                "detailRu": "Молитва в Исламе и это приложение",
                 "showRu": 1,
                 "urlEn": "https://www.namaz.live/what-is-namaz",
                 "titleEn": "About Namaz",
-                "descriptionEn": "FAQ from the developer",
-                "showEn": 1
-            },
-            {
-                "id": "namaz_quiz",
-                "type": "test",
-                "urlRu": "",
-                "titleRu": "Что такое намаз?",
-                "descriptionRu": "Проверьте свое понимание",
-                "showRu": 0,
-                "urlEn": "",
-                "titleEn": "What is Namaz?",
-                "descriptionEn": "Check your understanding",
-                "showEn": 1
-            },
-            {
-                "id": "action_categories",
-                "type": "article",
-                "urlRu": "https://www.namaz.live/ction-categories-ru",
-                "titleRu": "Категории действий в Исламе",
-                "descriptionRu": "",
-                "showRu": 0,
-                "urlEn": "https://www.namaz.live/action-categories",
-                "titleEn": "Categories of action in Islam",
-                "descriptionEn": "",
-                "showEn": 1
-            }
-        ]
-    },
-    {
-        "id": "prayer_rules",
-        "titleRu": "Правила Намаза",
-        "commentRu": "",
-        "titleEn": "Prayer rules",
-        "commentEn": "",
-        "items": [
-            {
-                "id": "prayer_essentials",
-                "type": "article",
-                "urlRu": "https://www.namaz.live/prayer-fard-ru",
-                "titleRu": "Фард действия в намазе",
-                "descriptionRu": "",
-                "showRu": 0,
-                "urlEn": "https://www.namaz.live/prayer-fard",
-                "titleEn": "Fard of salah: 11 essentials in prayer",
-                "descriptionEn": "",
+                "detailEn": "FAQ from the developer",
                 "showEn": 1
             },
             {
                 "id": "prayer_categories",
                 "type": "article",
-                "urlRu": "https://www.namaz.live/prayer-categories-ru",
+                "urlRu": "",
                 "titleRu": "Категории намаза",
-                "descriptionRu": "",
-                "showRu": 1,
+                "detailRu": "",
+                "showRu": 0,
                 "urlEn": "https://www.namaz.live/prayer-categories",
-                "titleEn": "Categories of prayer",
-                "descriptionEn": "",
+                "titleEn": "Types of Prayer",
+                "detailEn": "",
                 "showEn": 1
             },
             {
                 "id": "prayer_times",
                 "type": "article",
                 "urlRu": "https://www.namaz.live/prayer-times-ru",
-                "titleRu": "Время намаза",
-                "descriptionRu": "",
+                "titleRu": "О времени намаза",
+                "detailRu": "",
                 "showRu": 1,
                 "urlEn": "https://www.namaz.live/prayer-times",
                 "titleEn": "Prayer times",
-                "descriptionEn": "",
+                "detailEn": "",
                 "showEn": 1
             }
         ]
     },
     {
-        "id": "taharah-part1",
-        "titleRu": "Тахарат: физическая чистота",
-        "commentRu": "",
+        "id": "taharah",
+        "titleRu": "Тахарат: омовение перед намазом",
+        "detailRu": "Для того чтобы совершать Намаз, необходимо пребывать в состоянии физической и ритуальной чистоты.",
         "titleEn": "Taharah: physical purity",
-        "commentEn": "Taharah means purification. Let's look into cleaning one's body, cloth and place of prayer.",
+        "detailEn": "Taharah means purification. In this module, we'll look into cleaning one's body, cloth and place of prayer from the physical impurities.",
         "items": [
             {
                 "id": "purity_types",
                 "type": "article",
-                "urlRu": "https://www.namaz.live/purity-types-ru",
+                "urlRu": "https://sites.google.com/view/the-two-types-of-purity-ru/home",
                 "titleRu": "Чистота в Исламе",
-                "descriptionRu": "Два вида чистоты: физическая и ритуальная",
-                "showRu": 1,
+                "detailRu": "Два вида чистоты: физическая и ритуальная",
+                "showRu": 0,
                 "urlEn": "https://www.namaz.live/purity-types",
                 "titleEn": "The two types of purity",
-                "descriptionEn": "Islam highlights both physical & spiritual purity",
+                "detailEn": "Islam highlights both physical & spiritual purity",
                 "showEn": 1
             },
             {
@@ -113,11 +68,11 @@
                 "type": "article",
                 "urlRu": "https://sites.google.com/view/physical-impurities-haqiqi-ru/home",
                 "titleRu": "Физические нечистоты",
-                "descriptionRu": "Знать, чтобы избегать",
+                "detailRu": "Знать, чтобы избегать",
                 "showRu": 0,
                 "urlEn": "https://www.namaz.live/physical-impurities",
                 "titleEn": "Physical Impurities",
-                "descriptionEn": "Learn about common impure substances",
+                "detailEn": "Learn about common impure substances",
                 "showEn": 1
             },
             {
@@ -125,23 +80,23 @@
                 "type": "article",
                 "urlRu": "https://sites.google.com/view/howtoremoveimpurities-ru/home",
                 "titleRu": "Очищение тела, одежды и места",
-                "descriptionRu": "Как подготовить их к намазу",
+                "detailRu": "Как подготовить их к намазу",
                 "showRu": 0,
                 "urlEn": "https://www.namaz.live/removing-physical-impurities",
                 "titleEn": "How to remove physical impurities",
-                "descriptionEn": "Practical knowledge needed for prayer",
+                "detailEn": "Practical knowledge needed for prayer",
                 "showEn": 1
             },
             {
                 "id": "istinja",
                 "type": "article",
-                "urlRu": "https:///www.namaz.live/istinja-ru",
+                "urlRu": "https://www.namaz.live/istinja-ru",
                 "titleRu": "Истинжда - очищение после туалета",
-                "descriptionRu": "Вода, бумага и другие аспекты",
+                "detailRu": "Вода, бумага и другие аспекты",
                 "showRu": 1,
                 "urlEn": "https://www.namaz.live/istinja",
                 "titleEn": "Istinja - cleaning after toilet",
-                "descriptionEn": "Water, paper, and other important aspects",
+                "detailEn": "Water, paper, and other important aspects",
                 "showEn": 1
             }
         ]
@@ -149,44 +104,20 @@
     {
         "id": "taharah-part2",
         "titleRu": "Тахарат: ритуальное очищение",
-        "commentRu": "",
+        "detailRu": "",
         "titleEn": "Taharah: ritual purity",
-        "commentEn": "Being in a state of ritual purity is a prerequisite of prayer. Let's see how we can aqcuire it.",
+        "detailEn": "Being in a state of ritual purity is a prerequisite of prayer. Let's see how we can aqcuire it.",
         "items": [
-            {
-                "id": "wudu_key",
-                "type": "test",
-                "urlRu": "",
-                "titleRu": "Два ключа",
-                "descriptionRu": "",
-                "showRu": 0,
-                "urlEn": "",
-                "titleEn": "The key to prayer",
-                "descriptionEn": "",
-                "showEn": 1
-            },
             {
                 "id": "ghusl",
                 "type": "article",
                 "urlRu": "https://sites.google.com/view/ghusl-ru/home",
                 "titleRu": "Гусль - полное омовение",
-                "descriptionRu": "Совершается впоследствии оргазма, секса или завершения менструации.",
+                "detailRu": "Совершается впоследствии оргазма, секса или завершения менструации.",
                 "showRu": 1,
                 "urlEn": "https://www.namaz.live/ghusl",
                 "titleEn": "Ghusl - full-body washing",
-                "descriptionEn": "Washing after sexual intercourse, orgasm, or end of menstruation period",
-                "showEn": 1
-            },
-            {
-                "id": "ghusl_quiz",
-                "type": "test",
-                "urlRu": "",
-                "titleRu": "Действия в вуду",
-                "descriptionRu": "Проверьте свое понимание",
-                "showRu": 0,
-                "urlEn": "",
-                "titleEn": "Ghusl quiz",
-                "descriptionEn": "Check your understanding",
+                "detailEn": "Washing after sexual intercourse, orgasm, or end of menstruation period",
                 "showEn": 1
             },
             {
@@ -194,23 +125,11 @@
                 "type": "article",
                 "urlRu": "https://sites.google.com/view/wudu-ru/home",
                 "titleRu": "Вуду - малое омовение",
-                "descriptionRu": "Совершается после справления нужды, пускания газов, сна, и нескольких других действий.",
+                "detailRu": "Совершается после справления нужды, пускания газов, сна, и нескольких других действий.",
                 "showRu": 1,
                 "urlEn": "https://www.namaz.live/wudu",
                 "titleEn": "Wudu - ablution",
-                "descriptionEn": "Washing after releaving oneself, passing a wind, sleeping and a few other things",
-                "showEn": 1
-            },
-            {
-                "id": "wudu_quiz",
-                "type": "test",
-                "urlRu": "",
-                "titleRu": "Действия в вуду",
-                "descriptionRu": "Проверьте свое понимание",
-                "showRu": 0,
-                "urlEn": "",
-                "titleEn": "Wudu quiz",
-                "descriptionEn": "Check your understanding",
+                "detailEn": "Washing after releaving oneself, passing a wind, sleeping and a few other things",
                 "showEn": 1
             },
             {
@@ -218,11 +137,11 @@
                 "type": "article",
                 "urlRu": "https://sites.google.com/view/tayammum-ru/home",
                 "titleRu": "Таяммум - сухое очищение",
-                "descriptionRu": "Совершается когда необходимо сделать гусль или вуду, но нет воды, либо ее применение опасно для здоровья",
+                "detailRu": "Совершается когда необходимо сделать гусль или вуду, но нет воды, либо ее применение опасно для здоровья",
                 "showRu": 1,
                 "urlEn": "https://www.namaz.live/tayammum",
                 "titleEn": "Tayammum - dry purification",
-                "descriptionEn": "Performed in the place of ghusl and wudu, when there is no water or using it will harm the person",
+                "detailEn": "Performed in the place of ghusl and wudu, when there is no water or using it will harm the person",
                 "showEn": 1
             }
         ]
@@ -230,64 +149,97 @@
     {
         "id": "beneficial",
         "titleRu": "Укрепление имана",
-        "commentRu": "",
+        "detailRu": "Основы веры в Исламе",
         "titleEn": "Strengthen your iman",
-        "commentEn": "",
+        "detailEn": "Some basics of our belief as Muslims",
         "items": [
             {
-                "id": "faith_faq",
+                "id": "shahadah",
                 "type": "article",
-                "urlRu": "https://sites.google.com/view/faith-questions",
-                "titleRu": "Вопросы и ответы о вере",
-                "descriptionRu": "Просто о важном",
+                "urlRu": "https://sites.google.com/view/islam-and-iman",
+                "titleRu": "Врата, ведущие в Ислам",
                 "showRu": 1,
                 "urlEn": "https://www.namaz.live/shahadah",
-                "titleEn": "The Declaration of Faith",
-                "descriptionEn": "What makes one a Muslim",
+                "titleEn": "Shahadah: The Declaration of Faith",
+                "detailEn": "What makes one a Muslim",
                 "showEn": 1
             },
             {
-                "id": "say_shahada",
-                "type": "test",
-                "urlRu": "",
-                "titleRu": "Свидетельство веры",
-                "descriptionRu": "Сможете его составить?",
+                "id": "quran",
+                "type": "article",
+                "urlRu": "https://www.namaz.live/quran-ru",
+                "titleRu": "Коран: Книга Аллаха",
+                "detailRu": "",
                 "showRu": 0,
-                "urlEn": "",
-                "titleEn": "Make a declaration",
-                "descriptionEn": "Can you reconstruct it?",
+                "urlEn": "https://www.namaz.live/quran",
+                "titleEn": "Al Quran: the Book of Allah",
+                "detailEn": "",
                 "showEn": 1
             },
             {
                 "id": "hadith_on_niyyah",
                 "type": "article",
                 "urlRu": "https://sites.google.com/view/niyyah-ru",
-                "titleRu": "Намерение и искренность",
+                "titleRu": "Хадис о намерении",
                 "showRu": 1,
                 "urlEn": "https://www.namaz.live/intention",
-                "titleEn": "Intention and Sincerity",
-                "descriptionEn": "Something emphasized in our deen",
+                "titleEn": "The Hadith of intention",
+                "detailEn": "Something emphasized in our deen",
                 "showEn": 1
             },
             {
                 "id": "islam_imaan_ihsan",
                 "type": "article",
                 "urlRu": "https://sites.google.com/view/islam-and-iman",
-                "titleRu": "Врата, ведущие в Ислам",
-                "showRu": 1,
+                "titleRu": "Хадис Джибриля (мир ему)",
+                "showRu": 0,
                 "urlEn": "https://www.namaz.live/islam-iman-ihsan",
-                "titleEn": "Islam, Iman, and Ihsan",
-                "descriptionEn": "Jibreel (peace be upon him) visits Muslims",
+                "titleEn": "The Hadith of Jibreel (peace be upon him)",
+                "detailEn": "Islam, Iman, Ihsan",
+                "showEn": 1
+            }
+        ]
+    },
+    {
+        "id": "ramadan",
+        "titleRu": "Рамадан",
+        "detailRu": "Вопросы и ответы по священному месяцу и посту в нем.",
+        "titleEn": "Ramadan",
+        "detailEn": "Questions and answers on the blessed month and fasting.",
+        "items": [
+            {
+                "id": "ramadan_faq",
+                "type": "article",
+                "urlRu": "https://sites.google.com/view/ramadan-faq",
+                "titleRu": "Пост в Рамадан",
+                "showRu": 1,
+                "urlEn": "https://www.namaz.live/ramadan",
+                "titleEn": "Fasting in Ramadan",
+                "detailEn": "The best of deeds in the best of months",
                 "showEn": 1
             },
             {
-                "id": "islam_imaan_ihsan_quiz",
-                "type": "test",
-                "urlRu": "",
-                "titleRu": "О чем был разговор?",
-                "showRu": 0,
-                "urlEn": "",
-                "titleEn": "What have they discussed?",
+                "id": "taraweeh",
+                "type": "article",
+                "urlRu": "https://sites.google.com/view/taraweeh-ru/home",
+                "titleRu": "Тарауих намаз",
+                "detailRu": "",
+                "showRu": 1,
+                "urlEn": "https://www.namaz.live/taraweeh",
+                "titleEn": "Taraweeh prayer",
+                "detailEn": "",
+                "showEn": 1
+            },
+            {
+                "id": "laylatul_qadr",
+                "type": "article",
+                "urlRu": "https://sites.google.com/view/night-of-power/home",
+                "titleRu": "Ночь Предопределения",
+                "detailRu": "",
+                "showRu": 1,
+                "urlEn": "https://www.namaz.live/laylatul-qadr",
+                "titleEn": "Laylatul Qadr: the Night of Divine Decree",
+                "detailEn": "",
                 "showEn": 1
             },
             {
@@ -298,50 +250,6 @@
                 "showRu": 1,
                 "urlEn": "https://www.namaz.live/dhul-hijjah",
                 "titleEn": "The 10 days of Dhul Hijjah",
-                "showEn": 1
-            }
-        ]
-    },
-    {
-        "id": "ramadan",
-        "titleRu": "Рамадан",
-        "commentRu": "",
-        "titleEn": "Ramadan",
-        "commentEn": "",
-        "items": [
-            {
-                "id": "ramadan_faq",
-                "type": "article",
-                "urlRu": "https://sites.google.com/view/ramadan-faq",
-                "titleRu": "Пост в Рамадан",
-                "showRu": 1,
-                "urlEn": "https://www.namaz.live/ramadan",
-                "titleEn": "Fasting in Ramadan",
-                "descriptionEn": "The best of deeds in the best of months",
-                "showEn": 1
-            },
-            {
-                "id": "taraweeh",
-                "type": "article",
-                "urlRu": "https://sites.google.com/view/taraweeh-ru/home",
-                "titleRu": "Тарауих намаз",
-                "descriptionRu": "",
-                "showRu": 1,
-                "urlEn": "https://www.namaz.live/taraweeh",
-                "titleEn": "Taraweeh prayer",
-                "descriptionEn": "",
-                "showEn": 1
-            },
-            {
-                "id": "laylatul_qadr",
-                "type": "article",
-                "urlRu": "https://sites.google.com/view/night-of-power/home",
-                "titleRu": "Ночь Предопределения",
-                "descriptionRu": "",
-                "showRu": 1,
-                "urlEn": "https://www.namaz.live/laylatul-qadr",
-                "titleEn": "Laylatul Qadr: the Night of Divine Decree",
-                "descriptionEn": "",
                 "showEn": 1
             }
         ]
