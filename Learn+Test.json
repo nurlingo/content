@@ -25,8 +25,8 @@
                 "titleRu": "Что такое намаз?",
                 "detailRu": "Проверьте свое понимание",
                 "showRu": 0,
-                "urlEn": "",
                 "titleEn": "What is Namaz?",
+                "urlEn": "namaz_quiz",
                 "detailEn": "Check your understanding",
                 "showEn": 1
             },
@@ -110,6 +110,27 @@
                 "titleEn": "Istinja - cleaning after toilet",
                 "detailEn": "Water, paper, and other important aspects",
                 "showEn": 1
+            }
+        ]
+    },
+    {
+        "id": "taharah-part2",
+        "titleRu": "Тахарат: ритуальное очищение",
+        "detailRu": "",
+        "titleEn": "Taharah: ritual purity",
+        "detailEn": "Being in a state of ritual purity is a prerequisite of prayer. Let's see how we can aqcuire it.",
+        "items": [
+            {
+                "id": "wudu_key",
+                "type": "test",
+                "urlRu": "",
+                "titleRu": "Два ключа",
+                "detailRu": "",
+                "showRu": 0,
+                "urlEn": "wudu_key",
+                "titleEn": "The Two Keys",
+                "detailEn": "What do they unlock?",
+                "showEn": 1
             },
             {
                 "id": "ghusl",
@@ -121,6 +142,18 @@
                 "urlEn": "https://www.namaz.live/ghusl",
                 "titleEn": "Ghusl - full-body washing",
                 "detailEn": "Washing after sexual intercourse, orgasm, or end of menstruation period",
+                "showEn": 1
+            },
+            {
+                "id": "performing_ghusl",
+                "type": "test",
+                "urlRu": "performing_ghusl_ru",
+                "titleRu": "Действия в гусле",
+                "detailRu": "Проверьте свое понимание",
+                "showRu": 1,
+                "urlEn": "performing_ghusl",
+                "titleEn": "Performing ghusl",
+                "detailEn": "Check your understanding",
                 "showEn": 1
             },
             {
@@ -136,17 +169,17 @@
                 "showEn": 1
             },
             {
-                "id": "wudu_key",
+                "id": "performing_wudu",
                 "type": "test",
-                "urlRu": "",
-                "titleRu": "Два ключа",
-                "detailRu": "",
-                "showRu": 0,
-                "urlEn": "",
-                "titleEn": "The Two Keys",
-                "detailEn": "What do they unlock?",
+                "urlRu": "performing_wudu_ru",
+                "titleRu": "Действия в вуду",
+                "descriptionRu": "Проверьте свое понимание",
+                "showRu": 1,
+                "urlEn": "performing_wudu",
+                "titleEn": "Performing wudu",
+                "descriptionEn": "Check your understanding",
                 "showEn": 1
-            },
+            }, 
             {
                 "id": "tayammum",
                 "type": "article",
@@ -169,59 +202,70 @@
         "detailEn": "Some basics of our belief as Muslims",
         "items": [
             {
-                "id": "faith_faq",
+                "id": "shahadah",
                 "type": "article",
-                "urlRu": "https://sites.google.com/view/faith-questions",
-                "titleRu": "Вопросы и ответы о вере",
-                "detailRu": "Просто о важном",
+                "urlRu": "https://sites.google.com/view/islam-and-iman",
+                "titleRu": "Врата, ведущие в Ислам",
                 "showRu": 1,
                 "urlEn": "https://www.namaz.live/shahadah",
-                "titleEn": "The Declaration of Faith",
-                "detailEn": "What makes one a Muslim",
+                "titleEn": "Shahadah: The Declaration of Faith",
+                "descriptionEn": "What makes one a Muslim",
                 "showEn": 1
             },
             {
-                "id": "shahada",
+                "id": "say_shahada",
                 "type": "test",
-                "urlRu": "",
+                "urlRu": "say_shahada_ru",
                 "titleRu": "Свидетельство веры",
-                "detailRu": "Сможете его составить?",
-                "showRu": 0,
-                "urlEn": "",
+                "descriptionRu": "Сможете его составить?",
+                "showRu": 1,
+                "urlEn": "say_shahada",
                 "titleEn": "Make a declaration",
-                "detailEn": "Can you reconstruct it?",
+                "descriptionEn": "Can you reconstruct it?",
+                "showEn": 1
+            },
+            {
+                "id": "quran",
+                "type": "article",
+                "urlRu": "https://www.namaz.live/quran-ru",
+                "titleRu": "Коран: Книга Аллаха",
+                "descriptionRu": "",
+                "showRu": 0,
+                "urlEn": "https://www.namaz.live/quran",
+                "titleEn": "Al Quran: the Book of Allah",
+                "descriptionEn": "",
                 "showEn": 1
             },
             {
                 "id": "hadith_on_niyyah",
                 "type": "article",
                 "urlRu": "https://sites.google.com/view/niyyah-ru",
-                "titleRu": "Намерение и искренность",
+                "titleRu": "Хадис о намерении",
                 "showRu": 1,
                 "urlEn": "https://www.namaz.live/intention",
-                "titleEn": "Intention and Sincerity",
-                "detailEn": "Something emphasized in our deen",
+                "titleEn": "The Hadith of intention",
+                "descriptionEn": "Something emphasized in our deen",
                 "showEn": 1
             },
             {
                 "id": "islam_imaan_ihsan",
                 "type": "article",
                 "urlRu": "https://sites.google.com/view/islam-and-iman",
-                "titleRu": "Врата, ведущие в Ислам",
-                "showRu": 1,
+                "titleRu": "Хадис Джибриля (мир ему)",
+                "showRu": 0,
                 "urlEn": "https://www.namaz.live/islam-iman-ihsan",
-                "titleEn": "Islam, Iman, and Ihsan",
-                "detailEn": "Jibreel (peace be upon him) visits Muslims",
+                "titleEn": "The Hadith of Jibreel (peace be upon him)",
+                "descriptionEn": "Islam, Iman, Ihsan",
                 "showEn": 1
             },
             {
-                "id": "hadeeth_quiz",
+                "id": "islam_imaan_ihsan_quiz",
                 "type": "test",
-                "urlRu": "",
+                "urlRu": "islam_imaan_ihsan_quiz_ru",
                 "titleRu": "О чем был разговор?",
                 "showRu": 0,
-                "urlEn": "",
-                "titleEn": "Questions about the noble visitor",
+                "urlEn": "islam_imaan_ihsan_quiz",
+                "titleEn": "What have they discussed?",
                 "showEn": 1
             }
         ]
@@ -241,31 +285,41 @@
                 "showRu": 1,
                 "urlEn": "https://www.namaz.live/ramadan",
                 "titleEn": "Fasting in Ramadan",
-                "detailEn": "The best of deeds in the best of months",
+                "descriptionEn": "The best of deeds in the best of months",
                 "showEn": 1
             },
             {
                 "id": "taraweeh",
                 "type": "article",
                 "urlRu": "https://sites.google.com/view/taraweeh-ru/home",
-                "titleRu": "Таравих намаз",
-                "detailRu": "",
+                "titleRu": "Тарауих намаз",
+                "descriptionRu": "",
                 "showRu": 1,
                 "urlEn": "https://www.namaz.live/taraweeh",
                 "titleEn": "Taraweeh prayer",
-                "detailEn": "",
+                "descriptionEn": "",
                 "showEn": 1
             },
             {
                 "id": "laylatul_qadr",
                 "type": "article",
                 "urlRu": "https://sites.google.com/view/night-of-power/home",
-                "titleRu": "Ляйлятуль-Кадр: Ночь Предопределения",
-                "detailRu": "",
+                "titleRu": "Ночь Предопределения",
+                "descriptionRu": "",
                 "showRu": 1,
                 "urlEn": "https://www.namaz.live/laylatul-qadr",
-                "titleEn": "Laylatul Qadr",
-                "detailEn": "",
+                "titleEn": "Laylatul Qadr: the Night of Divine Decree",
+                "descriptionEn": "",
+                "showEn": 1
+            },
+            {
+                "id": "dhul-hijjah",
+                "type": "article",
+                "urlRu": "https://www.namaz.live/dhul-hijjah-ru",
+                "titleRu": "Зуль-Хиджа: первые 10 дней",
+                "showRu": 1,
+                "urlEn": "https://www.namaz.live/dhul-hijjah",
+                "titleEn": "The 10 days of Dhul Hijjah",
                 "showEn": 1
             }
         ]
