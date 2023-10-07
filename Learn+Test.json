@@ -173,11 +173,11 @@
                 "type": "test",
                 "urlRu": "performing_wudu_ru",
                 "titleRu": "Действия в вуду",
-                "descriptionRu": "Проверьте свое понимание",
+                "detailRu": "Проверьте свое понимание",
                 "showRu": 1,
                 "urlEn": "performing_wudu",
                 "titleEn": "Performing wudu",
-                "descriptionEn": "Check your understanding",
+                "detailEn": "Check your understanding",
                 "showEn": 1
             }, 
             {
@@ -209,7 +209,7 @@
                 "showRu": 1,
                 "urlEn": "https://www.namaz.live/shahadah",
                 "titleEn": "Shahadah: The Declaration of Faith",
-                "descriptionEn": "What makes one a Muslim",
+                "detailEn": "What makes one a Muslim",
                 "showEn": 1
             },
             {
@@ -217,11 +217,11 @@
                 "type": "test",
                 "urlRu": "say_shahada_ru",
                 "titleRu": "Свидетельство веры",
-                "descriptionRu": "Сможете его составить?",
+                "detailRu": "Сможете его составить?",
                 "showRu": 1,
                 "urlEn": "say_shahada",
                 "titleEn": "Make a declaration",
-                "descriptionEn": "Can you reconstruct it?",
+                "detailEn": "Can you reconstruct it?",
                 "showEn": 1
             },
             {
@@ -229,11 +229,11 @@
                 "type": "article",
                 "urlRu": "https://www.namaz.live/quran-ru",
                 "titleRu": "Коран: Книга Аллаха",
-                "descriptionRu": "",
+                "detailRu": "",
                 "showRu": 0,
                 "urlEn": "https://www.namaz.live/quran",
                 "titleEn": "Al Quran: the Book of Allah",
-                "descriptionEn": "",
+                "detailEn": "",
                 "showEn": 1
             },
             {
@@ -244,7 +244,7 @@
                 "showRu": 1,
                 "urlEn": "https://www.namaz.live/intention",
                 "titleEn": "The Hadith of intention",
-                "descriptionEn": "Something emphasized in our deen",
+                "detailEn": "Something emphasized in our deen",
                 "showEn": 1
             },
             {
@@ -255,7 +255,7 @@
                 "showRu": 0,
                 "urlEn": "https://www.namaz.live/islam-iman-ihsan",
                 "titleEn": "The Hadith of Jibreel (peace be upon him)",
-                "descriptionEn": "Islam, Iman, Ihsan",
+                "detailEn": "Islam, Iman, Ihsan",
                 "showEn": 1
             },
             {
@@ -285,7 +285,7 @@
                 "showRu": 1,
                 "urlEn": "https://www.namaz.live/ramadan",
                 "titleEn": "Fasting in Ramadan",
-                "descriptionEn": "The best of deeds in the best of months",
+                "detailEn": "The best of deeds in the best of months",
                 "showEn": 1
             },
             {
@@ -293,11 +293,11 @@
                 "type": "article",
                 "urlRu": "https://sites.google.com/view/taraweeh-ru/home",
                 "titleRu": "Тарауих намаз",
-                "descriptionRu": "",
+                "detailRu": "",
                 "showRu": 1,
                 "urlEn": "https://www.namaz.live/taraweeh",
                 "titleEn": "Taraweeh prayer",
-                "descriptionEn": "",
+                "detailEn": "",
                 "showEn": 1
             },
             {
@@ -305,11 +305,11 @@
                 "type": "article",
                 "urlRu": "https://sites.google.com/view/night-of-power/home",
                 "titleRu": "Ночь Предопределения",
-                "descriptionRu": "",
+                "detailRu": "",
                 "showRu": 1,
                 "urlEn": "https://www.namaz.live/laylatul-qadr",
                 "titleEn": "Laylatul Qadr: the Night of Divine Decree",
-                "descriptionEn": "",
+                "detailEn": "",
                 "showEn": 1
             },
             {
