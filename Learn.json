@@ -15,7 +15,7 @@
                 "showRu": 1,
                 "urlEn": "https://www.namaz.live/what-is-namaz",
                 "titleEn": "About Namaz",
-                "descriptionEn": "FAQ from the developer",
+                "detailEn": "FAQ from the developer",
                 "showEn": 1
             },
             {
@@ -23,11 +23,11 @@
                 "type": "article",
                 "urlRu": "https://www.namaz.live/ction-categories-ru",
                 "titleRu": "Категории действий в Исламе",
-                "descriptionRu": "",
+                "detailRu": "",
                 "showRu": 0,
                 "urlEn": "https://www.namaz.live/action-categories",
                 "titleEn": "Categories of action in Islam",
-                "descriptionEn": "",
+                "detailEn": "",
                 "showEn": 1
             }
         ]
@@ -44,11 +44,11 @@
                 "type": "article",
                 "urlRu": "https://www.namaz.live/prayer-fard-ru",
                 "titleRu": "Фард действия в намазе",
-                "descriptionRu": "",
+                "detailRu": "",
                 "showRu": 0,
                 "urlEn": "https://www.namaz.live/prayer-fard",
                 "titleEn": "Fard of salah: 11 essentials in prayer",
-                "descriptionEn": "",
+                "detailEn": "",
                 "showEn": 1
             },
             {
@@ -56,11 +56,11 @@
                 "type": "article",
                 "urlRu": "https://www.namaz.live/prayer-categories-ru",
                 "titleRu": "Категории намаза",
-                "descriptionRu": "",
+                "detailRu": "",
                 "showRu": 1,
                 "urlEn": "https://www.namaz.live/prayer-categories",
                 "titleEn": "Categories of prayer",
-                "descriptionEn": "",
+                "detailEn": "",
                 "showEn": 1
             },
             {
@@ -68,11 +68,11 @@
                 "type": "article",
                 "urlRu": "https://www.namaz.live/prayer-times-ru",
                 "titleRu": "Время намаза",
-                "descriptionRu": "",
+                "detailRu": "",
                 "showRu": 1,
                 "urlEn": "https://www.namaz.live/prayer-times",
                 "titleEn": "Prayer times",
-                "descriptionEn": "",
+                "detailEn": "",
                 "showEn": 1
             }
         ]
