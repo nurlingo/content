@@ -15,39 +15,72 @@
                 "showRu": 1,
                 "urlEn": "https://www.namaz.live/what-is-namaz",
                 "titleEn": "About Namaz",
-                "detailEn": "FAQ from the developer",
+                "descriptionEn": "FAQ from the developer",
+                "showEn": 1
+            },
+            {
+                "id": "action_categories",
+                "type": "article",
+                "urlRu": "https://www.namaz.live/ction-categories-ru",
+                "titleRu": "Категории действий в Исламе",
+                "descriptionRu": "",
+                "showRu": 0,
+                "urlEn": "https://www.namaz.live/action-categories",
+                "titleEn": "Categories of action in Islam",
+                "descriptionEn": "",
+                "showEn": 1
+            }
+        ]
+    },
+    {
+        "id": "prayer_rules",
+        "titleRu": "Правила Намаза",
+        "commentRu": "",
+        "titleEn": "Prayer rules",
+        "commentEn": "",
+        "items": [
+            {
+                "id": "prayer_essentials",
+                "type": "article",
+                "urlRu": "https://www.namaz.live/prayer-fard-ru",
+                "titleRu": "Фард действия в намазе",
+                "descriptionRu": "",
+                "showRu": 0,
+                "urlEn": "https://www.namaz.live/prayer-fard",
+                "titleEn": "Fard of salah: 11 essentials in prayer",
+                "descriptionEn": "",
                 "showEn": 1
             },
             {
                 "id": "prayer_categories",
                 "type": "article",
-                "urlRu": "",
+                "urlRu": "https://www.namaz.live/prayer-categories-ru",
                 "titleRu": "Категории намаза",
-                "detailRu": "",
-                "showRu": 0,
+                "descriptionRu": "",
+                "showRu": 1,
                 "urlEn": "https://www.namaz.live/prayer-categories",
-                "titleEn": "Types of Prayer",
-                "detailEn": "",
+                "titleEn": "Categories of prayer",
+                "descriptionEn": "",
                 "showEn": 1
             },
             {
                 "id": "prayer_times",
                 "type": "article",
                 "urlRu": "https://www.namaz.live/prayer-times-ru",
-                "titleRu": "О времени намаза",
-                "detailRu": "",
+                "titleRu": "Время намаза",
+                "descriptionRu": "",
                 "showRu": 1,
                 "urlEn": "https://www.namaz.live/prayer-times",
                 "titleEn": "Prayer times",
-                "detailEn": "",
+                "descriptionEn": "",
                 "showEn": 1
             }
         ]
     },
     {
-        "id": "taharah",
-        "titleRu": "Тахарат: омовение перед намазом",
-        "detailRu": "Для того чтобы совершать Намаз, необходимо пребывать в состоянии физической и ритуальной чистоты.",
+        "id": "taharah-part1",
+        "titleRu": "Тахарат: физическая чистота",
+        "commentRu": "",
         "titleEn": "Taharah: physical purity",
         "detailEn": "Taharah means purification. In this module, we'll look into cleaning one's body, cloth and place of prayer from the physical impurities.",
         "items": [
