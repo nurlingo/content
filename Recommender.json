@@ -1,3 +1,4 @@
+
 [
     {
         "id": "contact_developer",
@@ -29,16 +30,16 @@
         "descriptionEn": "",
         "items": [
             {
-                "id": "namaz",
+                "id": "welcome_message",
                 "showEn": 1,
                 "showRu": 1,
-                "type": "article",
-                "titleEn": "Welcome to NamazApp!",
-                "titleRu": "Добро пожаловать в НамазАпп!",
-                "descriptionEn": "As-salaamu عalaikum! Our goal is to help you with prayer by supplying all things a beginner needs to get started. Tap on the button below to learn more about NamazApp and prayer in Islam.\n\nIf you have any questions, feel free to message us by tapping the message icon in the top right corner of the main page.\n\nIf you are at the beginning of your journey, say bismiLlah (in the name of Allah) and proceed. We ask Allah to make things easy and beneficial for you, ameen!",
-                "descriptionRu": "Ас-саляму 'аляйкум! Наша цель - помочь вам встать на намаз, дав вам все самое необходимое чтобы начать. Нажмите на кнопку ниже, чтобы узнать больше о нашем приложении и о намазе в целом.\n\nЕсли у вас вопросы, то пишите нам нажав на иконку в правом верхнем углу главного экрана.\n\nЕсли вы в самом начале пути, то скажите БисмиЛляh (с именем Аллаха) и вставайте на намаз. И пусть Всевышний облегчит вам получения полезных знаний и откроет для вас врата Своей Милости, амин!",
-                "urlEn": "https://sites.google.com/view/namaz-intro-en",
-                "urlRu": "https://sites.google.com/view/namaz-intro-ru",
+                "type": "phrase",
+                "titleEn": "As-salaamu عalaikum!",
+                "titleRu": "Ас-саляму 'аляйкум!",
+                "descriptionEn": "Welcome to NamazApp! Our goal is to help you get started with prayer.\n\nThere are five obligatory prayers. You can find them on the main page of this app. There is also a guide on washing before prayer.\n\nIf you have any questions, find the message icon in the top right corner of the main page.\n\nNow let's say bismiLlah (in the name of Allah) and get started! We ask Allah to make things easy and beneficial for you, ameen!",
+                "descriptionRu": "Добро пожаловать в НамазАпп! Наша цель - помочь вам встать на намаз.\n\nНа главной странице вы можете найти пять обязательных намазов для чтения на каждый день. Там же есть гид по Тахарату - очищению перед намазом.\n\nЕсли у вас вопросы, то пишите нам нажав на иконку в правом верхнем углу главного экрана.\n\nПусть Всевышний облегчит вам получения полезных знаний и откроет для вас врата Своей Милости, амин!",
+                "urlEn": "salamLeft",
+                "urlRu": "salamLeft",
                 "icon": "info.square"
             },
             {
@@ -48,10 +49,11 @@
                 "type": "link",
                 "titleEn": "iSyllabus: the best course ever",
                 "titleRu": "Школа одного дня",
-                "descriptionEn": "Check out this course, it'll give you a solid foundation in Islam. We took it about 10 years ago, and the knowledge is sustaining us to this day alhamdulillah.\n\nThe course is paid, but it's totally worth the money. In fact, it was one of the best investments we've ever made.\n\nThe full price is £395, however, there is a 10% discount for the users of NamazApp.\n\nTo get the 10% discount use this promocode: namazapp10\n\nAll students enrolling will also receive free access to 2 Seerah courses, i.e. the biography of the Prophet ﷺ.\n\niSyllabus will be allowing FREE access to their first live lesson on Tue, Oct 10th. Join the stream on their website homepage on Tuesday (Oct 10th) at 7pm. And do enroll, if you can afford it. Barakallaahu feekum!",
+                "descriptionEn": "Check out this course, inshaAllah it'll give you a solid foundation in Islam. We took it about 10 years ago, and the knowledge is sustaining us to this day alhamdulillah.\n\nThe course is paid, but in our case it was one of the best investments we've ever made.\n\nThe full price is £395. Something nice is that we received a 10% discount for the users of NamazApp. To get the discount use the promocode: namazapp10\n\nWatch the first live lesson for free this Tuesday, Oct 10th at 7pm. And do enroll, if you can afford it. Barakallaahu feekum!",
                 "descriptionRu": "",
                 "urlEn": "https://www.isyllabus.org/",
                 "urlRu": "",
+                "dateEn": "Oct 8th, 2023",
                 "icon": "play.laptopcomputer"
             },
             {
@@ -63,8 +65,6 @@
                 "titleRu": "Функционал для времени намаза",
                 "descriptionEn": "Alhamdulillah, we have some nice features related to prayer time!\n\nYou can enable and configure the times in the 'Settings' tab, and they will appear on the main page of our app next to each prayer.\n\nYou can also add NamazApp widgets to your home and lock screens, which makes it easier to view the time without too many taps.\n\nDo you want to know how the prayer times are derived? See the corresponding article in the 'Learn' section, called 'Prayer times'.\n\nLastly, we have notifications! If you enable them, you'll receive one for each prayer. A sort of a reminder that can work together with the widgets.\n\nWe actually use and enjoy these features ourselves, and we hope you will find them useful too, inshaAllah!",
                 "descriptionRu": "Альхамдулилляh, у нас есть несколько удобных функций, связанных с временем намаза.\n\nСамо время можно включить и настроить на главной страние. После включения, время начала и окончания появится рядом с названием каждого намаза.\n\nСмотреть время намаза можно использую наши виджеты. Есть две вариации виджета для экрана блокировки, и один вариант для основного меню вашего iPhone.\n\nЧтобы понять правила того, как определяется время, читайте статью в разделе «Обучение». Статья так и называется - 'Время намаза'.\n\nИ напоследок, вы можете включить уведомления! Они будут приходить в начале времени каждого намаза.\n\nМы сами пользуемся как виждетами, так и уведомлениями. Надеемся, будет полезно и вам, иншаАллах!",
-                "dateEn": "May 25",
-                "dateRu": "27.05.23",
                 "urlEn": "",
                 "urlRu": "",
                 "icon": "app.badge"
@@ -91,8 +91,6 @@
                 "titleRu": "Аккаунты в социальных сетях",
                 "descriptionEn": "We are activating our social media channels, among them Youtube, Telegram, and Twitter.\n\nWe also released our first video on how actions are classified in Islam. In it, we review how actions are prioritized and what this prioritization means for us.\n\nThe links to all of our accounts can be found in the 'Settings' tab.\n\nMay Allah put benefit into this effort and protect us from the harm of these 'nets'.",
                 "descriptionRu": "Мы активизируем наши социальные аккаунты в Ютуб, Телеграм и Твиттер.\n\nПросим у Аллаха, чтобы он вложил в это дело пользу, и защитил нас от зла этих 'сетей'.",
-                "dateEn": "Jul 7",
-                "dateRu": "07.07.23",
                 "urlEn": "",
                 "urlRu": "",
                 "icon": "network"
