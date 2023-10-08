@@ -1,0 +1,176 @@
+[
+    {
+        "id": "contact_developer",
+        "titleRu": "Чат поддержки",
+        "descriptionRu": "",
+        "titleEn": "Support Chat",
+        "descriptionEn": "",
+        "items": [
+            {
+                "id": "contact_developer",
+                "type": "action",
+                "urlRu": "https://api.whatsapp.com/send?phone=+77765206766&text=%D0%90%D1%81%D1%81%D0%B0%D0%BB%D1%8F%D0%BC%D1%83%20%27%D0%B0%D0%BB%D1%8F%D0%B9%D0%BA%D1%83%D0%BC%21%20%D0%AF%20%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D1%8E%20%D0%9D%D0%B0%D0%BC%D0%B0%D0%B7%D0%90%D0%BF%D0%BF.",
+                "titleRu": "Задать вопрос",
+                "descriptionRu": "Ассаляму 'аляйкум! Я использую НамазАпп. У меня следующий вопрос:",
+                "showRu": 1,
+                "urlEn": "https://api.whatsapp.com/send?phone=+77765206766&text=As-salaamu%20%27alaikum!%20I%27m%20using%20NamazApp.%20I%20have%20the%20following%20question%20or%20suggestion:",
+                "titleEn": "Ask a question",
+                "descriptionEn": "As-salaamu 'alaikum! I'm using NamazApp. I have the following question:",
+                "showEn": 1,
+                "icon": "questionmark.square"
+            },
+        ]
+    },
+    {
+        "id": "recommendations",
+        "titleRu": "Рекомендуем вам",
+        "descriptionRu": "",
+        "titleEn": "Recommended for you",
+        "descriptionEn": "",
+        "items": [
+            {
+                "id": "namaz",
+                "showEn": 1,
+                "showRu": 1,
+                "type": "article",
+                "titleEn": "Welcome to NamazApp!",
+                "titleRu": "Добро пожаловать в НамазАпп!",
+                "descriptionEn": "As-salaamu عalaikum! Our goal is to help you with prayer by supplying all things a beginner needs to get started. Tap on the button below to learn more about NamazApp and prayer in Islam.\n\nIf you have any questions, feel free to message us by tapping the message icon in the top right corner of the main page.\n\nIf you are at the beginning of your journey, say bismiLlah (in the name of Allah) and proceed. We ask Allah to make things easy and beneficial for you, ameen!",
+                "descriptionRu": "Ас-саляму 'аляйкум! Наша цель - помочь вам встать на намаз, дав вам все самое необходимое чтобы начать. Нажмите на кнопку ниже, чтобы узнать больше о нашем приложении и о намазе в целом.\n\nЕсли у вас вопросы, то пишите нам нажав на иконку в правом верхнем углу главного экрана.\n\nЕсли вы в самом начале пути, то скажите БисмиЛляh (с именем Аллаха) и вставайте на намаз. И пусть Всевышний облегчит вам получения полезных знаний и откроет для вас врата Своей Милости, амин!",
+                "urlEn": "https://sites.google.com/view/namaz-intro-en",
+                "urlRu": "https://sites.google.com/view/namaz-intro-ru",
+                "icon": "info.square"
+            },
+            {
+                "id": "isyllabus",
+                "showEn": 1,
+                "showRu": 0,
+                "type": "link",
+                "titleEn": "iSyllabus: the best course ever",
+                "titleRu": "Школа одного дня",
+                "descriptionEn": "Check out this course, it'll give you a solid foundation in Islam. We took it about 10 years ago, and the knowledge is sustaining us to this day alhamdulillah.\n\nThe course is paid, but it's totally worth the money. In fact, it was one of the best investments we've ever made.\n\nThe full price is £395, however, there is a 10% discount for the users of NamazApp.\n\nTo get the 10% discount use this promocode: namazapp10\n\nAll students enrolling will also receive free access to 2 Seerah courses, i.e. the biography of the Prophet ﷺ.\n\niSyllabus will be allowing FREE access to their first live lesson on Tue, Oct 10th. Join the stream on their website homepage on Tuesday (Oct 10th) at 7pm. And do enroll, if you can afford it. Barakallaahu feekum!",
+                "descriptionRu": "",
+                "urlEn": "https://www.isyllabus.org/",
+                "urlRu": "",
+                "icon": "play.laptopcomputer"
+            },
+            {
+                "id": "prayer_time",
+                "showEn": 1,
+                "showRu": 1,
+                "type": "navigation",
+                "titleEn": "Prayer time functionality",
+                "titleRu": "Функционал для времени намаза",
+                "descriptionEn": "Alhamdulillah, we have some nice features related to prayer time!\n\nYou can enable and configure the times in the 'Settings' tab, and they will appear on the main page of our app next to each prayer.\n\nYou can also add NamazApp widgets to your home and lock screens, which makes it easier to view the time without too many taps.\n\nDo you want to know how the prayer times are derived? See the corresponding article in the 'Learn' section, called 'Prayer times'.\n\nLastly, we have notifications! If you enable them, you'll receive one for each prayer. A sort of a reminder that can work together with the widgets.\n\nWe actually use and enjoy these features ourselves, and we hope you will find them useful too, inshaAllah!",
+                "descriptionRu": "Альхамдулилляh, у нас есть несколько удобных функций, связанных с временем намаза.\n\nСамо время можно включить и настроить на главной страние. После включения, время начала и окончания появится рядом с названием каждого намаза.\n\nСмотреть время намаза можно использую наши виджеты. Есть две вариации виджета для экрана блокировки, и один вариант для основного меню вашего iPhone.\n\nЧтобы понять правила того, как определяется время, читайте статью в разделе «Обучение». Статья так и называется - 'Время намаза'.\n\nИ напоследок, вы можете включить уведомления! Они будут приходить в начале времени каждого намаза.\n\nМы сами пользуемся как виждетами, так и уведомлениями. Надеемся, будет полезно и вам, иншаАллах!",
+                "dateEn": "May 25",
+                "dateRu": "27.05.23",
+                "urlEn": "",
+                "urlRu": "",
+                "icon": "app.badge"
+            },
+            {
+                "id": "qibla",
+                "showEn": 1,
+                "showRu": 1,
+                "type": "action",
+                "titleEn": "We pray in the direction of Meccah",
+                "titleRu": "Мы молимся в направлении Каабы",
+                "descriptionEn": "Alhamdulillah, we can now find the Qibla direction using the app. Check it out on the main page.\n\nImportant to mention that iPhone's compass is not always 100% accurate. Sometimes it struggles to determine the precise direction you are looking. That's why we've added the map for you to double check by comparing it to your actual surroundings. Take care!",
+                "descriptionRu": "Альхамдулиллях, теперь вы можете посмотреть в каком направлении находится кибла. Вы можете найти этот функционал на главной странице.\n\nВажно отметить, что компас iPhone не всегда 100% точен, и иногда он не может определить куда именно повернут телефон. Поэтому у нас есть карта, чтобы вы могли перепроверить, сверив карту со своим окружением.\n\nОбязательно опробуйте, иншаАллах!",
+                "urlEn": "",
+                "urlRu": "",
+                "icon": "compass.drawing"
+            },
+            {
+                "id": "youtube",
+                "showEn": 1,
+                "showRu": 0,
+                "type": "settings",
+                "titleEn": "Social media accounts",
+                "titleRu": "Аккаунты в социальных сетях",
+                "descriptionEn": "We are activating our social media channels, among them Youtube, Telegram, and Twitter.\n\nWe also released our first video on how actions are classified in Islam. In it, we review how actions are prioritized and what this prioritization means for us.\n\nThe links to all of our accounts can be found in the 'Settings' tab.\n\nMay Allah put benefit into this effort and protect us from the harm of these 'nets'.",
+                "descriptionRu": "Мы активизируем наши социальные аккаунты в Ютуб, Телеграм и Твиттер.\n\nПросим у Аллаха, чтобы он вложил в это дело пользу, и защитил нас от зла этих 'сетей'.",
+                "dateEn": "Jul 7",
+                "dateRu": "07.07.23",
+                "urlEn": "",
+                "urlRu": "",
+                "icon": "network"
+            },
+            {
+                "id": "share_app",
+                "type": "action",
+                "descriptionRu": "",
+                "titleRu": "Поделитесь аппом",
+                "showRu": 1,
+                "titleEn": "Share the app",
+                "descriptionEn": "",
+                "showEn": 1,
+                "icon": "square.and.arrow.up"
+            },
+            {
+                "id": "personalization",
+                "type": "action",
+                "titleRu": "Расскажите о себе",
+                "descriptionRu": "",
+                "showRu": 1,
+                "titleEn": "Tell us about yourself",
+                "descriptionEn": "",
+                "showEn": 1,
+                "icon": "person.text.rectangle"
+            },
+            {
+                "id": "dark_mode",
+                "showEn": 1,
+                "showRu": 1,
+                "type": "settings",
+                "titleEn": "Try Dark Mode",
+                "titleRu": "Темный режим",
+                "descriptionEn": "Alhamdulillah, now you can disable or enable the Dark Mode. You can find the switch in the 'Settings' tab.\n\nThis feature should make the screen light easier on the eyes inshaAllah. In any case, let's not spend too much time on the phone during the night, and instead get a good sleep after praying Isha.",
+                "descriptionRu": "Альхамдулиллях, теперь вы можете включать и отключать ночной переход на темный режим.  Найти настройку можно во вкладке 'Настройки'.\n\nК нам неоднократно писали с этим запросом, и смысл в том, чтобы уменьшить нагрузку на глаза. При этом некоторым нашим пользователям больше нравится белый фон, независимо от времени суток.\n\nКонечно, лучше не смотреть слишком долго в экран ночью, а вместо этого, прочитав Иша, ложиться спать)",
+                "urlEn": "",
+                "urlRu": "",
+                "icon": "lightbulb.circle"
+            },
+            {
+                "id": "999011",
+                "showEn": 1,
+                "showRu": 1,
+                "type": "listen",
+                "titleEn": "Rabbannaa, Istikhara, and other du'a",
+                "titleRu": "Раббанаа, Истихара, и другие ду'а",
+                "descriptionEn": "We have several Du'a from the Quran and Sunnah in the Listen tab. Du'a is a supplication, i.e. it is the action of asking for something from Allah with earnesty, humbleness, and hope.\n\nThe latest addition is the duas that begin with the phrase 'Rabbanaa' ('Our Lord!'). These are the duas from the Qur'an that were utterred by the prophets (peace be upon them) and their righteous followers, and from them we learn what kind of things to ask from Allah the Most High.\n\nEarlier, we've added Istikhara, which is a nafl prayer followed by a special dua. We say it when making a decision, and from it we learn how to rely on Allah's infinite Knowledge and Power over our own limited capabilities.\n\nInshaAllah, in the future we'll add other du'a from the Sunnah, and also compile a short guide on the ettiquettes of du'a. In the meantime, do check the Du'a section out in the Listen tab, and let's ask Allah often, as He loves when we call unto Him.\n\nWe ask Allah to guide us to the best of things, and to give us the success of calling unto Him in the most beautiful way, and that our du'a are accepted! Ameen!",
+                "descriptionRu": "У нас есть дуа из Корана и Сунны во вкладке Аудио. Дуа - это когда мы взываем к Аллаху и просим Его о чем-то с искренностью и доверием.\n\nВ одном из последних релизов мы добавили дуа, начинающиеся с фразы «Раббанаа» (Господь наш!). Это дуа из Корана, которые произносили пророки (мир им) и их праведные последователи. У них мы можем учиться тому, как и о чем просить у Всевышнего Аллаха.\n\nДо этого мы добавил Истихару. Истихара – это дополнительный намаз, за которым следует особое дуа. Мы можем произносить его, принимая решение. Истихара учит нас, как полагаться на Всезнающего и Всемогущего Аллаха.\n\nИншаАллах, в будущем мы также планируем добавить дуа из Сунны и составить краткую статью, о том как правильно делать дуа. Ну а пока, обязательно посмотрите вкладку «Аудио».\n\nДавайте часто просить Аллаха, так как Он любит, когда мы взываем к Нему. Мы просим Аллаха принять наши дуа и направить нас к всему самому лучшему! Амин!",
+                "urlEn": "",
+                "urlRu": "",
+                "icon": "play.square"
+            },
+            {
+                "id": "999010",
+                "showEn": 1,
+                "showRu": 1,
+                "type": "listen",
+                "titleEn": "Adhan and iqamah",
+                "titleRu": "Азан и Иқамат",
+                "descriptionEn": "You can now find Iqamah in the Audios section.\n\nIqamah is the call to prayer that is given after Adhan and right before the prayer starts. It is an emphasized sunnah for men to say the Iqamah before starting a fard prayer.\n\nImportant to mention that it is also recommended to make dua in the period between Adhan and Iqamah, as the Messenger of Allah (ﷺ) said: 'The supplication made between the Adhan and the Iqamah is not rejected.' [Abu Dawud]. In fact, there is a special dua that is made straight after adhan, and we'll inshaAllah add it in the future updates.",
+                "descriptionRu": "Во вкладке Аудио теперь можно найти Икамат.\n\nИкамат - это призыв-оповещение о начале намаза, который дают уже после Азана непосредственно перед совершением молитвы. Читать Икамат перед фард намазом - это закрепленная сунна для мужчин.\n\nВажно упомянуть, что рекоммендуется делать дуа в промежуток между азаном и иқаматом. В хадисе говорится: \"Дуа между азаном и иқаматом не будет отвергнуто\" [Абу Дауд]. Есть специальное дуа, которое произноситься после азана. ИншаАллах, его мы добавим в будущих обновлениях.",
+                "urlEn": "",
+                "urlRu": "",
+                "icon": "megaphone"
+            },
+            {
+                "id": "premium",
+                "showEn": 1,
+                "showRu": 1,
+                "type": "action",
+                "titleEn": "Namaz Premium",
+                "titleRu": "Намаз Премиум",
+                "descriptionEn": "Alhamdulillah, we've launched Premium subscription! It is an opportunity for our users to support NamazApp and get some pleasant perks in return.\n\nEven before the subscription, there were already donations in the app, and we regularly received financial support from our users along with kind words, and now we would like to give some small bonuses in return to show our gratitude.\n\nImportant to note, that the core functionality remains free. We hope this is a well-balanced solution, that should allow us to make the app a sustainable full-time effort, inshaAllah.\n\nPlease check it out and do become a subscriber if you can afford it. Wa jazakumuLlahu khairan!",
+                "descriptionRu": "Альхамдулиллях, мы запустили Намаз Премиум!\n\nПремиум подписка - это возможность для наших пользователей поддержать НамазАпп.\n\nВажно заметить, что и до подписки в аппе уже были донаты, и мы регулярно получали финансовую поддержку от наших пользователей вместе с добрыми словами, а теперь мы будем давать небольшие бонусы в знак благодарности.\n\nВесь основной функционал остается бесплатным. Мы надеемся, что это хорошее решение, которое позволит нам работать над проектом на постоянной основе, иншаАллах.",
+                "urlEn": "",
+                "urlRu": "",
+                "icon": "p.square"
+            }
+        ]
+    }
+]
