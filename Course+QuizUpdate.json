@@ -310,6 +310,18 @@
                     "showEn": 1
                 },
                 {
+                    "id": "messenger",
+                    "type": "article",
+                    "urlRu": "https://www.namaz.live/messenger-ru",
+                    "titleRu": "Пророк Мухаммад (ﷺ)",
+                    "descriptionRu": "",
+                    "showRu": 1,
+                    "urlEn": "https://www.namaz.live/messenger",
+                    "titleEn": "Prophet Muhammad (ﷺ)",
+                    "descriptionEn": "",
+                    "showEn": 0
+                },
+                {
                     "id": "hadith_on_niyyah",
                     "type": "article",
                     "urlRu": "https://sites.google.com/view/niyyah-ru",
