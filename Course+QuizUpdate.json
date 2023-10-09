@@ -290,7 +290,7 @@
                     "type": "article",
                     "urlRu": "https://sites.google.com/view/faith-questions",
                     "titleRu": "Вопросы и ответы о вере",
-                    "descriptionRu": "Просто о важном",
+                    "descriptionRu": "",
                     "showRu": 1,
                     "urlEn": "https://www.namaz.live/iman",
                     "titleEn": "Iman: true faith",
@@ -324,7 +324,7 @@
                 {
                     "id": "hadith_on_niyyah",
                     "type": "article",
-                    "urlRu": "https://sites.google.com/view/niyyah-ru",
+                    "urlRu": "https://www.namaz.live/intention-ru",
                     "titleRu": "Хадис о намерении",
                     "showRu": 1,
                     "urlEn": "https://www.namaz.live/intention",
