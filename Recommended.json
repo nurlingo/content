@@ -41,6 +41,25 @@
         ]
     },
     {
+        "id": "charity",
+        "titleRu": "Благотворительность",
+        "commentRu": "",
+        "titleEn": "Muslim Charities",
+        "commentEn": "",
+        "items": [
+            {
+                "id": "palestine_charity",
+                "type": "link",
+                "urlRu": https://campaigns.givebrite.com/fundraiser/oneummah-palestine-emergency-smile2jannah",
+                "titleRu": "Помощь мусульманам Палестины",
+                "showRu": 0,
+                "urlEn": "https://campaigns.givebrite.com/fundraiser/oneummah-palestine-emergency-smile2jannah",
+                "titleEn": "Palestine Emergency Appeal",
+                "showEn": 1
+            }
+        ]
+    },
+    {
         "id": "legal",
         "titleRu": "Соглашения",
         "commentRu": "",
