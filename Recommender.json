@@ -168,6 +168,20 @@
                 "urlEn": "",
                 "urlRu": "",
                 "icon": "p.square"
+            },
+            {
+                "id": "isyllabus",
+                "showEn": 1,
+                "showRu": 0,
+                "type": "link",
+                "titleEn": "iSyllabus: the best course ever",
+                "titleRu": "Школа одного дня",
+                "descriptionEn": "Check out this course, inshaAllah it'll give you a solid foundation in Islam. We took it about 10 years ago, and the knowledge is sustaining us to this day alhamdulillah.\n\nThe course is paid, but in our case it was one of the best investments we've ever made.\n\nThe full price is £395. Something nice is that we received a 10% discount for the users of NamazApp. To get the discount use the promocode: namazapp10\n\nWatch the first live lesson for free this Tuesday, Oct 10th at 7pm. And do enroll, if you can afford it. Barakallaahu feekum!",
+                "descriptionRu": "",
+                "urlEn": "https://www.isyllabus.org/",
+                "urlRu": "",
+                "dateEn": "Oct 8th, 2023",
+                "icon": "play.laptopcomputer"
             }
         ]
     }
