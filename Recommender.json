@@ -170,7 +170,7 @@
                 "icon": "p.square"
             },
             {
-                "id": "isyllabus",
+                "id": "isyllabus-extra",
                 "showEn": 1,
                 "showRu": 0,
                 "type": "link",
@@ -182,6 +182,16 @@
                 "urlRu": "",
                 "dateEn": "Oct 8th, 2023",
                 "icon": "play.laptopcomputer"
+            },
+            {
+                "id": "palestine_charity",
+                "type": "link",
+                "urlRu": "https://zakatfund.ru/campaign/palestintsam-nuzhna-meditsinskaya-pomoshh/",
+                "titleRu": "Помощь мусульманам Палестины",
+                "showRu": 1,
+                "urlEn": "https://campaigns.givebrite.com/fundraiser/oneummah-palestine-emergency-smile2jannah",
+                "titleEn": "Palestine Emergency Appeal",
+                "showEn": 1
             }
         ]
     }
