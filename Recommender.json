@@ -18,7 +18,8 @@
                 "titleEn": "Ask a question",
                 "descriptionEn": "As-salaamu 'alaikum! I'm using NamazApp. I have the following question:",
                 "showEn": 1,
-                "icon": "questionmark.square"
+                "icon": "questionmark.square",
+                "maxBundleVersionAtInstall": 167
             },
         ]
     },
