@@ -16,11 +16,11 @@
             {
                 "id": "002001005",
                 "type": "listen",
-                "titleEn": "Premium content",
-                "descriptionEn": "You will get additional items in the 'Audios' section.",
+                "titleEn": "Premium audios",
+                "descriptionEn": "Get additional items in the 'Listen' tab.",
                 "showEn": 1,
-                "titleRu": "Премиум-контент",
-                "descriptionRu": "Вы получите дополнительные дорожки в разделе 'Аудио'.",
+                "titleRu": "Премиум аудио",
+                "descriptionRu": "Дополнительные дорожки во вкладке 'Аудио'.",
                 "showRu": 1,
                 "icon": "beats.headphones"
             },
@@ -28,23 +28,12 @@
                 "id": "notification_settings",
                 "type": "action",
                 "titleEn": "Notification settings",
-                "descriptionEn": "Get extra configurations for notifications, including choosing the sound for each prayer.",
+                "descriptionEn": "Configure the notifications, including choosing the sound.",
                 "showEn": 1,
                 "titleRu": "Настройка уведомлений",
-                "descriptionRu": "Вы сможете настраивать уведомления, в том числе выбирать звук уведомления для каждого намаза.",
+                "descriptionRu": "Больший контроль над уведомлениями, в том числе выбор звука.",
                 "showRu": 1,
                 "icon": "gear.badge"
-            },
-            {
-                "id": "account",
-                "type": "action",
-                "titleEn": "Learner Profile",
-                "descriptionEn": "You get to see your activities history and your profile information.",
-                "showEn": 1,
-                "titleRu": "Профиль обучающегося",
-                "descriptionRu": "Вы можете увидеть свою пользовательскую историю и другую информацию своего профиля.",
-                "showRu": 1,
-                "icon": "graduationcap.circle"
             },
             {
                 "id": "001",
@@ -53,9 +42,21 @@
                 "descriptionRu": "Слушая суры и дуа, можно переключиться на полноэкранный режим, и будет крупным шрифтом показываться проигрываеммый аят.",
                 "showRu": 1,
                 "titleEn": "Full screen mode in audios",
-                "descriptionEn": "When listening to surahs and duas, you can enter this minimalistic mode where each ayah is shown by itself with a big font.",
+                "descriptionEn": "Switch to a minimalistic player mode for surahs and duas, where each ayah is shown by itself with a big font.",
                 "showEn": 1,
                 "icon": "rectangle.portrait.tophalf.inset.filled"
+            },
+            {
+                "id": "account",
+                "type": "action",
+                "titleEn": "Learner Profile",
+                "descriptionEn": "See activities history and profile information (work-in-progress).",
+                "showEn": 1,
+                "titleRu": "Профиль обучающегося",
+                "descriptionRu": "Пользовательская история и информация по профилю (в разработке).",
+                "showRu": 1,
+                "icon": "graduationcap.circle",
+                "restriction": "premium"
             },
             {
                 "id": "telegram_chat",
@@ -65,34 +66,34 @@
                 "showRu": 0,
                 "urlRu": "",
                 "titleEn": "Telegram group for premium users",
-                "descriptionEn": "Join the community! We've created a chat for us to interact and discuss questions. Later this chat will be moved to a forum inside the app itself inshaAllah.",
+                "descriptionEn": "Join the chat to ask questions and make suggestions. Later this chat will be moved inside the app itself inshaAllah.",
                 "showEn": 1,
                 "urlEn": "https://t.me/+ND42pitTHqViNzMy",
-                "icon": "paperplane.circle"
+                "icon": "paperplane.circle",
+                "restriction": "premium"
             },
             {
                 "id": "group_call",
                 "type": "link",
-                "titleRu": "Созвоны с разработчиками",
-                "descriptionRu": "Раз в неделю мы проводим аудио созвон для премиум-подписчиков.",
+                "titleRu": "Консультации по запросу",
+                "descriptionRu": "Можно обсудить обучение намазу и другие вопросы.",
                 "showRu": 1,
-                "urlRu": "https://meet.google.com/emb-qmtk-han",
-                "dateRu": "2023-11-08T17:15:00Z",
-                "dateCommentRu": "Созвон перенесен с субботы на предстоящую среду:\n",
-                "titleEn": "Weekly office hours",
-                "descriptionEn": "Book a consultation to ask a question, get help with learning, or just chat.",
+                "urlRu": "https://calendly.com/namazapp/consult30",
+                "titleEn": "Book a consultation",
+                "descriptionEn": "We can discuss prayer, learning, and other related questions.",
                 "showEn": 1,
                 "urlEn": "https://calendly.com/namazapp/30min",
-                "icon": "calendar.badge.clock"
+                "icon": "calendar.badge.clock",
+                "restriction": "premium"
             }
         ]
     },
     {
         "id": "premium_about",
         "titleRu": "О премиум подписке",
-        "descriptionRu": "Намаз Премиум — это возможность поддержать нас и получить взамен приятные бонусы.\n\nВклад премиум пользователей позволяет нам покрывать расходы, а также помогает приложению оставаться бесплатным для всех остальных пользователей.",
+        "descriptionRu": "Намаз Премиум — это возможность поддержать НамазАпп и внести свой вклад в развитие проекта.\n\nКупив премиум, вы получаете дополнительные функции и контент. Список бонусов будет меняться. Основной фукнционал будет оставаться бесплатным иншаАллах.",
         "titleEn": "About Namaz Premium",
-        "descriptionEn": "Namaz Premium is an opportunity for you to support our effort and receive some pleasant perks in return.\n\nContributions from Namaz Premium users allow us to cover costs and also help Namaz stay free for everyone.",
+        "descriptionEn": "Namaz Premium is an opportunity for you to support our effort and receive pleasant perks in return.\n\nThe premium perks will change over time, while the main functionality will remain free inshaAllah.",
         "items": [
             {
                 "id": "recommended",
@@ -108,8 +109,8 @@
         "id": "premium_congrats",
         "titleRu": "Поздравляем, у вас есть Премиум подписка!",
         "titleEn": "Congrats, you have Namaz Premium!",
-        "descriptionRu": "ИншаАллах, мы будем продолжать развивать приложение и помогать людям учиться.\n\nВ качестве благодарности мы хотели бы, чтобы вы воспользовались нашими премиум опциями. Нажмите на любую из них, чтобы попробовать.",
-        "descriptionEn": "Thank you for supporting us! InshaAllah, we'll keep improving the app.\n\nAs a token of gratitude, we'd like you to use some of the premium perks and early access features. Tap any of them to try.",
+        "descriptionRu": "Воспользуйтесь нашими премиум опциями. Нажмите на любую из них, чтобы попробовать.",
+        "descriptionEn": "Try our premium perks and early access features. Get in touch if you have any questions.",
         "image": "premium",
         "items": []
     },
@@ -157,7 +158,7 @@
                 "titleRu": "Задать\nвопрос",
                 "descriptionRu": "",
                 "showRu": 1,
-                "urlEn": "https://api.whatsapp.com/send?phone=+77765206766&text=As-salaamu%20%27alaikum!%20I%27m%20using%20NamazApp.%20I%20have%20the%20following%20question%20or%20suggestion:",
+                "urlEn": "https%3A%2F%2Fapi.whatsapp.com%2Fsend%3Fphone%3D%2B77765206766%26text%3DAs-salaamu%20%D8%B9alaikum%21%20I%27m%20using%20NamazApp.%20I%20have%20the%20following%20question%3A",
                 "titleEn": "Ask\na question",
                 "descriptionEn": "",
                 "showEn": 1,
