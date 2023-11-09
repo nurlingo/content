@@ -48,14 +48,15 @@
         "commentEn": "",
         "items": [
             {
-                "id": "palestine_charity",
+                "id": "ghaza_charity",
                 "type": "link",
-                "urlRu": "https://zakatfund.ru/campaign/palestintsam-nuzhna-meditsinskaya-pomoshh/",
-                "titleRu": "Помощь мусульманам Палестины",
+                "urlRu": "https://zakyatrt.com/campaign/sektor-gaza/",
+                "titleRu": "Сбор помощи Сектору Газа",
                 "showRu": 1,
                 "urlEn": "https://campaigns.givebrite.com/fundraiser/oneummah-palestine-emergency-smile2jannah",
                 "titleEn": "Palestine Emergency Appeal",
-                "showEn": 1
+                "showEn": 1,
+                "icon": "waveform.path.ecg"
             }
         ]
     },
