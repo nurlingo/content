@@ -192,7 +192,8 @@
                 "showRu": 1,
                 "urlEn": "https://campaigns.givebrite.com/fundraiser/oneummah-palestine-emergency-smile2jannah",
                 "titleEn": "Palestine Emergency Appeal",
-                "showEn": 1
+                "showEn": 1,
+                "icon": "waveform.path.ecg"
             }
         ]
     }
