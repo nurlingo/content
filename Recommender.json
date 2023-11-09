@@ -44,18 +44,15 @@
                 "icon": "info.square"
             },
             {
-                "id": "isyllabus",
-                "showEn": 1,
-                "showRu": 0,
+                "id": "ghaza_charity",
                 "type": "link",
-                "titleEn": "iSyllabus: the best course ever",
-                "titleRu": "Школа одного дня",
-                "descriptionEn": "Check out this course, inshaAllah it'll give you a solid foundation in Islam. We took it about 10 years ago, and the knowledge is sustaining us to this day alhamdulillah.\n\nThe course is paid, but in our case it was one of the best investments we've ever made.\n\nThe full price is £395. Something nice is that we received a 10% discount for the users of NamazApp. To get the discount use the promocode: namazapp10\n\nWatch the first live lesson for free this Tuesday, Oct 10th at 7pm. And do enroll, if you can afford it. Barakallaahu feekum!",
-                "descriptionRu": "",
-                "urlEn": "https://www.isyllabus.org/",
-                "urlRu": "",
-                "dateEn": "Oct 8th, 2023",
-                "icon": "play.laptopcomputer"
+                "urlRu": "https://zakyatrt.com/campaign/sektor-gaza/",
+                "titleRu": "Сбор помощи Сектору Газа",
+                "showRu": 1,
+                "urlEn": "https://campaigns.givebrite.com/fundraiser/oneummah-palestine-emergency-smile2jannah",
+                "titleEn": "Palestine Emergency Appeal",
+                "showEn": 1,
+                "icon": "waveform.path.ecg"
             },
             {
                 "id": "prayer_time",
@@ -171,7 +168,7 @@
                 "icon": "p.square"
             },
             {
-                "id": "isyllabus-extra",
+                "id": "isyllabus",
                 "showEn": 1,
                 "showRu": 0,
                 "type": "link",
@@ -185,7 +182,7 @@
                 "icon": "play.laptopcomputer"
             },
             {
-                "id": "ghaza_charity",
+                "id": "ghaza_charity_extra",
                 "type": "link",
                 "urlRu": "https://zakyatrt.com/campaign/sektor-gaza/",
                 "titleRu": "Сбор помощи Сектору Газа",
