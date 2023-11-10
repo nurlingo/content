@@ -91,9 +91,9 @@
     {
         "id": "premium_about",
         "titleRu": "О премиум подписке",
-        "descriptionRu": "Намаз Премиум — это возможность поддержать НамазАпп и внести свой вклад в развитие проекта.\n\nКупив премиум, вы получаете дополнительные функции и контент. Список бонусов будет меняться. Основной фукнционал будет оставаться бесплатным иншаАллах.",
+        "descriptionRu": "Намаз Премиум — это возможность поддержать НамазАпп и получить бонус функции и контент. Список бонусов будет меняться, иншаАллах.",
         "titleEn": "About Namaz Premium",
-        "descriptionEn": "Namaz Premium is an opportunity for you to support our effort and receive pleasant perks in return.\n\nThe premium perks will change over time, while the main functionality will remain free inshaAllah.",
+        "descriptionEn": "Namaz Premium is an opportunity for you to support our effort and receive pleasant perks in return. The premium perks will change over time, inshaAllah.",
         "items": [
             {
                 "id": "recommended",
