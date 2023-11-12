@@ -7,27 +7,6 @@
         "commentEn": "",
         "items": [
             {
-                "id": "quranapp",
-                "type": "link",
-                "urlRu": "https://www.namaz.live/how-we-recommend-ru",
-                "titleRu": "Как мы рекомендуем",
-                "showRu": 1,
-                "urlEn": "https://www.namaz.live/how-we-recommend",
-                "titleEn": "How we recommend",
-                "showEn": 1,
-                "icon": "doc.append"
-            }
-        ]
-    },
-    {
-        "id": "charity",
-        "titleRu": "Благотворительность",
-        "commentRu": "",
-        "titleEn": "Charity",
-        "commentEn": "",
-        "icon": "waveform.path.ecg",
-        "items": [
-            {
                 "id": "ghaza_charity",
                 "type": "link",
                 "urlRu": "https://zakyatrt.com/campaign/sektor-gaza/",
@@ -35,7 +14,8 @@
                 "showRu": 1,
                 "urlEn": "https://campaigns.givebrite.com/fundraiser/oneummah-palestine-emergency-smile2jannah",
                 "titleEn": "Palestine Emergency Appeal",
-                "showEn": 1
+                "showEn": 1,
+                "icon": "waveform.path.ecg",
             }
         ]
     },
