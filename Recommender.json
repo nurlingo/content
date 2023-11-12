@@ -80,6 +80,17 @@
                 "icon": "compass.drawing"
             },
             {
+                "id": "joode",
+                "type": "link",
+                "urlRu": "https://apps.apple.com/us/app/id1138728895",
+                "titleRu": "Joode: Арабский алфавит за два часа",
+                "showRu": 1,
+                "urlEn": "https://apps.apple.com/us/app/id1138728895",
+                "titleEn": "Joode: Arabic Alphabet in two hours",
+                "showEn": 1,
+                "icon": "app"
+            },
+            {
                 "id": "youtube",
                 "showEn": 1,
                 "showRu": 0,
@@ -123,7 +134,8 @@
                 "titleEn": "Tell us about yourself",
                 "descriptionEn": "",
                 "showEn": 1,
-                "icon": "person.text.rectangle"
+                "icon": "person.text.rectangle",
+                "restriction": "iOS 15"
             },
             {
                 "id": "dark_mode",
@@ -137,6 +149,17 @@
                 "urlEn": "",
                 "urlRu": "",
                 "icon": "lightbulb.circle"
+            },
+            {
+                "id": "review_request",
+                "type": "action",
+                "titleRu": "Оставьте отзыв в AppStore",
+                "descriptionRu": "",
+                "showRu": 1,
+                "titleEn": "Rate us",
+                "descriptionEn": "",
+                "showEn": 1,
+                "icon": "star.square"
             },
             {
                 "id": "999011",
@@ -175,7 +198,8 @@
                 "descriptionRu": "Альхамдулиллях, мы запустили Намаз Премиум!\n\nПремиум подписка - это возможность для наших пользователей поддержать НамазАпп.\n\nВажно заметить, что и до подписки в аппе уже были донаты, и мы регулярно получали финансовую поддержку от наших пользователей вместе с добрыми словами, а теперь мы будем давать небольшие бонусы в знак благодарности.\n\nВесь основной функционал остается бесплатным. Мы надеемся, что это хорошее решение, которое позволит нам работать над проектом на постоянной основе, иншаАллах.",
                 "urlEn": "",
                 "urlRu": "",
-                "icon": "p.square"
+                "icon": "p.square",
+                "restriction": "iOS 15"
             },
             {
                 "id": "isyllabus",
@@ -193,6 +217,74 @@
             },
             {
                 "id": "ghaza_charity_extra",
+                "type": "link",
+                "urlRu": "https://zakyatrt.com/campaign/sektor-gaza/",
+                "titleRu": "Сбор помощи Сектору Газа",
+                "showRu": 1,
+                "urlEn": "https://campaigns.givebrite.com/fundraiser/oneummah-palestine-emergency-smile2jannah",
+                "titleEn": "Palestine Emergency Appeal",
+                "showEn": 1,
+                "icon": "waveform.path.ecg"
+            },
+            {
+                
+                "id": "essentials_of_islam",
+                "type": "link",
+                "urlRu": "",
+                "titleRu": "",
+                "showRu": 0,
+                "urlEn": "https://amzn.to/49ppRJA",
+                "titleEn": "The Absolute Essentials of Islam #ad",
+                "showEn": 1,
+                "icon": "text.book.closed",
+                "urls": {
+                    "us": "https://amzn.to/3QUHUAj",
+                    "de": "https://amzn.to/3FWN0Ww"
+                }
+            },
+            {
+                "id": "seerah_book",
+                "type": "link",
+                "urlRu": "",
+                "titleRu": "",
+                "showRu": 0,
+                "titleEn": "Life of the Prophet (ﷺ) #ad",
+                "urlEn": "https://amzn.to/3SyEYup",
+                "showEn": 1,
+                "icon": "text.book.closed",
+                "urls": {
+                    "de": "https://amzn.to/476EWOB",
+                    "us": "https://amzn.to/3QUBxfd"
+                }
+            },
+            {
+                "id": "purity_types",
+                "type": "article",
+                "urlRu": "https://www.namaz.live/purity-types-ru",
+                "titleRu": "Два вида чистоты",
+                "showRu": 1,
+                "urlEn": "https://www.namaz.live/purity-types",
+                "titleEn": "The two types of purity",
+                "icon": "doc.append",
+                "showEn": 1
+            },
+            {
+                "id": "quran_beheld",
+                "type": "link",
+                "urlRu": "",
+                "titleRu": "",
+                "showRu": 0,
+                "titleEn": "The Quran Beheld #ad",
+                "urlEn": "https://amzn.to/3FQCFvb",
+                "showEn": 1,
+                "icon": "text.book.closed",
+                "urls": {
+                    "de": "https://amzn.to/3MDc0FT",
+                    "gb": "https://amzn.to/3srUxtb"
+                }
+            },
+            {
+                "id": "ghaza_charity_three",
                 "type": "link",
                 "urlRu": "https://zakyatrt.com/campaign/sektor-gaza/",
                 "titleRu": "Сбор помощи Сектору Газа",
