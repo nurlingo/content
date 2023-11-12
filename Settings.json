@@ -88,23 +88,23 @@
                 "id": "information_center",
                 "type": "action",
                 "urlRu": "",
-                "titleRu": "Поддержка пользователей",
+                "titleRu": "Уголок пользователя",
                 "descriptionRu": "",
                 "showRu": 1,
                 "urlEn": "",
-                "titleEn": "Customer Support",
+                "titleEn": "Customer Center",
                 "descriptionEn": "",
                 "showEn": 1
             },
             {
-                "id": "recommended",
+                "id": "resources",
                 "type": "action",
                 "urlRu": "",
-                "titleRu": "Рекомендуемые приложения, благотворительность, и соглашения",
+                "titleRu": "Рекомендуем",
                 "descriptionRu": "",
                 "showRu": 1,
                 "urlEn": "",
-                "titleEn": "Recommended apps, charities, and agreements",
+                "titleEn": "We Recommend",
                 "descriptionEn": "",
                 "showEn": 1
             }
