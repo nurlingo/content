@@ -1,0 +1,193 @@
+[
+    {
+        "id": "we_recommend",
+        "titleRu": "Рекомендуем",
+        "commentRu": "",
+        "titleEn": "We recommend",
+        "commentEn": "",
+        "items": [
+            {
+                "id": "quranapp",
+                "type": "link",
+                "urlRu": "https://www.namaz.live/how-we-recommend-ru",
+                "titleRu": "Как мы рекомендуем",
+                "showRu": 1,
+                "urlEn": "https://www.namaz.live/how-we-recommend",
+                "titleEn": "How we recommend",
+                "showEn": 1,
+                "icon": "doc.append"
+            }
+        ]
+    },
+    {
+        "id": "charity",
+        "titleRu": "Благотворительность",
+        "commentRu": "",
+        "titleEn": "Charity",
+        "commentEn": "",
+        "icon": "waveform.path.ecg",
+        "items": [
+            {
+                "id": "ghaza_charity",
+                "type": "link",
+                "urlRu": "https://zakyatrt.com/campaign/sektor-gaza/",
+                "titleRu": "Сбор помощи Сектору Газа",
+                "showRu": 1,
+                "urlEn": "https://campaigns.givebrite.com/fundraiser/oneummah-palestine-emergency-smile2jannah",
+                "titleEn": "Palestine Emergency Appeal",
+                "showEn": 1
+            }
+        ]
+    },
+    {
+        "id": "recommended_apps",
+        "titleRu": "Приложения",
+        "commentRu": "",
+        "titleEn": "Apps",
+        "commentEn": "",
+        "icon": "app",
+        "items": [
+            {
+                "id": "quranapp",
+                "type": "link",
+                "urlRu": "https://apps.apple.com/app/id1498169172",
+                "titleRu": "Коран Апп: читаем учим наизусть",
+                "showRu": 1,
+                "urlEn": "https://apps.apple.com/app/id1498169172",
+                "titleEn": "Quran App: Listen Read Memorize",
+                "showEn": 1
+            },
+            {
+                "id": "joode",
+                "type": "link",
+                "urlRu": "https://apps.apple.com/us/app/id1138728895",
+                "titleRu": "Joode: Арабский алфавит за два часа",
+                "showRu": 1,
+                "urlEn": "https://apps.apple.com/us/app/id1138728895",
+                "titleEn": "Joode: Arabic Alphabet in two hours",
+                "showEn": 1
+            },
+            {
+                "id": "readar",
+                "type": "link",
+                "urlRu": "https://apps.apple.com/app/id1364988718",
+                "titleRu": "Read Arabic App",
+                "descriptionRu": "Второй шаг после Joode",
+                "showRu": 1,
+                "urlEn": "https://apps.apple.com/app/id1364988718",
+                "titleEn": "Read Arabic App",
+                "descriptionEn": "Next step after Joode",
+                "showEn": 1
+            }
+        ]
+    },
+    {
+        "id": "books",
+        "titleRu": "Книги",
+        "commentRu": "",
+        "titleEn": "Books",
+        "commentEn": "",
+        "icon": "text.book.closed",
+        "items": [
+            {
+                
+                "id": "essentials_of_islam",
+                "type": "link",
+                "urlRu": "",
+                "titleRu": "",
+                "showRu": 0,
+                "urlEn": "https://amzn.to/49ppRJA",
+                "titleEn": "The Absolute Essentials of Islam #ad",
+                "descriptionEn": "Faith, Prayer, and The Path of Salvation According to the Hanafi School",
+                "showEn": 1,
+                "urls": {
+                    "us": "https://amzn.to/3QUHUAj",
+                    "de": "https://amzn.to/3FWN0Ww"
+                }
+            },
+            {
+                "id": "ascent",
+                "type": "link",
+                "titleRu": "Имам Шурунбулали",
+                "showRu": 0,
+                "titleEn": "Ascent to Felicity #ad",
+                "descriptionEn": "A Manual on Islamic Creed and Hanafi Jurisprudence",
+                "showEn": 1,
+                "urlEn": "https://amzn.to/3Qs1phW",
+                "urls": {
+                    "us": "https://amzn.to/3QxdQJr",
+                    "de": "https://amzn.to/3FVKEXG"
+                }
+            },
+            {
+                "id": "forty_principles",
+                "type": "link",
+                "urlRu": "",
+                "titleRu": "",
+                "showRu": 0,
+                "urlEn": "https://amzn.to/3MDT2Px",
+                "titleEn": "The Forty Principles of the Religion #ad",
+                "showEn": 1,
+                "urls": {
+                    "us": "https://amzn.to/3uisRY3"
+                }
+            },
+            {
+                "id": "dua_book",
+                "type": "link",
+                "urlRu": "",
+                "titleRu": "",
+                "showRu": 0,
+                "titleEn": "Duas for Success #ad",
+                "urlEn": "https://amzn.to/3SDwdiD",
+                "showEn": 1,
+                "urls": {
+                    "de": "https://amzn.to/47uLHd6"
+                }
+            },
+            {
+                "id": "seerah_book",
+                "type": "link",
+                "urlRu": "",
+                "titleRu": "",
+                "showRu": 0,
+                "titleEn": "Life of the Prophet (ﷺ) #ad",
+                "urlEn": "https://amzn.to/3SyEYup",
+                "showEn": 1,
+                "urls": {
+                    "de": "https://amzn.to/476EWOB",
+                    "us": "https://amzn.to/3QUBxfd"
+                }
+            },
+            {
+                "id": "quran_beheld",
+                "type": "link",
+                "urlRu": "",
+                "titleRu": "",
+                "showRu": 0,
+                "titleEn": "The Quran Beheld #ad",
+                "urlEn": "https://amzn.to/3FQCFvb",
+                "descriptionEn": "An English Translation from the Arabic",
+                "showEn": 1,
+                "urls": {
+                    "de": "https://amzn.to/3MDc0FT",
+                    "uk": "https://amzn.to/3srUxtb"
+                }
+            },
+            {
+                "id": "fiqh_akbar",
+                "type": "link",
+                "urlRu": "",
+                "titleRu": "",
+                "showRu": 0,
+                "urlEn": "https://amzn.to/3QCBbcG",
+                "titleEn": "Al-Fiqh al-Akbar Explained #ad",
+                "descriptionEn": "Imam Abu Hanifa's famous book on Muslim belief",
+                "showEn": 1,
+                "urls": {
+                    "us": "https://amzn.to/46bcKsO"
+                }
+            }
+        ]
+    }
+]
