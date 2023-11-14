@@ -98,7 +98,7 @@
             },
             {
                 "id": "resources",
-                "type": "action",
+                "type": "navigation",
                 "urlRu": "",
                 "titleRu": "Рекомендуем",
                 "descriptionRu": "",
