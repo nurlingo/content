@@ -228,34 +228,14 @@
             },
             {
                 
-                "id": "essentials_of_islam",
-                "type": "link",
+                "id": "resources",
+                "type": "navigation",
                 "urlRu": "",
-                "titleRu": "",
-                "showRu": 0,
-                "urlEn": "https://amzn.to/49ppRJA",
-                "titleEn": "The Absolute Essentials of Islam #ad",
+                "titleRu": "Рекомендуем приложения",
+                "showRu": 1,
+                "titleEn": "Recommended Apps and Books",
                 "showEn": 1,
-                "icon": "text.book.closed",
-                "urls": {
-                    "us": "https://amzn.to/3QUHUAj",
-                    "de": "https://amzn.to/3FWN0Ww"
-                }
-            },
-            {
-                "id": "seerah_book",
-                "type": "link",
-                "urlRu": "",
-                "titleRu": "",
-                "showRu": 0,
-                "titleEn": "Life of the Prophet (ﷺ) #ad",
-                "urlEn": "https://amzn.to/3SyEYup",
-                "showEn": 1,
-                "icon": "text.book.closed",
-                "urls": {
-                    "de": "https://amzn.to/476EWOB",
-                    "us": "https://amzn.to/3QUBxfd"
-                }
+                "icon": "gift"
             },
             {
                 "id": "purity_types",
@@ -267,21 +247,6 @@
                 "titleEn": "The two types of purity",
                 "icon": "doc.append",
                 "showEn": 1
-            },
-            {
-                "id": "quran_beheld",
-                "type": "link",
-                "urlRu": "",
-                "titleRu": "",
-                "showRu": 0,
-                "titleEn": "The Quran Beheld #ad",
-                "urlEn": "https://amzn.to/3FQCFvb",
-                "showEn": 1,
-                "icon": "text.book.closed",
-                "urls": {
-                    "de": "https://amzn.to/3MDc0FT",
-                    "gb": "https://amzn.to/3srUxtb"
-                }
             },
             {
                 "id": "ghaza_charity_three",
