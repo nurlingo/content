@@ -74,6 +74,18 @@
                 "titleEn": "Prayer times",
                 "detailEn": "",
                 "showEn": 1
+            },
+            {
+                "id": "jumu3ah",
+                "type": "article",
+                "urlRu": "https://www.namaz.live/jumu3ah-friday-prayer-ru",
+                "titleRu": "Джуму'а: пятничный намаз",
+                "detailRu": "",
+                "showRu": 1,
+                "urlEn": "https://www.namaz.live/jumu3ah-friday-prayer",
+                "titleEn": "Jumu'ah: Friday prayer",
+                "detailEn": "",
+                "showEn": 1
             }
         ]
     },
