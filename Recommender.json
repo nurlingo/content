@@ -258,6 +258,17 @@
                 "titleEn": "Palestine Emergency Appeal",
                 "showEn": 1,
                 "icon": "waveform.path.ecg"
+            },
+            {
+                "id": "jumu3ah",
+                "type": "article",
+                "urlRu": "https://www.namaz.live/jumu3ah-friday-prayer-ru",
+                "titleRu": "Джуму'а: пятничный намаз",
+                "showRu": 1,
+                "urlEn": "https://www.namaz.live/jumu3ah-friday-prayer",
+                "titleEn": "Jumu'ah: Friday prayer",
+                "showEn": 1,
+                "icon": "figure.walk"
             }
         ]
     }
