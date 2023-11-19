@@ -26,7 +26,7 @@
             },
             {
                 "id": "notification_settings",
-                "type": "action",
+                "type": "navigation",
                 "titleEn": "Notification settings",
                 "descriptionEn": "Configure the notifications, including choosing the sound.",
                 "showEn": 1,
@@ -48,7 +48,7 @@
             },
             {
                 "id": "account",
-                "type": "action",
+                "type": "navigation",
                 "titleEn": "Learner Profile",
                 "descriptionEn": "See activities history and profile information (work-in-progress).",
                 "showEn": 1,
@@ -97,7 +97,7 @@
         "items": [
             {
                 "id": "legal",
-                "type": "action",
+                "type": "navigation",
                 "titleEn": "By subscribing to Namaz Premium you agree to the Namaz Terms of Service and Privacy Policy.",
                 "showEn": 1,
                 "titleRu": "Подписываясь на Namaz Premium, вы соглашаетесь с Условиями обслуживания Namaz и Политикой конфиденциальности.",
@@ -121,7 +121,7 @@
         "items": [
             {
                 "id": "settings_app",
-                "type": "action",
+                "type": "navigation",
                 "titleEn": "Cancel auto-renewal",
                 "descriptionEn": "If you want to cancel the auto-renewal, you can do it in the Settings App. Please, note that this will not refund the already made purchases.",
                 "showEn": 1,
