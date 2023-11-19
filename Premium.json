@@ -121,7 +121,7 @@
         "items": [
             {
                 "id": "settings_app",
-                "type": "navigation",
+                "type": "action",
                 "titleEn": "Cancel auto-renewal",
                 "descriptionEn": "If you want to cancel the auto-renewal, you can do it in the Settings App. Please, note that this will not refund the already made purchases.",
                 "showEn": 1,
