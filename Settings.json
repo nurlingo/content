@@ -86,7 +86,7 @@
             },
             {
                 "id": "information_center",
-                "type": "action",
+                "type": "navigation",
                 "urlRu": "",
                 "titleRu": "Поддержка",
                 "descriptionRu": "",
