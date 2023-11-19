@@ -63,11 +63,10 @@
     },
     {
         "id": "books",
-        "titleRu": "Книги",
+        "titleRu": "Реклама товаров и услуг",
         "commentRu": "",
-        "titleEn": "Books",
+        "titleEn": "Sponsored Links",
         "commentEn": "",
-        "icon": "text.book.closed",
         "items": [
             {
                 
@@ -77,9 +76,10 @@
                 "titleRu": "",
                 "showRu": 0,
                 "urlEn": "https://amzn.to/49ppRJA",
-                "titleEn": "The Absolute Essentials of Islam #ad",
+                "titleEn": "The Absolute Essentials of Islam",
                 "descriptionEn": "Faith, Prayer, and The Path of Salvation According to the Hanafi School",
                 "showEn": 1,
+                "icon": "text.book.closed",
                 "urls": {
                     "us": "https://amzn.to/3QUHUAj",
                     "de": "https://amzn.to/3FWN0Ww"
@@ -90,10 +90,11 @@
                 "type": "link",
                 "titleRu": "Имам Шурунбулали",
                 "showRu": 0,
-                "titleEn": "Ascent to Felicity #ad",
+                "titleEn": "Ascent to Felicity",
                 "descriptionEn": "A Manual on Islamic Creed and Hanafi Jurisprudence",
                 "showEn": 1,
                 "urlEn": "https://amzn.to/3Qs1phW",
+                "icon": "text.book.closed",
                 "urls": {
                     "us": "https://amzn.to/3QxdQJr",
                     "de": "https://amzn.to/3FVKEXG"
@@ -106,7 +107,8 @@
                 "titleRu": "",
                 "showRu": 0,
                 "urlEn": "https://amzn.to/3MDT2Px",
-                "titleEn": "The Forty Principles of the Religion #ad",
+                "titleEn": "The Forty Principles of the Religion",
+                "icon": "text.book.closed",
                 "showEn": 1,
                 "urls": {
                     "us": "https://amzn.to/3uisRY3"
@@ -118,8 +120,9 @@
                 "urlRu": "",
                 "titleRu": "",
                 "showRu": 0,
-                "titleEn": "Duas for Success #ad",
+                "titleEn": "Duas for Success",
                 "urlEn": "https://amzn.to/3SDwdiD",
+                "icon": "text.book.closed",
                 "showEn": 1,
                 "urls": {
                     "de": "https://amzn.to/47uLHd6"
@@ -131,9 +134,10 @@
                 "urlRu": "",
                 "titleRu": "",
                 "showRu": 0,
-                "titleEn": "Life of the Prophet (ﷺ) #ad",
+                "titleEn": "Life of the Prophet (ﷺ)",
                 "urlEn": "https://amzn.to/3SyEYup",
                 "showEn": 1,
+                "icon": "text.book.closed",
                 "urls": {
                     "de": "https://amzn.to/476EWOB",
                     "us": "https://amzn.to/3QUBxfd"
@@ -145,10 +149,11 @@
                 "urlRu": "",
                 "titleRu": "",
                 "showRu": 0,
-                "titleEn": "The Quran Beheld #ad",
+                "titleEn": "The Quran Beheld",
                 "urlEn": "https://amzn.to/3FQCFvb",
                 "descriptionEn": "An English Translation from the Arabic",
                 "showEn": 1,
+                "icon": "text.book.closed",
                 "urls": {
                     "de": "https://amzn.to/3MDc0FT",
                     "uk": "https://amzn.to/3srUxtb"
@@ -161,9 +166,10 @@
                 "titleRu": "",
                 "showRu": 0,
                 "urlEn": "https://amzn.to/3QCBbcG",
-                "titleEn": "Al-Fiqh al-Akbar Explained #ad",
+                "titleEn": "Al-Fiqh al-Akbar Explained",
                 "descriptionEn": "Imam Abu Hanifa's famous book on Muslim belief",
                 "showEn": 1,
+                "icon": "text.book.closed",
                 "urls": {
                     "us": "https://amzn.to/46bcKsO"
                 }
