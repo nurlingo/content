@@ -269,6 +269,18 @@
                 "titleEn": "Jumu'ah: Friday prayer",
                 "showEn": 1,
                 "icon": "figure.walk"
+            },
+            {
+                "id": "how_to_help_palestinians",
+                "type": "link",
+                "urlRu": "https://donate.unrwa.org/gaza/",
+                "titleRu": "",
+                "showRu": 0,
+                "urlEn": "https://donate.unrwa.org/gaza/",
+                "titleEn": "How to help Palestinians",
+                "descriptionEn": "The Israeli massarce in Gaza is barbaric. Anadolu Agency is reporting:\n\n\"The Palestinian death toll from Israeli attacks on the Gaza Strip has soared to 14,854, the government media office in the blockaded enclave said Thursday: 'The victims include 6,150 children and over 4,000 women, while more than 36,000 people have been injured.' ... The Israeli attacks have also left 88 mosques destroyed, 174 others partially damaged, while three churches were targeted.\"\n\nSo mostly the victims are women and children. The social media has videos of Gazan parents kissing their children and saying good bye before burial. Most of them are being patient.\n\nThis is not the first time Gazan's are facing such circumstance, it has be going on for decades. The difference now is the number of deaths and the reaction of the international community witnessing the Israeli crimes.\n\nDespite everything there is hope as Muslims are being united through this hardship. We are reminded by Gazans how to believe in the promise of Allah and stay strong. We are learning from their example, and it is motivating us to be better Muslims.\n\nWhat can we do to help the Palestinian Muslims:\n1. Follow the situation of Palestinians to not be indifferent.\n2. Donate to [charities (https://donate.unrwa.org/gaza/)] working in Gaza.\n3. Make dua for the victory and wellbeing of Palestinians.\n4. Spread the message, as this is an information war.\n5. Strengthen your Islam by learning and practising.\n\nIndeed, the help of Allah is near [al-Quran, 2:214].",
+                "showEn": 1,
+                "icon": "waveform.path.ecg"
             }
         ]
     }
