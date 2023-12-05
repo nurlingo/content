@@ -52,6 +52,18 @@
                 "showEn": 1
             },
             {
+                "id": "prayer_conditions",
+                "type": "article",
+                "urlRu": "https://www.namaz.live/prayer-shurut-ru",
+                "titleRu": "Условия намаза",
+                "detailRu": "",
+                "showRu": 0,
+                "urlEn": "https://www.namaz.live/prayer-shurut",
+                "titleEn": "Shurut: conditions for validity of prayer",
+                "detailEn": "",
+                "showEn": 1
+            },
+            {
                 "id": "prayer_categories",
                 "type": "article",
                 "urlRu": "https://www.namaz.live/prayer-categories-ru",
@@ -81,7 +93,7 @@
                 "urlRu": "https://www.namaz.live/jumu3ah-friday-prayer-ru",
                 "titleRu": "Джуму'а: пятничный намаз",
                 "detailRu": "",
-                "showRu": 1,
+                "showRu": 0,
                 "urlEn": "https://www.namaz.live/jumu3ah-friday-prayer",
                 "titleEn": "Jumu'ah: Friday prayer",
                 "detailEn": "",
@@ -203,9 +215,22 @@
                 "type": "article",
                 "urlRu": "https://sites.google.com/view/islam-and-iman",
                 "titleRu": "Врата, ведущие в Ислам",
+                "detailRu": "",
                 "showRu": 1,
                 "urlEn": "https://www.namaz.live/shahadah",
                 "titleEn": "Shahadah: The Declaration of Faith",
+                "detailEn": "What makes one a Muslim",
+                "showEn": 1
+            },
+            {
+                "id": "iman",
+                "type": "article",
+                "urlRu": "https://sites.google.com/view/faith-questions",
+                "titleRu": "Вопросы и ответы о вере",
+                "detailRu": "",
+                "showRu": 1,
+                "urlEn": "https://www.namaz.live/iman",
+                "titleEn": "Iman: true faith",
                 "detailEn": "What makes one a Muslim",
                 "showEn": 1
             },
@@ -218,6 +243,18 @@
                 "showRu": 0,
                 "urlEn": "https://www.namaz.live/quran",
                 "titleEn": "Al Quran: the Book of Allah",
+                "detailEn": "",
+                "showEn": 1
+            },
+            {
+                "id": "messenger",
+                "type": "article",
+                "urlRu": "https://www.namaz.live/messenger-ru",
+                "titleRu": "Пророк Мухаммад (ﷺ)",
+                "detailRu": "",
+                "showRu": 1,
+                "urlEn": "https://www.namaz.live/messenger",
+                "titleEn": "Prophet Muhammad (ﷺ)",
                 "detailEn": "",
                 "showEn": 1
             },
@@ -247,10 +284,10 @@
     },
     {
         "id": "ramadan",
-        "titleRu": "Рамадан",
-        "detailRu": "Вопросы и ответы по священному месяцу и посту в нем.",
-        "titleEn": "Ramadan",
-        "detailEn": "Questions and answers on the blessed month and fasting.",
+        "titleRu": "Рамадан и другие особые даты",
+        "detailRu": "",
+        "titleEn": "Ramadan and other special dates",
+        "detailEn": "",
         "items": [
             {
                 "id": "ramadan_faq",
