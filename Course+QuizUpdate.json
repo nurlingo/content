@@ -126,6 +126,18 @@
                     "titleEn": "Jumu'ah: Friday prayer",
                     "descriptionEn": "",
                     "showEn": 1
+                },
+                {
+                    "id": "tahajjud",
+                    "type": "article",
+                    "urlRu": "https://www.namaz.live/tahajjud-ru",
+                    "titleRu": "Тахаджуд: ночной намаз",
+                    "descriptionRu": "",
+                    "showRu": 1,
+                    "urlEn": "https://www.namaz.live/tahajjud",
+                    "titleEn": "Tahajjud: night prayer",
+                    "descriptionEn": "",
+                    "showEn": 0
                 }
             ]
         },
