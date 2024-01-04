@@ -150,19 +150,6 @@
                 "icon": "play.square"
             },
             {
-                "id": "999010",
-                "showEn": 1,
-                "showRu": 1,
-                "type": "listen",
-                "titleEn": "Adhan and iqamah",
-                "titleRu": "Азан и Иқамат",
-                "descriptionEn": "You can now find Iqamah in the Audios section.\n\nIqamah is the call to prayer that is given after Adhan and right before the prayer starts. It is an emphasized sunnah for men to say the Iqamah before starting a fard prayer.\n\nImportant to mention that it is also recommended to make dua in the period between Adhan and Iqamah, as the Messenger of Allah (ﷺ) said: 'The supplication made between the Adhan and the Iqamah is not rejected.' [Abu Dawud]. In fact, there is a special dua that is made straight after adhan, and we'll inshaAllah add it in the future updates.",
-                "descriptionRu": "Во вкладке Аудио теперь можно найти Икамат.\n\nИкамат - это призыв-оповещение о начале намаза, который дают уже после Азана непосредственно перед совершением молитвы. Читать Икамат перед фард намазом - это закрепленная сунна для мужчин.\n\nВажно упомянуть, что рекоммендуется делать дуа в промежуток между азаном и иқаматом. В хадисе говорится: \"Дуа между азаном и иқаматом не будет отвергнуто\" [Абу Дауд]. Есть специальное дуа, которое произноситься после азана. ИншаАллах, его мы добавим в будущих обновлениях.",
-                "urlEn": "",
-                "urlRu": "",
-                "icon": "megaphone"
-            },
-            {
                 "id": "premium",
                 "showEn": 1,
                 "showRu": 1,
@@ -177,15 +164,17 @@
                 "restriction": "iOS 15"
             },
             {
-                "id": "ghaza_charity",
-                "type": "link",
-                "urlRu": "https://zakyatrt.com/campaign/sektor-gaza/",
-                "titleRu": "Сбор помощи Сектору Газа",
-                "showRu": 1,
-                "urlEn": "https://campaigns.givebrite.com/fundraiser/oneummah-palestine-emergency-smile2jannah",
-                "titleEn": "Palestine Emergency Appeal",
+                "id": "999010",
                 "showEn": 1,
-                "icon": "waveform.path.ecg"
+                "showRu": 1,
+                "type": "listen",
+                "titleEn": "Adhan and iqamah",
+                "titleRu": "Азан и Иқамат",
+                "descriptionEn": "You can now find Iqamah in the Audios section.\n\nIqamah is the call to prayer that is given after Adhan and right before the prayer starts. It is an emphasized sunnah for men to say the Iqamah before starting a fard prayer.\n\nImportant to mention that it is also recommended to make dua in the period between Adhan and Iqamah, as the Messenger of Allah (ﷺ) said: 'The supplication made between the Adhan and the Iqamah is not rejected.' [Abu Dawud]. In fact, there is a special dua that is made straight after adhan, and we'll inshaAllah add it in the future updates.",
+                "descriptionRu": "Во вкладке Аудио теперь можно найти Икамат.\n\nИкамат - это призыв-оповещение о начале намаза, который дают уже после Азана непосредственно перед совершением молитвы. Читать Икамат перед фард намазом - это закрепленная сунна для мужчин.\n\nВажно упомянуть, что рекоммендуется делать дуа в промежуток между азаном и иқаматом. В хадисе говорится: \"Дуа между азаном и иқаматом не будет отвергнуто\" [Абу Дауд]. Есть специальное дуа, которое произноситься после азана. ИншаАллах, его мы добавим в будущих обновлениях.",
+                "urlEn": "",
+                "urlRu": "",
+                "icon": "megaphone"
             },
             {
                 "id": "joode",
@@ -224,16 +213,16 @@
                 "restriction": "iOS 15"
             },
             {
-                "id": "isyllabus",
+                "id": "online_course",
                 "showEn": 1,
-                "showRu": 0,
+                "showRu": 1,
                 "type": "link",
                 "titleEn": "iSyllabus: the best course ever",
-                "titleRu": "Школа одного дня",
-                "descriptionEn": "Check out this course, inshaAllah it'll give you a solid foundation in Islam. We took it about 10 years ago, and the knowledge is sustaining us to this day alhamdulillah.\n\nThe course is paid, but in our case it was one of the best investments we've ever made.\n\nThe full price is £395. Something nice is that we received a 10% discount for the users of NamazApp. To get the discount use the promocode: namazapp10\n\nDo enroll, if you can afford it. Barakallaahu feekum!",
-                "descriptionRu": "",
+                "titleRu": "Онлайн курс по фикху для начинающих",
+                "descriptionEn": "Check out this course, inshaAllah it'll give you a solid foundation in Islam. We took it about 10 years ago, and the knowledge is sustaining us to this day alhamdulillah.\n\nThe course is paid, but it is a good investment inshaAllah.\n\nThe full price is £395. We have a 10% discount for NamazApp users. Use the promocode: namazapp10\n\nDo enroll, if you can afford it. Barakallaahu feekum!",
+                "descriptionRu": "Начинается бесплатный курс онлайн-уроков по ханафитскому фикху (начальный уровень).\n\nТемы:\n1. Очищение\n2. Намаз\n3. Пост\n4. Закят\n5. Хадж/умра\n\nКнига: «аль-Фикх аль-муяссар» (Облегченный фикх) шейха Шафик ар-Рахмана ан-Надви\n\nСтарт: 8 января 2024\nФормат: онлайн-уроки 2 раза в неделю. Чтение арабского текста с переводом на русский язык и пояснениями.\nТесты для самопроверки по завершению темы.\n\nПодходит как для тех, кто будет проходить книгу на арабском, так и для тех, кто будет просто слушать объяснения без книги.\n\nНажмите кнокпу ниже для добавления на Телеграм канал курса.",
                 "urlEn": "https://www.isyllabus.org/",
-                "urlRu": "",
+                "urlRu": "https://t.me/+UfX-y3LHj-81NDBk",
                 "icon": "play.laptopcomputer"
             },
             {
@@ -250,12 +239,12 @@
             {
                 "id": "how_to_help_palestinians",
                 "type": "link",
-                "urlRu": "https://donate.unrwa.org/gaza/",
-                "titleRu": "",
-                "showRu": 0,
+                "urlRu": "https://zakyatrt.com/campaign/sektor-gaza/",
+                "titleRu": "Сбор помощи Сектору Газа",
+                "showRu": 1,
                 "urlEn": "https://donate.unrwa.org/gaza/",
                 "titleEn": "How to help Palestinians",
-                "descriptionEn": "As Muslims, we shouldn't be indifferent to the situation of Palestinians. To this day, Israeli attacks are reported to have killed over 6,150 children, 4,000 women, and destroyed 88 mosques. The social media has videos of Gazan parents burying their kids, while staying patient and saying \"Alhamdulillah in every situtation\". It's tough and heartbreaking even to just watch.\n\nDespite everything, there is hope. A woman from Ghaza said \"our struggle and sacrifice will make you (Muslims) stronger\", and that’s exactly what’s happening. Therefore, we shouldn't get depressed over what's happening, rather let's help with whatever we can.\n\nHere are some of the things we can do:\n1. Make dua for their victory and wellbeing.\n2. Donate to charities working in Gaza (link below).\n3. Spread the message, as this is an information war.\n4. Strengthen your Islam by learning and practising.\n\nStrengthening ourselves is what will solve the problem for our ummah in the long term inshaAllah.\n\nIndeed, the help of Allah is near [al-Quran, 2:214].",
+                "descriptionEn": "As Muslims, we shouldn't be indifferent to the situation of Palestinians. To this day, the Israeli attacks are reported to have killed over 20 thousand people, most of them children and women, and destroyed over 88 mosques. The social media has videos of Gazan parents burying their kids, while staying patient and saying \"Alhamdulillah in every situtation\". It's tough and heartbreaking to watch.\n\nDespite everything, there is hope. Let's help with whatever we can. A woman from Ghaza said \"our struggle and sacrifice will make you (Muslims) stronger\", and that is happening indeed.\n\nHere are some of the things we can do:\n1. Make dua for their victory and wellbeing.\n2. Donate to charities working in Gaza (link below).\n3. Spread the message, as this is an information war.\n4. Strengthen your Islam by learning and practising.\n\nStrengthening ourselves is what will solve the problem for our ummah in the long term inshaAllah.\n\nIndeed, the help of Allah is near [al-Quran, 2:214].",
                 "showEn": 1,
                 "icon": "waveform.path.ecg"
             }
