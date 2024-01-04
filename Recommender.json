@@ -40,7 +40,8 @@
                 "descriptionRu": "Ас-саляму 'аляйкум! НамазАпп поможет вам встать на намаз.\n\nНа главной странице вы можете найти пять обязательных намазов на каждый день. Там же есть гид по Тахарату - очищению перед намазом.\n\nЕсли у вас вопросы, то пишите нам.\n\nПусть Всевышний облегчит вам получения полезных знаний и откроет для вас врата Своей Милости, амин!",
                 "urlEn": "salamLeft",
                 "urlRu": "salamLeft",
-                "icon": "info.square"
+                "icon": "info.square",
+                "maxLaunchCount": 7
             },
             {
                 "id": "prayer_time",
@@ -77,7 +78,8 @@
                 "urlEn": "https://www.namaz.live/purity-types",
                 "titleEn": "The two types of purity",
                 "icon": "doc.append",
-                "showEn": 1
+                "showEn": 1,
+                "minLaunchCount": 5
             },
             {
                 "id": "jumu3ah",
@@ -88,7 +90,22 @@
                 "urlEn": "https://www.namaz.live/jumu3ah-friday-prayer",
                 "titleEn": "Jumu'ah: Friday prayer",
                 "showEn": 1,
-                "icon": "figure.walk"
+                "icon": "figure.walk",
+                "minLaunchCount": 5
+            },
+            {
+                "id": "online_course",
+                "showEn": 1,
+                "showRu": 1,
+                "type": "link",
+                "titleEn": "iSyllabus: the best course ever",
+                "titleRu": "Онлайн курс по фикху для начинающих",
+                "descriptionEn": "Check out this course, inshaAllah it'll give you a solid foundation in Islam. We took it about 10 years ago, and the knowledge is sustaining us to this day alhamdulillah.\n\nThe course is paid, but it is a good investment inshaAllah.\n\nThe full price is £395. We have a 10% discount for NamazApp users. Use the promocode: namazapp10\n\nDo enroll, if you can afford it. Barakallaahu feekum!",
+                "descriptionRu": "Начинается бесплатный курс онлайн-уроков по ханафитскому фикху (начальный уровень).\n\nТемы:\n1. Очищение\n2. Намаз\n3. Пост\n4. Закят\n5. Хадж/умра\n\nКнига: «аль-Фикх аль-муяссар» (Облегченный фикх) шейха Шафик ар-Рахмана ан-Надви\n\nСтарт: 8 января 2024\nФормат: онлайн-уроки 2 раза в неделю. Чтение арабского текста с переводом на русский язык и пояснениями.\nТесты для самопроверки по завершению темы.\n\nПодходит как для тех, кто будет проходить книгу на арабском, так и для тех, кто будет просто слушать объяснения без книги.\n\nНажмите кнокпу ниже для добавления на Телеграм канал курса.",
+                "urlEn": "https://www.isyllabus.org/",
+                "urlRu": "https://t.me/+UfX-y3LHj-81NDBk",
+                "icon": "play.laptopcomputer",
+                "minLaunchCount": 5
             },
             {
                 "id": "share_app",
@@ -99,7 +116,8 @@
                 "titleEn": "Share the app",
                 "descriptionEn": "",
                 "showEn": 1,
-                "icon": "square.and.arrow.up"
+                "icon": "square.and.arrow.up",
+                "minLaunchCount": 9
             },
             {
                 "id": "999005",
@@ -110,7 +128,8 @@
                 "titleRu": "Зикр после намаза",
                 "descriptionEn": "Prophet (peace and blessings be upon him) informed us what to say after praying a fard:\n\nWhoever glorifies Allah after every [fard] prayer thirty-three times, and praises Allah thirty-three times, and exalts Allah thirty-three times, those are ninety-nine in all, and says to complete a hundred: \"There is no god but Allah, alone without a partner; to Him belongs the kingdom, to Him belongs the praise, and He has power over everything\", his sins will be forgiven, even if they are as abundant as the foam of the sea. [Reported by Muslim].\n\nThese and other adhkar after prayer can be found in the \"Listen\" tab of NamazApp.",
                 "descriptionRu": "Пророк, мир ему и благословение Аллаха, сказал:\n\n«Тому, кто после каждой молитвы будет говорить по тридцать три раза слова «Пречист Аллах» (СубхаанаЛлааh), «Хвала Аллаху» (Аль-хамду лиЛляяh) и «Аллах Велик» (Аллааhу Акбар), говоря на сотый раз: «Ляя иляяhа илляЛлааh уахдаhуу ляя шариика ляh, ляhуль-мульку уа ляhуль-хамд, уа hу-уа عаля кулли шай-ин қадиирь», — простятся его грехи, даже если будут они подобны пене морской!» (Муслим).\n\nЭти и другие зикры после намаза можно найти во вкладке Аудио.",
-                "icon": "play.square"
+                "icon": "play.square",
+                "minLaunchCount": 9
             },
             {
                 "id": "dark_mode",
@@ -123,7 +142,8 @@
                 "descriptionRu": "Альхамдулиллях, теперь вы можете включать и отключать ночной переход на темный режим.  Найти настройку можно во вкладке 'Настройки'.\n\nК нам неоднократно писали с этим запросом, и смысл в том, чтобы уменьшить нагрузку на глаза. При этом некоторым нашим пользователям больше нравится белый фон, независимо от времени суток.\n\nКонечно, лучше не смотреть слишком долго в экран ночью, а вместо этого, прочитав Иша, ложиться спать)",
                 "urlEn": "",
                 "urlRu": "",
-                "icon": "lightbulb.circle"
+                "icon": "lightbulb.circle",
+                "minLaunchCount": 13
             },
             {
                 "id": "review_request",
@@ -134,7 +154,21 @@
                 "titleEn": "Rate us",
                 "descriptionEn": "",
                 "showEn": 1,
-                "icon": "star.square"
+                "icon": "star.square",
+                "minLaunchCount": 13
+            },
+            {
+                "id": "how_to_help_palestinians",
+                "type": "link",
+                "urlRu": "https://zakyatrt.com/campaign/sektor-gaza/",
+                "titleRu": "Сбор помощи Сектору Газа",
+                "showRu": 1,
+                "urlEn": "https://donate.unrwa.org/gaza/",
+                "titleEn": "How to help Palestinians",
+                "descriptionEn": "As Muslims, we shouldn't be indifferent to the situation of Palestinians. To this day, the Israeli attacks are reported to have killed over 20 thousand people, most of them children and women, and destroyed over 88 mosques. The social media has videos of Gazan parents burying their kids, while staying patient and saying \"Alhamdulillah in every situtation\". It's tough and heartbreaking to watch.\n\nDespite everything, there is hope. Let's help with whatever we can. A woman from Ghaza said \"our struggle and sacrifice will make you (Muslims) stronger\", and that is happening indeed.\n\nHere are some of the things we can do:\n1. Make dua for their victory and wellbeing.\n2. Donate to charities working in Gaza (link below).\n3. Spread the message, as this is an information war.\n4. Strengthen your Islam by learning and practising.\n\nStrengthening ourselves is what will solve the problem for our ummah in the long term inshaAllah.\n\nIndeed, the help of Allah is near [al-Quran, 2:214].",
+                "showEn": 1,
+                "icon": "waveform.path.ecg",
+                "minLaunchCount": 15
             },
             {
                 "id": "999011",
@@ -147,7 +181,8 @@
                 "descriptionRu": "У нас есть дуа из Корана и Сунны во вкладке Аудио. Дуа - это когда мы взываем к Аллаху и просим Его о чем-то с искренностью и доверием.\n\nВ одном из последних релизов мы добавили дуа, начинающиеся с фразы «Раббанаа» (Господь наш!). Это дуа из Корана, которые произносили пророки (мир им) и их праведные последователи. У них мы можем учиться тому, как и о чем просить у Всевышнего Аллаха.\n\nДо этого мы добавил Истихару. Истихара – это дополнительный намаз, за которым следует особое дуа. Мы можем произносить его, принимая решение. Истихара учит нас, как полагаться на Всезнающего и Всемогущего Аллаха.\n\nИншаАллах, в будущем мы также планируем добавить дуа из Сунны и составить краткую статью, о том как правильно делать дуа. Ну а пока, обязательно посмотрите вкладку «Аудио».\n\nДавайте часто просить Аллаха, так как Он любит, когда мы взываем к Нему. Мы просим Аллаха принять наши дуа и направить нас к всему самому лучшему! Амин!",
                 "urlEn": "",
                 "urlRu": "",
-                "icon": "play.square"
+                "icon": "play.square",
+                "minLaunchCount": 17
             },
             {
                 "id": "premium",
@@ -161,7 +196,8 @@
                 "urlEn": "",
                 "urlRu": "",
                 "icon": "p.square",
-                "restriction": "iOS 15"
+                "restriction": "iOS 15",
+                "minLaunchCount": 17
             },
             {
                 "id": "999010",
@@ -174,7 +210,8 @@
                 "descriptionRu": "Во вкладке Аудио теперь можно найти Икамат.\n\nИкамат - это призыв-оповещение о начале намаза, который дают уже после Азана непосредственно перед совершением молитвы. Читать Икамат перед фард намазом - это закрепленная сунна для мужчин.\n\nВажно упомянуть, что рекоммендуется делать дуа в промежуток между азаном и иқаматом. В хадисе говорится: \"Дуа между азаном и иқаматом не будет отвергнуто\" [Абу Дауд]. Есть специальное дуа, которое произноситься после азана. ИншаАллах, его мы добавим в будущих обновлениях.",
                 "urlEn": "",
                 "urlRu": "",
-                "icon": "megaphone"
+                "icon": "megaphone",
+                "minLaunchCount": 21
             },
             {
                 "id": "joode",
@@ -185,7 +222,8 @@
                 "urlEn": "https://apps.apple.com/us/app/id1138728895",
                 "titleEn": "Joode: Arabic Alphabet in two hours",
                 "showEn": 1,
-                "icon": "app"
+                "icon": "app",
+                "minLaunchCount": 21
             },
             {
                 "id": "youtube",
@@ -198,7 +236,8 @@
                 "descriptionRu": "Мы активизируем наши социальные аккаунты в Ютуб, Телеграм и Твиттер.\n\nПросим у Аллаха, чтобы он вложил в это дело пользу, и защитил нас от зла этих 'сетей'.",
                 "urlEn": "",
                 "urlRu": "",
-                "icon": "network"
+                "icon": "network",
+                "minLaunchCount": 23
             },
             {
                 "id": "personalization",
@@ -210,20 +249,8 @@
                 "descriptionEn": "",
                 "showEn": 1,
                 "icon": "person.text.rectangle",
-                "restriction": "iOS 15"
-            },
-            {
-                "id": "online_course",
-                "showEn": 1,
-                "showRu": 1,
-                "type": "link",
-                "titleEn": "iSyllabus: the best course ever",
-                "titleRu": "Онлайн курс по фикху для начинающих",
-                "descriptionEn": "Check out this course, inshaAllah it'll give you a solid foundation in Islam. We took it about 10 years ago, and the knowledge is sustaining us to this day alhamdulillah.\n\nThe course is paid, but it is a good investment inshaAllah.\n\nThe full price is £395. We have a 10% discount for NamazApp users. Use the promocode: namazapp10\n\nDo enroll, if you can afford it. Barakallaahu feekum!",
-                "descriptionRu": "Начинается бесплатный курс онлайн-уроков по ханафитскому фикху (начальный уровень).\n\nТемы:\n1. Очищение\n2. Намаз\n3. Пост\n4. Закят\n5. Хадж/умра\n\nКнига: «аль-Фикх аль-муяссар» (Облегченный фикх) шейха Шафик ар-Рахмана ан-Надви\n\nСтарт: 8 января 2024\nФормат: онлайн-уроки 2 раза в неделю. Чтение арабского текста с переводом на русский язык и пояснениями.\nТесты для самопроверки по завершению темы.\n\nПодходит как для тех, кто будет проходить книгу на арабском, так и для тех, кто будет просто слушать объяснения без книги.\n\nНажмите кнокпу ниже для добавления на Телеграм канал курса.",
-                "urlEn": "https://www.isyllabus.org/",
-                "urlRu": "https://t.me/+UfX-y3LHj-81NDBk",
-                "icon": "play.laptopcomputer"
+                "restriction": "iOS 15",
+                "minLaunchCount": 25
             },
             {
                 
@@ -234,19 +261,8 @@
                 "showRu": 1,
                 "titleEn": "Recommended Apps and Books",
                 "showEn": 1,
-                "icon": "gift"
-            },
-            {
-                "id": "how_to_help_palestinians",
-                "type": "link",
-                "urlRu": "https://zakyatrt.com/campaign/sektor-gaza/",
-                "titleRu": "Сбор помощи Сектору Газа",
-                "showRu": 1,
-                "urlEn": "https://donate.unrwa.org/gaza/",
-                "titleEn": "How to help Palestinians",
-                "descriptionEn": "As Muslims, we shouldn't be indifferent to the situation of Palestinians. To this day, the Israeli attacks are reported to have killed over 20 thousand people, most of them children and women, and destroyed over 88 mosques. The social media has videos of Gazan parents burying their kids, while staying patient and saying \"Alhamdulillah in every situtation\". It's tough and heartbreaking to watch.\n\nDespite everything, there is hope. Let's help with whatever we can. A woman from Ghaza said \"our struggle and sacrifice will make you (Muslims) stronger\", and that is happening indeed.\n\nHere are some of the things we can do:\n1. Make dua for their victory and wellbeing.\n2. Donate to charities working in Gaza (link below).\n3. Spread the message, as this is an information war.\n4. Strengthen your Islam by learning and practising.\n\nStrengthening ourselves is what will solve the problem for our ummah in the long term inshaAllah.\n\nIndeed, the help of Allah is near [al-Quran, 2:214].",
-                "showEn": 1,
-                "icon": "waveform.path.ecg"
+                "icon": "gift",
+                "minLaunchCount": 31
             }
         ]
     }
