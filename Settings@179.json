@@ -1,0 +1,169 @@
+[
+    {
+        "id": "settings",
+        "titleRu": "Настройки",
+        "commentRu": "",
+        "titleEn": "Settings",
+        "commentEn": "",
+        "items": [
+            {
+                "id": "language",
+                "type": "segmented",
+                "titleRu": "Язык приложения",
+                "descriptionRu": "",
+                "showRu": 1,
+                "titleEn": "App Language",
+                "descriptionEn": "",
+                "segments": [
+                    "english",
+                    "russian"
+                ],
+                "showEn": 1
+            },
+            {
+                "id": "gender",
+                "type": "segmented",
+                "titleRu": "Намаз для",
+                "descriptionRu": "",
+                "showRu": 1,
+                "titleEn": "Prayer for",
+                "descriptionEn": "",
+                "segments": [
+                    "male",
+                    "female"
+                ],
+                "showEn": 1
+            },
+            {
+                "id": "dark_mode",
+                "type": "switch",
+                "titleRu": "Разрешить темный режим",
+                "descriptionRu": "Включается ночью",
+                "showRu": 1,
+                "titleEn": "Allow dark mode",
+                "descriptionEn": "Gets enabled at night",
+                "segments": [
+                    "male",
+                    "female"
+                ],
+                "showEn": 1,
+                "restriction": "iOS 13"
+            },
+            {
+                "id": "show_sunnah_prayers",
+                "type": "switch",
+                "titleRu": "Показывать сунна намазы",
+                "descriptionRu": "Появятся на главной странице",
+                "showRu": 1,
+                "titleEn": "Show sunnah prayers",
+                "descriptionEn": "Will appear on the main page",
+                "segments": [
+                    "male",
+                    "female"
+                ],
+                "showEn": 1,
+                "restriction": ""
+            },
+            {
+                "id": "app_icon",
+                "type": "segmented",
+                "titleRu": "Изменить иконку приложения",
+                "descriptionRu": "",
+                "showRu": 1,
+                "titleEn": "Change app icon",
+                "descriptionEn": "",
+                "segments": [
+                    "default",
+                    "clean",
+                    "rounded"
+                ],
+                "showEn": 1,
+                "restriction": "premium",
+                "minBundleVersion": 179
+            }
+        ]
+    },
+    {
+        "id": "miscellaneous",
+        "titleRu": "Дополнительно",
+        "commentRu": "",
+        "titleEn": "Miscellaneous",
+        "commentEn": "",
+        "items": [
+            {
+                "id": "premium",
+                "type": "navigation",
+                "titleRu": "Намаз Премиум",
+                "descriptionRu": "",
+                "showRu": 1,
+                "titleEn": "Namaz Premium",
+                "descriptionEn": "",
+                "showEn": 1,
+                "restriction": "iOS 15"
+            },
+            {
+                "id": "information_center",
+                "type": "navigation",
+                "urlRu": "",
+                "titleRu": "Поддержка",
+                "descriptionRu": "",
+                "showRu": 1,
+                "urlEn": "",
+                "titleEn": "Customer Center",
+                "descriptionEn": "",
+                "showEn": 1
+            },
+            {
+                "id": "resources",
+                "type": "navigation",
+                "urlRu": "",
+                "titleRu": "Рекомендуем",
+                "descriptionRu": "",
+                "showRu": 1,
+                "urlEn": "",
+                "titleEn": "We recommend",
+                "descriptionEn": "",
+                "showEn": 1
+            }
+        ]
+    },
+    {
+        "id": "social_media",
+        "titleRu": "Наши социальные сети",
+        "commentRu": "Подпишитесь, и возвращайтесь в наш апп",
+        "titleEn": "Our social media",
+        "commentEn": "Subscribe and come back to our app",
+        "items": [
+            {
+                "id": "youtube",
+                "type": "link",
+                "urlRu": "https://www.youtube.com/@namazlive",
+                "titleRu": "Youtube канал",
+                "showRu": 1,
+                "urlEn": "https://www.youtube.com/@namazlive",
+                "titleEn": "Youtube channel",
+                "showEn": 1
+            },
+            {
+                "id": "telegram",
+                "type": "link",
+                "urlRu": "https://t.me/salahapp",
+                "titleRu": "Телеграм Канал",
+                "showRu": 1,
+                "urlEn": "https://t.me/salahapp",
+                "titleEn": "Telegram channel",
+                "showEn": 1
+            },
+            {
+                "id": "readar",
+                "type": "link",
+                "urlRu": "https://twitter.com/namazapp",
+                "titleRu": "Аккаунт в Twitter",
+                "showRu": 1,
+                "urlEn": "https://twitter.com/namazapp",
+                "titleEn": "Twitter account",
+                "showEn": 1
+            }
+        ]
+    }
+]
