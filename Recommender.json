@@ -34,24 +34,13 @@
                 "showEn": 1,
                 "showRu": 1,
                 "type": "phrase",
-                "titleEn": "As-salaamu عalaikum!",
-                "titleRu": "Ас-саляму 'аляйкум!",
-                "descriptionEn": "Welcome to NamazApp! Our goal is to help you get started with prayer.\n\nThere are five obligatory prayers. You can find them on the main page of this app. There is also a guide on washing before prayer.\n\nIf you have any questions, find the message icon in the top right corner of the main page.\n\nNow let's say bismiLlah (in the name of Allah) and get started! We ask Allah to make things easy and beneficial for you, ameen!",
-                "descriptionRu": "Добро пожаловать в НамазАпп! Наша цель - помочь вам встать на намаз.\n\nНа главной странице вы можете найти пять обязательных намазов для чтения на каждый день. Там же есть гид по Тахарату - очищению перед намазом.\n\nЕсли у вас вопросы, то пишите нам нажав на иконку в правом верхнем углу главного экрана.\n\nПусть Всевышний облегчит вам получения полезных знаний и откроет для вас врата Своей Милости, амин!",
+                "titleEn": "Welcome to NamazApp!",
+                "titleRu": "Добро пожаловать в НамазАпп!",
+                "descriptionEn": "As-salaamu 'alaikum!\n\nNamazApp helps you to start praying. \n\nThere are five obligatory prayers, you can find them on the main page.\n\nThere is also a guide on washing before prayer, and other useful things.\n\nLet's say \"Bismillaah\" and get starter!",
+                "descriptionRu": "Ас-саляму 'аляйкум! НамазАпп поможет вам встать на намаз.\n\nНа главной странице вы можете найти пять обязательных намазов на каждый день. Там же есть гид по Тахарату - очищению перед намазом.\n\nЕсли у вас вопросы, то пишите нам.\n\nПусть Всевышний облегчит вам получения полезных знаний и откроет для вас врата Своей Милости, амин!",
                 "urlEn": "salamLeft",
                 "urlRu": "salamLeft",
                 "icon": "info.square"
-            },
-            {
-                "id": "ghaza_charity",
-                "type": "link",
-                "urlRu": "https://zakyatrt.com/campaign/sektor-gaza/",
-                "titleRu": "Сбор помощи Сектору Газа",
-                "showRu": 1,
-                "urlEn": "https://campaigns.givebrite.com/fundraiser/oneummah-palestine-emergency-smile2jannah",
-                "titleEn": "Palestine Emergency Appeal",
-                "showEn": 1,
-                "icon": "waveform.path.ecg"
             },
             {
                 "id": "prayer_time",
@@ -80,28 +69,26 @@
                 "icon": "compass.drawing"
             },
             {
-                "id": "joode",
-                "type": "link",
-                "urlRu": "https://apps.apple.com/us/app/id1138728895",
-                "titleRu": "Joode: Арабский алфавит за два часа",
+                "id": "purity_types",
+                "type": "article",
+                "urlRu": "https://www.namaz.live/purity-types-ru",
+                "titleRu": "Два вида чистоты",
                 "showRu": 1,
-                "urlEn": "https://apps.apple.com/us/app/id1138728895",
-                "titleEn": "Joode: Arabic Alphabet in two hours",
-                "showEn": 1,
-                "icon": "app"
+                "urlEn": "https://www.namaz.live/purity-types",
+                "titleEn": "The two types of purity",
+                "icon": "doc.append",
+                "showEn": 1
             },
             {
-                "id": "youtube",
-                "showEn": 1,
+                "id": "jumu3ah",
+                "type": "article",
+                "urlRu": "https://www.namaz.live/jumu3ah-friday-prayer-ru",
+                "titleRu": "Джуму'а: пятничный намаз",
                 "showRu": 0,
-                "type": "settings",
-                "titleEn": "Social media accounts",
-                "titleRu": "Аккаунты в социальных сетях",
-                "descriptionEn": "We are activating our social media channels, among them Youtube, Telegram, and Twitter.\n\nWe also released our first video on how actions are classified in Islam. In it, we review how actions are prioritized and what this prioritization means for us.\n\nThe links to all of our accounts can be found in the 'Settings' tab.\n\nMay Allah put benefit into this effort and protect us from the harm of these 'nets'.",
-                "descriptionRu": "Мы активизируем наши социальные аккаунты в Ютуб, Телеграм и Твиттер.\n\nПросим у Аллаха, чтобы он вложил в это дело пользу, и защитил нас от зла этих 'сетей'.",
-                "urlEn": "",
-                "urlRu": "",
-                "icon": "network"
+                "urlEn": "https://www.namaz.live/jumu3ah-friday-prayer",
+                "titleEn": "Jumu'ah: Friday prayer",
+                "showEn": 1,
+                "icon": "figure.walk"
             },
             {
                 "id": "share_app",
@@ -124,18 +111,6 @@
                 "descriptionEn": "Prophet (peace and blessings be upon him) informed us what to say after praying a fard:\n\nWhoever glorifies Allah after every [fard] prayer thirty-three times, and praises Allah thirty-three times, and exalts Allah thirty-three times, those are ninety-nine in all, and says to complete a hundred: \"There is no god but Allah, alone without a partner; to Him belongs the kingdom, to Him belongs the praise, and He has power over everything\", his sins will be forgiven, even if they are as abundant as the foam of the sea. [Reported by Muslim].\n\nThese and other adhkar after prayer can be found in the \"Listen\" tab of NamazApp.",
                 "descriptionRu": "Пророк, мир ему и благословение Аллаха, сказал:\n\n«Тому, кто после каждой молитвы будет говорить по тридцать три раза слова «Пречист Аллах» (СубхаанаЛлааh), «Хвала Аллаху» (Аль-хамду лиЛляяh) и «Аллах Велик» (Аллааhу Акбар), говоря на сотый раз: «Ляя иляяhа илляЛлааh уахдаhуу ляя шариика ляh, ляhуль-мульку уа ляhуль-хамд, уа hу-уа عаля кулли шай-ин қадиирь», — простятся его грехи, даже если будут они подобны пене морской!» (Муслим).\n\nЭти и другие зикры после намаза можно найти во вкладке Аудио.",
                 "icon": "play.square"
-            },
-            {
-                "id": "personalization",
-                "type": "action",
-                "titleRu": "Расскажите о себе",
-                "descriptionRu": "",
-                "showRu": 1,
-                "titleEn": "Tell us about yourself",
-                "descriptionEn": "",
-                "showEn": 1,
-                "icon": "person.text.rectangle",
-                "restriction": "iOS 15"
             },
             {
                 "id": "dark_mode",
@@ -202,17 +177,63 @@
                 "restriction": "iOS 15"
             },
             {
+                "id": "ghaza_charity",
+                "type": "link",
+                "urlRu": "https://zakyatrt.com/campaign/sektor-gaza/",
+                "titleRu": "Сбор помощи Сектору Газа",
+                "showRu": 1,
+                "urlEn": "https://campaigns.givebrite.com/fundraiser/oneummah-palestine-emergency-smile2jannah",
+                "titleEn": "Palestine Emergency Appeal",
+                "showEn": 1,
+                "icon": "waveform.path.ecg"
+            },
+            {
+                "id": "joode",
+                "type": "link",
+                "urlRu": "https://apps.apple.com/us/app/id1138728895",
+                "titleRu": "Joode: Арабский алфавит за два часа",
+                "showRu": 1,
+                "urlEn": "https://apps.apple.com/us/app/id1138728895",
+                "titleEn": "Joode: Arabic Alphabet in two hours",
+                "showEn": 1,
+                "icon": "app"
+            },
+            {
+                "id": "youtube",
+                "showEn": 1,
+                "showRu": 0,
+                "type": "settings",
+                "titleEn": "Social media accounts",
+                "titleRu": "Аккаунты в социальных сетях",
+                "descriptionEn": "We are activating our social media channels, among them Youtube, Telegram, and Twitter.\n\nWe also released our first video on how actions are classified in Islam. In it, we review how actions are prioritized and what this prioritization means for us.\n\nThe links to all of our accounts can be found in the 'Settings' tab.\n\nMay Allah put benefit into this effort and protect us from the harm of these 'nets'.",
+                "descriptionRu": "Мы активизируем наши социальные аккаунты в Ютуб, Телеграм и Твиттер.\n\nПросим у Аллаха, чтобы он вложил в это дело пользу, и защитил нас от зла этих 'сетей'.",
+                "urlEn": "",
+                "urlRu": "",
+                "icon": "network"
+            },
+            {
+                "id": "personalization",
+                "type": "action",
+                "titleRu": "Расскажите о себе",
+                "descriptionRu": "",
+                "showRu": 1,
+                "titleEn": "Tell us about yourself",
+                "descriptionEn": "",
+                "showEn": 1,
+                "icon": "person.text.rectangle",
+                "restriction": "iOS 15"
+            },
+            {
                 "id": "isyllabus",
                 "showEn": 1,
                 "showRu": 0,
                 "type": "link",
                 "titleEn": "iSyllabus: the best course ever",
                 "titleRu": "Школа одного дня",
-                "descriptionEn": "Check out this course, inshaAllah it'll give you a solid foundation in Islam. We took it about 10 years ago, and the knowledge is sustaining us to this day alhamdulillah.\n\nThe course is paid, but in our case it was one of the best investments we've ever made.\n\nThe full price is £395. Something nice is that we received a 10% discount for the users of NamazApp. To get the discount use the promocode: namazapp10\n\nWatch the first live lesson for free this Tuesday, Oct 10th at 7pm. And do enroll, if you can afford it. Barakallaahu feekum!",
+                "descriptionEn": "Check out this course, inshaAllah it'll give you a solid foundation in Islam. We took it about 10 years ago, and the knowledge is sustaining us to this day alhamdulillah.\n\nThe course is paid, but in our case it was one of the best investments we've ever made.\n\nThe full price is £395. Something nice is that we received a 10% discount for the users of NamazApp. To get the discount use the promocode: namazapp10\n\nDo enroll, if you can afford it. Barakallaahu feekum!",
                 "descriptionRu": "",
                 "urlEn": "https://www.isyllabus.org/",
                 "urlRu": "",
-                "dateEn": "Oct 8th, 2023",
                 "icon": "play.laptopcomputer"
             },
             {
@@ -225,28 +246,6 @@
                 "titleEn": "Recommended Apps and Books",
                 "showEn": 1,
                 "icon": "gift"
-            },
-            {
-                "id": "purity_types",
-                "type": "article",
-                "urlRu": "https://www.namaz.live/purity-types-ru",
-                "titleRu": "Два вида чистоты",
-                "showRu": 1,
-                "urlEn": "https://www.namaz.live/purity-types",
-                "titleEn": "The two types of purity",
-                "icon": "doc.append",
-                "showEn": 1
-            },
-            {
-                "id": "jumu3ah",
-                "type": "article",
-                "urlRu": "https://www.namaz.live/jumu3ah-friday-prayer-ru",
-                "titleRu": "Джуму'а: пятничный намаз",
-                "showRu": 0,
-                "urlEn": "https://www.namaz.live/jumu3ah-friday-prayer",
-                "titleEn": "Jumu'ah: Friday prayer",
-                "showEn": 1,
-                "icon": "figure.walk"
             },
             {
                 "id": "how_to_help_palestinians",
