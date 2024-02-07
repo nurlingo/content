@@ -36,6 +36,17 @@
                 "icon": "gear.badge"
             },
             {
+                "id": "app_icon",
+                "type": "settings",
+                "titleRu": "Выбор иконки приложения",
+                "descriptionRu": "Можно выбрать из трех вариантов",
+                "showRu": 1,
+                "titleEn": "Change app icon",
+                "descriptionEn": "Choose between three options",
+                "showEn": 1,
+                "minBundleVersion": 179
+            },
+            {
                 "id": "001",
                 "type": "listen",
                 "titleRu": "Полноэкранный режим для аудио",
@@ -70,20 +81,6 @@
                 "showEn": 1,
                 "urlEn": "https://t.me/+ND42pitTHqViNzMy",
                 "icon": "paperplane.circle",
-                "restriction": "premium"
-            },
-            {
-                "id": "group_call",
-                "type": "link",
-                "titleRu": "Консультации по запросу",
-                "descriptionRu": "Можно обсудить обучение намазу и другие вопросы.",
-                "showRu": 1,
-                "urlRu": "https://calendly.com/namazapp/consult30",
-                "titleEn": "Book a consultation",
-                "descriptionEn": "We can discuss prayer, learning, and other related questions.",
-                "showEn": 1,
-                "urlEn": "https://calendly.com/namazapp/30min",
-                "icon": "calendar.badge.clock",
                 "restriction": "premium"
             }
         ]
