@@ -44,7 +44,8 @@
                 "titleEn": "Change app icon",
                 "descriptionEn": "Choose between three options",
                 "showEn": 1,
-                "minBundleVersion": 179
+                "minBundleVersion": 179,
+                "icon": "app"
             },
             {
                 "id": "001",
