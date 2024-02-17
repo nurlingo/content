@@ -289,7 +289,7 @@
                 {
                     "id": "shahadah",
                     "type": "article",
-                    "urlRu": "https://sites.google.com/view/islam-and-iman",
+                    "urlRu": "https://www.namaz.live/islam-iman-ihsan-ru",
                     "titleRu": "Врата, ведущие в Ислам",
                     "showRu": 1,
                     "urlEn": "https://www.namaz.live/shahadah",
@@ -312,8 +312,8 @@
                 {
                     "id": "iman",
                     "type": "article",
-                    "urlRu": "https://sites.google.com/view/faith-questions",
-                    "titleRu": "Вопросы и ответы о вере",
+                    "urlRu": "https://www.namaz.live/iman-ru",
+                    "titleRu": "Иман: краткие ответы о вере",
                     "descriptionRu": "",
                     "showRu": 1,
                     "urlEn": "https://www.namaz.live/iman",
@@ -359,7 +359,7 @@
                 {
                     "id": "islam_imaan_ihsan",
                     "type": "article",
-                    "urlRu": "https://sites.google.com/view/islam-and-iman",
+                    "urlRu": "https://www.namaz.live/islam-iman-ihsan-ru",
                     "titleRu": "Хадис Джибриля (мир ему)",
                     "showRu": 0,
                     "urlEn": "https://www.namaz.live/islam-iman-ihsan",
@@ -375,6 +375,16 @@
                     "showRu": 0,
                     "urlEn": "islam_imaan_ihsan_quiz",
                     "titleEn": "What have they discussed?",
+                    "showEn": 1
+                },
+                {
+                    "id": "dua",
+                    "type": "article",
+                    "urlRu": "",
+                    "titleRu": "Дуа - мольба к Аллаhу",
+                    "showRu": 0,
+                    "urlEn": "https://www.namaz.live/dua",
+                    "titleEn": "How to make dua",
                     "showEn": 1
                 }
             ]
