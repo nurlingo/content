@@ -19,18 +19,6 @@
                 "showEn": 1
             },
             {
-                "id": "whats_namaz",
-                "type": "test",
-                "urlRu": "",
-                "titleRu": "Что такое намаз?",
-                "detailRu": "Проверьте свое понимание",
-                "showRu": 0,
-                "titleEn": "What is Namaz?",
-                "urlEn": "namaz_quiz",
-                "detailEn": "Check your understanding",
-                "showEn": 1
-            },
-            {
                 "id": "action_categories",
                 "type": "article",
                 "urlRu": "https://www.namaz.live/action-categories-ru",
@@ -190,18 +178,6 @@
         "detailEn": "Being in a state of ritual purity is a prerequisite of prayer. Let's see how we can aqcuire it.",
         "items": [
             {
-                "id": "wudu_key",
-                "type": "test",
-                "urlRu": "wudu_key_ru",
-                "titleRu": "Два ключа",
-                "detailRu": "",
-                "showRu": 0,
-                "urlEn": "wudu_key",
-                "titleEn": "The key to prayer",
-                "detailEn": "wudu_key",
-                "showEn": 1
-            },
-            {
                 "id": "ghusl",
                 "type": "article",
                 "urlRu": "https://www.namaz.live/ghusl-ru",
@@ -214,18 +190,6 @@
                 "showEn": 1
             },
             {
-                "id": "performing_ghusl",
-                "type": "test",
-                "urlRu": "performing_ghusl_ru",
-                "titleRu": "Действия в гусле",
-                "detailRu": "Проверьте свое понимание",
-                "showRu": 1,
-                "urlEn": "performing_ghusl",
-                "titleEn": "Performing ghusl",
-                "detailEn": "Check your understanding",
-                "showEn": 1
-            },
-            {
                 "id": "wudu",
                 "type": "article",
                 "urlRu": "https://www.namaz.live/wudu-ru",
@@ -235,18 +199,6 @@
                 "urlEn": "https://www.namaz.live/wudu",
                 "titleEn": "Wudu - ablution",
                 "detailEn": "Washing after releaving oneself, passing a wind, sleeping and a few other things",
-                "showEn": 1
-            },
-            {
-                "id": "performing_wudu",
-                "type": "test",
-                "urlRu": "performing_wudu_ru",
-                "titleRu": "Действия в вуду",
-                "detailRu": "Проверьте свое понимание",
-                "showRu": 1,
-                "urlEn": "performing_wudu",
-                "titleEn": "Performing wudu",
-                "detailEn": "Check your understanding",
                 "showEn": 1
             },
             {
@@ -279,18 +231,6 @@
                 "urlEn": "https://www.namaz.live/shahadah",
                 "titleEn": "Shahadah: The Declaration of Faith",
                 "detailEn": "What makes one a Muslim",
-                "showEn": 1
-            },
-            {
-                "id": "say_shahada",
-                "type": "test",
-                "urlRu": "say_shahada_ru",
-                "titleRu": "Свидетельство веры",
-                "detailRu": "Сможете его составить?",
-                "showRu": 1,
-                "urlEn": "say_shahada",
-                "titleEn": "Make a declaration",
-                "detailEn": "Can you reconstruct it?",
                 "showEn": 1
             },
             {
@@ -349,16 +289,6 @@
                 "urlEn": "https://www.namaz.live/islam-iman-ihsan",
                 "titleEn": "The Hadith of Jibreel (peace be upon him)",
                 "detailEn": "Islam, Iman, Ihsan",
-                "showEn": 1
-            },
-            {
-                "id": "islam_imaan_ihsan_quiz",
-                "type": "test",
-                "urlRu": "islam_imaan_ihsan_quiz_ru",
-                "titleRu": "О чем был разговор?",
-                "showRu": 0,
-                "urlEn": "islam_imaan_ihsan_quiz",
-                "titleEn": "What have they discussed?",
                 "showEn": 1
             },
             {
