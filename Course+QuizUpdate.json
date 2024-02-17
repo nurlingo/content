@@ -220,7 +220,7 @@
                 {
                     "id": "ghusl",
                     "type": "article",
-                    "urlRu": "https://sites.google.com/view/ghusl-ru/home",
+                    "urlRu": "https://www.namaz.live/ghusl-ru",
                     "titleRu": "Гусль - полное омовение",
                     "descriptionRu": "Совершается впоследствии оргазма, секса или завершения менструации.",
                     "showRu": 1,
@@ -244,7 +244,7 @@
                 {
                     "id": "wudu",
                     "type": "article",
-                    "urlRu": "https://sites.google.com/view/wudu-ru/home",
+                    "urlRu": "https://www.namaz.live/wudu-ru",
                     "titleRu": "Вуду - малое омовение",
                     "descriptionRu": "Совершается после справления нужды, пускания газов, сна, и нескольких других действий.",
                     "showRu": 1,
@@ -268,7 +268,7 @@
                 {
                     "id": "tayammum",
                     "type": "article",
-                    "urlRu": "https://sites.google.com/view/tayammum-ru/home",
+                    "urlRu": "https://www.namaz.live/tayammum-ru",
                     "titleRu": "Таяммум - сухое очищение",
                     "descriptionRu": "Совершается когда необходимо сделать гусль или вуду, но нет воды, либо ее применение опасно для здоровья",
                     "showRu": 1,
@@ -399,7 +399,7 @@
                 {
                     "id": "ramadan_faq",
                     "type": "article",
-                    "urlRu": "https://sites.google.com/view/ramadan-faq",
+                    "urlRu": "https://www.namaz.live/ramadan-ru",
                     "titleRu": "Пост в Рамадан",
                     "showRu": 1,
                     "urlEn": "https://www.namaz.live/ramadan",
@@ -410,7 +410,7 @@
                 {
                     "id": "taraweeh",
                     "type": "article",
-                    "urlRu": "https://sites.google.com/view/taraweeh-ru/home",
+                    "urlRu": "https://www.namaz.live/taraweer-ru",
                     "titleRu": "Тарауих намаз",
                     "descriptionRu": "",
                     "showRu": 1,
@@ -422,7 +422,7 @@
                 {
                     "id": "laylatul_qadr",
                     "type": "article",
-                    "urlRu": "https://sites.google.com/view/night-of-power/home",
+                    "urlRu": "https://www.namaz.live/laylatul-qadr",
                     "titleRu": "Ночь Предопределения",
                     "descriptionRu": "",
                     "showRu": 1,
