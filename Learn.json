@@ -9,7 +9,7 @@
             {
                 "id": "namaz",
                 "type": "article",
-                "urlRu": "https://sites.google.com/view/namaz-intro-ru",
+                "urlRu": "https://www.namaz.live/namaz-intro-ru",
                 "titleRu": "О намазе",
                 "detailRu": "Молитва в Исламе и это приложение",
                 "showRu": 1,
@@ -19,9 +19,21 @@
                 "showEn": 1
             },
             {
+                "id": "whats_namaz",
+                "type": "test",
+                "urlRu": "",
+                "titleRu": "Что такое намаз?",
+                "detailRu": "Проверьте свое понимание",
+                "showRu": 0,
+                "titleEn": "What is Namaz?",
+                "urlEn": "namaz_quiz",
+                "detailEn": "Check your understanding",
+                "showEn": 1
+            },
+            {
                 "id": "action_categories",
                 "type": "article",
-                "urlRu": "https://www.namaz.live/ction-categories-ru",
+                "urlRu": "https://www.namaz.live/action-categories-ru",
                 "titleRu": "Категории действий в Исламе",
                 "detailRu": "",
                 "showRu": 0,
@@ -107,26 +119,26 @@
                 "detailRu": "",
                 "showRu": 1,
                 "urlEn": "https://www.namaz.live/tahajjud",
-                "titleEn": "Tahajjud: Night Prayer",
+                "titleEn": "Tahajjud: night prayer",
                 "detailEn": "",
                 "showEn": 1
             }
         ]
     },
     {
-        "id": "taharah-part1",
-        "titleRu": "Тахарат: физическая чистота",
-        "commentRu": "",
+        "id": "taharah",
+        "titleRu": "Тахарат: омовение перед намазом",
+        "detailRu": "Для того чтобы совершать Намаз, необходимо пребывать в состоянии физической и ритуальной чистоты.",
         "titleEn": "Taharah: physical purity",
         "detailEn": "Taharah means purification. In this module, we'll look into cleaning one's body, cloth and place of prayer from the physical impurities.",
         "items": [
             {
                 "id": "purity_types",
                 "type": "article",
-                "urlRu": "https://sites.google.com/view/the-two-types-of-purity-ru/home",
-                "titleRu": "Чистота в Исламе",
-                "detailRu": "Два вида чистоты: физическая и ритуальная",
-                "showRu": 0,
+                "urlRu": "https://www.namaz.live/purity-types-ru",
+                "titleRu": "Два вида чистоты",
+                "detailRu": "Физическая и ритуальная",
+                "showRu": 1,
                 "urlEn": "https://www.namaz.live/purity-types",
                 "titleEn": "The two types of purity",
                 "detailEn": "Islam highlights both physical & spiritual purity",
@@ -160,7 +172,7 @@
                 "id": "istinja",
                 "type": "article",
                 "urlRu": "https://www.namaz.live/istinja-ru",
-                "titleRu": "Истинжда - очищение после туалета",
+                "titleRu": "Истинджа - очищение после туалета",
                 "detailRu": "Вода, бумага и другие аспекты",
                 "showRu": 1,
                 "urlEn": "https://www.namaz.live/istinja",
@@ -178,9 +190,21 @@
         "detailEn": "Being in a state of ritual purity is a prerequisite of prayer. Let's see how we can aqcuire it.",
         "items": [
             {
+                "id": "wudu_key",
+                "type": "test",
+                "urlRu": "wudu_key_ru",
+                "titleRu": "Два ключа",
+                "detailRu": "",
+                "showRu": 0,
+                "urlEn": "wudu_key",
+                "titleEn": "The key to prayer",
+                "detailEn": "wudu_key",
+                "showEn": 1
+            },
+            {
                 "id": "ghusl",
                 "type": "article",
-                "urlRu": "https://sites.google.com/view/ghusl-ru/home",
+                "urlRu": "https://www.namaz.live/ghusl-ru",
                 "titleRu": "Гусль - полное омовение",
                 "detailRu": "Совершается впоследствии оргазма, секса или завершения менструации.",
                 "showRu": 1,
@@ -190,9 +214,21 @@
                 "showEn": 1
             },
             {
+                "id": "performing_ghusl",
+                "type": "test",
+                "urlRu": "performing_ghusl_ru",
+                "titleRu": "Действия в гусле",
+                "detailRu": "Проверьте свое понимание",
+                "showRu": 1,
+                "urlEn": "performing_ghusl",
+                "titleEn": "Performing ghusl",
+                "detailEn": "Check your understanding",
+                "showEn": 1
+            },
+            {
                 "id": "wudu",
                 "type": "article",
-                "urlRu": "https://sites.google.com/view/wudu-ru/home",
+                "urlRu": "https://www.namaz.live/wudu-ru",
                 "titleRu": "Вуду - малое омовение",
                 "detailRu": "Совершается после справления нужды, пускания газов, сна, и нескольких других действий.",
                 "showRu": 1,
@@ -202,9 +238,21 @@
                 "showEn": 1
             },
             {
+                "id": "performing_wudu",
+                "type": "test",
+                "urlRu": "performing_wudu_ru",
+                "titleRu": "Действия в вуду",
+                "detailRu": "Проверьте свое понимание",
+                "showRu": 1,
+                "urlEn": "performing_wudu",
+                "titleEn": "Performing wudu",
+                "detailEn": "Check your understanding",
+                "showEn": 1
+            },
+            {
                 "id": "tayammum",
                 "type": "article",
-                "urlRu": "https://sites.google.com/view/tayammum-ru/home",
+                "urlRu": "https://www.namaz.live/tayammum-ru",
                 "titleRu": "Таяммум - сухое очищение",
                 "detailRu": "Совершается когда необходимо сделать гусль или вуду, но нет воды, либо ее применение опасно для здоровья",
                 "showRu": 1,
@@ -225,9 +273,8 @@
             {
                 "id": "shahadah",
                 "type": "article",
-                "urlRu": "https://sites.google.com/view/islam-and-iman",
+                "urlRu": "https://www.namaz.live/islam-iman-ihsan-ru",
                 "titleRu": "Врата, ведущие в Ислам",
-                "detailRu": "",
                 "showRu": 1,
                 "urlEn": "https://www.namaz.live/shahadah",
                 "titleEn": "Shahadah: The Declaration of Faith",
@@ -235,10 +282,22 @@
                 "showEn": 1
             },
             {
+                "id": "say_shahada",
+                "type": "test",
+                "urlRu": "say_shahada_ru",
+                "titleRu": "Свидетельство веры",
+                "detailRu": "Сможете его составить?",
+                "showRu": 1,
+                "urlEn": "say_shahada",
+                "titleEn": "Make a declaration",
+                "detailEn": "Can you reconstruct it?",
+                "showEn": 1
+            },
+            {
                 "id": "iman",
                 "type": "article",
-                "urlRu": "https://sites.google.com/view/faith-questions",
-                "titleRu": "Вопросы и ответы о вере",
+                "urlRu": "https://www.namaz.live/iman-ru",
+                "titleRu": "Иман: краткие ответы о вере",
                 "detailRu": "",
                 "showRu": 1,
                 "urlEn": "https://www.namaz.live/iman",
@@ -273,7 +332,7 @@
             {
                 "id": "hadith_on_niyyah",
                 "type": "article",
-                "urlRu": "https://sites.google.com/view/niyyah-ru",
+                "urlRu": "https://www.namaz.live/intention-ru",
                 "titleRu": "Хадис о намерении",
                 "showRu": 1,
                 "urlEn": "https://www.namaz.live/intention",
@@ -284,27 +343,47 @@
             {
                 "id": "islam_imaan_ihsan",
                 "type": "article",
-                "urlRu": "https://sites.google.com/view/islam-and-iman",
+                "urlRu": "https://www.namaz.live/islam-iman-ihsan-ru",
                 "titleRu": "Хадис Джибриля (мир ему)",
                 "showRu": 0,
                 "urlEn": "https://www.namaz.live/islam-iman-ihsan",
                 "titleEn": "The Hadith of Jibreel (peace be upon him)",
                 "detailEn": "Islam, Iman, Ihsan",
                 "showEn": 1
+            },
+            {
+                "id": "islam_imaan_ihsan_quiz",
+                "type": "test",
+                "urlRu": "islam_imaan_ihsan_quiz_ru",
+                "titleRu": "О чем был разговор?",
+                "showRu": 0,
+                "urlEn": "islam_imaan_ihsan_quiz",
+                "titleEn": "What have they discussed?",
+                "showEn": 1
+            },
+            {
+                "id": "dua",
+                "type": "article",
+                "urlRu": "",
+                "titleRu": "Дуа - мольба к Аллаhу",
+                "showRu": 0,
+                "urlEn": "https://www.namaz.live/dua",
+                "titleEn": "How to make dua",
+                "showEn": 1
             }
         ]
     },
     {
         "id": "ramadan",
-        "titleRu": "Рамадан и другие особые даты",
-        "detailRu": "",
-        "titleEn": "Ramadan and other special dates",
-        "detailEn": "",
+        "titleRu": "Рамадан",
+        "detailRu": "Вопросы и ответы по священному месяцу и посту в нем.",
+        "titleEn": "Ramadan",
+        "detailEn": "Questions and answers on the blessed month and fasting.",
         "items": [
             {
                 "id": "ramadan_faq",
                 "type": "article",
-                "urlRu": "https://sites.google.com/view/ramadan-faq",
+                "urlRu": "https://www.namaz.live/ramadan-ru",
                 "titleRu": "Пост в Рамадан",
                 "showRu": 1,
                 "urlEn": "https://www.namaz.live/ramadan",
@@ -315,7 +394,7 @@
             {
                 "id": "taraweeh",
                 "type": "article",
-                "urlRu": "https://sites.google.com/view/taraweeh-ru/home",
+                "urlRu": "https://www.namaz.live/taraweeh-ru",
                 "titleRu": "Тарауих намаз",
                 "detailRu": "",
                 "showRu": 1,
@@ -327,7 +406,7 @@
             {
                 "id": "laylatul_qadr",
                 "type": "article",
-                "urlRu": "https://sites.google.com/view/night-of-power/home",
+                "urlRu": "https://www.namaz.live/laylatul-qadr-ru",
                 "titleRu": "Ночь Предопределения",
                 "detailRu": "",
                 "showRu": 1,
