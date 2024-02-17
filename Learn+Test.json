@@ -9,7 +9,7 @@
             {
                 "id": "namaz",
                 "type": "article",
-                "urlRu": "https://sites.google.com/view/namaz-intro-ru",
+                "urlRu": "https://www.namaz.live/namaz-intro-ru",
                 "titleRu": "О намазе",
                 "detailRu": "Молитва в Исламе и это приложение",
                 "showRu": 1,
@@ -33,7 +33,7 @@
             {
                 "id": "action_categories",
                 "type": "article",
-                "urlRu": "https://www.namaz.live/ction-categories-ru",
+                "urlRu": "https://www.namaz.live/action-categories-ru",
                 "titleRu": "Категории действий в Исламе",
                 "detailRu": "",
                 "showRu": 0,
@@ -56,11 +56,23 @@
                 "type": "article",
                 "urlRu": "https://www.namaz.live/prayer-fard-ru",
                 "titleRu": "Фард действия в намазе",
-                "detailRu": "",
+                "descriptionRu": "",
                 "showRu": 0,
                 "urlEn": "https://www.namaz.live/prayer-fard",
                 "titleEn": "Fard of salah: 11 essentials in prayer",
-                "detailEn": "",
+                "descriptionEn": "",
+                "showEn": 1
+            },
+            {
+                "id": "prayer_conditions",
+                "type": "article",
+                "urlRu": "https://www.namaz.live/prayer-shurut-ru",
+                "titleRu": "Условия намаза",
+                "descriptionRu": "",
+                "showRu": 0,
+                "urlEn": "https://www.namaz.live/prayer-shurut",
+                "titleEn": "Shurut: conditions for validity of prayer",
+                "descriptionEn": "",
                 "showEn": 1
             },
             {
@@ -68,11 +80,11 @@
                 "type": "article",
                 "urlRu": "https://www.namaz.live/prayer-categories-ru",
                 "titleRu": "Категории намаза",
-                "detailRu": "",
+                "descriptionRu": "",
                 "showRu": 1,
                 "urlEn": "https://www.namaz.live/prayer-categories",
                 "titleEn": "Categories of prayer",
-                "detailEn": "",
+                "descriptionEn": "",
                 "showEn": 1
             },
             {
@@ -80,11 +92,11 @@
                 "type": "article",
                 "urlRu": "https://www.namaz.live/prayer-times-ru",
                 "titleRu": "Время намаза",
-                "detailRu": "",
+                "descriptionRu": "",
                 "showRu": 1,
                 "urlEn": "https://www.namaz.live/prayer-times",
                 "titleEn": "Prayer times",
-                "detailEn": "",
+                "descriptionEn": "",
                 "showEn": 1
             },
             {
@@ -92,11 +104,11 @@
                 "type": "article",
                 "urlRu": "https://www.namaz.live/jumu3ah-friday-prayer-ru",
                 "titleRu": "Джуму'а: пятничный намаз",
-                "detailRu": "",
-                "showRu": 1,
+                "descriptionRu": "",
+                "showRu": 0,
                 "urlEn": "https://www.namaz.live/jumu3ah-friday-prayer",
                 "titleEn": "Jumu'ah: Friday prayer",
-                "detailEn": "",
+                "descriptionEn": "",
                 "showEn": 1
             },
             {
@@ -104,11 +116,11 @@
                 "type": "article",
                 "urlRu": "https://www.namaz.live/tahajjud-ru",
                 "titleRu": "Тахаджуд: ночной намаз",
-                "detailRu": "",
+                "descriptionRu": "",
                 "showRu": 1,
                 "urlEn": "https://www.namaz.live/tahajjud",
-                "titleEn": "Tahajjud: Night Prayer",
-                "detailEn": "",
+                "titleEn": "Tahajjud: night prayer",
+                "descriptionEn": "",
                 "showEn": 1
             }
         ]
@@ -123,13 +135,13 @@
             {
                 "id": "purity_types",
                 "type": "article",
-                "urlRu": "https://sites.google.com/view/the-two-types-of-purity-ru/home",
-                "titleRu": "Чистота в Исламе",
-                "detailRu": "Два вида чистоты: физическая и ритуальная",
-                "showRu": 0,
+                "urlRu": "https://www.namaz.live/purity-types-ru",
+                "titleRu": "Два вида чистоты в Исламе: физическая и ритуальная",
+                "descriptionRu": "",
+                "showRu": 1,
                 "urlEn": "https://www.namaz.live/purity-types",
                 "titleEn": "The two types of purity",
-                "detailEn": "Islam highlights both physical & spiritual purity",
+                "descriptionEn": "Islam highlights both physical & spiritual purity",
                 "showEn": 1
             },
             {
@@ -137,11 +149,11 @@
                 "type": "article",
                 "urlRu": "https://sites.google.com/view/physical-impurities-haqiqi-ru/home",
                 "titleRu": "Физические нечистоты",
-                "detailRu": "Знать, чтобы избегать",
+                "descriptionRu": "Знать, чтобы избегать",
                 "showRu": 0,
                 "urlEn": "https://www.namaz.live/physical-impurities",
                 "titleEn": "Physical Impurities",
-                "detailEn": "Learn about common impure substances",
+                "descriptionEn": "Learn about common impure substances",
                 "showEn": 1
             },
             {
@@ -149,23 +161,23 @@
                 "type": "article",
                 "urlRu": "https://sites.google.com/view/howtoremoveimpurities-ru/home",
                 "titleRu": "Очищение тела, одежды и места",
-                "detailRu": "Как подготовить их к намазу",
+                "descriptionRu": "Как подготовить их к намазу",
                 "showRu": 0,
                 "urlEn": "https://www.namaz.live/removing-physical-impurities",
                 "titleEn": "How to remove physical impurities",
-                "detailEn": "Practical knowledge needed for prayer",
+                "descriptionEn": "Practical knowledge needed for prayer",
                 "showEn": 1
             },
             {
                 "id": "istinja",
                 "type": "article",
-                "urlRu": "https://www.namaz.live/istinja-ru",
-                "titleRu": "Истинжда - очищение после туалета",
-                "detailRu": "Вода, бумага и другие аспекты",
+                "urlRu": "https:///www.namaz.live/istinja-ru",
+                "titleRu": "Истинджа - очищение после туалета",
+                "descriptionRu": "Вода, бумага и другие аспекты",
                 "showRu": 1,
                 "urlEn": "https://www.namaz.live/istinja",
                 "titleEn": "Istinja - cleaning after toilet",
-                "detailEn": "Water, paper, and other important aspects",
+                "descriptionEn": "Water, paper, and other important aspects",
                 "showEn": 1
             }
         ]
@@ -180,25 +192,25 @@
             {
                 "id": "wudu_key",
                 "type": "test",
-                "urlRu": "",
+                "urlRu": "wudu_key_ru",
                 "titleRu": "Два ключа",
-                "detailRu": "",
+                "descriptionRu": "",
                 "showRu": 0,
                 "urlEn": "wudu_key",
-                "titleEn": "The Two Keys",
-                "detailEn": "What do they unlock?",
+                "titleEn": "The key to prayer",
+                "descriptionEn": "wudu_key",
                 "showEn": 1
             },
             {
                 "id": "ghusl",
                 "type": "article",
-                "urlRu": "https://sites.google.com/view/ghusl-ru/home",
+                "urlRu": "https://www.namaz.live/ghusl-ru",
                 "titleRu": "Гусль - полное омовение",
-                "detailRu": "Совершается впоследствии оргазма, секса или завершения менструации.",
+                "descriptionRu": "Совершается впоследствии оргазма, секса или завершения менструации.",
                 "showRu": 1,
                 "urlEn": "https://www.namaz.live/ghusl",
                 "titleEn": "Ghusl - full-body washing",
-                "detailEn": "Washing after sexual intercourse, orgasm, or end of menstruation period",
+                "descriptionEn": "Washing after sexual intercourse, orgasm, or end of menstruation period",
                 "showEn": 1
             },
             {
@@ -206,23 +218,23 @@
                 "type": "test",
                 "urlRu": "performing_ghusl_ru",
                 "titleRu": "Действия в гусле",
-                "detailRu": "Проверьте свое понимание",
+                "descriptionRu": "Проверьте свое понимание",
                 "showRu": 1,
                 "urlEn": "performing_ghusl",
                 "titleEn": "Performing ghusl",
-                "detailEn": "Check your understanding",
+                "descriptionEn": "Check your understanding",
                 "showEn": 1
             },
             {
                 "id": "wudu",
                 "type": "article",
-                "urlRu": "https://sites.google.com/view/wudu-ru/home",
+                "urlRu": "https://www.namaz.live/wudu-ru",
                 "titleRu": "Вуду - малое омовение",
-                "detailRu": "Совершается после справления нужды, пускания газов, сна, и нескольких других действий.",
+                "descriptionRu": "Совершается после справления нужды, пускания газов, сна, и нескольких других действий.",
                 "showRu": 1,
                 "urlEn": "https://www.namaz.live/wudu",
                 "titleEn": "Wudu - ablution",
-                "detailEn": "Washing after releaving oneself, passing a wind, sleeping and a few other things",
+                "descriptionEn": "Washing after releaving oneself, passing a wind, sleeping and a few other things",
                 "showEn": 1
             },
             {
@@ -230,23 +242,23 @@
                 "type": "test",
                 "urlRu": "performing_wudu_ru",
                 "titleRu": "Действия в вуду",
-                "detailRu": "Проверьте свое понимание",
+                "descriptionRu": "Проверьте свое понимание",
                 "showRu": 1,
                 "urlEn": "performing_wudu",
                 "titleEn": "Performing wudu",
-                "detailEn": "Check your understanding",
+                "descriptionEn": "Check your understanding",
                 "showEn": 1
-            }, 
+            },
             {
                 "id": "tayammum",
                 "type": "article",
-                "urlRu": "https://sites.google.com/view/tayammum-ru/home",
+                "urlRu": "https://www.namaz.live/tayammum-ru",
                 "titleRu": "Таяммум - сухое очищение",
-                "detailRu": "Совершается когда необходимо сделать гусль или вуду, но нет воды, либо ее применение опасно для здоровья",
+                "descriptionRu": "Совершается когда необходимо сделать гусль или вуду, но нет воды, либо ее применение опасно для здоровья",
                 "showRu": 1,
                 "urlEn": "https://www.namaz.live/tayammum",
                 "titleEn": "Tayammum - dry purification",
-                "detailEn": "Performed in the place of ghusl and wudu, when there is no water or using it will harm the person",
+                "descriptionEn": "Performed in the place of ghusl and wudu, when there is no water or using it will harm the person",
                 "showEn": 1
             }
         ]
@@ -261,12 +273,12 @@
             {
                 "id": "shahadah",
                 "type": "article",
-                "urlRu": "https://sites.google.com/view/islam-and-iman",
+                "urlRu": "https://www.namaz.live/islam-iman-ihsan-ru",
                 "titleRu": "Врата, ведущие в Ислам",
                 "showRu": 1,
                 "urlEn": "https://www.namaz.live/shahadah",
                 "titleEn": "Shahadah: The Declaration of Faith",
-                "detailEn": "What makes one a Muslim",
+                "descriptionEn": "What makes one a Muslim",
                 "showEn": 1
             },
             {
@@ -274,11 +286,23 @@
                 "type": "test",
                 "urlRu": "say_shahada_ru",
                 "titleRu": "Свидетельство веры",
-                "detailRu": "Сможете его составить?",
+                "descriptionRu": "Сможете его составить?",
                 "showRu": 1,
                 "urlEn": "say_shahada",
                 "titleEn": "Make a declaration",
-                "detailEn": "Can you reconstruct it?",
+                "descriptionEn": "Can you reconstruct it?",
+                "showEn": 1
+            },
+            {
+                "id": "iman",
+                "type": "article",
+                "urlRu": "https://www.namaz.live/iman-ru",
+                "titleRu": "Иман: краткие ответы о вере",
+                "descriptionRu": "",
+                "showRu": 1,
+                "urlEn": "https://www.namaz.live/iman",
+                "titleEn": "Iman: true faith",
+                "descriptionEn": "What makes one a Muslim",
                 "showEn": 1
             },
             {
@@ -286,33 +310,45 @@
                 "type": "article",
                 "urlRu": "https://www.namaz.live/quran-ru",
                 "titleRu": "Коран: Книга Аллаха",
-                "detailRu": "",
+                "descriptionRu": "",
                 "showRu": 0,
                 "urlEn": "https://www.namaz.live/quran",
                 "titleEn": "Al Quran: the Book of Allah",
-                "detailEn": "",
+                "descriptionEn": "",
+                "showEn": 1
+            },
+            {
+                "id": "messenger",
+                "type": "article",
+                "urlRu": "https://www.namaz.live/messenger-ru",
+                "titleRu": "Пророк Мухаммад (ﷺ)",
+                "descriptionRu": "",
+                "showRu": 1,
+                "urlEn": "https://www.namaz.live/messenger",
+                "titleEn": "Prophet Muhammad (ﷺ)",
+                "descriptionEn": "",
                 "showEn": 1
             },
             {
                 "id": "hadith_on_niyyah",
                 "type": "article",
-                "urlRu": "https://sites.google.com/view/niyyah-ru",
+                "urlRu": "https://www.namaz.live/intention-ru",
                 "titleRu": "Хадис о намерении",
                 "showRu": 1,
                 "urlEn": "https://www.namaz.live/intention",
                 "titleEn": "The Hadith of intention",
-                "detailEn": "Something emphasized in our deen",
+                "descriptionEn": "Something emphasized in our deen",
                 "showEn": 1
             },
             {
                 "id": "islam_imaan_ihsan",
                 "type": "article",
-                "urlRu": "https://sites.google.com/view/islam-and-iman",
+                "urlRu": "https://www.namaz.live/islam-iman-ihsan-ru",
                 "titleRu": "Хадис Джибриля (мир ему)",
                 "showRu": 0,
                 "urlEn": "https://www.namaz.live/islam-iman-ihsan",
                 "titleEn": "The Hadith of Jibreel (peace be upon him)",
-                "detailEn": "Islam, Iman, Ihsan",
+                "descriptionEn": "Islam, Iman, Ihsan",
                 "showEn": 1
             },
             {
@@ -323,6 +359,16 @@
                 "showRu": 0,
                 "urlEn": "islam_imaan_ihsan_quiz",
                 "titleEn": "What have they discussed?",
+                "showEn": 1
+            },
+            {
+                "id": "dua",
+                "type": "article",
+                "urlRu": "",
+                "titleRu": "Дуа - мольба к Аллаhу",
+                "showRu": 0,
+                "urlEn": "https://www.namaz.live/dua",
+                "titleEn": "How to make dua",
                 "showEn": 1
             }
         ]
@@ -337,36 +383,36 @@
             {
                 "id": "ramadan_faq",
                 "type": "article",
-                "urlRu": "https://sites.google.com/view/ramadan-faq",
+                "urlRu": "https://www.namaz.live/ramadan-ru",
                 "titleRu": "Пост в Рамадан",
                 "showRu": 1,
                 "urlEn": "https://www.namaz.live/ramadan",
                 "titleEn": "Fasting in Ramadan",
-                "detailEn": "The best of deeds in the best of months",
+                "descriptionEn": "The best of deeds in the best of months",
                 "showEn": 1
             },
             {
                 "id": "taraweeh",
                 "type": "article",
-                "urlRu": "https://sites.google.com/view/taraweeh-ru/home",
+                "urlRu": "https://www.namaz.live/taraweeh-ru",
                 "titleRu": "Тарауих намаз",
-                "detailRu": "",
+                "descriptionRu": "",
                 "showRu": 1,
                 "urlEn": "https://www.namaz.live/taraweeh",
                 "titleEn": "Taraweeh prayer",
-                "detailEn": "",
+                "descriptionEn": "",
                 "showEn": 1
             },
             {
                 "id": "laylatul_qadr",
                 "type": "article",
-                "urlRu": "https://sites.google.com/view/night-of-power/home",
+                "urlRu": "https://www.namaz.live/laylatul-qadr-ru",
                 "titleRu": "Ночь Предопределения",
-                "detailRu": "",
+                "descriptionRu": "",
                 "showRu": 1,
                 "urlEn": "https://www.namaz.live/laylatul-qadr",
                 "titleEn": "Laylatul Qadr: the Night of Divine Decree",
-                "detailEn": "",
+                "descriptionEn": "",
                 "showEn": 1
             },
             {
