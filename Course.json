@@ -163,7 +163,7 @@
                 {
                     "id": "physical_impurities",
                     "type": "article",
-                    "urlRu": "https://sites.google.com/view/physical-impurities-haqiqi-ru/home",
+                    "urlRu": "https://www.namaz.live/physical-impurities-ru",
                     "titleRu": "Физические нечистоты",
                     "descriptionRu": "Знать, чтобы избегать",
                     "showRu": 0,
@@ -175,7 +175,7 @@
                 {
                     "id": "removing_impurities",
                     "type": "article",
-                    "urlRu": "https://sites.google.com/view/howtoremoveimpurities-ru/home",
+                    "urlRu": "https://www.namaz.live/removing-physical-impurities-ru",
                     "titleRu": "Очищение тела, одежды и места",
                     "descriptionRu": "Как подготовить их к намазу",
                     "showRu": 0,
@@ -265,7 +265,7 @@
                 {
                     "id": "shahadah",
                     "type": "article",
-                    "urlRu": "https://sites.google.com/view/islam-and-iman",
+                    "urlRu": "https://www.namaz.live/islam-iman-ihsan",
                     "titleRu": "Врата, ведущие в Ислам",
                     "showRu": 1,
                     "urlEn": "https://www.namaz.live/shahadah",
@@ -288,8 +288,8 @@
                 {
                     "id": "iman",
                     "type": "article",
-                    "urlRu": "https://sites.google.com/view/faith-questions",
-                    "titleRu": "Вопросы и ответы о вере",
+                    "urlRu": "https://www.namaz.live/iman-ru",
+                    "titleRu": "Иман: Краткие ответы о вере",
                     "descriptionRu": "Просто о важном",
                     "showRu": 1,
                     "urlEn": "https://www.namaz.live/iman",
@@ -312,7 +312,7 @@
                 {
                     "id": "hadith_on_niyyah",
                     "type": "article",
-                    "urlRu": "https://sites.google.com/view/niyyah-ru",
+                    "urlRu": "https://www.namaz.live/intention-ru",
                     "titleRu": "Хадис о намерении",
                     "showRu": 1,
                     "urlEn": "https://www.namaz.live/intention",
@@ -323,7 +323,7 @@
                 {
                     "id": "islam_imaan_ihsan",
                     "type": "article",
-                    "urlRu": "https://sites.google.com/view/islam-and-iman",
+                    "urlRu": "",
                     "titleRu": "Хадис Джибриля (мир ему)",
                     "showRu": 0,
                     "urlEn": "https://www.namaz.live/islam-iman-ihsan",
@@ -337,8 +337,18 @@
                     "urlRu": "",
                     "titleRu": "О чем был разговор?",
                     "showRu": 0,
-                    "urlEn": "https://sites.google.com/view/hadith-of-jibreel/home",
+                    "urlEn": "",
                     "titleEn": "What have they discussed?",
+                    "showEn": 1
+                },
+                {
+                    "id": "dua",
+                    "type": "article",
+                    "urlRu": "",
+                    "titleRu": "Дуа - мольба к Аллаhу",
+                    "showRu": 0,
+                    "urlEn": "https://www.namaz.live/dua",
+                    "titleEn": "How to make dua",
                     "showEn": 1
                 }
             ]
