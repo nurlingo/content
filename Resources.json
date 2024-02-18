@@ -65,7 +65,7 @@
         "id": "books",
         "titleRu": "Книги и курсы",
         "commentRu": "",
-        "titleEn": "Books and course",
+        "titleEn": "Books and courses",
         "commentEn": "",
         "items": [
             {
@@ -76,7 +76,7 @@
                 "showRu": 0,
                 "urlEn": "https://academy.seekersguidance.org/enrol/index.php?id=114",
                 "titleEn": "The Absolute Essentials of Islam",
-                "descriptionEn": "Faith, Prayer, and The Path of Salvation According to the Hanafi School",
+                "descriptionEn": "Faith and prayer according to the Hanafi school",
                 "showEn": 1,
                 "icon": "play.laptopcomputer"
             },
@@ -85,7 +85,7 @@
                 "type": "link",
                 "urlRu": "https://t.me/+UfX-y3LHj-81NDBk",
                 "titleRu": "Уроки по ханафитскому фикху",
-                "descriptionRu": "Бесплатный курс онлайн-уроков, публикуются в Телеграмм",
+                "descriptionRu": "Бесплатный онлайн курс, уроки публикуются в Телеграмм",
                 "showRu": 1,
                 "urlEn": "https://www.isyllabus.org/",
                 "titleEn": "iSyllabus Diploma: Foundations for every Muslim",
