@@ -15,7 +15,7 @@
                 "urlEn": "https://campaigns.givebrite.com/fundraiser/oneummah-palestine-emergency-smile2jannah",
                 "titleEn": "Palestine Emergency Appeal",
                 "showEn": 1,
-                "icon": "waveform.path.ecg",
+                "icon": "waveform.path.ecg"
             }
         ]
     },
@@ -63,27 +63,35 @@
     },
     {
         "id": "books",
-        "titleRu": "Реклама товаров и услуг",
+        "titleRu": "Книги и курсы",
         "commentRu": "",
-        "titleEn": "Sponsored Links",
+        "titleEn": "Books and course",
         "commentEn": "",
         "items": [
             {
-                
                 "id": "essentials_of_islam",
                 "type": "link",
                 "urlRu": "",
-                "titleRu": "",
+                "titleRu": "Основы Ислама",
                 "showRu": 0,
-                "urlEn": "https://amzn.to/49ppRJA",
+                "urlEn": "https://academy.seekersguidance.org/enrol/index.php?id=114",
                 "titleEn": "The Absolute Essentials of Islam",
                 "descriptionEn": "Faith, Prayer, and The Path of Salvation According to the Hanafi School",
                 "showEn": 1,
-                "icon": "text.book.closed",
-                "urls": {
-                    "us": "https://amzn.to/3QUHUAj",
-                    "de": "https://amzn.to/3FWN0Ww"
-                }
+                "icon": "play.laptopcomputer"
+            },
+            {
+                "id": "online_course",
+                "type": "link",
+                "urlRu": "https://t.me/+UfX-y3LHj-81NDBk",
+                "titleRu": "Уроки по ханафитскому фикху",
+                "descriptionRu": "Бесплатный курс онлайн-уроков, публикуются в Телеграмм",
+                "showRu": 1,
+                "urlEn": "https://www.isyllabus.org/",
+                "titleEn": "iSyllabus Diploma: Foundations for every Muslim",
+                "descriptionEn": "Paid course, strongly recommended, use promocode namazapp10",
+                "showEn": 1,
+                "icon": "play.laptopcomputer"
             },
             {
                 "id": "ascent",
@@ -92,13 +100,9 @@
                 "showRu": 0,
                 "titleEn": "Ascent to Felicity",
                 "descriptionEn": "A Manual on Islamic Creed and Hanafi Jurisprudence",
-                "showEn": 1,
-                "urlEn": "https://amzn.to/3Qs1phW",
-                "icon": "text.book.closed",
-                "urls": {
-                    "us": "https://amzn.to/3QxdQJr",
-                    "de": "https://amzn.to/3FVKEXG"
-                }
+                "showEn": 0,
+                "urlEn": "https://archive.org/details/ascent-to-felicity",
+                "icon": "text.book.closed"
             },
             {
                 "id": "forty_principles",
@@ -106,13 +110,10 @@
                 "urlRu": "",
                 "titleRu": "",
                 "showRu": 0,
-                "urlEn": "https://amzn.to/3MDT2Px",
+                "urlEn": "https://amzn.to/c",
                 "titleEn": "The Forty Principles of the Religion",
                 "icon": "text.book.closed",
-                "showEn": 1,
-                "urls": {
-                    "us": "https://amzn.to/3uisRY3"
-                }
+                "showEn": 1
             },
             {
                 "id": "dua_book",
@@ -123,7 +124,7 @@
                 "titleEn": "Duas for Success",
                 "urlEn": "https://amzn.to/3SDwdiD",
                 "icon": "text.book.closed",
-                "showEn": 1,
+                "showEn": 0,
                 "urls": {
                     "de": "https://amzn.to/47uLHd6"
                 }
@@ -135,13 +136,9 @@
                 "titleRu": "",
                 "showRu": 0,
                 "titleEn": "Life of the Prophet (ﷺ)",
-                "urlEn": "https://amzn.to/3SyEYup",
-                "showEn": 1,
-                "icon": "text.book.closed",
-                "urls": {
-                    "de": "https://amzn.to/476EWOB",
-                    "us": "https://amzn.to/3QUBxfd"
-                }
+                "urlEn": "https://www.icorlando.org/pdfs/muhammad_martin_Lings.pdf",
+                "showEn": 0,
+                "icon": "text.book.closed"
             },
             {
                 "id": "quran_beheld",
@@ -150,29 +147,10 @@
                 "titleRu": "",
                 "showRu": 0,
                 "titleEn": "The Quran Beheld",
-                "urlEn": "https://amzn.to/3FQCFvb",
+                "urlEn": "https://www.quranbeheld.com/",
                 "descriptionEn": "An English Translation from the Arabic",
                 "showEn": 1,
-                "icon": "text.book.closed",
-                "urls": {
-                    "de": "https://amzn.to/3MDc0FT",
-                    "uk": "https://amzn.to/3srUxtb"
-                }
-            },
-            {
-                "id": "fiqh_akbar",
-                "type": "link",
-                "urlRu": "",
-                "titleRu": "",
-                "showRu": 0,
-                "urlEn": "https://amzn.to/3QCBbcG",
-                "titleEn": "Al-Fiqh al-Akbar Explained",
-                "descriptionEn": "Imam Abu Hanifa's famous book on Muslim belief",
-                "showEn": 1,
-                "icon": "text.book.closed",
-                "urls": {
-                    "us": "https://amzn.to/46bcKsO"
-                }
+                "icon": "text.book.closed"
             }
         ]
     }
