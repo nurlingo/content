@@ -18,6 +18,25 @@
             }
         }
     ],
+    "taharah_key_ru":[
+        {
+            "type":"TapToWrite",
+            "body":{
+                "title": "Ключи",
+                "question":"Составьте фразу переданную от Пророка (мир ему и благословение) в сборнике имама Ахмада:",
+                "hint":"Используйте все слова.",
+                "existingText":"",
+                "components":[
+                    "Ключ",
+                    "к Раю",
+                    "- намаз,",
+                    "а ключ",
+                    "к намазу",
+                    "- очищение."
+                ]
+            }
+        }
+    ],
     "performing_ghusl_ru": [
         {
             "type":"TrueOrFalse",
@@ -49,25 +68,6 @@
     ],
     "performing_wudu_ru":[
         {
-            "type":"TapToWrite",
-            "body":{
-                "title": "Ключи",
-                "question":"Составьте фразу переданную от Пророка ﷺ",
-                "hint":"",
-                "existingText":"",
-                "components":[
-                    "Ключ",
-                    "к Раю",
-                    "-",
-                    "намаз,",
-                    "а ключ",
-                    "к намазу",
-                    "-",
-                    "вуду (омовение)"
-                ]
-            }
-        },
-        {
             "type": "PredictTheOutput",
             "body": {
                 "title": "Фард действия",
@@ -92,13 +92,13 @@
             }
         }
     ],
-    "wudu_key":[
+    "taharah_key":[
         {
             "type":"TapToWrite",
             "body":{
                 "title": "The keys",
                 "question":"Reconstruct the famous saying of the Prophet (peace and blessings be upon him) from the blocks below.",
-                "hint":"There are two keys.",
+                "hint":"The hadith is reported by imam Ahmad (may Allah have mercy on him)",
                 "existingText":"",
                 "components":[
                     "The key",
@@ -107,7 +107,7 @@
                     "and",
                     "the key",
                     "to prayer",
-                    "is wudu (ablution)"
+                    "is purification."
                 ]
             }
         }
