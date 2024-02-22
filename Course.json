@@ -161,6 +161,17 @@
                     "showEn": 1
                 },
                 {
+                    "id": "taharah_key",
+                    "type": "test",
+                    "urlRu": "taharah_key_ru",
+                    "titleRu": "Ключ к намазу",
+                    "descriptionRu": "",
+                    "showRu": 1,
+                    "urlEn": "taharah_key",
+                    "titleEn": "Key to prayer",
+                    "showEn": 1
+                },
+                {
                     "id": "physical_impurities",
                     "type": "article",
                     "urlRu": "https://www.namaz.live/physical-impurities-ru",
@@ -227,18 +238,6 @@
                     "urlEn": "https://www.namaz.live/wudu",
                     "titleEn": "Wudu - ablution",
                     "descriptionEn": "Washing after releaving oneself, passing a wind, sleeping and a few other things",
-                    "showEn": 1
-                },
-                {
-                    "id": "wudu_key",
-                    "type": "test",
-                    "urlRu": "",
-                    "titleRu": "Два ключа",
-                    "descriptionRu": "",
-                    "showRu": 0,
-                    "urlEn": "",
-                    "titleEn": "The Two Keys",
-                    "descriptionEn": "What do they unlock?",
                     "showEn": 1
                 },
                 {
