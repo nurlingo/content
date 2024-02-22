@@ -145,6 +145,17 @@
                 "showEn": 1
             },
             {
+                "id": "taharah_key",
+                "type": "test",
+                "urlRu": "taharah_key_ru",
+                "titleRu": "Ключ к намазу",
+                "descriptionRu": "",
+                "showRu": 1,
+                "urlEn": "taharah_key",
+                "titleEn": "Key to prayer",
+                "showEn": 1
+            },
+            {
                 "id": "physical_impurities",
                 "type": "article",
                 "urlRu": "https://sites.google.com/view/physical-impurities-haqiqi-ru/home",
@@ -189,18 +200,6 @@
         "titleEn": "Taharah: ritual purity",
         "detailEn": "Being in a state of ritual purity is a prerequisite of prayer. Let's see how we can aqcuire it.",
         "items": [
-            {
-                "id": "wudu_key",
-                "type": "test",
-                "urlRu": "wudu_key_ru",
-                "titleRu": "Два ключа",
-                "descriptionRu": "",
-                "showRu": 0,
-                "urlEn": "wudu_key",
-                "titleEn": "The key to prayer",
-                "descriptionEn": "wudu_key",
-                "showEn": 1
-            },
             {
                 "id": "ghusl",
                 "type": "article",
