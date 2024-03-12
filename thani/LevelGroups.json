@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Makkah",
+        "description": "Learn basic reading starting from easy letters",
+        "icon": "Makkah",
+        "levels": [
+            {
+                "name": "إ ر ز",
+                "lessons": ["STL01","STL02","STL03","STL04","STL05"]
+            },
+            {
+                "name": "م ت",
+                "lessons": ["STL06","STL07","STL08","STL09","STL10"]
+            },
+            {
+                "name": "ن ي",
+                "lessons": ["STL11","STL12","STL13","STL14","STL15"]
+            },
+            {
+                "name": "ب ك",
+                "lessons": ["STL16","STL17","STL18","STL19","STL20"]
+            },
+            {
+                "name": "ل و",
+                "lessons": ["STL21","STL22","STL23","STL24","STL25"]
+            }
+            
+        ]
+    },
+    {
+        "name": "Madinah",
+        "description": "Coming soon: We'll learn to read the rest of the letters!",
+        "icon": "Madinah",
+        "levels": []
+    },
+    {
+        "name": "Al-Quds",
+        "description": "Coming after Madinah: Learn more advanced rules to access the Quran.",
+        "icon": "Al-Quds",
+        "levels": []
+    }
+]
