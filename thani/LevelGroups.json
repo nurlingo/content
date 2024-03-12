@@ -24,19 +24,56 @@
                 "name": "ل و",
                 "lessons": ["STL21","STL22","STL23","STL24","STL25"]
             }
-            
         ]
     },
     {
         "name": "Madinah",
         "description": "Coming soon: We'll learn to read the rest of the letters!",
         "icon": "Madinah",
-        "levels": []
+        "levels": [
+            {
+                "name": "ه ف",
+                "lessons": ["STL27","STL28","STL29","STL30","STL31"]
+            },
+            {
+                "name": "ق ش",
+                "lessons": ["STL32","STL33","STL34","STL35","STL36"]
+            },
+            {
+                "name": "س ث",
+                "lessons": ["STL37","STL38","STL39","STL40","STL41"]
+            },
+            {
+                "name": "ص ط",
+                "lessons": ["STL42","STL43","STL44","STL45","STL46"]
+            },
+            {
+                "name": "ج خ",
+                "lessons": ["STL47","STL48","STL49","STL50","STL51"]
+            }
+        ]
     },
     {
         "name": "Al-Quds",
         "description": "Coming after Madinah: Learn more advanced rules to access the Quran.",
         "icon": "Al-Quds",
-        "levels": []
+        "levels": [
+            {
+                "name": "ح غ",
+                "lessons": ["STL52","STL53","STL54","STL55","STL56"]
+            },
+            {
+                "name": "ع د",
+                "lessons": ["STL57","STL58","STL59","STL60","STL61"]
+            },
+            {
+                "name": "ض ذ",
+                "lessons": ["STL62","STL63","STL64","STL65","STL66"]
+            },
+            {
+                "name": "ظ",
+                "lessons": ["STL67","STL68","STL69","STL70","STL71"]
+            }
+        ]
     }
 ]
