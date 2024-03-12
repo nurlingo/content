@@ -1,0 +1,1149 @@
+{
+    "STL01": [
+        {
+            "id": "01a001",
+            "content": "اَ",
+            "type": "fill_it_up"
+        },
+        {
+            "id": "01a002",
+            "content": "اِ",
+            "type": "fill_it_up"
+        },
+        {
+            "id": "01a003",
+            "content": "اُ",
+            "type": "fill_it_up"
+        },
+        {
+            "id": "01a004",
+            "content": "رَ",
+            "type": "fill_it_up"
+        },
+        {
+            "id": "01a005",
+            "content": "رِ",
+            "type": "fill_it_up"
+        },
+        {
+            "id": "01a006",
+            "content": "رُ",
+            "type": "fill_it_up"
+        },
+        {
+            "id": "01a007",
+            "content": "اَرْ",
+            "type": "fill_it_up"
+        },
+        {
+            "id": "01a008",
+            "content": "اِرْ",
+            "type": "fill_it_up"
+        },
+        {
+            "id": "01a009",
+            "content": "اُرْ",
+            "type": "fill_it_up"
+        }
+    ],
+    "STL02": [
+        {
+            "id": "02a001",
+            "content": "زَ",
+            "type": "fill_it_up"
+        },
+        {
+            "id": "02a002",
+            "content": "زِ",
+            "type": "fill_it_up"
+        },
+        {
+            "id": "02a003",
+            "content": "زُ",
+            "type": "fill_it_up"
+        },
+        {
+            "id": "02a004",
+            "content": "اَزْ",
+            "type": "fill_it_up"
+        },
+        {
+            "id": "02a005",
+            "content": "اِزْ",
+            "type": "fill_it_up"
+        },
+        {
+            "id": "02a006",
+            "content": "اُزْ",
+            "type": "fill_it_up"
+        },
+        {
+            "id": "02a007",
+            "content": "اَ",
+            "type": "dictant_vowel"
+        },
+        {
+            "id": "02a008",
+            "content": "اِ",
+            "type": "dictant_vowel"
+        },
+        {
+            "id": "02a009",
+            "content": "اُ",
+            "type": "dictant_vowel"
+        }
+    ],
+    "STL03": [
+        {
+            "id": "03a001",
+            "content": "رَ",
+            "type": "dictant_vowel"
+        },
+        {
+            "id": "03a002",
+            "content": "رِ",
+            "type": "dictant_vowel"
+        },
+        {
+            "id": "03a003",
+            "content": "رُ",
+            "type": "dictant_vowel"
+        },
+        {
+            "id": "03a004",
+            "content": "اَرْ",
+            "type": "dictant_vowel"
+        },
+        {
+            "id": "03a005",
+            "content": "اِرْ",
+            "type": "dictant_vowel"
+        },
+        {
+            "id": "03a006",
+            "content": "اُرْ",
+            "type": "dictant_vowel"
+        },
+        {
+            "id": "03a007",
+            "content": "زَ",
+            "type": "dictant_vowel"
+        },
+        {
+            "id": "03a008",
+            "content": "زِ",
+            "type": "dictant_vowel"
+        },
+        {
+            "id": "03a009",
+            "content": "زُ",
+            "type": "dictant_vowel"
+        }
+    ],
+    "STL04": [
+        {
+            "id": "04a001",
+            "content": "اَزْ",
+            "type": "dictant_vowel"
+        },
+        {
+            "id": "04a002",
+            "content": "اِزْ",
+            "type": "dictant_vowel"
+        },
+        {
+            "id": "04a003",
+            "content": "اُزْ",
+            "type": "dictant_vowel"
+        },
+        {
+            "id": "04a004",
+            "content": "زَرْ",
+            "type": "fill_it_up"
+        },
+        {
+            "id": "04a005",
+            "content": "زِرْ",
+            "type": "fill_it_up"
+        },
+        {
+            "id": "04a006",
+            "content": "زُرْ",
+            "type": "fill_it_up"
+        },
+        {
+            "id": "04a007",
+            "content": "زَرْ",
+            "type": "dictant_both"
+        },
+        {
+            "id": "04a008",
+            "content": "زِرْ",
+            "type": "dictant_both"
+        },
+        {
+            "id": "04a009",
+            "content": "زُرْ",
+            "type": "dictant_both"
+        }
+    ],
+    "STL05": [
+        {
+            "id": "05a001",
+            "content": "اَزْرُ",
+            "type": "fill_it_up"
+        },
+        {
+            "id": "05a002",
+            "content": "اِزْرُ",
+            "type": "fill_it_up"
+        },
+        {
+            "id": "05a003",
+            "content": "اُزْرُ",
+            "type": "fill_it_up"
+        },
+        {
+            "id": "05a004",
+            "content": "اَزْرُ",
+            "type": "dictant_both"
+        },
+        {
+            "id": "05a005",
+            "content": "اِزْرُ",
+            "type": "dictant_both"
+        },
+        {
+            "id": "05a006",
+            "content": "اُزْرُ",
+            "type": "dictant_both"
+        },
+        {
+            "id": "05a007",
+            "content": "اُرْزُ",
+            "type": "fill_it_up"
+        },
+        {
+            "id": "05a008",
+            "content": "اُرْزُ",
+            "type": "dictant_both"
+        }
+    ],
+    "STL06": [
+        {
+            "id": "06a001",
+            "content": "مَ",
+            "type": "fill_it_up"
+        },
+        {
+            "id": "06a002",
+            "content": "مِ",
+            "type": "fill_it_up"
+        },
+        {
+            "id": "06a003",
+            "content": "مُ",
+            "type": "fill_it_up"
+        },
+        {
+            "id": "06a004",
+            "content": "اَمْ",
+            "type": "fill_it_up"
+        },
+        {
+            "id": "06a005",
+            "content": "اِمْ",
+            "type": "fill_it_up"
+        },
+        {
+            "id": "06a006",
+            "content": "اُمْ",
+            "type": "fill_it_up"
+        },
+        {
+            "id": "06a007",
+            "content": "اُمْ",
+            "type": "dictant_vowel"
+        },
+        {
+            "id": "06a008",
+            "content": "اِمْ",
+            "type": "dictant_vowel"
+        },
+        {
+            "id": "06a009",
+            "content": "اَمْ",
+            "type": "dictant_vowel"
+        }
+    ],
+    "STL07": [
+        {
+            "id": "07a001",
+            "content": "مُرْ",
+            "type": "fill_it_up"
+        },
+        {
+            "id": "07a002",
+            "content": "مُزْ",
+            "type": "dictant_vowel"
+        },
+        {
+            "id": "07a003",
+            "content": "رُمْ",
+            "type": "fill_it_up"
+        },
+        {
+            "id": "07a004",
+            "content": "مُرْ",
+            "type": "dictant_both"
+        },
+        {
+            "id": "07a005",
+            "content": "اَمَرَ",
+            "type": "fill_it_up"
+        },
+        {
+            "id": "07a006",
+            "content": "اُمِرَ",
+            "type": "fill_it_up"
+        },
+        {
+            "id": "07a007",
+            "content": "اَمَرَ",
+            "type": "dictant_vowel"
+        },
+        {
+            "id": "07a008",
+            "content": "اَمْرُ",
+            "type": "fill_it_up"
+        },
+        {
+            "id": "07a009",
+            "content": "اُمِرَ",
+            "type": "dictant_both"
+        },
+        {
+            "id": "07a010",
+            "content": "اَمْرُ",
+            "type": "pronunciation"
+        }
+    ],
+    "STL08": [
+        {
+            "id": "08a001",
+            "content": "اِمْرُ",
+            "type": "dictant_both"
+        },
+        {
+            "id": "08a002",
+            "content": "رَمْزُ",
+            "type": "fill_it_up"
+        },
+        {
+            "id": "08a003",
+            "content": "اِرْمِ",
+            "type": "dictant_both"
+        },
+        {
+            "id": "08a004",
+            "content": "مَرْمَرْ",
+            "type": "fill_it_up"
+        },
+        {
+            "id": "08a005",
+            "content": "رَمْرَمْ",
+            "type": "fill_it_up"
+        },
+        {
+            "id": "08a006",
+            "content": "زَمْزَمْ",
+            "type": "fill_it_up"
+        },
+        {
+            "id": "08a007",
+            "content": "اَرْزَمْ",
+            "type": "fill_it_up"
+        },
+        {
+            "id": "08a008",
+            "content": "زَمْزَمْ",
+            "type": "dictant_both"
+        },
+        {
+            "id": "08a009",
+            "content": "اَرْزَمْ",
+            "type": "pronunciation"
+        }
+    ],
+    "STL09": [
+        {
+            "id": "09a001",
+            "content": "تَ",
+            "type": "fill_it_up"
+        },
+        {
+            "id": "09a002",
+            "content": "تِ",
+            "type": "fill_it_up"
+        },
+        {
+            "id": "09a003",
+            "content": "تُ",
+            "type": "fill_it_up"
+        },
+        {
+            "id": "09a004",
+            "content": "مَتْ",
+            "type": "dictant_vowel"
+        },
+        {
+            "id": "09a005",
+            "content": "مِتْ",
+            "type": "dictant_vowel"
+        },
+        {
+            "id": "09a006",
+            "content": "مُتْ",
+            "type": "dictant_both"
+        },
+        {
+            "id": "09a007",
+            "content": "تَرِرْ",
+            "type": "fill_it_up"
+        },
+        {
+            "id": "09a008",
+            "content": "تَمَرْ",
+            "type": "pronunciation"
+        },
+        {
+            "id": "09a009",
+            "content": "زُرْتَ",
+            "type": "dictant_both"
+        }
+    ],
+    "STL10": [
+        {
+            "id": "10a001",
+            "content": "اَمَرْتِ",
+            "type": "dictant_vowel"
+        },
+        {
+            "id": "10a002",
+            "content": "مَرَرْتُ",
+            "type": "dictant_both"
+        },
+        {
+            "id": "10a003",
+            "content": "اُمِرْتُ",
+            "type": "pronunciation"
+        },
+        {
+            "id": "10a004",
+            "content": "اَمَرَتْ",
+            "type": "dictant_vowel"
+        },
+        {
+            "id": "10a005",
+            "content": "اَمَرْتُمْ",
+            "type": "fill_it_up"
+        },
+        {
+            "id": "10a006",
+            "content": "اُمِرْتُمْ",
+            "type": "dictant_both"
+        },
+        {
+            "id": "10a007",
+            "content": "مَرَرْتُمْ",
+            "type": "fill_it_up"
+        },
+        {
+            "id": "10a008",
+            "content": "مُرِرْتُمْ",
+            "type": "dictant_both"
+        }
+    ],
+    "STL11": [
+        {
+            "id": "11a001",
+            "content": "نَ",
+            "type": "fill_it_up"
+        },
+        {
+            "id": "11a002",
+            "content": "نِ",
+            "type": "fill_it_up"
+        },
+        {
+            "id": "11a003",
+            "content": "نُ",
+            "type": "fill_it_up"
+        },
+        {
+            "id": "11a004",
+            "content": "اَنْ",
+            "type": "dictant_vowel"
+        },
+        {
+            "id": "11a005",
+            "content": "اِنْ",
+            "type": "dictant_both"
+        },
+        {
+            "id": "11a006",
+            "content": "زِنْ",
+            "type": "dictant_both"
+        },
+        {
+            "id": "11a007",
+            "content": "مَنْ",
+            "type": "pronunciation"
+        },
+        {
+            "id": "11a008",
+            "content": "مِنْ",
+            "type": "dictant_both"
+        },
+        {
+            "id": "11a009",
+            "content": "نَمْ",
+            "type": "fill_it_up"
+        }
+    ],
+    "STL12": [
+        {
+            "id": "12a001",
+            "content": "اَنْتَ",
+            "type": "fill_it_up"
+        },
+        {
+            "id": "12a002",
+            "content": "نِمْتَ",
+            "type": "dictant_both"
+        },
+        {
+            "id": "12a003",
+            "content": "اَنْتُمْ",
+            "type": "pronunciation"
+        },
+        {
+            "id": "12a004",
+            "content": "نِمْتُمْ",
+            "type": "dictant_vowel"
+        },
+        {
+            "id": "12a005",
+            "content": "نَزِرْ",
+            "type": "dictant_vowel"
+        },
+        {
+            "id": "12a006",
+            "content": "نَزِنُ",
+            "type": "dictant_both"
+        }
+    ],
+    "STL13": [
+        {
+            "id": "13a001",
+            "content": "اَمَرْنَ",
+            "type": "dictant_vowel"
+        },
+        {
+            "id": "13a002",
+            "content": "اُمِرْنَ",
+            "type": "dictant_both"
+        },
+        {
+            "id": "13a003",
+            "content": "مَرَرْنَ",
+            "type": "fill_it_up"
+        },
+        {
+            "id": "13a004",
+            "content": "اَمْرَرْنَ",
+            "type": "fill_it_up"
+        },
+        {
+            "id": "13a005",
+            "content": "مُرِرْنَ",
+            "type": "dictant_vowel"
+        },
+        {
+            "id": "13a006",
+            "content": "اَمْرَرْنَ",
+            "type": "dictant_both"
+        }
+    ],
+    "STL14": [
+        {
+            "id": "14a001",
+            "content": "يَ",
+            "type": "fill_it_up"
+        },
+        {
+            "id": "14a002",
+            "content": "يِ",
+            "type": "fill_it_up"
+        },
+        {
+            "id": "14a003",
+            "content": "يُ",
+            "type": "fill_it_up"
+        },
+        {
+            "id": "14a004",
+            "content": "اَيْ",
+            "type": "dictant_vowel"
+        },
+        {
+            "id": "14a005",
+            "content": "اَيْمُ",
+            "type": "fill_it_up"
+        },
+        {
+            "id": "14a006",
+            "content": "زَيْتُ",
+            "type": "dictant_both"
+        },
+        {
+            "id": "14a007",
+            "content": "مَيْتُ",
+            "type": "pronunciation"
+        },
+        {
+            "id": "14a008",
+            "content": "رَاْيُ",
+            "type": "fill_it_up"
+        },
+        {
+            "id": "14a009",
+            "content": "رَمْيُ",
+            "type": "dictant_vowel"
+        }
+    ],
+    "STL15": [
+        {
+            "id": "15a001",
+            "content": "يَمَنْ",
+            "type": "fill_it_up"
+        },
+        {
+            "id": "15a002",
+            "content": "مَرْيَمْ",
+            "type": "dictant_vowel"
+        },
+        {
+            "id": "15a003",
+            "content": "مَيْزَرْ",
+            "type": "fill_it_up"
+        },
+        {
+            "id": "15a004",
+            "content": "مَيْمَنْ",
+            "type": "dictant_both"
+        },
+        {
+            "id": "15a005",
+            "content": "اَيْمَنْ",
+            "type": "dictant_vowel"
+        },
+        {
+            "id": "15a006",
+            "content": "زَيْتَيْنِ",
+            "type": "pronunciation"
+        },
+        {
+            "id": "15a007",
+            "content": "اَيْمَيْنِ",
+            "type": "dictant_vowel"
+        },
+        {
+            "id": "15a008",
+            "content": "مَيْتَيْمِ",
+            "type": "dictant_both"
+        },
+        {
+            "id": "15a009",
+            "content": "مَرْيَمْ",
+            "type": "pronunciation"
+        }
+    ],
+    "STL16": [
+        {
+            "id": "16a001",
+            "content": "بَ",
+            "type": "fill_it_up"
+        },
+        {
+            "id": "16a002",
+            "content": "بِ",
+            "type": "fill_it_up"
+        },
+        {
+            "id": "16a003",
+            "content": "بُ",
+            "type": "fill_it_up"
+        },
+        {
+            "id": "16a004",
+            "content": "اَبْ",
+            "type": "fill_it_up"
+        },
+        {
+            "id": "16a005",
+            "content": "اِبْنُ",
+            "type": "dictant_vowel"
+        },
+        {
+            "id": "16a006",
+            "content": "بِنْتُ",
+            "type": "dictant_both"
+        },
+        {
+            "id": "16a007",
+            "content": "بَيْتُ",
+            "type": "pronunciation"
+        },
+        {
+            "id": "16a008",
+            "content": "بَيْنُ",
+            "type": "dictant_vowel"
+        },
+        {
+            "id": "16a009",
+            "content": "رَيْبُ",
+            "type": "dictant_both"
+        }
+    ],
+    "STL17": [
+        {
+            "id": "17a001",
+            "content": "زَيْنَبْ",
+            "type": "fill_it_up"
+        },
+        {
+            "id": "17a002",
+            "content": "بَرْبَرْ",
+            "type": "dictant_vowel"
+        },
+        {
+            "id": "17a003",
+            "content": "بَيْرَمْ",
+            "type": "fill_it_up"
+        },
+        {
+            "id": "17a004",
+            "content": "اَبْرَمْ",
+            "type": "dictant_both"
+        },
+        {
+            "id": "17a005",
+            "content": "مِنْبَرْ",
+            "type": "pronunciation"
+        },
+        {
+            "id": "17a006",
+            "content": "بِاَمْرَيْنِ",
+            "type": "pronunciation"
+        },
+        {
+            "id": "17a007",
+            "content": "بِبَيْتَيْنِ",
+            "type": "dictant_vowel"
+        },
+        {
+            "id": "17a008",
+            "content": "مِنْبَرَيْنِ",
+            "type": "dictant_both"
+        },
+        {
+            "id": "17a009",
+            "content": "زَيْنَبَيْنِ",
+            "type": "dictant_both"
+        }
+    ],
+    "STL18": [
+        {
+            "id": "18a001",
+            "content": "كَ",
+            "type": "fill_it_up"
+        },
+        {
+            "id": "18a002",
+            "content": "كِ",
+            "type": "fill_it_up"
+        },
+        {
+            "id": "18a003",
+            "content": "كُ",
+            "type": "fill_it_up"
+        },
+        {
+            "id": "18a004",
+            "content": "كَمْ",
+            "type": "fill_it_up"
+        },
+        {
+            "id": "18a005",
+            "content": "كُمْ",
+            "type": "dictant_vowel"
+        },
+        {
+            "id": "18a006",
+            "content": "كُنْ",
+            "type": "pronunciation"
+        },
+        {
+            "id": "18a007",
+            "content": "كَيْ",
+            "type": "dictant_both"
+        },
+        {
+            "id": "18a008",
+            "content": "بَكْرُ",
+            "type": "dictant_vowel"
+        },
+        {
+            "id": "18a009",
+            "content": "مَكْرُ",
+            "type": "dictant_both"
+        }
+    ],
+    "STL19": [
+        {
+            "id": "19a001",
+            "content": "كَرْمُ",
+            "type": "fill_it_up"
+        },
+        {
+            "id": "19a002",
+            "content": "كَنْزُ",
+            "type": "dictant_vowel"
+        },
+        {
+            "id": "19a003",
+            "content": "تَرْكُ",
+            "type": "fill_it_up"
+        },
+        {
+            "id": "19a004",
+            "content": "كَتَبَ",
+            "type": "dictant_both"
+        },
+        {
+            "id": "19a005",
+            "content": "يَكْتُبُ",
+            "type": "pronunciation"
+        },
+        {
+            "id": "19a006",
+            "content": "تَرَكَ",
+            "type": "pronunciation"
+        },
+        {
+            "id": "19a007",
+            "content": "يَتْرُكُ",
+            "type": "dictant_vowel"
+        }
+    ],
+    "STL20": [
+        {
+            "id": "20a001",
+            "content": "كَتَبْتُمْ",
+            "type": "pronunciation"
+        },
+        {
+            "id": "20a002",
+            "content": "اَمَرَكَ",
+            "type": "dictant_vowel"
+        },
+        {
+            "id": "20a003",
+            "content": "اَمَرَتْكَ",
+            "type": "fill_it_up"
+        },
+        {
+            "id": "20a004",
+            "content": "كُنْتُ",
+            "type": "dictant_both"
+        },
+        {
+            "id": "20a005",
+            "content": "مُمْكِنْ",
+            "type": "dictant_vowel"
+        },
+        {
+            "id": "20a006",
+            "content": "كُنْتُ",
+            "type": "pronunciation"
+        },
+        {
+            "id": "20a007",
+            "content": "مُمْكِنْ",
+            "type": "pronunciation"
+        }
+    ],
+    "STL21": [
+        {
+            "id": "21a001",
+            "content": "لَ",
+            "type": "fill_it_up"
+        },
+        {
+            "id": "21a002",
+            "content": "لِ",
+            "type": "fill_it_up"
+        },
+        {
+            "id": "21a003",
+            "content": "لُ",
+            "type": "fill_it_up"
+        },
+        {
+            "id": "21a004",
+            "content": "اَلْ",
+            "type": "dictant_both"
+        },
+        {
+            "id": "21a005",
+            "content": "بَلْ",
+            "type": "pronunciation"
+        },
+        {
+            "id": "21a006",
+            "content": "لَمْ",
+            "type": "fill_it_up"
+        },
+        {
+            "id": "21a007",
+            "content": "لُمْ",
+            "type": "dictant_both"
+        },
+        {
+            "id": "21a008",
+            "content": "لَنْ",
+            "type": "dictant_both"
+        },
+        {
+            "id": "21a009",
+            "content": "كُلْ",
+            "type": "pronunciation"
+        }
+    ],
+    "STL22": [
+        {
+            "id": "22a001",
+            "content": "نَزَلَ",
+            "type": "dictant_vowel"
+        },
+        {
+            "id": "22a002",
+            "content": "لَزِمَ",
+            "type": "dictant_vowel"
+        },
+        {
+            "id": "22a003",
+            "content": "كَمُلَ",
+            "type": "dictant_both"
+        },
+        {
+            "id": "22a004",
+            "content": "اَنْزَلَ",
+            "type": "pronunciation"
+        },
+        {
+            "id": "22a005",
+            "content": "اَلْزَمَ",
+            "type": "dictant_both"
+        },
+        {
+            "id": "22a006",
+            "content": "اَكْمَلَ",
+            "type": "fill_it_up"
+        },
+        {
+            "id": "22a007",
+            "content": "اَكَلَتْ",
+            "type": "pronunciation"
+        },
+        {
+            "id": "22a008",
+            "content": "اَكَلْنَ",
+            "type": "fill_it_up"
+        }
+    ],
+    "STL23": [
+        {
+            "id": "23a001",
+            "content": "اَكَلْتَ",
+            "type": "dictant_vowel"
+        },
+        {
+            "id": "23a002",
+            "content": "اَكَلْتِ",
+            "type": "dictant_vowel"
+        },
+        {
+            "id": "23a003",
+            "content": "اَكَلْتُ",
+            "type": "dictant_both"
+        },
+        {
+            "id": "23a004",
+            "content": "اَكَلْتُمْ",
+            "type": "pronunciation"
+        },
+        {
+            "id": "23a005",
+            "content": "بُلْبُلْ",
+            "type": "pronunciation"
+        },
+        {
+            "id": "23a006",
+            "content": "يَلَمْلَمْ",
+            "type": "fill_it_up"
+        },
+        {
+            "id": "23a007",
+            "content": "تَزَلْزَلَ",
+            "type": "dictant_both"
+        },
+        {
+            "id": "23a008",
+            "content": "يَتَزَلْزَلُ",
+            "type": "fill_it_up"
+        },
+        {
+            "id": "23a009",
+            "content": "مُتَزَلْزِلْ",
+            "type": "pronunciation"
+        }
+    ],
+    "STL24": [
+        {
+            "id": "24a001",
+            "content": "وَ",
+            "type": "fill_it_up"
+        },
+        {
+            "id": "24a002",
+            "content": "وِ",
+            "type": "fill_it_up"
+        },
+        {
+            "id": "24a003",
+            "content": "وُ",
+            "type": "fill_it_up"
+        },
+        {
+            "id": "24a004",
+            "content": "اَوْ",
+            "type": "dictant_both"
+        },
+        {
+            "id": "24a005",
+            "content": "رَوْ",
+            "type": "dictant_both"
+        },
+        {
+            "id": "24a006",
+            "content": "نَوْ",
+            "type": "fill_it_up"
+        },
+        {
+            "id": "24a007",
+            "content": "لَوْ",
+            "type": "pronunciation"
+        },
+        {
+            "id": "24a008",
+            "content": "وَرَمْ",
+            "type": "dictant_both"
+        },
+        {
+            "id": "24a009",
+            "content": "وَتَرْ",
+            "type": "dictant_both"
+        }
+    ],
+    "STL25": [
+        {
+            "id": "25a001",
+            "content": "وَمَنْ",
+            "type": "dictant_vowel"
+        },
+        {
+            "id": "25a002",
+            "content": "وَلَنْ",
+            "type": "dictant_both"
+        },
+        {
+            "id": "25a003",
+            "content": "وَلَمْ",
+            "type": "dictant_both"
+        },
+        {
+            "id": "25a004",
+            "content": "وَكَمْ",
+            "type": "dictant_both"
+        },
+        {
+            "id": "25a005",
+            "content": "اَوْلُ",
+            "type": "fill_it_up"
+        },
+        {
+            "id": "25a006",
+            "content": "رَوْمُ",
+            "type": "dictant_vowel"
+        },
+        {
+            "id": "25a007",
+            "content": "يَوْمُ",
+            "type": "pronunciation"
+        },
+        {
+            "id": "25a008",
+            "content": "كَوْنُ",
+            "type": "pronunciation"
+        }
+    ],
+    "STL26": [
+        {
+            "id": "26a001",
+            "content": "وَيْلُ",
+            "type": "dictant_vowel"
+        },
+        {
+            "id": "26a002",
+            "content": "وَزْنُ",
+            "type": "dictant_vowel"
+        },
+        {
+            "id": "26a003",
+            "content": "كَوْكَبْ",
+            "type": "fill_it_up"
+        },
+        {
+            "id": "26a004",
+            "content": "مَوْكِبْ",
+            "type": "dictant_vowel"
+        },
+        {
+            "id": "26a005",
+            "content": "اَوْلَمْتُمْ",
+            "type": "dictant_vowel"
+        },
+        {
+            "id": "26a006",
+            "content": "اَوْتَرْتُمْ",
+            "type": "dictant_both"
+        },
+        {
+            "id": "26a007",
+            "content": "كَوْكَبْ",
+            "type": "pronunciation"
+        }
+    ]
+}
