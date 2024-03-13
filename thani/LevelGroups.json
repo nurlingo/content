@@ -1,6 +1,8 @@
 [
     {
         "name": "Makkah",
+        "name_en": "Makkah",
+        "name_ru": "Мекка",
         "description": "Learn basic reading starting from easy letters",
         "icon": "Makkah",
         "levels": [
@@ -28,7 +30,9 @@
     },
     {
         "name": "Madinah",
-        "description": "Coming soon: We'll learn to read the rest of the letters!",
+        "name_en": "Madinah",
+        "name_ru": "Медина",
+        "description": "Learn to read the rest of the letters!",
         "icon": "Madinah",
         "levels": [
             {
@@ -55,7 +59,9 @@
     },
     {
         "name": "Al-Quds",
-        "description": "Coming after Madinah: Learn more advanced rules to access the Quran.",
+        "name_en": "Al-Quds",
+        "name_ru": "Аль-Кудс",
+        "description": "Learn more advanced rules to access the Quran.",
         "icon": "Al-Quds",
         "levels": [
             {
