@@ -8,23 +8,54 @@
         "levels": [
             {
                 "name": "إ ر ز",
-                "lessons": ["STL01","STL02","STL03","STL04","STL05"]
+                "lessons": [
+                    "STL01",
+                    "STL02",
+                    "STL03",
+                    "STL04",
+                    "STL05"
+                ]
             },
             {
                 "name": "م ت",
-                "lessons": ["STL06","STL07","STL08","STL09","STL10"]
+                "lessons": [
+                    "STL06",
+                    "STL07",
+                    "STL08",
+                    "STL09",
+                    "STL10"
+                ]
             },
             {
                 "name": "ن ي",
-                "lessons": ["STL11","STL12","STL13","STL14","STL15"]
+                "lessons": [
+                    "STL11",
+                    "STL12",
+                    "STL13",
+                    "STL14",
+                    "STL15"
+                ]
             },
             {
                 "name": "ب ك",
-                "lessons": ["STL16","STL17","STL18","STL19","STL20"]
+                "lessons": [
+                    "STL16",
+                    "STL17",
+                    "STL18",
+                    "STL19",
+                    "STL20"
+                ]
             },
             {
                 "name": "ل و",
-                "lessons": ["STL21","STL22","STL23","STL24","STL25","STL26"]
+                "lessons": [
+                    "STL21",
+                    "STL22",
+                    "STL23",
+                    "STL24",
+                    "STL25",
+                    "STL26"
+                ]
             }
         ]
     },
@@ -37,24 +68,56 @@
         "levels": [
             {
                 "name": "ه ف",
-                "lessons": ["STL27","STL28","STL29","STL30","STL31"]
+                "lessons": [
+                    "STL27",
+                    "STL28",
+                    "STL29",
+                    "STL30",
+                    "STL31"
+                ]
             },
             {
                 "name": "ق ش",
-                "lessons": ["STL32","STL33","STL34","STL35","STL36"]
+                "lessons": [
+                    "STL32",
+                    "STL33",
+                    "STL34",
+                    "STL35",
+                    "STL36"
+                ]
             },
             {
                 "name": "س ث",
-                "lessons": ["STL37","STL38","STL39","STL40","STL41","STL42","STL43"]
+                "lessons": [
+                    "STL37",
+                    "STL38",
+                    "STL39",
+                    "STL40",
+                    "STL41",
+                    "STL42",
+                    "STL43"
+                ]
             },
             {
                 "name": "ص ط",
-                "lessons": ["STL44","STL45","STL46","STL47","STL48","STL48"]
-                
+                "lessons": [
+                    "STL44",
+                    "STL45",
+                    "STL46",
+                    "STL47",
+                    "STL48",
+                    "STL49"
+                ]
             },
             {
                 "name": "ج خ",
-                "lessons": ["STL49","STL50","STL51","STL52","STL53"]
+                "lessons": [
+                    "STL50",
+                    "STL51",
+                    "STL52",
+                    "STL53",
+                    "STL54"
+                ]
             }
         ]
     },
@@ -67,19 +130,43 @@
         "levels": [
             {
                 "name": "ح غ",
-                "lessons": ["STL54","STL55","STL56","STL57","STL58"]
+                "lessons": [
+                    "STL55",
+                    "STL56",
+                    "STL57",
+                    "STL58",
+                    "STL59"
+                ]
             },
             {
                 "name": "ع د",
-                "lessons": ["STL59","STL60","STL61","STL62","STL63"]
+                "lessons": [
+                    "STL60",
+                    "STL61",
+                    "STL62",
+                    "STL63",
+                    "STL64"
+                ]
             },
             {
                 "name": "ض ذ",
-                "lessons": ["STL64","STL65","STL66","STL67","STL68"]
+                "lessons": [
+                    "STL65",
+                    "STL66",
+                    "STL67",
+                    "STL68",
+                    "STL69"
+                ]
             },
             {
                 "name": "ظ",
-                "lessons": ["STL69","STL70","STL71","STL72","STL73"]
+                "lessons": [
+                    "STL70",
+                    "STL71",
+                    "STL72",
+                    "STL73",
+                    "STL74"
+                ]
             }
         ]
     }
