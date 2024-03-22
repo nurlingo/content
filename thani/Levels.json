@@ -2176,5 +2176,1261 @@
             "content": "مُسْتَطِرْ",
             "type": "dictant_both"
         }
+    ],
+    "STL50": [
+        {
+            "exercise_id": "50a001",
+            "content": "جَ",
+            "type": "fill_it_up"
+        },
+        {
+            "exercise_id": "50a002",
+            "content": "جِ",
+            "type": "fill_it_up"
+        },
+        {
+            "exercise_id": "50a003",
+            "content": "جُ",
+            "type": "fill_it_up"
+        },
+        {
+            "exercise_id": "50a004",
+            "content": "جَمْ",
+            "type": "fill_it_up"
+        },
+        {
+            "exercise_id": "50a005",
+            "content": "جَرْ",
+            "type": "dictant_both"
+        },
+        {
+            "exercise_id": "50a006",
+            "content": "جِنْ",
+            "type": "dictant_both"
+        },
+        {
+            "exercise_id": "50a007",
+            "content": "جَبْ",
+            "type": "pronunciation"
+        },
+        {
+            "exercise_id": "50a008",
+            "content": "جُلْ",
+            "type": "pronunciation"
+        },
+        {
+            "exercise_id": "50a009",
+            "content": "جَبَلْ",
+            "type": "fill_it_up"
+        }
+    ],
+    "STL51": [
+        {
+            "exercise_id": "51a001",
+            "content": "جَمَلْ",
+            "type": "fill_it_up"
+        },
+        {
+            "exercise_id": "51a002",
+            "content": "أَجْرُ",
+            "type": "dictant_both"
+        },
+        {
+            "exercise_id": "51a003",
+            "content": "فَجْرُ",
+            "type": "dictant_vowel"
+        },
+        {
+            "exercise_id": "51a004",
+            "content": "جَوْهَرْ",
+            "type": "dictant_both"
+        },
+        {
+            "exercise_id": "51a005",
+            "content": "جَوْرَبْ",
+            "type": "pronunciation"
+        },
+        {
+            "exercise_id": "51a006",
+            "content": "تَجَوْرَبَ",
+            "type": "fill_it_up"
+        },
+        {
+            "exercise_id": "51a007",
+            "content": "يَتَجَوْرَبُ",
+            "type": "dictant_vowel"
+        },
+        {
+            "exercise_id": "51a008",
+            "content": "اِسْتَجْلَبَ",
+            "type": "pronunciation"
+        },
+        {
+            "exercise_id": "51a009",
+            "content": "يَسْتَجْلِبُ",
+            "type": "fill_it_up"
+        }
+    ],
+    "STL52": [
+        {
+            "exercise_id": "52a001",
+            "content": "خَ",
+            "type": "fill_it_up"
+        },
+        {
+            "exercise_id": "52a002",
+            "content": "خِ",
+            "type": "fill_it_up"
+        },
+        {
+            "exercise_id": "52a003",
+            "content": "خُ",
+            "type": "fill_it_up"
+        },
+        {
+            "exercise_id": "52a004",
+            "content": "خَبْ",
+            "type": "dictant_both"
+        },
+        {
+            "exercise_id": "52a005",
+            "content": "خَلْ",
+            "type": "dictant_both"
+        },
+        {
+            "exercise_id": "52a006",
+            "content": "خَرَجْ",
+            "type": "pronunciation"
+        },
+        {
+            "exercise_id": "52a007",
+            "content": "خَبَرْ",
+            "type": "pronunciation"
+        },
+        {
+            "exercise_id": "52a008",
+            "content": "خَشَبْ",
+            "type": "fill_it_up"
+        }
+    ],
+    "STL53": [
+        {
+            "exercise_id": "53a001",
+            "content": "خَلَفْ",
+            "type": "fill_it_up"
+        },
+        {
+            "exercise_id": "53a002",
+            "content": "خَيْرُ",
+            "type": "fill_it_up"
+        },
+        {
+            "exercise_id": "53a003",
+            "content": "خَتْمُ",
+            "type": "dictant_both"
+        },
+        {
+            "exercise_id": "53a004",
+            "content": "خَمْرُ",
+            "type": "dictant_vowel"
+        },
+        {
+            "exercise_id": "53a005",
+            "content": "خَوْفُ",
+            "type": "dictant_both"
+        },
+        {
+            "exercise_id": "53a006",
+            "content": "مَخْرَجْ",
+            "type": "pronunciation"
+        },
+        {
+            "exercise_id": "53a007",
+            "content": "مُخْبِرْ",
+            "type": "fill_it_up"
+        },
+        {
+            "exercise_id": "53a008",
+            "content": "أَخْرَجَ",
+            "type": "dictant_vowel"
+        }
+    ],
+    "STL54": [
+        {
+            "exercise_id": "54a001",
+            "content": "يُخْرِجُ",
+            "type": "fill_it_up"
+        },
+        {
+            "exercise_id": "54a002",
+            "content": "أَخْبَرَ",
+            "type": "fill_it_up"
+        },
+        {
+            "exercise_id": "54a003",
+            "content": "يُخْبِرُ",
+            "type": "fill_it_up"
+        },
+        {
+            "exercise_id": "54a004",
+            "content": "اِسْتَخْبَرَ",
+            "type": "dictant_both"
+        },
+        {
+            "exercise_id": "54a005",
+            "content": "يَسْتَخْبِرُ",
+            "type": "dictant_vowel"
+        },
+        {
+            "exercise_id": "54a006",
+            "content": "اِسْتَخْرَجَ",
+            "type": "dictant_both"
+        },
+        {
+            "exercise_id": "54a007",
+            "content": "يَسْتَخْرِجُ",
+            "type": "pronunciation"
+        }
+    ],
+    "STL55": [
+        {
+            "exercise_id": "55a001",
+            "content": "حَ",
+            "type": "fill_it_up"
+        },
+        {
+            "exercise_id": "55a002",
+            "content": "حِ",
+            "type": "fill_it_up"
+        },
+        {
+            "exercise_id": "55a003",
+            "content": "حُ",
+            "type": "fill_it_up"
+        },
+        {
+            "exercise_id": "55a004",
+            "content": "حَيْ",
+            "type": "dictant_both"
+        },
+        {
+            "exercise_id": "55a005",
+            "content": "حِلْ",
+            "type": "dictant_both"
+        },
+        {
+            "exercise_id": "55a006",
+            "content": "حَجْ",
+            "type": "pronunciation"
+        },
+        {
+            "exercise_id": "55a007",
+            "content": "حَسَنْ",
+            "type": "pronunciation"
+        },
+        {
+            "exercise_id": "55a008",
+            "content": "حَسَبْ",
+            "type": "fill_it_up"
+        },
+        {
+            "exercise_id": "55a009",
+            "content": "حَسَدْ",
+            "type": "fill_it_up"
+        }
+    ],
+    "STL56": [
+        {
+            "exercise_id": "56a001",
+            "content": "مُحْسِبْ",
+            "type": "fill_it_up"
+        },
+        {
+            "exercise_id": "56a002",
+            "content": "مَحْشَرْ",
+            "type": "dictant_both"
+        },
+        {
+            "exercise_id": "56a003",
+            "content": "مِنْحَرْ",
+            "type": "dictant_vowel"
+        },
+        {
+            "exercise_id": "56a004",
+            "content": "مَحْفَلْ",
+            "type": "dictant_both"
+        },
+        {
+            "exercise_id": "56a005",
+            "content": "أَحْسَنَ",
+            "type": "pronunciation"
+        },
+        {
+            "exercise_id": "56a006",
+            "content": "اِمْتَحَنَ",
+            "type": "fill_it_up"
+        },
+        {
+            "exercise_id": "56a007",
+            "content": "يَمْتَحِنُ",
+            "type": "dictant_vowel"
+        },
+        {
+            "exercise_id": "56a008",
+            "content": "اِحْتَمَلَ",
+            "type": "pronunciation"
+        },
+        {
+            "exercise_id": "56a009",
+            "content": "يَحْتَمِلُ",
+            "type": "fill_it_up"
+        }
+    ],
+    "STL57": [
+        {
+            "exercise_id": "57a001",
+            "content": "اِسْتَحْسَنَ",
+            "type": "fill_it_up"
+        },
+        {
+            "exercise_id": "57a002",
+            "content": "يَسْتَحْسِنُ",
+            "type": "dictant_both"
+        },
+        {
+            "exercise_id": "57a003",
+            "content": "اِحْرَنْجَمَ",
+            "type": "dictant_vowel"
+        },
+        {
+            "exercise_id": "57a004",
+            "content": "يَحْرَنْجِمُ",
+            "type": "dictant_both"
+        },
+        {
+            "exercise_id": "57a005",
+            "content": "خَلْقُ",
+            "type": "pronunciation"
+        },
+        {
+            "exercise_id": "57a006",
+            "content": "حَلْقُ",
+            "type": "fill_it_up"
+        },
+        {
+            "exercise_id": "57a007",
+            "content": "خَتْمُ",
+            "type": "dictant_vowel"
+        },
+        {
+            "exercise_id": "57a008",
+            "content": "حَتْمُ",
+            "type": "pronunciation"
+        },
+        {
+            "exercise_id": "57a009",
+            "content": "أَرْخَمْ",
+            "type": "fill_it_up"
+        },
+        {
+            "exercise_id": "58a001",
+            "content": "أَرْحَمْ",
+            "type": "fill_it_up"
+        }
+    ],
+    "STL58": [
+        {
+            "exercise_id": "58a001",
+            "content": "غَ",
+            "type": "fill_it_up"
+        },
+        {
+            "exercise_id": "58a002",
+            "content": "غِ",
+            "type": "fill_it_up"
+        },
+        {
+            "exercise_id": "58a003",
+            "content": "غُ",
+            "type": "fill_it_up"
+        },
+        {
+            "exercise_id": "58a004",
+            "content": "غَمْ",
+            "type": "dictant_both"
+        },
+        {
+            "exercise_id": "58a005",
+            "content": "غَبْ",
+            "type": "dictant_both"
+        },
+        {
+            "exercise_id": "58a006",
+            "content": "غِلْ",
+            "type": "dictant_both"
+        },
+        {
+            "exercise_id": "58a007",
+            "content": "غَيْرُ",
+            "type": "pronunciation"
+        },
+        {
+            "exercise_id": "58a008",
+            "content": "بَغْلُ",
+            "type": "fill_it_up"
+        },
+        {
+            "exercise_id": "58a009",
+            "content": "فَرْغُ",
+            "type": "dictant_both"
+        }
+    ],
+    "STL59": [
+        {
+            "exercise_id": "59a001",
+            "content": "غَبْغَبْ",
+            "type": "fill_it_up"
+        },
+        {
+            "exercise_id": "59a002",
+            "content": "مَبْلَغْ",
+            "type": "dictant_vowel"
+        },
+        {
+            "exercise_id": "59a003",
+            "content": "مَغْرِبْ",
+            "type": "dictant_both"
+        },
+        {
+            "exercise_id": "59a004",
+            "content": "اِغْلِبْ",
+            "type": "pronunciation"
+        },
+        {
+            "exercise_id": "59a005",
+            "content": "اِغْفِرْ",
+            "type": "fill_it_up"
+        },
+        {
+            "exercise_id": "59a006",
+            "content": "اِشْتَغَلَ",
+            "type": "dictant_vowel"
+        },
+        {
+            "exercise_id": "59a007",
+            "content": "يَشْتَغِلُ",
+            "type": "pronunciation"
+        },
+        {
+            "exercise_id": "59a008",
+            "content": "اِسْتَغْفَرَ",
+            "type": "dictant_vowel"
+        },
+        {
+            "exercise_id": "59a009",
+            "content": "يَسْتَغْفِرُ",
+            "type": "dictant_both"
+        }
+    ],
+    "STL60": [
+        {
+            "exercise_id": "60a001",
+            "content": "عَ",
+            "type": "fill_it_up"
+        },
+        {
+            "exercise_id": "60a002",
+            "content": "عِ",
+            "type": "fill_it_up"
+        },
+        {
+            "exercise_id": "60a003",
+            "content": "عُ",
+            "type": "fill_it_up"
+        },
+        {
+            "exercise_id": "60a004",
+            "content": "بِعْ",
+            "type": "dictant_vowel"
+        },
+        {
+            "exercise_id": "60a005",
+            "content": "عَنْ",
+            "type": "dictant_both"
+        },
+        {
+            "exercise_id": "60a006",
+            "content": "عَمْ",
+            "type": "dictant_vowel"
+        },
+        {
+            "exercise_id": "60a007",
+            "content": "سَعْ",
+            "type": "dictant_vowel"
+        },
+        {
+            "exercise_id": "60a008",
+            "content": "مَعَ",
+            "type": "pronunciation"
+        },
+        {
+            "exercise_id": "60a009",
+            "content": "عَرَبَ",
+            "type": "fill_it_up"
+        }
+    ],
+    "STL61": [
+        {
+            "exercise_id": "61a001",
+            "content": "عَجَمْ",
+            "type": "fill_it_up"
+        },
+        {
+            "exercise_id": "61a002",
+            "content": "عَجَبْ",
+            "type": "dictant_both"
+        },
+        {
+            "exercise_id": "61a003",
+            "content": "عَمَلْ",
+            "type": "dictant_vowel"
+        },
+        {
+            "exercise_id": "61a004",
+            "content": "عِلمُ",
+            "type": "dictant_both"
+        },
+        {
+            "exercise_id": "61a005",
+            "content": "عُمْرُ",
+            "type": "pronunciation"
+        },
+        {
+            "exercise_id": "61a006",
+            "content": "جَمْعُ",
+            "type": "fill_it_up"
+        },
+        {
+            "exercise_id": "61a007",
+            "content": "جَعْلُ",
+            "type": "dictant_vowel"
+        },
+        {
+            "exercise_id": "61a008",
+            "content": "عَبْعَبْ",
+            "type": "dictant_both"
+        },
+        {
+            "exercise_id": "61a009",
+            "content": "عَسْكَرْ",
+            "type": "dictant_vowel"
+        }
+    ],
+    "STL62": [
+        {
+            "exercise_id": "62a001",
+            "content": "عَيْلَمْ",
+            "type": "fill_it_up"
+        },
+        {
+            "exercise_id": "62a002",
+            "content": "جَعْفَرْ",
+            "type": "pronunciation"
+        },
+        {
+            "exercise_id": "62a003",
+            "content": "عَنْبَرْ",
+            "type": "dictant_vowel"
+        },
+        {
+            "exercise_id": "62a004",
+            "content": "غَيْنُ",
+            "type": "dictant_both"
+        },
+        {
+            "exercise_id": "62a005",
+            "content": "عَيْنُ",
+            "type": "dictant_both"
+        },
+        {
+            "exercise_id": "62a006",
+            "content": "بَغْلُ",
+            "type": "dictant_both"
+        },
+        {
+            "exercise_id": "62a007",
+            "content": "بَعْلُ",
+            "type": "dictant_both"
+        },
+        {
+            "exercise_id": "62a008",
+            "content": "بَلْغُ",
+            "type": "dictant_both"
+        },
+        {
+            "exercise_id": "62a009",
+            "content": "بَلْعُ",
+            "type": "dictant_both"
+        }
+    ],
+    "STL63": [
+        {
+            "exercise_id": "63a001",
+            "content": "دَ",
+            "type": "fill_it_up"
+        },
+        {
+            "exercise_id": "63a002",
+            "content": "دِ",
+            "type": "fill_it_up"
+        },
+        {
+            "exercise_id": "63a003",
+            "content": "دُ",
+            "type": "fill_it_up"
+        },
+        {
+            "exercise_id": "63a004",
+            "content": "دُمْ",
+            "type": "dictant_vowel"
+        },
+        {
+            "exercise_id": "63a005",
+            "content": "دُبْ",
+            "type": "dictant_vowel"
+        },
+        {
+            "exercise_id": "63a006",
+            "content": "دُفْ",
+            "type": "dictant_both"
+        },
+        {
+            "exercise_id": "63a007",
+            "content": "رِدْ",
+            "type": "fill_it_up"
+        },
+        {
+            "exercise_id": "63a008",
+            "content": "زِدْ",
+            "type": "dictant_both"
+        },
+        {
+            "exercise_id": "63a009",
+            "content": "قَدْ",
+            "type": "fill_it_up"
+        }
+    ],
+    "STL64": [
+        {
+            "exercise_id": "64a001",
+            "content": "دَرْسُ",
+            "type": "fill_it_up"
+        },
+        {
+            "exercise_id": "64a002",
+            "content": "دَفْعُ",
+            "type": "dictant_both"
+        },
+        {
+            "exercise_id": "64a003",
+            "content": "دَبْغُ",
+            "type": "dictant_vowel"
+        },
+        {
+            "exercise_id": "64a004",
+            "content": "دَلْكُ",
+            "type": "dictant_both"
+        },
+        {
+            "exercise_id": "64a005",
+            "content": "دَهْرُ",
+            "type": "pronunciation"
+        },
+        {
+            "exercise_id": "64a006",
+            "content": "دُهْنُ",
+            "type": "fill_it_up"
+        },
+        {
+            "exercise_id": "64a007",
+            "content": "دُلْدُلْ",
+            "type": "dictant_vowel"
+        },
+        {
+            "exercise_id": "64a008",
+            "content": "فُدْفُدْ",
+            "type": "pronunciation"
+        }
+    ],
+    "STL65": [
+        {
+            "exercise_id": "65a001",
+            "content": "هُدْهُدْ",
+            "type": "fill_it_up"
+        },
+        {
+            "exercise_id": "65a002",
+            "content": "اُشْدُدْ",
+            "type": "fill_it_up"
+        },
+        {
+            "exercise_id": "65a003",
+            "content": "اِعْتَدَلَ",
+            "type": "dictant_both"
+        },
+        {
+            "exercise_id": "65a004",
+            "content": "يَعْتَدِلُ",
+            "type": "dictant_vowel"
+        },
+        {
+            "exercise_id": "65a005",
+            "content": "اِسْتَرْشَدَ",
+            "type": "dictant_both"
+        },
+        {
+            "exercise_id": "65a006",
+            "content": "يَسْتَرْشِدُ",
+            "type": "pronunciation"
+        }
+    ],
+    "STL66": [
+        {
+            "exercise_id": "66a001",
+            "content": "ضَ",
+            "type": "fill_it_up"
+        },
+        {
+            "exercise_id": "66a002",
+            "content": "ضِ",
+            "type": "fill_it_up"
+        },
+        {
+            "exercise_id": "66a003",
+            "content": "ضُ",
+            "type": "fill_it_up"
+        },
+        {
+            "exercise_id": "66a004",
+            "content": "ضَيْفُ",
+            "type": "dictant_vowel"
+        },
+        {
+            "exercise_id": "66a005",
+            "content": "عَضْلُ",
+            "type": "dictant_both"
+        },
+        {
+            "exercise_id": "66a006",
+            "content": "ضَهْبُ",
+            "type": "dictant_vowel"
+        },
+        {
+            "exercise_id": "66a007",
+            "content": "ضَبْطُ",
+            "type": "pronunciation"
+        },
+        {
+            "exercise_id": "66a008",
+            "content": "ضَعْفُ",
+            "type": "fill_it_up"
+        },
+        {
+            "exercise_id": "66a009",
+            "content": "عَرْضُ",
+            "type": "dictant_vowel"
+        }
+    ],
+    "STL67": [
+        {
+            "exercise_id": "67a001",
+            "content": "مَضْرِبْ",
+            "type": "fill_it_up"
+        },
+        {
+            "exercise_id": "67a002",
+            "content": "مِضْرَبْ",
+            "type": "dictant_both"
+        },
+        {
+            "exercise_id": "67a003",
+            "content": "اِضْرِبْ",
+            "type": "pronunciation"
+        },
+        {
+            "exercise_id": "67a004",
+            "content": "تَضْرِبُ",
+            "type": "dictant_both"
+        },
+        {
+            "exercise_id": "67a005",
+            "content": "أَضْرَبَ",
+            "type": "dictant_vowel"
+        },
+        {
+            "exercise_id": "67a006",
+            "content": "نَضْرِبُ",
+            "type": "fill_it_up"
+        },
+        {
+            "exercise_id": "67a007",
+            "content": "اِضْطَرَبَ",
+            "type": "dictant_vowel"
+        },
+        {
+            "exercise_id": "67a008",
+            "content": "يَضْطَرِبُ",
+            "type": "pronunciation"
+        },
+        {
+            "exercise_id": "67a009",
+            "content": "اِسْتَضْعَفَ",
+            "type": "dictant_both"
+        },
+        {
+            "exercise_id": "67a010",
+            "content": "يَسْتَضْعِفُ",
+            "type": "fill_it_up"
+        }
+    ],
+    "STL68": [
+        {
+            "exercise_id": "68a001",
+            "content": "دَرْسُ",
+            "type": "dictant_both"
+        },
+        {
+            "exercise_id": "68a002",
+            "content": "ضَرْسُ",
+            "type": "dictant_both"
+        },
+        {
+            "exercise_id": "68a003",
+            "content": "وَدْعُ",
+            "type": "dictant_both"
+        },
+        {
+            "exercise_id": "68a004",
+            "content": "وَضْعُ",
+            "type": "dictant_both"
+        },
+        {
+            "exercise_id": "68a005",
+            "content": "بَعْدُ",
+            "type": "dictant_both"
+        },
+        {
+            "exercise_id": "68a006",
+            "content": "بَعْضُ",
+            "type": "dictant_both"
+        }
+    ],
+    "STL69": [
+        {
+            "exercise_id": "69a001",
+            "content": "ذَ",
+            "type": "fill_it_up"
+        },
+        {
+            "exercise_id": "69a002",
+            "content": "ذِ",
+            "type": "fill_it_up"
+        },
+        {
+            "exercise_id": "69a003",
+            "content": "ذُ",
+            "type": "fill_it_up"
+        },
+        {
+            "exercise_id": "69a004",
+            "content": "إِذْ",
+            "type": "dictant_both"
+        },
+        {
+            "exercise_id": "69a005",
+            "content": "مُذْ",
+            "type": "dictant_both"
+        },
+        {
+            "exercise_id": "69a006",
+            "content": "خُذْ",
+            "type": "pronunciation"
+        },
+        {
+            "exercise_id": "69a007",
+            "content": "عُذْ",
+            "type": "pronunciation"
+        },
+        {
+            "exercise_id": "69a008",
+            "content": "ذُبْ",
+            "type": "fill_it_up"
+        },
+        {
+            "exercise_id": "69a009",
+            "content": "ذُقْ",
+            "type": "fill_it_up"
+        },
+        {
+            "exercise_id": "69a010",
+            "content": "ذَرْ",
+            "type": "dictant_both"
+        }
+    ],
+    "STL70": [
+        {
+            "exercise_id": "70a001",
+            "content": "مُنْذُ",
+            "type": "fill_it_up"
+        },
+        {
+            "exercise_id": "70a002",
+            "content": "إِذْنُ",
+            "type": "fill_it_up"
+        },
+        {
+            "exercise_id": "70a003",
+            "content": "بَذْلُ",
+            "type": "dictant_both"
+        },
+        {
+            "exercise_id": "70a004",
+            "content": "ذِكْرُ",
+            "type": "dictant_vowel"
+        },
+        {
+            "exercise_id": "70a005",
+            "content": "ذِهْنُ",
+            "type": "dictant_both"
+        },
+        {
+            "exercise_id": "70a006",
+            "content": "ذَهَبْ",
+            "type": "pronunciation"
+        },
+        {
+            "exercise_id": "70a007",
+            "content": "مَذْهَبْ",
+            "type": "fill_it_up"
+        },
+        {
+            "exercise_id": "70a008",
+            "content": "ذَهَلَ",
+            "type": "dictant_vowel"
+        },
+        {
+            "exercise_id": "70a009",
+            "content": "يَذْهَلُ",
+            "type": "dictant_both"
+        },
+        {
+            "exercise_id": "70a010",
+            "content": "بَذَلَ",
+            "type": "dictant_both"
+        }
+    ],
+    "STL71": [
+        {
+            "exercise_id": "71a001",
+            "content": "يَبْذُلُ",
+            "type": "fill_it_up"
+        },
+        {
+            "exercise_id": "71a002",
+            "content": "أَذْهَبَ",
+            "type": "dictant_both"
+        },
+        {
+            "exercise_id": "71a003",
+            "content": "يُذْهِبُ",
+            "type": "dictant_vowel"
+        },
+        {
+            "exercise_id": "71a004",
+            "content": "ذِفْرُ",
+            "type": "dictant_both"
+        },
+        {
+            "exercise_id": "71a005",
+            "content": "زِفْرُ",
+            "type": "dictant_both"
+        },
+        {
+            "exercise_id": "71a006",
+            "content": "بَذْلُ",
+            "type": "dictant_both"
+        },
+        {
+            "exercise_id": "71a007",
+            "content": "بَزْلُ",
+            "type": "dictant_both"
+        },
+        {
+            "exercise_id": "71a008",
+            "content": "أَبْذَلْ",
+            "type": "dictant_both"
+        },
+        {
+            "exercise_id": "71a009",
+            "content": "أَبْزَلْ",
+            "type": "dictant_both"
+        }
+    ],
+    "STL72": [
+        {
+            "exercise_id": "72a001",
+            "content": "ظَ",
+            "type": "fill_it_up"
+        },
+        {
+            "exercise_id": "72a002",
+            "content": "ظِ",
+            "type": "fill_it_up"
+        },
+        {
+            "exercise_id": "72a003",
+            "content": "ظُ",
+            "type": "fill_it_up"
+        },
+        {
+            "exercise_id": "72a004",
+            "content": "ظَنْ",
+            "type": "dictant_vowel"
+        },
+        {
+            "exercise_id": "72a005",
+            "content": "ظِلْ",
+            "type": "dictant_vowel"
+        },
+        {
+            "exercise_id": "72a006",
+            "content": "قَظْ",
+            "type": "fill_it_up"
+        },
+        {
+            "exercise_id": "72a007",
+            "content": "حَظْ",
+            "type": "dictant_both"
+        },
+        {
+            "exercise_id": "72a008",
+            "content": "عَظْ",
+            "type": "fill_it_up"
+        },
+        {
+            "exercise_id": "72a009",
+            "content": "لَظْ",
+            "type": "dictant_both"
+        }
+    ],
+    "STL73": [
+        {
+            "exercise_id": "73a001",
+            "content": "ظَفَرْ",
+            "type": "fill_it_up"
+        },
+        {
+            "exercise_id": "73a002",
+            "content": "نَظَرْ",
+            "type": "dictant_both"
+        },
+        {
+            "exercise_id": "73a003",
+            "content": "حَظَرْ",
+            "type": "dictant_vowel"
+        },
+        {
+            "exercise_id": "73a004",
+            "content": "ظَمَرْ",
+            "type": "dictant_both"
+        },
+        {
+            "exercise_id": "73a005",
+            "content": "ظَلَفْ",
+            "type": "pronunciation"
+        },
+        {
+            "exercise_id": "73a006",
+            "content": "عِظَمْ",
+            "type": "fill_it_up"
+        },
+        {
+            "exercise_id": "73a007",
+            "content": "نَظْمُ",
+            "type": "dictant_vowel"
+        },
+        {
+            "exercise_id": "73a008",
+            "content": "ظَلْفُ",
+            "type": "pronunciation"
+        },
+        {
+            "exercise_id": "73a009",
+            "content": "ظِلْفُ",
+            "type": "dictant_both"
+        }
+    ],
+    "STL74": [
+        {
+            "exercise_id": "74a001",
+            "content": "حِظْلُ",
+            "type": "fill_it_up"
+        },
+        {
+            "exercise_id": "74a002",
+            "content": "ظُلْمُ",
+            "type": "pronunciation"
+        },
+        {
+            "exercise_id": "74a003",
+            "content": "ظُهْرُ",
+            "type": "dictant_vowel"
+        },
+        {
+            "exercise_id": "74a004",
+            "content": "أَظْهَرْ",
+            "type": "pronunciation"
+        },
+        {
+            "exercise_id": "74a005",
+            "content": "أَظْفَرْ",
+            "type": "dictant_both"
+        },
+        {
+            "exercise_id": "74a006",
+            "content": "مَظْهَرْ",
+            "type": "fill_it_up"
+        },
+        {
+            "exercise_id": "74a007",
+            "content": "مَنْظَرْ",
+            "type": "dictant_vowel"
+        },
+        {
+            "exercise_id": "74a008",
+            "content": "مُظْهِرْ",
+            "type": "dictant_both"
+        },
+        {
+            "exercise_id": "74a009",
+            "content": "مُظّلِمْ",
+            "type": "fill_it_up"
+        }
+    ],
+    "STL75": [
+        {
+            "exercise_id": "75a001",
+            "content": "ظَهَرَ",
+            "type": "fill_it_up"
+        },
+        {
+            "exercise_id": "75a002",
+            "content": "يَظْهِرُ",
+            "type": "dictant_both"
+        },
+        {
+            "exercise_id": "75a003",
+            "content": "نَظَرَ",
+            "type": "dictant_vowel"
+        },
+        {
+            "exercise_id": "75a004",
+            "content": "يَنْظُرُ",
+            "type": "dictant_both"
+        },
+        {
+            "exercise_id": "75a005",
+            "content": "ظَلَمَ",
+            "type": "pronunciation"
+        },
+        {
+            "exercise_id": "75a006",
+            "content": "يَظْلِمُ",
+            "type": "fill_it_up"
+        },
+        {
+            "exercise_id": "75a007",
+            "content": "اِنْتَظَمَ",
+            "type": "dictant_vowel"
+        },
+        {
+            "exercise_id": "75a008",
+            "content": "يَنْتَظِمُ",
+            "type": "pronunciation"
+        },
+        {
+            "exercise_id": "75a009",
+            "content": "اِسْتَعْظَمَ",
+            "type": "dictant_vowel"
+        },
+        {
+            "exercise_id": "75a010",
+            "content": "يَسْتَعْظِمُ",
+            "type": "dictant_both"
+        }
+    ],
+    "STL76": [
+        {
+            "exercise_id": "76a001",
+            "content": "ذَفَرْ",
+            "type": "dictant_both"
+        },
+        {
+            "exercise_id": "76a002",
+            "content": "ظَفَرْ",
+            "type": "dictant_both"
+        },
+        {
+            "exercise_id": "76a003",
+            "content": "حَظَرْ",
+            "type": "dictant_both"
+        },
+        {
+            "exercise_id": "76a004",
+            "content": "حَضَرْ",
+            "type": "dictant_both"
+        },
+        {
+            "exercise_id": "76a005",
+            "content": "ظَهْرُ",
+            "type": "dictant_both"
+        },
+        {
+            "exercise_id": "76a006",
+            "content": "ضَهْرُ",
+            "type": "dictant_both"
+        }
+    ],
+    "STL77": [
+        {
+            "exercise_id": "77a001",
+            "content": "زَهَرْ",
+            "type": "dictant_both"
+        },
+        {
+            "exercise_id": "77a002",
+            "content": "ظَهَرْ",
+            "type": "dictant_both"
+        },
+        {
+            "exercise_id": "77a003",
+            "content": "أَزْهَرْ",
+            "type": "dictant_both"
+        },
+        {
+            "exercise_id": "77a004",
+            "content": "أَظْهَرْ",
+            "type": "dictant_both"
+        },
+        {
+            "exercise_id": "77a005",
+            "content": "أَعْزَمْ",
+            "type": "dictant_both"
+        },
+        {
+            "exercise_id": "77a006",
+            "content": "أَعْظَمْ",
+            "type": "dictant_both"
+        }
     ]
 }
