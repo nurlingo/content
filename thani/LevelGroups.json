@@ -145,27 +145,30 @@
                     "STL61",
                     "STL62",
                     "STL63",
-                    "STL64"
+                    "STL64",
+                    "STL65"
                 ]
             },
             {
                 "name": "ض ذ",
                 "lessons": [
-                    "STL65",
                     "STL66",
                     "STL67",
                     "STL68",
-                    "STL69"
+                    "STL69",
+                    "STL70",
+                    "STL71"
                 ]
             },
             {
                 "name": "ظ",
                 "lessons": [
-                    "STL70",
-                    "STL71",
                     "STL72",
                     "STL73",
-                    "STL74"
+                    "STL74",
+                    "STL75",
+                    "STL76",
+                    "STL77"
                 ]
             }
         ]
