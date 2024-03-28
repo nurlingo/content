@@ -1238,12 +1238,12 @@
     "STL29": [
         {
             "id": "29a001",
-            "content": "إِلَيْهِ",
+            "content": "اِلَيْهِ",
             "type": "fill_it_up"
         },
         {
             "id": "29a002",
-            "content": "إِلَيْهِمْ",
+            "content": "اِلَيْهِمْ",
             "type": "fill_it_up"
         },
         {
@@ -3043,7 +3043,7 @@
         },
         {
             "exercise_id": "69a004",
-            "content": "إِذْ",
+            "content": "اِذْ",
             "type": "dictant_both"
         },
         {
@@ -3085,7 +3085,7 @@
         },
         {
             "exercise_id": "70a002",
-            "content": "إِذْنُ",
+            "content": "اِذْنُ",
             "type": "fill_it_up"
         },
         {
