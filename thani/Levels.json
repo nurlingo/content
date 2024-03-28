@@ -367,7 +367,7 @@
         {
             "id": "08a008",
             "content": "زَمْزَمْ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         }
     ],
     "STL09": [
@@ -409,7 +409,7 @@
         {
             "id": "09a008",
             "content": "تَمَرْ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         },
         {
             "id": "09a009",
@@ -431,7 +431,7 @@
         {
             "id": "10a003",
             "content": "اُمِرْتُ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         },
         {
             "id": "10a004",
@@ -493,7 +493,7 @@
         {
             "id": "11a007",
             "content": "مَنْ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         },
         {
             "id": "11a008",
@@ -520,7 +520,7 @@
         {
             "id": "12a003",
             "content": "اَنْتُمْ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         },
         {
             "id": "12a004",
@@ -604,7 +604,7 @@
         {
             "id": "14a007",
             "content": "مَيْتُ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         },
         {
             "id": "14a008",
@@ -646,7 +646,7 @@
         {
             "id": "15a006",
             "content": "زَيْتَيْنِ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         },
         {
             "id": "15a007",
@@ -661,7 +661,7 @@
         {
             "id": "15a009",
             "content": "مَرْيَمْ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         }
     ],
     "STL16": [
@@ -698,7 +698,7 @@
         {
             "id": "16a007",
             "content": "بَيْتُ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         },
         {
             "id": "16a008",
@@ -735,12 +735,12 @@
         {
             "id": "17a005",
             "content": "مِنْبَرْ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         },
         {
             "id": "17a006",
             "content": "بِاَمْرَيْنِ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         },
         {
             "id": "17a007",
@@ -787,7 +787,7 @@
         {
             "id": "18a006",
             "content": "كُنْ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         },
         {
             "id": "18a007",
@@ -829,12 +829,12 @@
         {
             "id": "19a005",
             "content": "يَكْتُبُ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         },
         {
             "id": "19a006",
             "content": "تَرَكَ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         },
         {
             "id": "19a007",
@@ -846,7 +846,7 @@
         {
             "id": "20a001",
             "content": "كَتَبْتُمْ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         },
         {
             "id": "20a002",
@@ -871,12 +871,12 @@
         {
             "id": "20a006",
             "content": "كُنْتُ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         },
         {
             "id": "20a007",
             "content": "مُمْكِنْ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         }
     ],
     "STL21": [
@@ -903,7 +903,7 @@
         {
             "id": "21a005",
             "content": "بَلْ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         },
         {
             "id": "21a006",
@@ -923,7 +923,7 @@
         {
             "id": "21a009",
             "content": "كُلْ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         }
     ],
     "STL22": [
@@ -945,7 +945,7 @@
         {
             "id": "22a004",
             "content": "اَنْزَلَ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         },
         {
             "id": "22a005",
@@ -960,7 +960,7 @@
         {
             "id": "22a007",
             "content": "اَكَلَتْ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         },
         {
             "id": "22a008",
@@ -987,12 +987,12 @@
         {
             "id": "23a004",
             "content": "اَكَلْتُمْ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         },
         {
             "id": "23a005",
             "content": "بُلْبُلْ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         },
         {
             "id": "23a006",
@@ -1012,7 +1012,7 @@
         {
             "id": "23a009",
             "content": "مُتَزَلْزِلْ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         }
     ],
     "STL24": [
@@ -1049,7 +1049,7 @@
         {
             "id": "24a007",
             "content": "لَوْ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         },
         {
             "id": "24a008",
@@ -1096,12 +1096,12 @@
         {
             "id": "25a007",
             "content": "يَوْمُ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         },
         {
             "id": "25a008",
             "content": "كَوْنُ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         }
     ],
     "STL26": [
@@ -1138,7 +1138,7 @@
         {
             "id": "26a007",
             "content": "كَوْكَبْ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         }
     ],
     "STL27": [
@@ -1175,12 +1175,12 @@
         {
             "id": "27a007",
             "content": "هُوَ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         },
         {
             "id": "27a008",
             "content": "هِيَ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         },
         {
             "id": "27a009",
@@ -1196,7 +1196,7 @@
         },
         {
             "id": "28a002",
-            "content": "أَهَمْ",
+            "content": "اَهَمْ",
             "type": "dictant_both"
         },
         {
@@ -1217,7 +1217,7 @@
         {
             "id": "28a006",
             "content": "لَهُمْ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         },
         {
             "id": "28a007",
@@ -1227,7 +1227,7 @@
         {
             "id": "28a008",
             "content": "مِنْهُ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         },
         {
             "id": "28a009",
@@ -1248,7 +1248,7 @@
         },
         {
             "id": "29a003",
-            "content": "أَمْهِلْهُمْ",
+            "content": "اَمْهِلْهُمْ",
             "type": "dictant_both"
         },
         {
@@ -1279,7 +1279,7 @@
         {
             "id": "29a009",
             "content": "كَفْ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         }
     ],
     "STL30": [
@@ -1306,7 +1306,7 @@
         {
             "id": "30a005",
             "content": "فَوْزُ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         },
         {
             "id": "30a006",
@@ -1321,7 +1321,7 @@
         {
             "id": "30a008",
             "content": "زِفْرُ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         },
         {
             "id": "30a009",
@@ -1368,7 +1368,7 @@
         {
             "id": "31a008",
             "content": "يَفْتَتِنُ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         },
         {
             "id": "31a009",
@@ -1415,12 +1415,12 @@
         {
             "id": "32a007",
             "content": "قُمْ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         },
         {
             "id": "32a008",
             "content": "قِفْ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         },
         {
             "id": "32a009",
@@ -1452,7 +1452,7 @@
         {
             "id": "33a005",
             "content": "قَمَرْ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         },
         {
             "id": "33a006",
@@ -1467,7 +1467,7 @@
         {
             "id": "33a008",
             "content": "اِقْتَرَبَ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         },
         {
             "id": "33a009",
@@ -1478,7 +1478,7 @@
     "STL34": [
         {
             "id": "34a001",
-            "content": "أَنْقَلَبَ",
+            "content": "اَنْقَلَبَ",
             "type": "fill_it_up"
         },
         {
@@ -1499,7 +1499,7 @@
         {
             "id": "34a005",
             "content": "فَلَكْ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         },
         {
             "id": "34a006",
@@ -1514,7 +1514,7 @@
         {
             "id": "34a008",
             "content": "فَرْقُ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         }
     ],
     "STL35": [
@@ -1546,12 +1546,12 @@
         {
             "id": "35a006",
             "content": "شَرْ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         },
         {
             "id": "35a007",
             "content": "شَقْ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         },
         {
             "id": "35a008",
@@ -1588,7 +1588,7 @@
         {
             "id": "36a005",
             "content": "شُكْرُ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         },
         {
             "id": "36a006",
@@ -1603,7 +1603,7 @@
         {
             "id": "36a008",
             "content": "مَشْرِبْ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         },
         {
             "id": "36a009",
@@ -1624,7 +1624,7 @@
         },
         {
             "id": "37a003",
-            "content": "أَشْتَهَرَ",
+            "content": "اَشْتَهَرَ",
             "type": "dictant_vowel"
         },
         {
@@ -1635,7 +1635,7 @@
         {
             "id": "37a005",
             "content": "اِبْرَنْشَقَ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         },
         {
             "id": "37a006",
@@ -1672,12 +1672,12 @@
         {
             "id": "38a006",
             "content": "سِرْ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         },
         {
             "id": "38a007",
             "content": "سِنْ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         },
         {
             "id": "38a008",
@@ -1704,7 +1704,7 @@
         {
             "id": "39a002",
             "content": "سَلَفْ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         },
         {
             "id": "39a003",
@@ -1729,7 +1729,7 @@
         {
             "id": "39a007",
             "content": "مُسْلِمْ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         },
         {
             "id": "39a008",
@@ -1743,8 +1743,8 @@
         },
         {
             "id": "39a010",
-            "content": "أَسْلَمَ",
-            "type": "pronunciation"
+            "content": "اَسْلَمَ",
+            "type": "dictant_vowel"
         },
         {
             "id": "39a011",
@@ -1791,12 +1791,12 @@
         {
             "id": "40a008",
             "content": "ثَمْ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         },
         {
             "id": "40a009",
             "content": "ثِنْ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         }
     ],
     "STL41": [
@@ -1823,7 +1823,7 @@
         {
             "id": "41a005",
             "content": "ثَيْبُ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         },
         {
             "id": "41a006",
@@ -1838,7 +1838,7 @@
         {
             "id": "41a008",
             "content": "مَثَلْ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         },
         {
             "id": "41a009",
@@ -1849,7 +1849,7 @@
     "STL42": [
         {
             "id": "42a001",
-            "content": "أَكْثَرَ",
+            "content": "اَكْثَرَ",
             "type": "fill_it_up"
         },
         {
@@ -1859,7 +1859,7 @@
         },
         {
             "id": "42a003",
-            "content": "أَثْبَتَ",
+            "content": "اَثْبَتَ",
             "type": "dictant_vowel"
         },
         {
@@ -1870,7 +1870,7 @@
         {
             "id": "42a005",
             "content": "اِسْتَكْثَرَ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         },
         {
             "id": "42a006",
@@ -1885,7 +1885,7 @@
         {
             "id": "42a008",
             "content": "يَسْتَثْقِلُ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         }
     ],
     "STL43": [
@@ -1954,12 +1954,12 @@
         {
             "id": "44a007",
             "content": "صَرَفْ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         },
         {
             "id": "44a008",
             "content": "صَبَرْ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         },
         {
             "id": "44a009",
@@ -1985,13 +1985,13 @@
         },
         {
             "id": "45a004",
-            "content": "أَسْتَبْصَرَ",
+            "content": "اَسْتَبْصَرَ",
             "type": "dictant_both"
         },
         {
             "id": "45a005",
             "content": "يَسْتَبْصِرُ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         },
         {
             "id": "45a006",
@@ -2006,7 +2006,7 @@
         {
             "id": "45a008",
             "content": "سَيْفُ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         },
         {
             "id": "45a009",
@@ -2053,12 +2053,12 @@
         {
             "id": "46a008",
             "content": "شَطْ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         },
         {
             "id": "46a009",
             "content": "بَطْ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         }
     ],
     "STL47": [
@@ -2090,7 +2090,7 @@
         {
             "id": "47a006",
             "content": "طُهْرُ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         },
         {
             "id": "47a007",
@@ -2105,7 +2105,7 @@
         {
             "id": "47a009",
             "content": "مَطْلَبْ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         }
     ],
     "STL48": [
@@ -2132,11 +2132,11 @@
         {
             "id": "48a005",
             "content": "يَصْطَبِرُ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         },
         {
             "id": "48a006",
-            "content": "أَسْتَوْطَنَ",
+            "content": "اَسْتَوْطَنَ",
             "type": "fill_it_up"
         },
         {
@@ -2211,12 +2211,12 @@
         {
             "exercise_id": "50a007",
             "content": "جَبْ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         },
         {
             "exercise_id": "50a008",
             "content": "جُلْ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         },
         {
             "exercise_id": "50a009",
@@ -2232,7 +2232,7 @@
         },
         {
             "exercise_id": "51a002",
-            "content": "أَجْرُ",
+            "content": "اَجْرُ",
             "type": "dictant_both"
         },
         {
@@ -2248,7 +2248,7 @@
         {
             "exercise_id": "51a005",
             "content": "جَوْرَبْ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         },
         {
             "exercise_id": "51a006",
@@ -2263,7 +2263,7 @@
         {
             "exercise_id": "51a008",
             "content": "اِسْتَجْلَبَ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         },
         {
             "exercise_id": "51a009",
@@ -2300,12 +2300,12 @@
         {
             "exercise_id": "52a006",
             "content": "خَرَجْ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         },
         {
             "exercise_id": "52a007",
             "content": "خَبَرْ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         },
         {
             "exercise_id": "52a008",
@@ -2342,7 +2342,7 @@
         {
             "exercise_id": "53a006",
             "content": "مَخْرَجْ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         },
         {
             "exercise_id": "53a007",
@@ -2351,7 +2351,7 @@
         },
         {
             "exercise_id": "53a008",
-            "content": "أَخْرَجَ",
+            "content": "اَخْرَجَ",
             "type": "dictant_vowel"
         }
     ],
@@ -2363,7 +2363,7 @@
         },
         {
             "exercise_id": "54a002",
-            "content": "أَخْبَرَ",
+            "content": "اَخْبَرَ",
             "type": "fill_it_up"
         },
         {
@@ -2389,7 +2389,7 @@
         {
             "exercise_id": "54a007",
             "content": "يَسْتَخْرِجُ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         }
     ],
     "STL55": [
@@ -2421,12 +2421,12 @@
         {
             "exercise_id": "55a006",
             "content": "حَجْ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         },
         {
             "exercise_id": "55a007",
             "content": "حَسَنْ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         },
         {
             "exercise_id": "55a008",
@@ -2462,8 +2462,8 @@
         },
         {
             "exercise_id": "56a005",
-            "content": "أَحْسَنَ",
-            "type": "pronunciation"
+            "content": "اَحْسَنَ",
+            "type": "dictant_vowel"
         },
         {
             "exercise_id": "56a006",
@@ -2478,7 +2478,7 @@
         {
             "exercise_id": "56a008",
             "content": "اِحْتَمَلَ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         },
         {
             "exercise_id": "56a009",
@@ -2510,7 +2510,7 @@
         {
             "exercise_id": "57a005",
             "content": "خَلْقُ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         },
         {
             "exercise_id": "57a006",
@@ -2525,16 +2525,16 @@
         {
             "exercise_id": "57a008",
             "content": "حَتْمُ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         },
         {
             "exercise_id": "57a009",
-            "content": "أَرْخَمْ",
+            "content": "اَرْخَمْ",
             "type": "fill_it_up"
         },
         {
             "exercise_id": "58a001",
-            "content": "أَرْحَمْ",
+            "content": "اَرْحَمْ",
             "type": "fill_it_up"
         }
     ],
@@ -2572,7 +2572,7 @@
         {
             "exercise_id": "58a007",
             "content": "غَيْرُ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         },
         {
             "exercise_id": "58a008",
@@ -2604,7 +2604,7 @@
         {
             "exercise_id": "59a004",
             "content": "اِغْلِبْ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         },
         {
             "exercise_id": "59a005",
@@ -2619,7 +2619,7 @@
         {
             "exercise_id": "59a007",
             "content": "يَشْتَغِلُ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         },
         {
             "exercise_id": "59a008",
@@ -2671,7 +2671,7 @@
         {
             "exercise_id": "60a008",
             "content": "مَعَ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         },
         {
             "exercise_id": "60a009",
@@ -2703,7 +2703,7 @@
         {
             "exercise_id": "61a005",
             "content": "عُمْرُ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         },
         {
             "exercise_id": "61a006",
@@ -2735,7 +2735,7 @@
         {
             "exercise_id": "62a002",
             "content": "جَعْفَرْ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         },
         {
             "exercise_id": "62a003",
@@ -2844,7 +2844,7 @@
         {
             "exercise_id": "64a005",
             "content": "دَهْرُ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         },
         {
             "exercise_id": "64a006",
@@ -2859,7 +2859,7 @@
         {
             "exercise_id": "64a008",
             "content": "فُدْفُدْ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         }
     ],
     "STL65": [
@@ -2891,7 +2891,7 @@
         {
             "exercise_id": "65a006",
             "content": "يَسْتَرْشِدُ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         }
     ],
     "STL66": [
@@ -2928,7 +2928,7 @@
         {
             "exercise_id": "66a007",
             "content": "ضَبْطُ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         },
         {
             "exercise_id": "66a008",
@@ -2955,7 +2955,7 @@
         {
             "exercise_id": "67a003",
             "content": "اِضْرِبْ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         },
         {
             "exercise_id": "67a004",
@@ -2964,7 +2964,7 @@
         },
         {
             "exercise_id": "67a005",
-            "content": "أَضْرَبَ",
+            "content": "اَضْرَبَ",
             "type": "dictant_vowel"
         },
         {
@@ -2980,7 +2980,7 @@
         {
             "exercise_id": "67a008",
             "content": "يَضْطَرِبُ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         },
         {
             "exercise_id": "67a009",
@@ -3054,12 +3054,12 @@
         {
             "exercise_id": "69a006",
             "content": "خُذْ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         },
         {
             "exercise_id": "69a007",
             "content": "عُذْ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         },
         {
             "exercise_id": "69a008",
@@ -3106,7 +3106,7 @@
         {
             "exercise_id": "70a006",
             "content": "ذَهَبْ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         },
         {
             "exercise_id": "70a007",
@@ -3137,7 +3137,7 @@
         },
         {
             "exercise_id": "71a002",
-            "content": "أَذْهَبَ",
+            "content": "اَذْهَبَ",
             "type": "dictant_both"
         },
         {
@@ -3167,12 +3167,12 @@
         },
         {
             "exercise_id": "71a008",
-            "content": "أَبْذَلْ",
+            "content": "اَبْذَلْ",
             "type": "dictant_both"
         },
         {
             "exercise_id": "71a009",
-            "content": "أَبْزَلْ",
+            "content": "اَبْزَلْ",
             "type": "dictant_both"
         }
     ],
@@ -3247,7 +3247,7 @@
         {
             "exercise_id": "73a005",
             "content": "ظَلَفْ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         },
         {
             "exercise_id": "73a006",
@@ -3262,7 +3262,7 @@
         {
             "exercise_id": "73a008",
             "content": "ظَلْفُ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         },
         {
             "exercise_id": "73a009",
@@ -3279,7 +3279,7 @@
         {
             "exercise_id": "74a002",
             "content": "ظُلْمُ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         },
         {
             "exercise_id": "74a003",
@@ -3288,12 +3288,12 @@
         },
         {
             "exercise_id": "74a004",
-            "content": "أَظْهَرْ",
-            "type": "pronunciation"
+            "content": "اَظْهَرْ",
+            "type": "dictant_vowel"
         },
         {
             "exercise_id": "74a005",
-            "content": "أَظْفَرْ",
+            "content": "اَظْفَرْ",
             "type": "dictant_both"
         },
         {
@@ -3341,7 +3341,7 @@
         {
             "exercise_id": "75a005",
             "content": "ظَلَمَ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         },
         {
             "exercise_id": "75a006",
@@ -3356,7 +3356,7 @@
         {
             "exercise_id": "75a008",
             "content": "يَنْتَظِمُ",
-            "type": "pronunciation"
+            "type": "dictant_vowel"
         },
         {
             "exercise_id": "75a009",
@@ -3414,22 +3414,22 @@
         },
         {
             "exercise_id": "77a003",
-            "content": "أَزْهَرْ",
+            "content": "اَزْهَرْ",
             "type": "dictant_both"
         },
         {
             "exercise_id": "77a004",
-            "content": "أَظْهَرْ",
+            "content": "اَظْهَرْ",
             "type": "dictant_both"
         },
         {
             "exercise_id": "77a005",
-            "content": "أَعْزَمْ",
+            "content": "اَعْزَمْ",
             "type": "dictant_both"
         },
         {
             "exercise_id": "77a006",
-            "content": "أَعْظَمْ",
+            "content": "اَعْظَمْ",
             "type": "dictant_both"
         }
     ]
