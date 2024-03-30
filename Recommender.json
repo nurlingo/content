@@ -54,6 +54,18 @@
                 "showEn": 1
             },
             {
+                "id": "laylatul_qadr",
+                "type": "article",
+                "urlRu": "https://www.namaz.live/laylatul-qadr-ru",
+                "titleRu": "Ляйлятуль-Кард: Ночь Предопределения",
+                "descriptionRu": "",
+                "showRu": 1,
+                "urlEn": "https://www.namaz.live/laylatul-qadr",
+                "titleEn": "Laylatul Qadr: the Night of Divine Decree",
+                "descriptionEn": "",
+                "showEn": 1
+            },
+            {
                 "id": "ramadan_course",
                 "type": "link",
                 "urlRu": "https://t.me/post_hanafi",
