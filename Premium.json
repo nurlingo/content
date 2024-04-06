@@ -14,15 +14,16 @@
         "titleEn": "Premium Perks",
         "items": [
             {
-                "id": "002001005",
-                "type": "listen",
-                "titleEn": "Premium audios",
-                "descriptionEn": "Get additional items in the 'Listen' tab.",
-                "showEn": 1,
-                "titleRu": "Премиум аудио",
-                "descriptionRu": "Дополнительные дорожки во вкладке 'Аудио'.",
+                "id": "app_icon",
+                "type": "settings",
+                "titleRu": "Выбор иконки приложения",
+                "descriptionRu": "Можно выбрать из трех вариантов",
                 "showRu": 1,
-                "icon": "beats.headphones"
+                "titleEn": "Change app icon",
+                "descriptionEn": "Choose between three options",
+                "showEn": 1,
+                "minBundleVersion": 179,
+                "icon": "i.square"
             },
             {
                 "id": "notification_settings",
@@ -34,18 +35,6 @@
                 "descriptionRu": "Больший контроль над уведомлениями, в том числе выбор звука.",
                 "showRu": 1,
                 "icon": "gear.badge"
-            },
-            {
-                "id": "app_icon",
-                "type": "settings",
-                "titleRu": "Выбор иконки приложения",
-                "descriptionRu": "Можно выбрать из трех вариантов",
-                "showRu": 1,
-                "titleEn": "Change app icon",
-                "descriptionEn": "Choose between three options",
-                "showEn": 1,
-                "minBundleVersion": 179,
-                "icon": "i.square"
             },
             {
                 "id": "001",
