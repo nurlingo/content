@@ -1,0 +1,362 @@
+[
+    
+    {
+        "id": "check_recitation",
+        "titleEn": "Listen and Memorize",
+        "titleRu": "Коран, зикр и дуа",
+        "descriptionEn": "",
+        "descriptionRu": "",
+        "opened": 1,
+        "items": [
+            {
+                "id": "check_recitation",
+                "titleAr": "",
+                "titleEn": "Check your recitation",
+                "descriptionEn": "Record yourself and upload for checking",
+                "titleRu": "Проверка правильности чтения",
+                "descriptionRu": "Запишите чтение и отправьте нам на проверку",
+                "type": "action",
+                "showEn": 0,
+                "showRu": 0,
+                "icon": "waveform.and.mic",
+                "restriction": "iOS 15",
+                "minLaunchCount": 7
+            }
+        ]
+    },
+    {
+        "id": "surah",
+        "titleEn": "al-Quran: Short Surahs",
+        "titleRu": "Коран: короткие суры",
+        "descriptionEn": "Short surahs from the Quran with transliteration",
+        "descriptionRu": "Краткие суры с транслитерацией",
+        "opened": 1,
+        "items": [
+            {
+                "id": "001",
+                "titleAr": "سورة الفاتحة",
+                "titleEn": "Al-Faatiĥah",
+                "titleRu": "Аль-Фатиха",
+                "type": "audio",
+                "showEn": 1,
+                "showRu": 1
+            },
+            {
+                "id": "097",
+                "titleAr": "",
+                "titleEn": "Al-Qadr",
+                "titleRu": "Аль-Қадр",
+                "type": "audio",
+                "showEn": 1,
+                "showRu": 1
+            },
+            {
+                "id": "103",
+                "titleAr": "",
+                "titleEn": "Al-عasr",
+                "titleRu": "Аль-عаср",
+                "type": "audio",
+                "showEn": 1,
+                "showRu": 1
+            },
+            {
+                "id": "104",
+                "titleAr": "",
+                "titleEn": "Al-Humazah",
+                "titleRu": "Аль-Хумазаh",
+                "type": "audio",
+                "showEn": 1,
+                "showRu": 1
+            },
+            {
+                "id": "105",
+                "titleAr": "",
+                "titleEn": "Al-Fil",
+                "titleRu": "Аль-Филь",
+                "type": "audio",
+                "showEn": 1,
+                "showRu": 1
+            },
+            {
+                "id": "106",
+                "titleAr": "",
+                "titleEn": "Quraish",
+                "titleRu": "Кураиш",
+                "type": "audio",
+                "showEn": 1,
+                "showRu": 1
+            },
+            {
+                "id": "107",
+                "titleAr": "",
+                "titleEn": "Al-Maaعoon",
+                "titleRu": "Ал-Маعун",
+                "type": "audio",
+                "showEn": 1,
+                "showRu": 1
+            },
+            {
+                "id": "108",
+                "titleAr": "",
+                "titleEn": "Al-Kauthar",
+                "titleRu": "Аль-Кяус̱ар",
+                "type": "audio",
+                "showEn": 1,
+                "showRu": 1
+            },
+            {
+                "id": "109",
+                "titleAr": "",
+                "titleEn": "Al-Kafiroon",
+                "titleRu": "Аль-Кяфирун",
+                "type": "audio",
+                "showEn": 1,
+                "showRu": 1
+            },
+            {
+                "id": "110",
+                "titleAr": "",
+                "titleEn": "An-Nasr",
+                "titleRu": "Ан-Наср",
+                "type": "audio",
+                "showEn": 1,
+                "showRu": 1
+            },
+            {
+                "id": "111",
+                "titleAr": "",
+                "titleEn": "Al-Masad",
+                "titleRu": "Аль-Масад",
+                "type": "audio",
+                "showEn": 1,
+                "showRu": 1
+            },
+            {
+                "id": "112",
+                "titleAr": "سورة الإخلاص",
+                "titleEn": "Al-Ikhlas",
+                "titleRu": "Аль-Ихляс",
+                "type": "audio",
+                "showEn": 1,
+                "showRu": 1
+            },
+            {
+                "id": "113",
+                "titleAr": "سورة الفلق",
+                "titleEn": "Al-Falaq",
+                "titleRu": "Аль-Фаляк",
+                "type": "audio",
+                "showEn": 1,
+                "showRu": 1
+            },
+            {
+                "id": "114",
+                "titleAr": "سورة الناس",
+                "titleEn": "Аn-Nas",
+                "titleRu": "Ан-Нас",
+                "type": "audio",
+                "showEn": 1,
+                "showRu": 1
+            }
+        ]
+    },
+    {
+        "id": "ayat",
+        "titleEn": "Selected Verses from the Quran",
+        "titleRu": "Отдельные аяты из Корана",
+        "descriptionEn": "",
+        "descriptionRu": "",
+        "opened": 0,
+        "items": [
+            {
+                "id": "002001005",
+                "titleAr": "",
+                "titleEn": "Al-Baqarah 1-5",
+                "titleRu": "Аль-Бакара 1-5",
+                "type": "audio",
+                "showEn": 1,
+                "showRu": 1,
+                "restriction": "premium"
+            },
+            {
+                "id": "002185",
+                "titleAr": "",
+                "titleEn": "Ayat Ramadan: Al-Baqarah 185",
+                "titleRu": "Аят о Рамадане: Аль-Бакара 185",
+                "type": "audio",
+                "showEn": 1,
+                "showRu": 1
+            },
+            {
+                "id": "002255",
+                "titleAr": "",
+                "titleEn": "Ayat al-Kursi: Al-Baqarah 255",
+                "descriptionEn": "The best verse of the Quran",
+                "titleRu": "Аят аль-Курси: Аль-Бакара 255",
+                "descriptionRu": "Лучший аят Корана",
+                "type": "audio",
+                "showEn": 1,
+                "showRu": 1
+            },
+            {
+                "id": "002285286",
+                "titleAr": "",
+                "titleEn": "Al-Baqarah 285-286",
+                "titleRu": "Аль-Бакара 285-286",
+                "type": "audio",
+                "showEn": 1,
+                "showRu": 1
+            },
+            {
+                "id": "003001009",
+                "titleAr": "",
+                "titleEn": "Aali عimran 1-9",
+                "titleRu": "Аали عимран 1-9",
+                "type": "audio",
+                "showEn": 1,
+                "showRu": 1
+            },
+            {
+                "id": "003190195",
+                "titleAr": "",
+                "titleEn": "Aali عimran 190-195",
+                "titleRu": "Аали عимран 190-195",
+                "type": "audio",
+                "showEn": 1,
+                "showRu": 1
+            },
+            {
+                "id": "059018024",
+                "titleAr": "",
+                "titleEn": "Al-Hashr 18-24",
+                "titleRu": "Аль-Хашр 18-24 (без транскрипции)",
+                "type": "audio",
+                "showEn": 1,
+                "showRu": 1
+            }
+        ]
+    },
+    {
+        "id": "dhikr",
+        "titleEn": "Dhikr: Remembrance",
+        "titleRu": "Зикр: поминание",
+        "descriptionEn": "Remembering Allah from al-Quran and Sunnah",
+        "descriptionRu": "Приближаемся к Всевышнему через поминания из Корана и Сунны",
+        "opened": 0,
+        "items": [
+            {
+                "id": "999001",
+                "titleAr": "",
+                "titleEn": "At-Tahiyyat",
+                "titleRu": "Ат-Тахиййат",
+                "type": "audio",
+                "showEn": 1,
+                "showRu": 1
+            },
+            {
+                "id": "999002",
+                "titleAr": "",
+                "titleEn": "Subhanaka",
+                "titleRu": "Субханака",
+                "type": "audio",
+                "showEn": 1,
+                "showRu": 1
+            },
+            {
+                "id": "999003",
+                "titleAr": "",
+                "titleEn": "Salawat",
+                "titleRu": "Салауат",
+                "type": "audio",
+                "showEn": 1,
+                "showRu": 1
+            },
+            {
+                "id": "999005",
+                "titleAr": "أذكار بعد الصلاة",
+                "titleEn": "Adhkar after prayer",
+                "titleRu": "Зикр после намаза",
+                "type": "audio",
+                "showEn": 1,
+                "showRu": 1
+            },
+            {
+                "id": "999008",
+                "titleAr": "",
+                "titleEn": "Adhan: call to prayer",
+                "descriptionEn": "Signals the beginning of prayer time",
+                "titleRu": "Азан: призыв к молитве",
+                "descriptionRu": "Провозглашает о начале времени намаза",
+                "type": "audio",
+                "showEn": 1,
+                "showRu": 1
+            },
+            {
+                "id": "999010",
+                "titleAr": "",
+                "titleEn": "Iqamah: prayer is about to commence",
+                "descriptionEn": "Sunnah Muakkadah for men",
+                "titleRu": "Иқамат: призыв перед фард намазом",
+                "descriptionRu": "Сунна муаккадаh для мужчин",
+                "type": "audio",
+                "showEn": 1,
+                "showRu": 1
+            }
+        ]
+    },
+    {
+        "id": "dua",
+        "titleEn": "Dua: Supplications",
+        "titleRu": "Дуа: мольбы-обращения к Аллаhу",
+        "descriptionEn": "Calling unto Allah from al-Quran and Sunnah",
+        "descriptionRu": "Взываем к Всевышнему мольбами из Корана и Сунны",
+        "opened": 0,
+        "items": [
+            {
+                "id": "999004",
+                "titleAr": "دعاء القنوت",
+                "titleEn": "Dua Qunoot",
+                "titleRu": "Дуа Кунут",
+                "type": "audio",
+                "showEn": 1,
+                "showRu": 1
+            },
+            {
+                "id": "999011",
+                "titleAr": "",
+                "titleEn": "Dua from the Quran: Our Lord!",
+                "titleRu": "Дуа из Корана: Господь наш!",
+                "type": "audio",
+                "showEn": 1,
+                "showRu": 1
+            },
+            {
+                "id": "999006",
+                "titleAr": "",
+                "titleEn": "Dua for Protection",
+                "titleRu": "Дуа для защиты",
+                "type": "audio",
+                "showEn": 1,
+                "showRu": 1
+            },
+            {
+                "id": "999007",
+                "titleAr": "",
+                "titleEn": "Dua Istikhara",
+                "titleRu": "Дуа Истихара",
+                "type": "audio",
+                "showEn": 1,
+                "showRu": 1
+            },
+            {
+                "id": "999009",
+                "titleAr": "",
+                "titleEn": "Dua after Adhan",
+                "titleRu": "Дуа после азана",
+                "type": "audio",
+                "showEn": 0,
+                "showRu": 0
+            }
+        ]
+    }
+]
