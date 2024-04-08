@@ -436,9 +436,9 @@
                     "urlRu": "https://www.namaz.live/fitr-ru",
                     "titleRu": "Фитр-садака: милостыня разговения",
                     "descriptionRu": "",
-                    "showRu": 0,
+                    "showRu": 1,
                     "urlEn": "https://www.namaz.live/fitr",
-                    "titleEn": "Sadaqat ul-Fitr: purification for your fast",
+                    "titleEn": "Sadaqat ul-Fitr",
                     "descriptionEn": "",
                     "showEn": 1
                 },
