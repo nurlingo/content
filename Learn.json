@@ -346,6 +346,18 @@
                 "showEn": 1
             },
             {
+                "id": "eid_prayer",
+                "type": "article",
+                "urlRu": "https://www.namaz.live/eid-prayer-ru",
+                "titleRu": "Празничный ('Ид) намаз",
+                "descriptionRu": "",
+                "showRu": 0,
+                "urlEn": "https://www.namaz.live/eid-prayer",
+                "titleEn": "Eid Prayer",
+                "descriptionEn": "",
+                "showEn": 1
+            },
+            {
                 "id": "dhul-hijjah",
                 "type": "article",
                 "urlRu": "https://www.namaz.live/dhul-hijjah-ru",
