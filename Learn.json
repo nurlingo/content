@@ -346,6 +346,18 @@
                 "showEn": 1
             },
             {
+                "id": "fitr",
+                "type": "article",
+                "urlRu": "https://www.namaz.live/fitr-ru",
+                "titleRu": "Фитр-садака: милостыня разговения",
+                "descriptionRu": "",
+                "showRu": 1,
+                "urlEn": "https://www.namaz.live/fitr",
+                "titleEn": "Sadaqat ul-Fitr",
+                "descriptionEn": "",
+                "showEn": 1
+            },
+            {
                 "id": "eid_prayer",
                 "type": "article",
                 "urlRu": "https://www.namaz.live/eid-prayer-ru",
