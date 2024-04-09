@@ -406,18 +406,6 @@
                     "titleEn": "Eid Prayer",
                     "descriptionEn": "",
                     "showEn": 1
-                },
-                {
-                    "id": "eid_prayer_external_link",
-                    "type": "link",
-                    "urlRu": "https://azan.ru/maqalat/read/kak-pravilno-sovershat-prazdnichnyiy-id-namaz-10984",
-                    "titleRu": "Празничный ('Ид) намаз",
-                    "descriptionRu": "",
-                    "showRu": 1,
-                    "urlEn": "https://islamqa.org/hanafi/qibla-hanafi/35334/the-fiqh-of-eid/",
-                    "titleEn": "Eid Prayer in Detail",
-                    "descriptionEn": "",
-                    "showEn": 0
                 }
             ]
         },
