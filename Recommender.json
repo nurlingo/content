@@ -40,43 +40,20 @@
                 "urlEn": "salamLeft",
                 "urlRu": "salamLeft",
                 "icon": "info.square",
-                "maxLaunchCount": 7
+                "maxLaunchCount": 3
             },
             {
-                "id": "ramadan_faq",
+                "id": "fitr",
                 "type": "article",
-                "urlRu": "https://www.namaz.live/ramadan-ru",
-                "titleRu": "Пост в Рамадан",
-                "showRu": 1,
-                "urlEn": "https://www.namaz.live/ramadan",
-                "titleEn": "Fasting in Ramadan",
-                "icon": "moon.stars",
-                "showEn": 1
-            },
-            {
-                "id": "laylatul_qadr",
-                "type": "article",
-                "urlRu": "https://www.namaz.live/laylatul-qadr-ru",
-                "titleRu": "Ляйлятуль-Кард: Ночь Предопределения",
+                "urlRu": "https://www.namaz.live/fitr-ru",
+                "titleRu": "Фитр-садака: милостыня разговения",
                 "descriptionRu": "",
                 "showRu": 1,
-                "urlEn": "https://www.namaz.live/laylatul-qadr",
-                "titleEn": "Laylatul Qadr: the Night of Divine Decree",
+                "urlEn": "https://www.namaz.live/fitr",
+                "titleEn": "Sadaqat ul-Fitr",
                 "descriptionEn": "",
-                "showEn": 1
-            },
-            {
-                "id": "ramadan_course",
-                "type": "link",
-                "urlRu": "https://t.me/post_hanafi",
-                "titleRu": "Онлайн курс: пост в месяц Рамадан",
-                "descriptionRu": "Авторский курс «Пост по ханафитскому мазхабу» включает в себя:\n- 7 уроков по фикху поста\n- Урок по всем основным видам медицинских процедур и их влиянию на пост\n- Урок с рекомендациями по тому, как провести Рамадан максимально продуктивно\n- Духовные тайны поста по книге имама Абу Хамида аль-Газали «Ихья ‘улюми-д-дин»",
-                "showRu": 1,
-                "urlEn": "https://isyllabus.teachable.com/p/at-the-gates-of-paradise",
-                "titleEn": "Online course on Ramadan",
-                "icon": "play.laptopcomputer",
-                "descriptionEn": "This Online Course is for anyone wishing to prepare themselves for Ramadan through looking at both the outward law and inner dimensions of fasting.",
-                "showEn": 1
+                "showEn": 1,
+                "icon": "heart.text.square"
             },
             {
                 "id": "prayer_time",
@@ -298,6 +275,51 @@
                 "showEn": 1,
                 "icon": "gift",
                 "minLaunchCount": 31
+            }
+        ]
+    },
+    {
+        "id": "backup_recommendations",
+        "titleRu": "Ящик хранения",
+        "descriptionRu": "",
+        "titleEn": "Backup recommendations",
+        "descriptionEn": "",
+        "items": [
+            {
+                "id": "ramadan_faq",
+                "type": "article",
+                "urlRu": "https://www.namaz.live/ramadan-ru",
+                "titleRu": "Пост в Рамадан",
+                "showRu": 1,
+                "urlEn": "https://www.namaz.live/ramadan",
+                "titleEn": "Fasting in Ramadan",
+                "icon": "moon.stars",
+                "showEn": 1
+            },
+            {
+                "id": "laylatul_qadr",
+                "type": "article",
+                "urlRu": "https://www.namaz.live/laylatul-qadr-ru",
+                "titleRu": "Ляйлятуль-Кард: Ночь Предопределения",
+                "descriptionRu": "",
+                "showRu": 1,
+                "urlEn": "https://www.namaz.live/laylatul-qadr",
+                "titleEn": "Laylatul Qadr: the Night of Divine Decree",
+                "descriptionEn": "",
+                "showEn": 1
+            },
+            {
+                "id": "ramadan_course",
+                "type": "link",
+                "urlRu": "https://t.me/post_hanafi",
+                "titleRu": "Онлайн курс: пост в месяц Рамадан",
+                "descriptionRu": "Авторский курс «Пост по ханафитскому мазхабу» включает в себя:\n- 7 уроков по фикху поста\n- Урок по всем основным видам медицинских процедур и их влиянию на пост\n- Урок с рекомендациями по тому, как провести Рамадан максимально продуктивно\n- Духовные тайны поста по книге имама Абу Хамида аль-Газали «Ихья ‘улюми-д-дин»",
+                "showRu": 1,
+                "urlEn": "https://isyllabus.teachable.com/p/at-the-gates-of-paradise",
+                "titleEn": "Online course on Ramadan",
+                "icon": "play.laptopcomputer",
+                "descriptionEn": "This Online Course is for anyone wishing to prepare themselves for Ramadan through looking at both the outward law and inner dimensions of fasting.",
+                "showEn": 1
             }
         ]
     }
