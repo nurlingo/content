@@ -94,6 +94,32 @@
                 "minLaunchCount": 5
             },
             {
+                "id": "eid_prayer",
+                "type": "article",
+                "urlRu": "https://www.namaz.live/eid-prayer-ru",
+                "titleRu": "Празничный ('Ид) намаз",
+                "descriptionRu": "",
+                "showRu": 0,
+                "urlEn": "https://www.namaz.live/eid-prayer",
+                "titleEn": "Eid Prayer",
+                "icon":"figure.walk",
+                "descriptionEn": "",
+                "showEn": 1
+            },
+            {
+                "id": "eid_prayer_external_link",
+                "type": "link",
+                "urlRu": "https://azan.ru/maqalat/read/kak-pravilno-sovershat-prazdnichnyiy-id-namaz-10984",
+                "titleRu": "Празничный ('Ид) намаз",
+                "descriptionRu": "",
+                "showRu": 1,
+                "urlEn": "https://islamqa.org/hanafi/qibla-hanafi/35334/the-fiqh-of-eid/",
+                "titleEn": "Eid Prayer in Detail",
+                "icon":"figure.walk",
+                "descriptionEn": "",
+                "showEn": 0
+            },
+            {
                 "id": "jumu3ah",
                 "type": "article",
                 "urlRu": "https://www.namaz.live/jumu3ah-friday-prayer-ru",
