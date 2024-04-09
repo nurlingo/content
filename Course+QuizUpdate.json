@@ -114,30 +114,6 @@
                     "titleEn": "Prayer times",
                     "descriptionEn": "",
                     "showEn": 1
-                },
-                {
-                    "id": "jumu3ah",
-                    "type": "article",
-                    "urlRu": "https://www.namaz.live/jumu3ah-friday-prayer-ru",
-                    "titleRu": "Джуму'а: пятничный намаз",
-                    "descriptionRu": "",
-                    "showRu": 0,
-                    "urlEn": "https://www.namaz.live/jumu3ah-friday-prayer",
-                    "titleEn": "Jumu'ah: Friday prayer",
-                    "descriptionEn": "",
-                    "showEn": 1
-                },
-                {
-                    "id": "tahajjud",
-                    "type": "article",
-                    "urlRu": "https://www.namaz.live/tahajjud-ru",
-                    "titleRu": "Тахаджуд: ночной намаз",
-                    "descriptionRu": "",
-                    "showRu": 1,
-                    "urlEn": "https://www.namaz.live/tahajjud",
-                    "titleEn": "Tahajjud: night prayer",
-                    "descriptionEn": "",
-                    "showEn": 1
                 }
             ]
         },
@@ -385,6 +361,63 @@
                     "urlEn": "https://www.namaz.live/dua",
                     "titleEn": "How to make dua",
                     "showEn": 1
+                }
+            ]
+        },
+        {
+            "id": "other_prayers",
+            "titleRu": "Другие виды намаза",
+            "descriptionRu": "",
+            "titleEn": "Other prayers",
+            "descriptionEn": "",
+            "lessons": [
+                {
+                    "id": "jumu3ah",
+                    "type": "article",
+                    "urlRu": "https://www.namaz.live/jumu3ah-friday-prayer-ru",
+                    "titleRu": "Джуму'а: пятничный намаз",
+                    "descriptionRu": "",
+                    "showRu": 0,
+                    "urlEn": "https://www.namaz.live/jumu3ah-friday-prayer",
+                    "titleEn": "Jumu'ah: Friday prayer",
+                    "descriptionEn": "",
+                    "showEn": 1
+                },
+                {
+                    "id": "tahajjud",
+                    "type": "article",
+                    "urlRu": "https://www.namaz.live/tahajjud-ru",
+                    "titleRu": "Тахаджуд: ночной намаз",
+                    "descriptionRu": "",
+                    "showRu": 1,
+                    "urlEn": "https://www.namaz.live/tahajjud",
+                    "titleEn": "Tahajjud: night prayer",
+                    "descriptionEn": "",
+                    "showEn": 1
+                },
+                {
+                    "id": "eid_prayer",
+                    "type": "article",
+                    "urlRu": "https://www.namaz.live/eid-prayer-ru",
+                    "titleRu": "Празничный ('Ид) намаз",
+                    "descriptionRu": "",
+                    "showRu": 0,
+                    "urlEn": "https://www.namaz.live/eid-prayer",
+                    "titleEn": "Eid Prayer",
+                    "descriptionEn": "",
+                    "showEn": 1
+                },
+                {
+                    "id": "eid_prayer_external_link",
+                    "type": "link",
+                    "urlRu": "https://azan.ru/maqalat/read/kak-pravilno-sovershat-prazdnichnyiy-id-namaz-10984",
+                    "titleRu": "Празничный ('Ид) намаз",
+                    "descriptionRu": "",
+                    "showRu": 1,
+                    "urlEn": "https://islamqa.org/hanafi/qibla-hanafi/35334/the-fiqh-of-eid/",
+                    "titleEn": "Eid Prayer in Detail",
+                    "descriptionEn": "",
+                    "showEn": 0
                 }
             ]
         },
