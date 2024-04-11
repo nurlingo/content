@@ -58,6 +58,18 @@
                 "titleEn": "Read Arabic App",
                 "descriptionEn": "Next step after Joode",
                 "showEn": 1
+            },
+            {
+                "id": "thani",
+                "type": "link",
+                "urlRu": "https://apps.apple.com/app/id6476807629",
+                "titleRu": "Му'аллим Сани: чтение простых слов на арабском",
+                "descriptionRu": "Сделано по программе Второй учитель",
+                "showRu": 1,
+                "urlEn": "https://apps.apple.com/app/id6476807629",
+                "titleEn": "Thani: Learn to read basic words",
+                "descriptionEn": "A simple system for beginners",
+                "showEn": 1
             }
         ]
     },
