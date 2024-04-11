@@ -43,19 +43,6 @@
                 "maxLaunchCount": 3
             },
             {
-                "id": "fitr",
-                "type": "article",
-                "urlRu": "https://www.namaz.live/fitr-ru",
-                "titleRu": "Фитр-садака: милостыня разговения",
-                "descriptionRu": "",
-                "showRu": 1,
-                "urlEn": "https://www.namaz.live/fitr",
-                "titleEn": "Sadaqat ul-Fitr",
-                "descriptionEn": "",
-                "showEn": 1,
-                "icon": "heart.text.square"
-            },
-            {
                 "id": "prayer_time",
                 "showEn": 1,
                 "showRu": 1,
@@ -92,32 +79,6 @@
                 "icon": "doc.append",
                 "showEn": 1,
                 "minLaunchCount": 5
-            },
-            {
-                "id": "eid_prayer",
-                "type": "article",
-                "urlRu": "https://www.namaz.live/eid-prayer-ru",
-                "titleRu": "Празничный ('Ид) намаз",
-                "descriptionRu": "",
-                "showRu": 0,
-                "urlEn": "https://www.namaz.live/eid-prayer",
-                "titleEn": "Eid Prayer",
-                "icon":"figure.walk",
-                "descriptionEn": "",
-                "showEn": 1
-            },
-            {
-                "id": "eid_prayer_external_link",
-                "type": "link",
-                "urlRu": "https://azan.ru/maqalat/read/kak-pravilno-sovershat-prazdnichnyiy-id-namaz-10984",
-                "titleRu": "Празничный ('Ид) намаз",
-                "descriptionRu": "",
-                "showRu": 1,
-                "urlEn": "https://islamqa.org/hanafi/qibla-hanafi/35334/the-fiqh-of-eid/",
-                "titleEn": "Eid Prayer in Detail",
-                "icon":"figure.walk",
-                "descriptionEn": "",
-                "showEn": 0
             },
             {
                 "id": "jumu3ah",
@@ -346,6 +307,45 @@
                 "icon": "play.laptopcomputer",
                 "descriptionEn": "This Online Course is for anyone wishing to prepare themselves for Ramadan through looking at both the outward law and inner dimensions of fasting.",
                 "showEn": 1
+            },
+            {
+                "id": "fitr",
+                "type": "article",
+                "urlRu": "https://www.namaz.live/fitr-ru",
+                "titleRu": "Фитр-садака: милостыня разговения",
+                "descriptionRu": "",
+                "showRu": 1,
+                "urlEn": "https://www.namaz.live/fitr",
+                "titleEn": "Sadaqat ul-Fitr",
+                "descriptionEn": "",
+                "showEn": 1,
+                "icon": "heart.text.square"
+            },
+            {
+                "id": "eid_prayer",
+                "type": "article",
+                "urlRu": "https://www.namaz.live/eid-prayer-ru",
+                "titleRu": "Празничный ('Ид) намаз",
+                "descriptionRu": "",
+                "showRu": 0,
+                "urlEn": "https://www.namaz.live/eid-prayer",
+                "titleEn": "Eid Prayer",
+                "icon":"figure.walk",
+                "descriptionEn": "",
+                "showEn": 1
+            },
+            {
+                "id": "eid_prayer_external_link",
+                "type": "link",
+                "urlRu": "https://azan.ru/maqalat/read/kak-pravilno-sovershat-prazdnichnyiy-id-namaz-10984",
+                "titleRu": "Празничный ('Ид) намаз",
+                "descriptionRu": "",
+                "showRu": 1,
+                "urlEn": "https://islamqa.org/hanafi/qibla-hanafi/35334/the-fiqh-of-eid/",
+                "titleEn": "Eid Prayer in Detail",
+                "icon":"figure.walk",
+                "descriptionEn": "",
+                "showEn": 0
             }
         ]
     }
