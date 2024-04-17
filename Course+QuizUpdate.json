@@ -92,6 +92,18 @@
                     "showEn": 1
                 },
                 {
+                    "id": "prayer_integrals",
+                    "type": "article",
+                    "urlRu": "https://www.namaz.live/prayer-arkan-ru",
+                    "titleRu": "Арканы намаза",
+                    "descriptionRu": "",
+                    "showRu": 0,
+                    "urlEn": "https://www.namaz.live/prayer-arkan",
+                    "titleEn": "Arkan: integrals with prayer",
+                    "descriptionEn": "",
+                    "showEn": 1
+                },
+                {
                     "id": "prayer_categories",
                     "type": "article",
                     "urlRu": "https://www.namaz.live/prayer-categories-ru",
