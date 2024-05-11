@@ -1,0 +1,48 @@
+{
+    "en": {
+        "id": "standard",
+        "titles": ["Let's learn now!","Do a lesson in 5 mins","Let's learn the alphabet!","Let's learn the letters"],
+        "bodies": ["Take a simple step towards reading the Quran.","Arabic has 28 letters.","Letter by letter, step by step."],
+        "attachmentNames" : ["arabic alphabet"],
+        "schedule": [1,2,3,5,7,10,13,16,19,26,34,41,55,69,99,129,159,189,219,249,279,309,339,369,399,429],
+        "increments": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+        "commentary": "the strategy is to remind often in the beginning, then decrease the frequency. start from sending daily for first three days. then switch to every other day. then send a notification once in three day. then once a wee. then every other wee. then keep it monthly for the rest of the year."
+    },
+    "ru": {
+        "id": "standard",
+        "titles": ["Давай учиться!","Пройди урок за 5 минут!","Давай учить алфавит!","Давай учить буквы!"],
+        "bodies": ["Сделай простой шаг на пути к Корану.","В арабском всего 28 букв.","Буква за буквой, так и весь алфавит и узнают."],
+        "attachmentNames" : ["arabic alphabet"],
+        "schedule": [1,2,3,5,7,10,13,16,19,26,34,41,55,69,99,129,159,189,219,249,279,309,339,369,399,429],
+        "increments": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+        "commentary": ""
+    },
+    "fr": {
+        "id": "standard",
+        "titles": ["Apprenons!","Faire une leçon en 5 minutes","Apprenons l'alphabet !","Apprenons les lettres !"],
+        "bodies": ["Faites un pas simple vers la lecture du Coran.","L'arabe compte 28 lettres.","Lettre par lettre, pas à pas."],
+        "attachmentNames" : ["arabic alphabet"],
+        "schedule": [1,2,3,5,7,10,13,16,19,26,34,41,55,69,99,129,159,189,219,249,279,309,339,369,399,429],
+        "increments": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+        "commentary": ""
+    },
+    "tr": {
+        "id": "standard",
+        "titles": ["Hadi öğrenelim!","5 dakikada ders çalış","Alfabeyi öğrenelim!","Harfleri öğrenelim!"],
+        "bodies": ["Kuran okumak için basit bir adım atın.","Arapça 28 harften oluşur.","Adım adım, harf harf."],
+        "attachmentNames" : ["arabic alphabet"],
+        "schedule": [1,2,3,5,7,10,13,16,19,26,34,41,55,69,99,129,159,189,219,249,279,309,339,369,399,429],
+        "increments": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+        "commentary": ""
+    },
+    "id": {
+        "id": "standard",
+        "titles": ["Ayo belajar sekarang!","Selesaikan pelajaran dalam 5 menit","Mari belajar alfabet!","Ayo belajar huruf!"],
+        "bodies": ["Ambil langkah sederhana menuju membaca Al-Qur'an.","Bahasa Arab memiliki 28 huruf.","Huruf demi huruf, langkah demi langkah."],
+        "attachmentNames" : ["arabic alphabet"],
+        "schedule": [1,2,3,5,7,10,13,16,19,26,34,41,55,69,99,129,159,189,219,249,279,309,339,369,399,429],
+        "increments": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+        "commentary": ""
+    }
+}
+
