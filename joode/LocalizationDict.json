@@ -544,5 +544,40 @@
         "french": "Apprenez l'alphabet arabe en deux heures avec cette application gratuite : ",
         "turkish": "Bu ücretsiz uygulama ile iki saat içinde Arap alfabesini öğrenin: ",
         "indonesian": "Pelajari alfabet Arab dalam dua jam dengan aplikasi gratis ini: "
+    },
+    "close": {
+        "english": "Close",
+        "russian": "Закрыть",
+        "french": "Fermer",
+        "turkish": "Kapalı",
+        "indonesian": "Menutup"
+    },
+    "share": {
+        "english": "Share",
+        "russian": "Поделиться",
+        "french": "Partager",
+        "turkish": "Paylaşmak",
+        "indonesian": "Membagikan"
+    },
+    "congratulations": {
+        "english": "Congratulations",
+        "russian": "Поздравляем",
+        "french": "Toutes nos félicitations",
+        "turkish": "Tebrikler",
+        "indonesian": "Selamat"
+    },
+    "whatNext": {
+        "english": "What’s next?",
+        "russian": "Что дальше?",
+        "french": "Et après?",
+        "turkish": "Sıradaki ne?",
+        "indonesian": "Apa berikutnya?"
+    },
+    "completedLetterCourse": {
+        "english": "You’ve completed the whole alphabet, the 28 letters!",
+        "russian": "Ты прошёл весь алфавит, все 28 букв!",
+        "french": "Vous avez complété tout l’alphabet, les 28 lettres !",
+        "turkish": "28 harften oluşan alfabenin tamamını tamamladınız!",
+        "indonesian": "Anda telah menyelesaikan seluruh alfabet, seluruh 28 huruf!"
     }
 }
