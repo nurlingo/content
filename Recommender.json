@@ -93,6 +93,18 @@
                 "minLaunchCount": 5
             },
             {
+                "id": "dhul-hijjah",
+                "type": "article",
+                "urlRu": "https://www.namaz.live/dhul-hijjah-ru",
+                "titleRu": "Начались первые 10 дней Зуль-Хиджа!",
+                "showRu": 0,
+                "urlEn": "https://www.namaz.live/dhul-hijjah",
+                "titleEn": "10 days of Dhul-Hijjah have started!",
+                "showEn": 1,
+                "icon": "calendar",
+                "minLaunchCount": 5
+            },
+            {
                 "id": "online_course",
                 "showEn": 1,
                 "showRu": 1,
@@ -117,6 +129,19 @@
                 "showEn": 1,
                 "icon": "square.and.arrow.up",
                 "minLaunchCount": 9
+            },
+            {
+                "id": "how_to_help_palestinians",
+                "type": "link",
+                "urlRu": "https://zakyatrt.com/campaign/sektor-gaza/",
+                "titleRu": "Сбор помощи Сектору Газа",
+                "showRu": 1,
+                "urlEn": "https://donate.unrwa.org/gaza/",
+                "titleEn": "How to help Palestinians",
+                "descriptionEn": "As Muslims, we care about Palestine. The Israeli attacks are reported to have killed over 30 thousand civilians, most of them children and women. They are attacking mosques, hospitals, and people's houses. Their actions will catch up with them.\n\nDespite everything, Gazans are staying patient and saying \"Alhamdulillah in every state.\" Let's help them with whatever we can:\n1. Make dua for their victory and wellbeing.\n2. Donate to charities working in Gaza (link below).\n3. Boycot Israeli goods and also the companies that support Israel.\n4. Strengthen your Islam by learning and practising.\n\nStrengthening ourselves is what will solve the problem for our ummah in the long term inshaAllah. \n\nIndeed, the help of Allah is near [al-Quran, 2:214].",
+                "showEn": 1,
+                "icon": "waveform.path.ecg",
+                "minLaunchCount": 15
             },
             {
                 "id": "999005",
@@ -155,19 +180,6 @@
                 "showEn": 1,
                 "icon": "star.square",
                 "minLaunchCount": 13
-            },
-            {
-                "id": "how_to_help_palestinians",
-                "type": "link",
-                "urlRu": "https://zakyatrt.com/campaign/sektor-gaza/",
-                "titleRu": "Сбор помощи Сектору Газа",
-                "showRu": 1,
-                "urlEn": "https://donate.unrwa.org/gaza/",
-                "titleEn": "How to help Palestinians",
-                "descriptionEn": "As Muslims, we care about Palestine. The Israeli attacks are reported to have killed over 30 thousand civilians, most of them children and women. They are attacking mosques, hospitals, and people's houses. Their actions will catch up with them.\n\nDespite everything, Gazans are staying patient and saying \"Alhamdulillah in every state.\" Let's help them with whatever we can:\n1. Make dua for their victory and wellbeing.\n2. Donate to charities working in Gaza (link below).\n3. Strengthen your Islam by learning and practising.\n\nStrengthening ourselves is what will solve the problem for our ummah in the long term inshaAllah. \n\nIndeed, the help of Allah is near [al-Quran, 2:214].",
-                "showEn": 1,
-                "icon": "waveform.path.ecg",
-                "minLaunchCount": 15
             },
             {
                 "id": "999011",
@@ -252,7 +264,6 @@
                 "minLaunchCount": 25
             },
             {
-                
                 "id": "resources",
                 "type": "navigation",
                 "urlRu": "",
@@ -330,7 +341,7 @@
                 "showRu": 0,
                 "urlEn": "https://www.namaz.live/eid-prayer",
                 "titleEn": "Eid Prayer",
-                "icon":"figure.walk",
+                "icon": "figure.walk",
                 "descriptionEn": "",
                 "showEn": 1
             },
@@ -343,7 +354,7 @@
                 "showRu": 1,
                 "urlEn": "https://islamqa.org/hanafi/qibla-hanafi/35334/the-fiqh-of-eid/",
                 "titleEn": "Eid Prayer in Detail",
-                "icon":"figure.walk",
+                "icon": "figure.walk",
                 "descriptionEn": "",
                 "showEn": 0
             }
