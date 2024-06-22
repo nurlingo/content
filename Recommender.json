@@ -100,7 +100,7 @@
                 "showRu": 0,
                 "urlEn": "https://www.namaz.live/dhul-hijjah",
                 "titleEn": "10 days of Dhul-Hijjah have started!",
-                "showEn": 1,
+                "showEn": 0,
                 "icon": "calendar",
                 "minLaunchCount": 5
             },
