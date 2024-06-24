@@ -35,11 +35,11 @@
         "indonesian": "Mungkin nanti"
     },
     "Intro": {
-        "english": "There are 28 letters in the Arabic alphabet.\n\nLearn their names,\nwrite and memorize them.\n\nComplete all levels.",
-        "russian": "\nВ арабском алфавите 28 букв.\n\nМы научимся произносить их и писать, а также постараемся запомнить.\n\nСлушай песню-алфавит, и проходи уроки",
-        "french": "Il y a 28 lettres dans l'alphabet. Notre première étape est d'apprendre leurs noms et leur apparence.",
-        "turkish": "Alfabede 28 harf var. İlk adımımız isimlerini öğrenmektir",
-        "indonesian": "Ada 28 huruf dalam alfabet.\n\nLangkah pertama adalah mengenal nama-namanya."
+        "english": "There are 28 letters in the Arabic alphabet.",
+        "russian": "В арабском алфавите 28 букв.",
+        "french": "Il y a 28 lettres dans l'alphabet.",
+        "turkish": "Alfabede 28 harf var.",
+        "indonesian": "Ada 28 huruf dalam alfabet."
     },
     "Outro": {
         "english": "Arabic has 3 vowels.\n\n\nListen to how they sound in combination with letters.",
@@ -138,6 +138,13 @@
         "french": "Temps de révision\n\nÉcoute attentivement\n\nRépète",
         "turkish": "Gözden geçirme zamanı\n\nKendi iyi dinle\n\nRipitat",
         "indonesian": "Saatnya mengulang\n\nDengarkan dengan hati-hati\n\nUlangi"
+    },
+    "NextLesson": {
+        "english": "Next lesson",
+        "russian": "Следующий урок",
+        "french": "Prochaine leçon",
+        "turkish": "Gelecek ders",
+        "indonesian": "Pelajaran berikutnya"
     },
     "Listen": {
         "english": "Listen",
@@ -574,10 +581,87 @@
         "indonesian": "Apa berikutnya?"
     },
     "completedLetterCourse": {
-        "english": "You’ve completed the whole alphabet, the 28 letters!",
-        "russian": "Ты прошёл весь алфавит, все 28 букв!",
-        "french": "Vous avez complété tout l’alphabet, les 28 lettres !",
+        "english": "You’ve completed the alphabet!",
+        "russian": "Алфавит пройден, машаАллах!",
+        "french": "Vous avez complété l’alphabet!",
         "turkish": "28 harften oluşan alfabenin tamamını tamamladınız!",
-        "indonesian": "Anda telah menyelesaikan seluruh alfabet, seluruh 28 huruf!"
+        "indonesian": "Anda telah menyelesaikan seluruh alfabet!"
+    },
+    "FirstLessonTitle1": {
+        "english": "The alphabet is easy to learn",
+        "russian": "Выучить алфавит легко",
+        "french": "Apprendre l'alphabet est facile",
+        "turkish": "Alfabeyi öğrenmek kolaydır",
+        "indonesian": "Mempelajari alfabet itu mudah"
+    },
+    "FirstLessonTitle2": {
+        "english": "Arabic alphabet contains 28 letters",
+        "russian": "В арабском алфавите 28 букв",
+        "french": "L'alphabet arabe contient 28 lettres",
+        "turkish": "Arap alfabesi 28 harften oluşur",
+        "indonesian": "Alfabet Arab berisi 28 huruf"
+    },
+    "FirstLessonTitle3": {
+        "english": "Lets start with first 4",
+        "russian": "Начнем с первых 4х",
+        "french": "Commençons par les 4 premiers",
+        "turkish": "İlk 4 ile başlayalım",
+        "indonesian": "Mari kita mulai dengan 4 yang pertama"
+    },
+    "AlphabetTitle1": {
+        "english": "Arabic alphabet contains 28 letters",
+        "russian": "В арабском алфавите 28 букв",
+        "french": "L'alphabet arabe contient 28 lettres",
+        "turkish": "Arap alfabesi 28 harften oluşur",
+        "indonesian": "Alfabet Arab berisi 28 huruf"
+    },
+    "AlphabetTitle2": {
+        "english": "We will learn to pronounce them and write them, and also try to remember them",
+        "russian": "Мы научимся произносить их и писать, а также постараемся запомнить",
+        "french": "Nous apprendrons à les prononcer et à les écrire, et nous essaierons également de les mémoriser.",
+        "turkish": "Bunları telaffuz etmeyi, yazmayı öğreneceğiz ve hatırlamaya çalışacağız.",
+        "indonesian": "Kita akan belajar mengucapkan dan menulisnya, serta mencoba mengingatnya"
+    },
+    "AlphabetTitle3": {
+        "english": "Listen to the alphabet song and take lessons",
+        "russian": "Слушай песню-алфавит, и проходи уроки",
+        "french": "Écoutez la chanson de l'alphabet et prenez des cours",
+        "turkish": "Alfabe şarkısını dinleyin ve ders alın",
+        "indonesian": "Dengarkan lagu alfabet dan ambil pelajaran"
+    },
+    "PronunciationTitle1": {
+        "english": "Time to revise",
+        "russian": "Теперь закрепим",
+        "french": "Temps de révision",
+        "turkish": "Gözden geçirme zamanı",
+        "indonesian": "Saatnya mengulang"
+    },
+    "PronunciationTitle2": {
+        "english": "Listen carefully",
+        "russian": "Слушаем внимательно",
+        "french": "Écoute attentivement",
+        "turkish": "Kendi iyi dinle",
+        "indonesian": "Ripitat"
+    },
+    "PronunciationTitle3": {
+        "english": "Repeat",
+        "russian": "Повторяем",
+        "french": "Répète",
+        "turkish": "Ripitat",
+        "indonesian": "Ulangi"
+    },
+    "VowelsTitle1": {
+        "english": "Arabic has 3 vowels",
+        "russian": "В арабском 3 гласных звука",
+        "french": "Il y a 3 voyelles en arabe",
+        "turkish": "Arapça'da 3 sesli var",
+        "indonesian": "Ada 3 huruf vokal dalam bahasa Arab"
+    },
+    "VowelsTitle2": {
+        "english": "Listen to how they sound in combination with letters.",
+        "russian": "Слушай как они звучат в сочетание с буквами.",
+        "french": "Nous allons apprendre comment les prononcer avec d'autres lettres.",
+        "turkish": "Harflerle birleştirildiğinde nasıl ses çıkardıklarını öğreneceğiz",
+        "indonesian": "Kita akan belajar bagaimana bunyinya ketika dikombinasikan dengan huruf."
     }
 }
