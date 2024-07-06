@@ -91,18 +91,18 @@
         "indonesian": "Mulai"
     },
     "ChooseLetter": {
-        "english": "Pick the letter",
-        "russian": "Выбери букву",
-        "french": "Choisis la lettre",
-        "turkish": "Mektup seç",
-        "indonesian": "Pilih huruf"
+        "english": "Pick the right letter",
+        "russian": "Выбери правильную букву",
+        "french": "Choisis la bonne lettre",
+        "turkish": "Doğru harfi seçin",
+        "indonesian": "Pilih huruf yang benar"
     },
     "ChooseSound": {
-        "english": "Pick the sound",
-        "russian": "Выбери звук",
-        "french": "Choisis le son",
-        "turkish": "Sesi seç",
-        "indonesian": "Pilih suara"
+        "english": "Pick the right sound",
+        "russian": "Выбери правильный звук",
+        "french": "Choisis le bon son",
+        "turkish": "Doğru sesi seç",
+        "indonesian": "Pilih suara yang benar"
     },
     "Draw": {
         "english": "Draw",
@@ -110,6 +110,13 @@
         "french": "Dessine",
         "turkish": "Çizin",
         "indonesian": "Gambar"
+    },
+    "DrawOnScreen": {
+        "english": "Draw on screen",
+        "russian": "Рисуем на экране",
+        "french": "Dessine à l'écran",
+        "turkish": "Ekrana çizin",
+        "indonesian": "Gambar di layar"
     },
     "Next": {
         "english": "Next",
@@ -231,11 +238,11 @@
         "indonesian": "Belajar menggandeng huruf"
     },
     "LessonZero": {
-        "english": "Alphabet Song",
-        "russian": "Песня-алфавит",
-        "french": "La chanson de l'alphabet",
-        "turkish": "Alfabe şarkısı",
-        "indonesian": "Lagu Alfabet"
+        "english": "Intro to Alphabet",
+        "russian": "Алфавит целиком",
+        "french": "Intro",
+        "turkish": "Intro",
+        "indonesian": "Intro"
     },
     "LessonOne": {
         "english": "1. Alif Ba Ta Tha",
@@ -588,32 +595,46 @@
         "indonesian": "Anda telah menyelesaikan seluruh alfabet!"
     },
     "FirstLessonTitle1": {
-        "english": "As-salaamu 'alaikum!",
-        "russian": "Ассаляму 'аляйкум!",
-        "french": "As-salaamu 'alaikum!",
-        "turkish": "Esselamu aleyküm!",
-        "indonesian": "Assalamu 'alaikum!"
+        "english": "The alphabet is easy to learn",
+        "russian": "Выучить алфавит легко",
+        "french": "Apprendre l'alphabet est facile",
+        "turkish": "Alfabeyi öğrenmek kolaydır",
+        "indonesian": "Mempelajari alfabet itu mudah"
     },
     "FirstLessonTitle2": {
-        "english": "The alphabet is easy",
-        "russian": "Алфавит легко выучить",
-        "french": "L'alphabet est facile",
-        "turkish": "Alfabe kolay",
-        "indonesian": "Alfabet itu mudah"
-    },
-    "FirstLessonTitle3": {
-        "english": "Start with 4 simple letters",
-        "russian": "Начнем с 4 простых букв",
-        "french": "Commençons par 4 lettres simples",
-        "turkish": "4 basit harfle başlayalım",
-        "indonesian": "Mulai dengan 4 huruf sederhana"
-    },
-    "AlphabetTitle1": {
-        "english": "The alphabet has 28 letters",
+        "english": "Arabic alphabet contains 28 letters",
         "russian": "В арабском алфавите 28 букв",
-        "french": "L'alphabet a 28 lettres",
+        "french": "L'alphabet arabe contient 28 lettres",
         "turkish": "Arap alfabesi 28 harften oluşur",
         "indonesian": "Alfabet Arab berisi 28 huruf"
+    },
+    "FirstLessonTitle3": {
+        "english": "Lets start with first 4",
+        "russian": "Начнем с первых 4х",
+        "french": "Commençons par les 4 premiers",
+        "turkish": "İlk 4 ile başlayalım",
+        "indonesian": "Mari kita mulai dengan 4 yang pertama"
+    },
+    "AlphabetTitle1": {
+        "english": "Arabic alphabet contains 28 letters",
+        "russian": "В арабском алфавите 28 букв",
+        "french": "L'alphabet arabe contient 28 lettres",
+        "turkish": "Arap alfabesi 28 harften oluşur",
+        "indonesian": "Alfabet Arab berisi 28 huruf"
+    },
+    "AlphabetTitle2": {
+        "english": "We will learn to pronounce them and write them, and also try to remember them",
+        "russian": "Мы научимся произносить их и писать, а также постараемся запомнить",
+        "french": "Nous apprendrons à les prononcer et à les écrire, et nous essaierons également de les mémoriser.",
+        "turkish": "Bunları telaffuz etmeyi, yazmayı öğreneceğiz ve hatırlamaya çalışacağız.",
+        "indonesian": "Kita akan belajar mengucapkan dan menulisnya, serta mencoba mengingatnya"
+    },
+    "AlphabetTitle3": {
+        "english": "Listen to the alphabet song and take lessons",
+        "russian": "Слушай песню-алфавит, и проходи уроки",
+        "french": "Écoutez la chanson de l'alphabet et prenez des cours",
+        "turkish": "Alfabe şarkısını dinleyin ve ders alın",
+        "indonesian": "Dengarkan lagu alfabet dan ambil pelajaran"
     },
     "PronunciationTitle1": {
         "english": "Time to revise",
@@ -637,10 +658,17 @@
         "indonesian": "Ulangi"
     },
     "VowelsTitle1": {
-        "english": "Arabic has 3 vowels which we put as a mark above or below the letter",
-        "russian": "В арабском языке есть 3 гласные, которые ставятся над или под буквой",
-        "french": "Il y a 3 voyelles en arabe qui se placent au-dessus ou en dessous de la lettre",
-        "turkish": "Arapçada harfin üstüne veya altına konulan 3 ünlü vardır",
-        "indonesian": "Bahasa Arab memiliki 3 huruf vokal yang ditempatkan di atas atau di bawah huruf"
+        "english": "Arabic has 3 vowels",
+        "russian": "В арабском 3 гласных звука",
+        "french": "Il y a 3 voyelles en arabe",
+        "turkish": "Arapça'da 3 sesli var",
+        "indonesian": "Ada 3 huruf vokal dalam bahasa Arab"
+    },
+    "VowelsTitle2": {
+        "english": "Listen to how they sound in combination with letters.",
+        "russian": "Слушай как они звучат в сочетание с буквами.",
+        "french": "Nous allons apprendre comment les prononcer avec d'autres lettres.",
+        "turkish": "Harflerle birleştirildiğinde nasıl ses çıkardıklarını öğreneceğiz",
+        "indonesian": "Kita akan belajar bagaimana bunyinya ketika dikombinasikan dengan huruf."
     }
 }
