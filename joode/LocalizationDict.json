@@ -91,18 +91,18 @@
         "indonesian": "Mulai"
     },
     "ChooseLetter": {
-        "english": "Pick the letter",
-        "russian": "Выбери букву",
-        "french": "Choisis la lettre",
-        "turkish": "Mektup seç",
-        "indonesian": "Pilih huruf"
+        "english": "Pick the right letter",
+        "russian": "Выбери правильную букву",
+        "french": "Choisis la bonne lettre",
+        "turkish": "Doğru harfi seçin",
+        "indonesian": "Pilih huruf yang benar"
     },
     "ChooseSound": {
-        "english": "Pick the sound",
-        "russian": "Выбери звук",
-        "french": "Choisis le son",
-        "turkish": "Sesi seç",
-        "indonesian": "Pilih suara"
+        "english": "Pick the right sound",
+        "russian": "Выбери правильный звук",
+        "french": "Choisis le bon son",
+        "turkish": "Doğru sesi seç",
+        "indonesian": "Pilih suara yang benar"
     },
     "Draw": {
         "english": "Draw",
@@ -110,6 +110,13 @@
         "french": "Dessine",
         "turkish": "Çizin",
         "indonesian": "Gambar"
+    },
+    "DrawOnScreen": {
+        "english": "Draw on screen",
+        "russian": "Рисуем на экране",
+        "french": "Dessine à l'écran",
+        "turkish": "Ekrana çizin",
+        "indonesian": "Gambar di layar"
     },
     "Next": {
         "english": "Next",
@@ -637,10 +644,10 @@
         "indonesian": "Ulangi"
     },
     "VowelsTitle1": {
-        "english": "Arabic has 3 vowels which we put as a mark above or below the letter",
-        "russian": "В арабском языке есть 3 гласные, которые ставятся над или под буквой",
-        "french": "Il y a 3 voyelles en arabe qui se placent au-dessus ou en dessous de la lettre",
-        "turkish": "Arapçada harfin üstüne veya altına konulan 3 ünlü vardır",
-        "indonesian": "Bahasa Arab memiliki 3 huruf vokal yang ditempatkan di atas atau di bawah huruf"
+        "english": "Arabic has 3 vowels placed above or below letters",
+        "russian": "В арабском языке 3 гласные, ставящиеся над или под буквами",
+        "french": "L'arabe a 3 voyelles placées au-dessus ou en dessous des lettres",
+        "turkish": "Arapçada harflerin üstüne veya altına konulan 3 ünlü vardır",
+        "indonesian": "Bahasa Arab memiliki 3 vokal yang ditempatkan di atas atau di bawah huruf"
     }
 }
