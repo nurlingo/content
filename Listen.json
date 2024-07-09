@@ -20,7 +20,8 @@
                 "showRu": 0,
                 "icon": "waveform.and.mic",
                 "restriction": "iOS 15",
-                "minLaunchCount": 7
+                "minLaunchCount": 7,
+                "minBundleVersion": 202
             }
         ]
     },
