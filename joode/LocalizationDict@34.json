@@ -1,0 +1,674 @@
+{
+    "Language": {
+        "english": "English",
+        "russian": "Русский",
+        "french": "French",
+        "turkish": "Turkish",
+        "indonesian": "Indonesian"
+    },
+    "AllowNotifications": {
+        "english": "Allow notifications?",
+        "russian": "Разрешить уведомления?",
+        "french": "Veuillez autoriser les notifications",
+        "turkish": "Lütfen bildirimlere izin veriniz",
+        "indonesian": "Mohon izinkan pemberitahuan"
+    },
+    "JustifyNotifications": {
+        "english": "We can send you reminders to help you complete all the lessons!",
+        "russian": "Будем посылать напоминалки, чтобы помочь с прохождением уроков.",
+        "french": "Nous vous enverrons des rappels pour vous aider à terminer toutes les leçons!",
+        "turkish": "Tüm dersleri tamamlamanıza yardımcı olacak hatırlatıcılar göndereceğiz!",
+        "indonesian": "Kami akan mengirimkan pengingat untuk membantu Anda menyelesaikan semua pelajaran!"
+    },
+    "YesPlease": {
+        "english": "Yes, please",
+        "russian": "Да, можно",
+        "french": "D'accord",
+        "turkish": "Evet lütfen",
+        "indonesian": "Baik!"
+    },
+    "MaybeLater": {
+        "english": "Maybe later",
+        "russian": "Может после",
+        "french": "Plus tard",
+        "turkish": "Belki sonra",
+        "indonesian": "Mungkin nanti"
+    },
+    "Intro": {
+        "english": "There are 28 letters in the Arabic alphabet.",
+        "russian": "В арабском алфавите 28 букв.",
+        "french": "Il y a 28 lettres dans l'alphabet.",
+        "turkish": "Alfabede 28 harf var.",
+        "indonesian": "Ada 28 huruf dalam alfabet."
+    },
+    "Outro": {
+        "english": "Arabic has 3 vowels.\n\n\nListen to how they sound in combination with letters.",
+        "russian": "В арабском 3 гласных звука.\n\n\nСлушай как они звучат в сочетание с буквами.",
+        "french": "Il y a 3 voyelles en arabe.\n\n\nNous allons apprendre comment les prononcer avec d'autres lettres.",
+        "turkish": "Arapça'da 3 sesli var.\n\nHarflerle birleştirildiğinde nasıl ses çıkardıklarını öğreneceğiz",
+        "indonesian": "Ada 3 huruf vokal dalam bahasa Arab.\n\nKita akan belajar bagaimana bunyinya ketika dikombinasikan dengan huruf."
+    },
+    "BonusText": {
+        "english": "In this dua, we ask Allah for something good for each letter of the alphabet.",
+        "russian": "Это молитва, в которой мы просим у Аллаха что-то хорошее за каждую букву алфавита.",
+        "french": "C'est une dua (prière), où pour chaque lettre de l'alphabet, nous demandons quelque chose de bien à Allah.",
+        "turkish": "Bu, alfabedeki her harf için Allah'tan güzel bir şey istediğimiz bir duadır.",
+        "indonesian": "Ini adalah doa, di mana untuk setiap huruf alfabet kita meminta sesuatu yang baik dari Allah."
+    },
+    "PassPreviousLesson": {
+        "english": "Pass the previous lesson",
+        "russian": "Сначала пройди предыдущие уроки",
+        "french": "Passer la leçon précédente",
+        "turkish": "Bir önceki dersi geçin",
+        "indonesian": "harus lulus pelajaran sebelumnya"
+    },
+    "PassLesson": {
+        "english": "Pass lesson %d",
+        "russian": "Пройди %dй урок",
+        "french": "Passer la leçon %d",
+        "turkish": "%dci dersi geçin",
+        "indonesian": "Lulus pelajaran %d"
+    },
+    "Passed": {
+        "english": "Passed",
+        "russian": "Пройден",
+        "french": "Réussie",
+        "turkish": "Geçti",
+        "indonesian": "Passed"
+    },
+    "LessonIntro": {
+        "english": "Draw\n\nPronounce\n\nMemorize",
+        "russian": "Пишем\n\nПроизносим\n\nЗапоминаем",
+        "french": "Dessine\n\nPrononce\n\nMémorise",
+        "turkish": "Çizin\n\nTelaffuz edin\n\nÖğrenin",
+        "indonesian": "Gambar\n\nLafalkan\n\nMenghafalkan"
+    },
+    "Start": {
+        "english": "Start",
+        "russian": "Начать",
+        "french": "Commencer",
+        "turkish": "Başla",
+        "indonesian": "Mulai"
+    },
+    "ChooseLetter": {
+        "english": "Pick the right letter",
+        "russian": "Выбери правильную букву",
+        "french": "Choisis la bonne lettre",
+        "turkish": "Doğru harfi seçin",
+        "indonesian": "Pilih huruf yang benar"
+    },
+    "ChooseSound": {
+        "english": "Pick the right sound",
+        "russian": "Выбери правильный звук",
+        "french": "Choisis le bon son",
+        "turkish": "Doğru sesi seç",
+        "indonesian": "Pilih suara yang benar"
+    },
+    "Draw": {
+        "english": "Draw",
+        "russian": "Рисуем",
+        "french": "Dessine",
+        "turkish": "Çizin",
+        "indonesian": "Gambar"
+    },
+    "DrawOnScreen": {
+        "english": "Draw on screen",
+        "russian": "Рисуем на экране",
+        "french": "Dessine à l'écran",
+        "turkish": "Ekrana çizin",
+        "indonesian": "Gambar di layar"
+    },
+    "Next": {
+        "english": "Next",
+        "russian": "Дальше",
+        "french": "Suivant",
+        "turkish": "Sonraki",
+        "indonesian": "Berikutnya"
+    },
+    "Gotit": {
+        "english": "Got it",
+        "russian": "Запомнил",
+        "french": "C'est bon",
+        "turkish": "Tamam",
+        "indonesian": "Sudah paham"
+    },
+    "Continue": {
+        "english": "Proceed",
+        "russian": "Продолжить",
+        "french": "Continuer",
+        "turkish": "Devam",
+        "indonesian": "Melanjutkan"
+    },
+    "Revision": {
+        "english": "Time to revise\n\nListen carefully\n\nRepeat",
+        "russian": "Теперь закрепим\n\nСлушаем внимательно\n\nПовторяем\n\n",
+        "french": "Temps de révision\n\nÉcoute attentivement\n\nRépète",
+        "turkish": "Gözden geçirme zamanı\n\nKendi iyi dinle\n\nRipitat",
+        "indonesian": "Saatnya mengulang\n\nDengarkan dengan hati-hati\n\nUlangi"
+    },
+    "NextLesson": {
+        "english": "Next lesson",
+        "russian": "Следующий урок",
+        "french": "Prochaine leçon",
+        "turkish": "Gelecek ders",
+        "indonesian": "Pelajaran berikutnya"
+    },
+    "Listen": {
+        "english": "Listen",
+        "russian": "Слушать",
+        "french": "Écoute",
+        "turkish": "Dinle",
+        "indonesian": "Dengarkan"
+    },
+    "Revise": {
+        "english": "Revise",
+        "russian": "Закрепить",
+        "french": "Révise",
+        "turkish": "Revize",
+        "indonesian": "Review ulang materi"
+    },
+    "WellDone": {
+        "english": "Good",
+        "russian": "Отлично",
+        "french": "Très bien",
+        "turkish": "İyi",
+        "indonesian": "Bagus!"
+    },
+    "PronunciationPractice": {
+        "english": "Pronunciation Practice",
+        "russian": "Произносим буквы",
+        "french": "Entraînement de prononciation",
+        "turkish": "Telaffuz Uygulaması",
+        "indonesian": "Latihan Pelafalan"
+    },
+    "MainPage": {
+        "english": "Main",
+        "russian": "На главную",
+        "french": "Page principale",
+        "turkish": "Ana sayfa",
+        "indonesian": "Halaman Utama"
+    },
+    "Repeat": {
+        "english": "Repeat",
+        "russian": "Повторить",
+        "french": "Répète",
+        "turkish": "Tekrarla",
+        "indonesian": "Ulangi"
+    },
+    "YouHaveLearntFirstLetter": {
+        "english": "MashaAllah!\nYou have just learnt your first letter!",
+        "russian": "МашаАллах!\nВы только что выучили свою первую букву!",
+        "french": "MashaAllah!\nVous venez d'apprendre votre première lettre!",
+        "turkish": "MaşaAllah!\nİlk harfinizi öğrendiniz!",
+        "indonesian": "MashaAllah!\nAnda baru saja mempelajari huruf pertama Anda!"
+    },
+    "CharactersLearnt": {
+        "english": "Well done!\nYou've learned %d letters out of 28.\n\nNew audio is available in the al-Quran section.",
+        "russian": "Молодец!\nБукв пройдено: %d из 28.\n\nДоступно новое аудио в разделе Аль-Коран.",
+        "french": "Très bien!\nTu as appris %d lettres sur 28.\n\nNouvel audio disponible!",
+        "turkish": "Aferin!\n%d harfleri 28'den öğrendiniz.\n\nYeni kayıt mevcut.",
+        "indonesian": "Selamat!\nAnda telah mempelajari %d huruf dari total 28 huruf.\n\nRekaman baru telah tersedia!"
+    },
+    "Exit": {
+        "english": "Exit",
+        "russian": "Выйти",
+        "french": "Sortie",
+        "turkish": "Çıkış",
+        "indonesian": "Keluar"
+    },
+    "Cancel": {
+        "english": "Cancel",
+        "russian": "Отмена",
+        "french": "Annuler",
+        "turkish": "İptal",
+        "indonesian": "Batal"
+    },
+    "AreYouSure": {
+        "english": "Are you sure?",
+        "russian": "Прервать урок и выйти в главное меню?",
+        "french": "Est-tu sûr?",
+        "turkish": "Emin misiniz?",
+        "indonesian": "Anda yakin?"
+    },
+    "instruction": {
+        "english": "You are to see random combinations of different letters. Name them from right to left and then tap the screen to check.",
+        "russian": "Мы будем показывать случайные комбинации из разных букв. Называешь их справа налево, затем жмешь на экран чтобы проверить себя.",
+        "french": "Tu vas voir des combinaisons aléatoires de différentes lettres. Nomme les de droite à gauche puis tape sur l'écran pour vérifier.",
+        "turkish": "Farklı harflerin rastgele kombinasyonlarını göreceksiniz, sağdan sola isimlendirip kontrol etmek için ekrana dokunun.",
+        "indonesian": "Anda akan melihat kombinasi acak dari huruf yang berbeda-beda. Berilah nama huruf-huruf ini dari kiri ke kanan, lalu sentuh layar untuk memeriksa."
+    },
+    "LearnToJoin": {
+        "english": "Learn to join letters",
+        "russian": "Учимся соединять",
+        "french": "Apprends à relier les lettres",
+        "turkish": "Mektupları birleştirme hakkında bilgi edinin",
+        "indonesian": "Belajar menggandeng huruf"
+    },
+    "LessonZero": {
+        "english": "Alphabet Song",
+        "russian": "Песня-алфавит",
+        "french": "La chanson de l'alphabet",
+        "turkish": "Alfabe şarkısı",
+        "indonesian": "Lagu Alfabet"
+    },
+    "LessonOne": {
+        "english": "1. Alif",
+        "russian": "1. Алиф",
+        "french": "1. Alif",
+        "turkish": "1. elif",
+        "indonesian": "1. Alif"
+    },
+    "LessonTwo": {
+        "english": "2. Ba Ta Tha",
+        "russian": "2. Ба Та\nи межзубный Са",
+        "french": "2. Ba Ta Tha",
+        "turkish": "2. be te s̠e",
+        "indonesian": "2. Ba Ta Tha"
+    },
+    "LessonThree": {
+        "english": "3. Jeem Ha Kho",
+        "russian": "3. Джим Ха Хо",
+        "french": "3. Jim Ha Khaa",
+        "turkish": "3. cīm ḥā ḫa",
+        "indonesian": "3. Jiim Ha Kho"
+    },
+    "LessonFour": {
+        "english": "4. Dal Dhal Ro Za",
+        "russian": "4. Даль, межзубный Заль\nРо и За",
+        "french": "4. Dal Dhal Raa Za",
+        "turkish": "4. dāl z̠el ra ze",
+        "indonesian": "4. Dal Dzal Ro Za"
+    },
+    "LessonFive": {
+        "english": "5. Seen Sheen Ha",
+        "russian": "5. Легкий Ха,\nСин и Шин",
+        "french": "5. Sin Chin Ha",
+        "turkish": "5. sīn şīn he",
+        "indonesian": "5. Siin Syin Ha"
+    },
+    "LessonSix": {
+        "english": "6. Sod Dod To Dho ",
+        "russian": "6. Сод Дод То\n и межзубный Зо",
+        "french": "6. Saad Daad Taa Dhaa",
+        "turkish": "6. ṣād ḍād ṭā ẓa",
+        "indonesian": "6. Shod Dhod Tho Zho "
+    },
+    "LessonSeven": {
+        "english": "7. 'Ain Ghoin Ya ",
+        "russian": "7. Йа и два гортанных",
+        "french": "7. 'Ain Ghain Ya",
+        "turkish": "7. ayn gayn ye",
+        "indonesian": "7. 'Ain Ghoin Ya "
+    },
+    "LessonEight": {
+        "english": "8. Fa Qof Waw",
+        "russian": "8. Фа, Қоф и Уау",
+        "french": "8. Fa Qaaf Waw",
+        "turkish": "8. fe kāf vāv",
+        "indonesian": "8. Fa Qof Waw"
+    },
+    "LessonNine": {
+        "english": "9. Kaf Lam Meem Noon",
+        "russian": "9. Кяф, Лям, Мим и Нун",
+        "french": "9. Kaf Lam Mim Noun",
+        "turkish": "9. Kaf lām mīm nūn",
+        "indonesian": "9. Kaf Lam Miim Nuun"
+    },
+    "Joining Letters": {
+        "english": "Joining letters",
+        "russian": "Соединение букв",
+        "french": "Relier les lettres",
+        "turkish": "Joining letters",
+        "indonesian": "Menggandeng Huruf"
+    },
+    "Vowels": {
+        "english": "Three Vowels",
+        "russian": "Гласные",
+        "french": "Voyelles",
+        "turkish": "Ünlüler",
+        "indonesian": "Huruf Vokal"
+    },
+    "Bonus for Supporters": {
+        "english": "Bonus for purchasing the app",
+        "russian": "Бонус для поддержавщих",
+        "french": "Bonus: Alphabet Dua",
+        "turkish": "Bonus: Alfabe Duası",
+        "indonesian": "Bonus: Alfabet Dua"
+    },
+    "Alphabet Dua": {
+        "english": "Bonus: Alphabet Dua",
+        "russian": "Бонус: Дуа Алфавит",
+        "french": "Bonus: Alphabet Dua",
+        "turkish": "Bonus: Alfabe Duası",
+        "indonesian": "Bonus: Alfabet Dua"
+    },
+    "WhatIsNext": {
+        "english": "What to do next",
+        "russian": "Что делать дальше",
+        "french": "Adieu",
+        "turkish": "Sonraki",
+        "indonesian": "Selamat tinggal"
+    },
+    "WhatIsNextLink": {
+        "english": "https://sites.google.com/view/joode-next-en/home",
+        "russian": "https://sites.google.com/view/joode-next-ru/home",
+        "french": "https://onelink.to/readarabic",
+        "turkish": "https://onelink.to/readarabic",
+        "indonesian": "https://onelink.to/readarabic"
+    },
+    "Alphabet": {
+        "english": "Alphabet",
+        "russian": "Алфавит",
+        "french": "L'alphabet",
+        "turkish": "Alfabe",
+        "indonesian": "Alfabet"
+    },
+    "al-Quran": {
+        "english": "al-Quran",
+        "russian": "аль-Коран",
+        "french": "Al Quran",
+        "turkish": "al-Koran",
+        "indonesian": "al-Quran"
+    },
+    "Settings": {
+        "english": "Settings",
+        "russian": "Настройки",
+        "french": "Réglages",
+        "turkish": "Ayarlar",
+        "indonesian": "Pengaturan"
+    },
+    "LeaveReview": {
+        "english": "Please rate us",
+        "russian": "Оцени наше приложение!",
+        "french": "Veuillez nous évaluer",
+        "turkish": "Lütfen değerlendirin",
+        "indonesian": "Berilah kami rating!"
+    },
+    "LeaveReviewComment": {
+        "english": "Your AppStore review will help us reach more people",
+        "russian": "Напиши отзыв в AppStore, чтобы больше людей узнало о нас!",
+        "french": "Votre avis sur l'App Store nous aidera à atteindre plus de personnes",
+        "turkish": "AppStore incelemeniz daha iyi hale gelmemize ve daha fazla kişiye ulaşmamıza yardımcı olacaktır",
+        "indonesian": "AppStore review anda akan membantu kami menjadi lebih baik dan mencapai lebih banyak orang"
+    },
+    "GoForIt": {
+        "english": "Let's do it",
+        "russian": "Да, конечно",
+        "french": "Faisons-le",
+        "turkish": "Tamam",
+        "indonesian": "Mari kita lakukan"
+    },
+    "NoThanks": {
+        "english": "No, thanks",
+        "russian": "Нет, спасибо",
+        "french": "Non merci",
+        "turkish": "Hayır, teşekkürler",
+        "indonesian": "Tidak, terima kasih"
+    },
+    "YouLike": {
+        "english": "Do you like our app?",
+        "russian": "Нравится приложение?",
+        "french": "Aimez-vous notre application?",
+        "turkish": "Uygulamamızdan hoşlanıyor musunuz?",
+        "indonesian": "Apakah anda menyukai Apps ini?"
+    },
+    "YouLikeComment": {
+        "english": "The intent was to make it simple and engaging",
+        "russian": "Старались сделать так, чтобы было полезно и увлекательно.",
+        "french": "L'intention était de le rendre simple et engageant",
+        "turkish": "Niyet, bunu hem faydalı hem de çekici hale getirmekti",
+        "indonesian": "Tujuannya adalah untuk menjadikannya bermanfaat dan seru"
+    },
+    "Yes": {
+        "english": "Yes",
+        "russian": "Да",
+        "french": "Oui",
+        "turkish": "Evet",
+        "indonesian": "Ya"
+    },
+    "No": {
+        "english": "No",
+        "russian": "Нет",
+        "french": "Non",
+        "turkish": "Hayır",
+        "indonesian": "Tidak"
+    },
+    "ShopTitle": {
+        "english": "Store",
+        "russian": "Магазин",
+        "french": "Boutique",
+        "turkish": "",
+        "indonesian": ""
+    },
+    "PayTitle": {
+        "english": "Knowledge is priceless",
+        "russian": "Дальше платно.",
+        "french": "",
+        "turkish": "",
+        "indonesian": ""
+    },
+    "PayMessage": {
+        "english": "Please purchase the app to continue. Your purchases enable us to develop the app and help people learn.",
+        "russian": "Купи полную версию приложения и открой доступ ко всем урокам.\n\nТвоя покупка поможет нам развивать проект и делать его еще лучше.",
+        "french": "",
+        "turkish": "",
+        "indonesian": ""
+    },
+    "RestoreTitle": {
+        "english": "Restore",
+        "russian": "Восстановить",
+        "french": "Rétablir",
+        "turkish": "Restore",
+        "indonesian": "PUlihkan"
+    },
+    "Proposition": {
+        "english": "Proposition",
+        "russian": "Предложение",
+        "french": "Proposition",
+        "turkish": "Önerme",
+        "indonesian": "Saran"
+    },
+    "SalesMessage": {
+        "english": "\n\nPlease purchase the app to support us!",
+        "russian": "\n\nКупи приложение, чтобы поддержать нас!",
+        "french": "\n\nVeuillez acheter l'application si vous pouvez vous le permettre.",
+        "turkish": "\n\nÖdeyebiliyorsanız lütfen uygulamayı satın alın!",
+        "indonesian": "\n\nSilakan beli aplikasi jika Anda mampu membelinya."
+    },
+    "ChooseYourPrice": {
+        "english": "\n\nChoose your own price!",
+        "russian": "\n\nЦену выбираешь ты:",
+        "french": "\n\nNous voulons aussi la laisser abordable, alors choisissez votre prix!",
+        "turkish": "\n\nKendi fiyatınızı seçin!",
+        "indonesian": "\n\nKami juga ingin harga kami selalu terjangkau, maka pilihlah sendiri harga yang ingin anda bayar!"
+    },
+    "HowMuchIsIt": {
+        "english": "How much is it?",
+        "russian": "Поддержать",
+        "french": "Combien ça coûte?",
+        "turkish": "Ne kadar?",
+        "indonesian": "Berapa harganya?"
+    },
+    "UseForFree": {
+        "english": "Continue for free",
+        "russian": "Продолжить бесплатно",
+        "french": "Continuer gratuitement",
+        "turkish": "Ücretsiz devam edin",
+        "indonesian": "Lanjutkan secara gratis"
+    },
+    "DonateToSupportUs": {
+        "english": "Thanks for learning with us!\n\nPlease donate to our project to support us!",
+        "russian": "Поддержи наш проект!",
+        "french": "Faites un don à notre projet!",
+        "turkish": "Lütfen projemize bağış yapın!",
+        "indonesian": "Silakan menyumbang ke proyek kami!"
+    },
+    "DonateToGetBonus": {
+        "english": "Thanks for learning with us!\n\nPlease donate to our project, and get the bonus level for your support.",
+        "russian": "Все уроки пройдены!\n\nПоддержи проект и получи бонус уровень в подарок.",
+        "french": "Faites un don à notre projet et obtenez un niveau bonus pour votre soutien",
+        "turkish": "Lütfen projemize bağış yapın ve desteğiniz için bir bonus seviyesi alın",
+        "indonesian": "Silakan menyumbang ke proyek kami, dan dapatkan level bonus untuk dukungan Anda"
+    },
+    "FreePrice": {
+        "english": "Free",
+        "russian": "Бесплатно",
+        "french": "Gratuit",
+        "turkish": "Ücretsiz",
+        "indonesian": "Gratis"
+    },
+    "Buy": {
+        "english": "Buy",
+        "russian": "Купить",
+        "french": "Acheter",
+        "turkish": "Satın almak",
+        "indonesian": "Bayar"
+    },
+    "Donate": {
+        "english": "Donate",
+        "russian": "Поддержать",
+        "french": "Donner",
+        "turkish": "Bağış yapmak",
+        "indonesian": "Menderma"
+    },
+    "Thanks": {
+        "english": "Thank you for your support!",
+        "russian": "Спасибо за поддержку!",
+        "french": "Merci pour votre soutien!",
+        "turkish": "Desteğiniz için teşekkürler!",
+        "indonesian": "Terima kasih atas dukungan Anda!"
+    },
+    "YouGotIt": {
+        "english": "You got it",
+        "russian": "Пожалуйста",
+        "french": "Bienvenus",
+        "turkish": "Eyvallah",
+        "indonesian": "Sama sama"
+    },
+    "PurchaseFailed": {
+        "english": "Purchase failed, please try again",
+        "russian": "Покупка не прошла, попробуйте еще раз",
+        "french": "L'achat a échoué, veuillez réessayer",
+        "turkish": "Satın alma başarısız, lütfen tekrar deneyiniz",
+        "indonesian": "Pembelian gagal, silakan coba lagi"
+    },
+    "TryAgain": {
+        "english": "Try again",
+        "russian": "Попробовать",
+        "french": "Essayer encore",
+        "turkish": "Tekrar denmek",
+        "indonesian": "Mengulang"
+    },
+    "appUrl": {
+        "english": "https://onelink.to/joode",
+        "russian": "https://onelink.to/joode",
+        "french": "https://onelink.to/joode",
+        "turkish": "https://onelink.to/joode",
+        "indonesian": "https://onelink.to/joode"
+    },
+    "messageToShare": {
+        "english": "Learn the Arabic alphabet in two hours with this free app: ",
+        "russian": "Выучите арабский алфавит за два часа с помощью этого бесплатного приложения:",
+        "french": "Apprenez l'alphabet arabe en deux heures avec cette application gratuite : ",
+        "turkish": "Bu ücretsiz uygulama ile iki saat içinde Arap alfabesini öğrenin: ",
+        "indonesian": "Pelajari alfabet Arab dalam dua jam dengan aplikasi gratis ini: "
+    },
+    "close": {
+        "english": "Close",
+        "russian": "Закрыть",
+        "french": "Fermer",
+        "turkish": "Kapalı",
+        "indonesian": "Menutup"
+    },
+    "share": {
+        "english": "Share",
+        "russian": "Поделиться",
+        "french": "Partager",
+        "turkish": "Paylaşmak",
+        "indonesian": "Membagikan"
+    },
+    "congratulations": {
+        "english": "Congratulations",
+        "russian": "Поздравляем",
+        "french": "Toutes nos félicitations",
+        "turkish": "Tebrikler",
+        "indonesian": "Selamat"
+    },
+    "whatNext": {
+        "english": "What’s next?",
+        "russian": "Что дальше?",
+        "french": "Et après?",
+        "turkish": "Sıradaki ne?",
+        "indonesian": "Apa berikutnya?"
+    },
+    "completedLetterCourse": {
+        "english": "You’ve completed the alphabet!",
+        "russian": "Алфавит пройден, машаАллах!",
+        "french": "Vous avez complété l’alphabet!",
+        "turkish": "28 harften oluşan alfabenin tamamını tamamladınız!",
+        "indonesian": "Anda telah menyelesaikan seluruh alfabet!"
+    },
+    "completedFirstLesson": {
+        "english": "You've completed first lesson!",
+        "russian": "Первый урок пройден, машаАллах!",
+        "french": "Première leçon terminée!",
+        "turkish": "İlk ders tamamlandı!",
+        "indonesian": "Pelajaran pertama selesai!"
+    },
+    "FirstLessonTitle1": {
+        "english": "As-salaamu 'alaikum!",
+        "russian": "Ассаляму 'аляйкум!",
+        "french": "As-salaamu 'alaikum!",
+        "turkish": "Esselamu aleyküm!",
+        "indonesian": "Assalamu 'alaikum!"
+    },
+    "FirstLessonTitle2": {
+        "english": "The alphabet is easy",
+        "russian": "Алфавит легко выучить",
+        "french": "L'alphabet est facile",
+        "turkish": "Alfabe kolay",
+        "indonesian": "Alfabet itu mudah"
+    },
+    "FirstLessonTitle3": {
+        "english": "Start with the simplest letter",
+        "russian": "Начнем с самой простой буквы",
+        "french": "Commencez par la lettre la plus simple",
+        "turkish": "En basit harfle başlayın",
+        "indonesian": "Mulailah dengan huruf paling sederhana"
+    },
+    "AlphabetTitle1": {
+        "english": "The alphabet has 28 letters",
+        "russian": "В арабском алфавите 28 букв",
+        "french": "L'alphabet a 28 lettres",
+        "turkish": "Arap alfabesi 28 harften oluşur",
+        "indonesian": "Alfabet Arab berisi 28 huruf"
+    },
+    "PronunciationTitle1": {
+        "english": "Time to revise",
+        "russian": "Теперь закрепим",
+        "french": "Temps de révision",
+        "turkish": "Gözden geçirme zamanı",
+        "indonesian": "Saatnya mengulang"
+    },
+    "PronunciationTitle2": {
+        "english": "Listen carefully",
+        "russian": "Слушаем внимательно",
+        "french": "Écoute attentivement",
+        "turkish": "Kendi iyi dinle",
+        "indonesian": "Ripitat"
+    },
+    "PronunciationTitle3": {
+        "english": "Repeat",
+        "russian": "Повторяем",
+        "french": "Répète",
+        "turkish": "Ripitat",
+        "indonesian": "Ulangi"
+    },
+    "VowelsTitle1": {
+        "english": "Arabic has 3 vowels placed above or below letters",
+        "russian": "В арабском языке 3 гласные, ставящиеся над или под буквами",
+        "french": "L'arabe a 3 voyelles placées au-dessus ou en dessous des lettres",
+        "turkish": "Arapçada harflerin üstüne veya altına konulan 3 ünlü vardır",
+        "indonesian": "Bahasa Arab memiliki 3 vokal yang ditempatkan di atas atau di bawah huruf"
+    }
+}
