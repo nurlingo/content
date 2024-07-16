@@ -195,13 +195,6 @@
         "turkish": "Tekrarla",
         "indonesian": "Ulangi"
     },
-    "YouHaveLearntFirstLetter": {
-        "english": "MashaAllah!\nYou have just learnt your first letter!",
-        "russian": "МашаАллах!\nВы только что выучили свою первую букву!",
-        "french": "MashaAllah!\nVous venez d'apprendre votre première lettre!",
-        "turkish": "MaşaAllah!\nİlk harfinizi öğrendiniz!",
-        "indonesian": "MashaAllah!\nAnda baru saja mempelajari huruf pertama Anda!"
-    },
     "CharactersLearnt": {
         "english": "Well done!\nYou've learned %d letters out of 28.\n\nNew audio is available in the al-Quran section.",
         "russian": "Молодец!\nБукв пройдено: %d из 28.\n\nДоступно новое аудио в разделе Аль-Коран.",
@@ -252,67 +245,60 @@
         "indonesian": "Lagu Alfabet"
     },
     "LessonOne": {
-        "english": "1. Alif",
-        "russian": "1. Алиф",
-        "french": "1. Alif",
-        "turkish": "1. elif",
-        "indonesian": "1. Alif"
+        "english": "1. Alif Ba Ta Tha",
+        "russian": "1. Алиф Ба Та\nи межзубный Са",
+        "french": "1. Alif Ba Ta Tha",
+        "turkish": "1. elif be te s̠e",
+        "indonesian": "1. Alif Ba Ta Tha"
     },
     "LessonTwo": {
-        "english": "2. Ba Ta Tha",
-        "russian": "2. Ба Та\nи межзубный Са",
-        "french": "2. Ba Ta Tha",
-        "turkish": "2. be te s̠e",
-        "indonesian": "2. Ba Ta Tha"
+        "english": "2. Jeem Ha Kho",
+        "russian": "2. Джим Ха Хо",
+        "french": "2. Jim Ha Khaa",
+        "turkish": "2. cīm ḥā ḫa",
+        "indonesian": "2. Jiim Ha Kho"
     },
     "LessonThree": {
-        "english": "3. Jeem Ha Kho",
-        "russian": "3. Джим Ха Хо",
-        "french": "3. Jim Ha Khaa",
-        "turkish": "3. cīm ḥā ḫa",
-        "indonesian": "3. Jiim Ha Kho"
+        "english": "3. Dal Dhal Ro Za",
+        "russian": "3. Даль, межзубный Заль\nРо и За",
+        "french": "3. Dal Dhal Raa Za",
+        "turkish": "3. dāl z̠el ra ze",
+        "indonesian": "3. Dal Dzal Ro Za"
     },
     "LessonFour": {
-        "english": "4. Dal Dhal Ro Za",
-        "russian": "4. Даль, межзубный Заль\nРо и За",
-        "french": "4. Dal Dhal Raa Za",
-        "turkish": "4. dāl z̠el ra ze",
-        "indonesian": "4. Dal Dzal Ro Za"
+        "english": "4. Seen Sheen Ha",
+        "russian": "4. Легкий Ха,\nСин и Шин",
+        "french": "4. Sin Chin Ha",
+        "turkish": "4. sīn şīn he",
+        "indonesian": "4. Siin Syin Ha"
     },
     "LessonFive": {
-        "english": "5. Seen Sheen Ha",
-        "russian": "5. Легкий Ха,\nСин и Шин",
-        "french": "5. Sin Chin Ha",
-        "turkish": "5. sīn şīn he",
-        "indonesian": "5. Siin Syin Ha"
+        "english": "5. Sod Dod To Dho ",
+        "russian": "5. Сод Дод То\n и межзубный Зо",
+        "french": "5. Saad Daad Taa Dhaa",
+        "turkish": "5. ṣād ḍād ṭā ẓa",
+        "indonesian": "5. Shod Dhod Tho Zho "
     },
     "LessonSix": {
-        "english": "6. Sod Dod To Dho ",
-        "russian": "6. Сод Дод То\n и межзубный Зо",
-        "french": "6. Saad Daad Taa Dhaa",
-        "turkish": "6. ṣād ḍād ṭā ẓa",
-        "indonesian": "6. Shod Dhod Tho Zho "
+        "english": "6. 'Ain Ghoin Ya ",
+        "russian": "6. Йа и два гортанных",
+        "french": "6. 'Ain Ghain Ya",
+        "turkish": "6. ayn gayn ye",
+        "indonesian": "6. 'Ain Ghoin Ya "
     },
     "LessonSeven": {
-        "english": "7. 'Ain Ghoin Ya ",
-        "russian": "7. Йа и два гортанных",
-        "french": "7. 'Ain Ghain Ya",
-        "turkish": "7. ayn gayn ye",
-        "indonesian": "7. 'Ain Ghoin Ya "
+        "english": "7. Fa Qof Waw",
+        "russian": "7. Фа, Қоф и Уау",
+        "french": "7. Fa Qaaf Waw",
+        "turkish": "7. fe kāf vāv",
+        "indonesian": "7. Fa Qof Waw"
     },
     "LessonEight": {
-        "english": "8. Fa Qof Waw",
-        "russian": "8. Фа, Қоф и Уау",
-        "french": "8. Fa Qaaf Waw",
-        "turkish": "8. fe kāf vāv",
-        "indonesian": "8. Fa Qof Waw"
-    },
-    "LessonNine": {
-        "english": "9. Kaf Lam Meem Noon",
-        "russian": "9. Кяф, Лям, Мим и Нун",
-        "french": "9. Kaf Lam Mim Noun",
-        "turkish": "9. Kaf lām mīm nūn",
-        "indonesian": "9. Kaf Lam Miim Nuun"
+        "english": "8. Kaf Lam Meem Noon",
+        "russian": "8. Кяф, Лям, Мим и Нун",
+        "french": "8. Kaf Lam Mim Noun",
+        "turkish": "8. Kaf lām mīm nūn",
+        "indonesian": "8. Kaf Lam Miim Nuun"
     },
     "Joining Letters": {
         "english": "Joining letters",
@@ -608,13 +594,6 @@
         "turkish": "28 harften oluşan alfabenin tamamını tamamladınız!",
         "indonesian": "Anda telah menyelesaikan seluruh alfabet!"
     },
-    "completedFirstLesson": {
-        "english": "You've completed first lesson!",
-        "russian": "Первый урок пройден, машаАллах!",
-        "french": "Première leçon terminée!",
-        "turkish": "İlk ders tamamlandı!",
-        "indonesian": "Pelajaran pertama selesai!"
-    },
     "FirstLessonTitle1": {
         "english": "As-salaamu 'alaikum!",
         "russian": "Ассаляму 'аляйкум!",
@@ -630,11 +609,11 @@
         "indonesian": "Alfabet itu mudah"
     },
     "FirstLessonTitle3": {
-        "english": "Start with the simplest letter",
-        "russian": "Начнем с самой простой буквы",
-        "french": "Commencez par la lettre la plus simple",
-        "turkish": "En basit harfle başlayın",
-        "indonesian": "Mulailah dengan huruf paling sederhana"
+        "english": "Start with 4 simple letters",
+        "russian": "Начнем с 4 простых букв",
+        "french": "Commençons par 4 lettres simples",
+        "turkish": "4 basit harfle başlayalım",
+        "indonesian": "Mulai dengan 4 huruf sederhana"
     },
     "AlphabetTitle1": {
         "english": "The alphabet has 28 letters",
