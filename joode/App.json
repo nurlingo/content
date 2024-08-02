@@ -95,11 +95,11 @@
                         "id": "3",
                         "type": "lesson",
                         "titles": {
-                            "en": "4. Dal Dhal Ro Za",
-                            "ru": "4. Даль, межзубный Заль, Ро и За",
-                            "fr": "4. Dal Dhal Raa Za",
-                            "tr": "4. dāl z̠el ra ze",
-                            "id": "4. Dal Dzal Ro Za"
+                            "en": "4. Dal Dhal",
+                            "ru": "4. Даль и межзубный Заль",
+                            "fr": "4. Dal Dhal",
+                            "tr": "4. dāl z̠el",
+                            "id": "4. Dal Dzal"
                         },
                         "descriptions": {},
                         "urls": {},
@@ -110,7 +110,7 @@
                             "tr": 1,
                             "id": 1
                         },
-                        "subitems": ["د", "ذ", "ر", "ز"],
+                        "subitems": ["د", "ذ"],
                         "dependent_items": {
                             "2": "finish"
                         }
@@ -119,11 +119,11 @@
                         "id": "4",
                         "type": "lesson",
                         "titles": {
-                            "en": "5. Seen Sheen Ha",
-                            "ru": "5. Легкий Ха, Син и Шин",
-                            "fr": "5. Sin Chin Ha",
-                            "tr": "5. sīn şīn he",
-                            "id": "5. Siin Syin Ha"
+                            "en": "5. Ro Za",
+                            "ru": "5. Ро и За",
+                            "fr": "5. Raa Za",
+                            "tr": "5. ra ze",
+                            "id": "5. Ro Za"
                         },
                         "descriptions": {},
                         "urls": {},
@@ -134,7 +134,7 @@
                             "tr": 1,
                             "id": 1
                         },
-                        "subitems": ["س", "ش", "ھ"],
+                        "subitems": ["ر", "ز"],
                         "dependent_items": {
                             "3": "finish"
                         }
@@ -143,11 +143,11 @@
                         "id": "5",
                         "type": "lesson",
                         "titles": {
-                            "en": "6. Sod Dod To Dho",
-                            "ru": "6. Сод Дод То и межзубный Зо",
-                            "fr": "6. Saad Daad Taa Dhaa",
-                            "tr": "6. ṣād ḍād ṭā ẓa",
-                            "id": "6. Shod Dhod Tho Zho"
+                            "en": "6. Seen Sheen Sod",
+                            "ru": "6. Син, Шин и Сод",
+                            "fr": "6. Sin, Chin, Saad",
+                            "tr": "6. sīn, şīn, ṣād",
+                            "id": "6. Siin Syin Shod"
                         },
                         "descriptions": {},
                         "urls": {},
@@ -158,7 +158,7 @@
                             "tr": 1,
                             "id": 1
                         },
-                        "subitems": ["ص", "ض", "ط", "ظ"],
+                        "subitems": ["س", "ش", "ص"],
                         "dependent_items": {
                             "4": "finish"
                         }
@@ -167,11 +167,11 @@
                         "id": "6",
                         "type": "lesson",
                         "titles": {
-                            "en": "7. 'Ain Ghoin Ya",
-                            "ru": "7. Йа и два гортанных",
-                            "fr": "7. 'Ain Ghain Ya",
-                            "tr": "7. ayn gayn ye",
-                            "id": "7. 'Ain Ghoin Ya"
+                            "en": "7. Dod To Dho",
+                            "ru": "7. Дод, То и Зо",
+                            "fr": "7. Daad, Taa, Dhaa",
+                            "tr": "7. ḍād, ṭā, ẓa",
+                            "id": "7. Dhod Tho Zho"
                         },
                         "descriptions": {},
                         "urls": {},
@@ -182,7 +182,7 @@
                             "tr": 1,
                             "id": 1
                         },
-                        "subitems": ["ع", "غ", "ي"],
+                        "subitems": ["ض", "ط", "ظ"],
                         "dependent_items": {
                             "5": "finish"
                         }
@@ -191,11 +191,11 @@
                         "id": "7",
                         "type": "lesson",
                         "titles": {
-                            "en": "8. Fa Qof Waw",
-                            "ru": "8. Фа, Қоф и Уау",
-                            "fr": "8. Fa Qaaf Waw",
-                            "tr": "8. fe kāf vāv",
-                            "id": "8. Fa Qof Waw"
+                            "en": "8. 'Ain Ghoin",
+                            "ru": "8. 'Айн и Гхайн",
+                            "fr": "8. 'Ain, Ghain",
+                            "tr": "8. ayn, gayn",
+                            "id": "8. 'Ain Ghoin"
                         },
                         "descriptions": {},
                         "urls": {},
@@ -206,7 +206,7 @@
                             "tr": 1,
                             "id": 1
                         },
-                        "subitems": ["ف", "ق", "و"],
+                        "subitems": ["ع", "غ"],
                         "dependent_items": {
                             "6": "finish"
                         }
@@ -215,11 +215,11 @@
                         "id": "8",
                         "type": "lesson",
                         "titles": {
-                            "en": "9. Kaf Lam Meem Noon",
-                            "ru": "9. Кяф, Лям, Мим и Нун",
-                            "fr": "9. Kaf Lam Mim Noun",
-                            "tr": "9. Kaf lām mīm nūn",
-                            "id": "9. Kaf Lam Miim Nuun"
+                            "en": "9. Fa Qof Kaf",
+                            "ru": "9. Фа, Каф и Коф",
+                            "fr": "9. Fa, Qaaf, Kaf",
+                            "tr": "9. fe, kāf, qāf",
+                            "id": "9. Fa Qof Kaf"
                         },
                         "descriptions": {},
                         "urls": {},
@@ -230,9 +230,57 @@
                             "tr": 1,
                             "id": 1
                         },
-                        "subitems": ["ك", "ل", "م", "ن"],
+                        "subitems": ["ف", "ق", "ك"],
                         "dependent_items": {
                             "7": "finish"
+                        }
+                    },
+                    {
+                        "id": "9",
+                        "type": "lesson",
+                        "titles": {
+                            "en": "10. Lam Meem Noon",
+                            "ru": "10. Лям, Мим и Нун",
+                            "fr": "10. Lam, Mim, Noun",
+                            "tr": "10. lām, mīm, nūn",
+                            "id": "10. Lam Meem Noon"
+                        },
+                        "descriptions": {},
+                        "urls": {},
+                        "shows": {
+                            "en": 1,
+                            "ru": 1,
+                            "fr": 1,
+                            "tr": 1,
+                            "id": 1
+                        },
+                        "subitems": ["ل", "م", "ن"],
+                        "dependent_items": {
+                            "8": "finish"
+                        }
+                    },
+                    {
+                        "id": "10",
+                        "type": "lesson",
+                        "titles": {
+                            "en": "11. Ha Waw Ya",
+                            "ru": "11. Ха, Вау и Я",
+                            "fr": "11. Ha, Waw, Ya",
+                            "tr": "11. he, vāv, ye",
+                            "id": "11. Ha Waw Ya"
+                        },
+                        "descriptions": {},
+                        "urls": {},
+                        "shows": {
+                            "en": 1,
+                            "ru": 1,
+                            "fr": 1,
+                            "tr": 1,
+                            "id": 1
+                        },
+                        "subitems": ["ھ", "و", "ي"],
+                        "dependent_items": {
+                            "9": "finish"
                         }
                     }
                 ]
@@ -267,7 +315,7 @@
                             "id": 1
                         },
                         "dependent_items": {
-                            "8": "finish"
+                            "10": "finish"
                         }
                     }
                 ]
@@ -568,7 +616,7 @@
                             "id": 1
                         },
                         "dependent_items": {
-                            "8": "finish"
+                            "9": "finish"
                         }
                     }
                 ]
@@ -623,7 +671,7 @@
                             "id": 1
                         },
                         "dependent_items": {
-                            "4": "finish"
+                            "5": "finish"
                         }
                     },
                     {
@@ -644,7 +692,7 @@
                             "id": 1
                         },
                         "dependent_items": {
-                            "8": "finish"
+                            "10": "finish"
                         }
                     }
                 ]
@@ -949,7 +997,7 @@
                         "id": "arabictutor",
                         "type": "link",
                         "titles": {
-                            "en": "Ustadh Abdusalam: a more expensive one-on-one course",
+                            "en": "Ustadh Abdusalam: one-on-one individual learning",
                             "ru": "Платный курс: Индивидуальные занятия с учителем",
                             "fr": "Un cours de lecture payant : Apprendre en tête-à-tête avec un enseignant",
                             "tr": "Ücretli Okuma Kursu: Öğretmenle Birebir Öğrenin",
