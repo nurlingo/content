@@ -668,7 +668,7 @@
                             "id": 1
                         },
                         "dependent_items": {
-                            "9": "finish"
+                            "proposition": "success"
                         }
                     }
                 ]
