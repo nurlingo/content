@@ -217,7 +217,7 @@
         "indonesian": "MashaAllah!\nAnda baru saja mempelajari huruf pertama Anda!"
     },
     "CharactersLearnt": {
-        "english": "Well done!\nYou've learned %d letters out of 28!",
+        "english": "MashaAllah, you've learned %d letters out of 28!",
         "russian": "МашаАллах, вы изучили %d из 28 букв!",
         "french": "Très bien, tu as appris %d lettres sur 28!",
         "turkish": "Aferin, %d harfleri 28'den öğrendiniz.",
@@ -392,18 +392,18 @@
         "indonesian": "Lanjutkan secara gratis"
     },
     "DonateToSupportUs": {
-        "english": "Please donate to our project to support us!",
-        "russian": "Поддержите наш проект!",
-        "french": "Faites un don à notre projet!",
-        "turkish": "Lütfen projemize bağış yapın!",
-        "indonesian": "Silakan menyumbang ke proyek kami!"
+        "english": "Become a supporter of Joode",
+        "russian": "Поддержите наш проект",
+        "french": "Faites un don à notre projet",
+        "turkish": "Lütfen projemize bağış yapın",
+        "indonesian": "Silakan menyumbang ke proyek kami"
     },
-    "DonateToGetBonus": {
-        "english": "Thanks for learning with us!\n\nPlease donate to our project, and get the bonus level for your support.",
-        "russian": "Все уроки пройдены!\n\nПоддержите проект и получи бонус уровень в подарок.",
-        "french": "Faites un don à notre projet et obtenez un niveau bonus pour votre soutien",
-        "turkish": "Lütfen projemize bağış yapın ve desteğiniz için bir bonus seviyesi alın",
-        "indonesian": "Silakan menyumbang ke proyek kami, dan dapatkan level bonus untuk dukungan Anda"
+    "GetBonusForDonating": {
+        "english": "You will get a content item as a bonus.",
+        "russian": "Вы получите \"Дуа-алфавит\" в качестве бонуса.",
+        "french": "Vous recevrez un élément de contenu supplémentaire en bonus.",
+        "turkish": "Bonus olarak ek bir içerik öğesi alacaksınız.",
+        "indonesian": "Anda akan mendapatkan item konten tambahan sebagai bonus."
     },
     "FreePrice": {
         "english": "Free",
