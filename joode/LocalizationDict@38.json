@@ -15,7 +15,7 @@
     },
     "JustifyNotifications": {
         "english": "We can send you reminders to help you complete all the lessons!",
-        "russian": "Будем посылать напоминалки, чтобы помочь с прохождением уроков.",
+        "russian": "Будем посылать напоминания, чтобы помочь пройти все уроки.",
         "french": "Nous vous enverrons des rappels pour vous aider à terminer toutes les leçons!",
         "turkish": "Tüm dersleri tamamlamanıza yardımcı olacak hatırlatıcılar göndereceğiz!",
         "indonesian": "Kami akan mengirimkan pengingat untuk membantu Anda menyelesaikan semua pelajaran!"
@@ -43,35 +43,35 @@
     },
     "Outro": {
         "english": "Arabic has 3 vowels.\n\n\nListen to how they sound in combination with letters.",
-        "russian": "В арабском 3 гласных звука.\n\n\nСлушай как они звучат в сочетание с буквами.",
+        "russian": "В арабском 3 гласных звука.\n\n\nСлушайте как они звучат в сочетание с буквами.",
         "french": "Il y a 3 voyelles en arabe.\n\n\nNous allons apprendre comment les prononcer avec d'autres lettres.",
         "turkish": "Arapça'da 3 sesli var.\n\nHarflerle birleştirildiğinde nasıl ses çıkardıklarını öğreneceğiz",
         "indonesian": "Ada 3 huruf vokal dalam bahasa Arab.\n\nKita akan belajar bagaimana bunyinya ketika dikombinasikan dengan huruf."
     },
     "AlphabetDuaText": {
         "english": "In this dua, we ask Allah for something good for each letter of the alphabet.",
-        "russian": "Это молитва, в которой мы просим у Аллаха что-то хорошее за каждую букву алфавита.",
+        "russian": "В этом дуа мы просим у Аллаха что-то хорошее за каждую букву алфавита.",
         "french": "C'est une dua (prière), où pour chaque lettre de l'alphabet, nous demandons quelque chose de bien à Allah.",
         "turkish": "Bu, alfabedeki her harf için Allah'tan güzel bir şey istediğimiz bir duadır.",
         "indonesian": "Ini adalah doa, di mana untuk setiap huruf alfabet kita meminta sesuatu yang baik dari Allah."
     },
     "PassPreviousLesson": {
         "english": "Pass the previous lessons",
-        "russian": "Сначала пройди предыдущие уроки",
+        "russian": "Сначала пройдите предыдущие уроки",
         "french": "Passer la leçon précédente",
         "turkish": "Bir önceki dersi geçin",
         "indonesian": "harus lulus pelajaran sebelumnya"
     },
     "PassAllLessons": {
         "english": "Pass all lessons first",
-        "russian": "Сначала пройди все уроки",
+        "russian": "Пройдите все уроки",
         "french": "Terminez tous les cours d'abord",
         "turkish": "Önce tüm dersleri geçin",
         "indonesian": "Lulus semua pelajaran terlebih dahulu"
     },
     "YouNeedToPass": {
-        "english": "To open this item you need to pass:",
-        "russian": "Чтобы открыть этот элемент, вам необходимо пройти:",
+        "english": "You need to pass:",
+        "russian": "Сначала пройдите:",
         "french": "Pour ouvrir cet élément, vous devez passer :",
         "turkish": "Bu öğeyi açmak için geçmeniz gerekenler:",
         "indonesian": "Untuk membuka item ini, Anda perlu lulus:"
@@ -85,7 +85,7 @@
     },
     "LessonIntro": {
         "english": "Draw\n\nPronounce\n\nMemorize",
-        "russian": "Пишем\n\nПроизносим\n\nЗапоминаем",
+        "russian": "Рисуем\n\nПроизносим\n\nЗапоминаем",
         "french": "Dessine\n\nPrononce\n\nMémorise",
         "turkish": "Çizin\n\nTelaffuz edin\n\nÖğrenin",
         "indonesian": "Gambar\n\nLafalkan\n\nMenghafalkan"
@@ -99,14 +99,14 @@
     },
     "ChooseLetter": {
         "english": "Pick the right letter",
-        "russian": "Выбери правильную букву",
+        "russian": "Выберите правильную букву",
         "french": "Choisis la bonne lettre",
         "turkish": "Doğru harfi seçin",
         "indonesian": "Pilih huruf yang benar"
     },
     "ChooseSound": {
         "english": "Pick the right sound",
-        "russian": "Выбери правильный звук",
+        "russian": "Выберите правильный звук",
         "french": "Choisis le bon son",
         "turkish": "Doğru sesi seç",
         "indonesian": "Pilih suara yang benar"
@@ -120,7 +120,7 @@
     },
     "DrawOnScreen": {
         "english": "Draw on screen",
-        "russian": "Рисуем на экране",
+        "russian": "Рисуйте на экране",
         "french": "Dessine à l'écran",
         "turkish": "Ekrana çizin",
         "indonesian": "Gambar di layar"
@@ -134,7 +134,7 @@
     },
     "Gotit": {
         "english": "Got it",
-        "russian": "Запомнил",
+        "russian": "Понятно",
         "french": "C'est bon",
         "turkish": "Tamam",
         "indonesian": "Sudah paham"
@@ -217,11 +217,18 @@
         "indonesian": "MashaAllah!\nAnda baru saja mempelajari huruf pertama Anda!"
     },
     "CharactersLearnt": {
-        "english": "Well done!\nYou've learned %d letters out of 28.\n\nNew item is available in the content tab.",
-        "russian": "Молодец!\nБукв пройдено: %d из 28.\n\nДоступно новое аудио в Библиотеке.",
-        "french": "Très bien!\nTu as appris %d lettres sur 28.\n\nNouvel audio disponible!",
-        "turkish": "Aferin!\n%d harfleri 28'den öğrendiniz.\n\nYeni kayıt mevcut.",
-        "indonesian": "Selamat!\nAnda telah mempelajari %d huruf dari total 28 huruf.\n\nRekaman baru telah tersedia!"
+        "english": "Well done!\nYou've learned %d letters out of 28!",
+        "russian": "МашаАллах, вы изучили %d из 28 букв!",
+        "french": "Très bien, tu as appris %d lettres sur 28!",
+        "turkish": "Aferin, %d harfleri 28'den öğrendiniz.",
+        "indonesian": "Selamat, anda telah mempelajari %d huruf dari total 28 huruf!"
+    },
+    "NewContentAvailable": {
+        "english": "New item is available in the Content tab.",
+        "russian": "Появился новый контент в Библиотеке.",
+        "french": "Nouvel audio disponible!",
+        "turkish": "Yeni kayıt mevcut.",
+        "indonesian": "Rekaman baru telah tersedia!"
     },
     "Exit": {
         "english": "Exit",
@@ -246,7 +253,7 @@
     },
     "instruction": {
         "english": "You are to see random combinations of different letters. Name them from right to left and then tap the screen to check.",
-        "russian": "Мы будем показывать случайные комбинации из разных букв. Называешь их справа налево, затем жмешь на экран чтобы проверить себя.",
+        "russian": "Мы будем показывать случайные комбинации из разных букв. Называйте их справа налево, затем жмите на экран чтобы проверить себя.",
         "french": "Tu vas voir des combinaisons aléatoires de différentes lettres. Nomme les de droite à gauche puis tape sur l'écran pour vérifier.",
         "turkish": "Farklı harflerin rastgele kombinasyonlarını göreceksiniz, sağdan sola isimlendirip kontrol etmek için ekrana dokunun.",
         "indonesian": "Anda akan melihat kombinasi acak dari huruf yang berbeda-beda. Berilah nama huruf-huruf ini dari kiri ke kanan, lalu sentuh layar untuk memeriksa."
@@ -267,14 +274,14 @@
     },
     "LeaveReview": {
         "english": "Please rate us",
-        "russian": "Оцени наше приложение!",
+        "russian": "Оцените наше приложение!",
         "french": "Veuillez nous évaluer",
         "turkish": "Lütfen değerlendirin",
         "indonesian": "Berilah kami rating!"
     },
     "LeaveReviewComment": {
         "english": "Your AppStore review will help us reach more people",
-        "russian": "Напиши отзыв в AppStore, чтобы больше людей узнало о нас!",
+        "russian": "Напишите отзыв в AppStore, чтобы больше людей узнало о нас!",
         "french": "Votre avis sur l'App Store nous aidera à atteindre plus de personnes",
         "turkish": "AppStore incelemeniz daha iyi hale gelmemize ve daha fazla kişiye ulaşmamıza yardımcı olacaktır",
         "indonesian": "AppStore review anda akan membantu kami menjadi lebih baik dan mencapai lebih banyak orang"
@@ -337,7 +344,7 @@
     },
     "PayMessage": {
         "english": "Please purchase the app to continue. Your purchases enable us to develop the app and help people learn.",
-        "russian": "Купи полную версию приложения и открой доступ ко всем урокам.\n\nТвоя покупка поможет нам развивать проект и делать его еще лучше.",
+        "russian": "Купите полную версию приложения и открой доступ ко всем урокам.\n\nВаша покупка поможет нам развивать проект и делать его еще лучше.",
         "french": "",
         "turkish": "",
         "indonesian": ""
@@ -358,14 +365,14 @@
     },
     "SalesMessage": {
         "english": "\n\nPlease purchase the app to support us!",
-        "russian": "\n\nКупи приложение, чтобы поддержать нас!",
+        "russian": "\n\nКупите приложение, чтобы поддержать нас!",
         "french": "\n\nVeuillez acheter l'application si vous pouvez vous le permettre.",
         "turkish": "\n\nÖdeyebiliyorsanız lütfen uygulamayı satın alın!",
         "indonesian": "\n\nSilakan beli aplikasi jika Anda mampu membelinya."
     },
     "ChooseYourPrice": {
         "english": "\n\nChoose your own price!",
-        "russian": "\n\nЦену выбираешь ты:",
+        "russian": "\n\nЦену выбираете вы:",
         "french": "\n\nNous voulons aussi la laisser abordable, alors choisissez votre prix!",
         "turkish": "\n\nKendi fiyatınızı seçin!",
         "indonesian": "\n\nKami juga ingin harga kami selalu terjangkau, maka pilihlah sendiri harga yang ingin anda bayar!"
@@ -386,14 +393,14 @@
     },
     "DonateToSupportUs": {
         "english": "Please donate to our project to support us!",
-        "russian": "Поддержи наш проект!",
+        "russian": "Поддержите наш проект!",
         "french": "Faites un don à notre projet!",
         "turkish": "Lütfen projemize bağış yapın!",
         "indonesian": "Silakan menyumbang ke proyek kami!"
     },
     "DonateToGetBonus": {
         "english": "Thanks for learning with us!\n\nPlease donate to our project, and get the bonus level for your support.",
-        "russian": "Все уроки пройдены!\n\nПоддержи проект и получи бонус уровень в подарок.",
+        "russian": "Все уроки пройдены!\n\nПоддержите проект и получи бонус уровень в подарок.",
         "french": "Faites un don à notre projet et obtenez un niveau bonus pour votre soutien",
         "turkish": "Lütfen projemize bağış yapın ve desteğiniz için bir bonus seviyesi alın",
         "indonesian": "Silakan menyumbang ke proyek kami, dan dapatkan level bonus untuk dukungan Anda"
