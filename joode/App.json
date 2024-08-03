@@ -654,11 +654,11 @@
                         "id": "alphabet_dua",
                         "type": "song",
                         "titles": {
-                            "en": "Alphabet Dua",
-                            "ru": "Дуа на каждую букву алфавита",
-                            "fr": "Alphabet Dua",
-                            "tr": "Alfabe Duası",
-                            "id": "Alfabet Dua"
+                            "en": "Alphabet Dua (bonus)",
+                            "ru": "Дуа-алфавит (бонус)",
+                            "fr": "Alphabet Dua (bonus)",
+                            "tr": "Alfabe Duası (bonus)",
+                            "id": "Alfabet Dua (bonus)"
                         },
                         "shows": {
                             "en": 1,
