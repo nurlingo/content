@@ -95,11 +95,11 @@
                         "id": "3",
                         "type": "lesson",
                         "titles": {
-                            "en": "4. Dal Dhal",
-                            "ru": "4. Даль и межзубный Заль",
-                            "fr": "4. Dal Dhal",
-                            "tr": "4. dāl z̠el",
-                            "id": "4. Dal Dzal"
+                            "en": "4. Dal Dhal Ro Za",
+                            "ru": "4. Даль, межзубный Заль, Ро и За",
+                            "fr": "4. Dal Dhal Raa Za",
+                            "tr": "4. dāl z̠el ra ze",
+                            "id": "4. Dal Dzal Ro Za"
                         },
                         "descriptions": {},
                         "urls": {},
@@ -110,7 +110,7 @@
                             "tr": 1,
                             "id": 1
                         },
-                        "subitems": ["د", "ذ"],
+                        "subitems": ["د", "ذ", "ر", "ز"],
                         "dependent_items": {
                             "2": "finish"
                         }
@@ -119,35 +119,11 @@
                         "id": "4",
                         "type": "lesson",
                         "titles": {
-                            "en": "5. Ro Za",
-                            "ru": "5. Ро и За",
-                            "fr": "5. Raa Za",
-                            "tr": "5. ra ze",
-                            "id": "5. Ro Za"
-                        },
-                        "descriptions": {},
-                        "urls": {},
-                        "shows": {
-                            "en": 1,
-                            "ru": 1,
-                            "fr": 1,
-                            "tr": 1,
-                            "id": 1
-                        },
-                        "subitems": ["ر", "ز"],
-                        "dependent_items": {
-                            "3": "finish"
-                        }
-                    },
-                    {
-                        "id": "5",
-                        "type": "lesson",
-                        "titles": {
-                            "en": "6. Seen Sheen Sod",
-                            "ru": "6. Син, Шин и Сод",
-                            "fr": "6. Sin, Chin, Saad",
-                            "tr": "6. sīn, şīn, ṣād",
-                            "id": "6. Siin Syin Shod"
+                            "en": "5. Seen Sheen Sod",
+                            "ru": "5. Син, Шин и Сод",
+                            "fr": "5. Sin, Chin, Saad",
+                            "tr": "5. sīn, şīn, ṣād",
+                            "id": "5. Siin Syin Shod"
                         },
                         "descriptions": {},
                         "urls": {},
@@ -160,18 +136,18 @@
                         },
                         "subitems": ["س", "ش", "ص"],
                         "dependent_items": {
-                            "4": "finish"
+                            "3": "finish"
                         }
                     },
                     {
-                        "id": "6",
+                        "id": "5",
                         "type": "lesson",
                         "titles": {
-                            "en": "7. Dod To Dho",
-                            "ru": "7. Дод, То и межзубный Зо",
-                            "fr": "7. Daad, Taa, Dhaa",
-                            "tr": "7. ḍād, ṭā, ẓa",
-                            "id": "7. Dhod Tho Zho"
+                            "en": "6. Dod To Dho",
+                            "ru": "6. Дод, То и межзубный Зо",
+                            "fr": "6. Daad, Taa, Dhaa",
+                            "tr": "6. ḍād, ṭā, ẓa",
+                            "id": "6. Dhod Tho Zho"
                         },
                         "descriptions": {},
                         "urls": {},
@@ -184,18 +160,18 @@
                         },
                         "subitems": ["ض", "ط", "ظ"],
                         "dependent_items": {
-                            "5": "finish"
+                            "4": "finish"
                         }
                     },
                     {
-                        "id": "7",
+                        "id": "6",
                         "type": "lesson",
                         "titles": {
-                            "en": "8. 'Ain Ghoin",
-                            "ru": "8. 'Айн и Ғойн",
-                            "fr": "8. 'Ain, Ghain",
-                            "tr": "8. ayn, gayn",
-                            "id": "8. 'Ain Ghoin"
+                            "en": "7. 'Ain Ghoin",
+                            "ru": "7. 'Айн и Ғойн",
+                            "fr": "7. 'Ain, Ghain",
+                            "tr": "7. ayn, gayn",
+                            "id": "7. 'Ain Ghoin"
                         },
                         "descriptions": {},
                         "urls": {},
@@ -208,18 +184,18 @@
                         },
                         "subitems": ["ع", "غ"],
                         "dependent_items": {
-                            "6": "finish"
+                            "5": "finish"
                         }
                     },
                     {
-                        "id": "8",
+                        "id": "7",
                         "type": "lesson",
                         "titles": {
-                            "en": "9. Fa Qof Kaf",
-                            "ru": "9. Фа, Каф и Коф",
-                            "fr": "9. Fa, Qaaf, Kaf",
-                            "tr": "9. fe, kāf, qāf",
-                            "id": "9. Fa Qof Kaf"
+                            "en": "8. Fa Qof Kaf",
+                            "ru": "8. Фа, Каф и Коф",
+                            "fr": "8. Fa, Qaaf, Kaf",
+                            "tr": "8. fe, kāf, qāf",
+                            "id": "8. Fa Qof Kaf"
                         },
                         "descriptions": {},
                         "urls": {},
@@ -232,18 +208,18 @@
                         },
                         "subitems": ["ف", "ق", "ك"],
                         "dependent_items": {
-                            "7": "finish"
+                            "6": "finish"
                         }
                     },
                     {
-                        "id": "9",
+                        "id": "8",
                         "type": "lesson",
                         "titles": {
-                            "en": "10. Lam Meem Noon",
-                            "ru": "10. Лям, Мим и Нун",
-                            "fr": "10. Lam, Mim, Noun",
-                            "tr": "10. lām, mīm, nūn",
-                            "id": "10. Lam Meem Noon"
+                            "en": "9. Lam Meem Noon",
+                            "ru": "9. Лям, Мим и Нун",
+                            "fr": "9. Lam, Mim, Noun",
+                            "tr": "9. lām, mīm, nūn",
+                            "id": "9. Lam Meem Noon"
                         },
                         "descriptions": {},
                         "urls": {},
@@ -256,18 +232,18 @@
                         },
                         "subitems": ["ل", "م", "ن"],
                         "dependent_items": {
-                            "8": "finish"
+                            "7": "finish"
                         }
                     },
                     {
-                        "id": "10",
+                        "id": "9",
                         "type": "lesson",
                         "titles": {
-                            "en": "11. Ha Waw Ya",
-                            "ru": "11. hа, Уау и Йа",
-                            "fr": "11. Ha, Waw, Ya",
-                            "tr": "11. he, vāv, ye",
-                            "id": "11. Ha Waw Ya"
+                            "en": "10. Ha Waw Ya",
+                            "ru": "10. hа, Уау и Йа",
+                            "fr": "10. Ha, Waw, Ya",
+                            "tr": "10. he, vāv, ye",
+                            "id": "10. Ha Waw Ya"
                         },
                         "descriptions": {},
                         "urls": {},
@@ -280,7 +256,7 @@
                         },
                         "subitems": ["ھ", "و", "ي"],
                         "dependent_items": {
-                            "9": "finish"
+                            "8": "finish"
                         }
                     }
                 ]
@@ -315,7 +291,7 @@
                             "id": 1
                         },
                         "dependent_items": {
-                            "10": "finish"
+                            "9": "finish"
                         }
                     }
                 ]
@@ -692,7 +668,7 @@
                             "id": 1
                         },
                         "dependent_items": {
-                            "10": "finish"
+                            "9": "finish"
                         }
                     }
                 ]
