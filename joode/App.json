@@ -48,7 +48,7 @@
                         "type": "lesson",
                         "titles": {
                             "en": "2. Ta Tha",
-                            "ru": "2. Та и межзубный Са",
+                            "ru": "2. Та и Ҫа",
                             "fr": "2. Ta Tha",
                             "tr": "2. te s̠e",
                             "id": "2. Ta Tha"
@@ -96,7 +96,7 @@
                         "type": "lesson",
                         "titles": {
                             "en": "4. Dal Dhal Ro Za",
-                            "ru": "4. Даль, межзубный Заль, Ро и За",
+                            "ru": "4. Даль, Ҙаль, Ро и За",
                             "fr": "4. Dal Dhal Raa Za",
                             "tr": "4. dāl z̠el ra ze",
                             "id": "4. Dal Dzal Ro Za"
@@ -144,7 +144,7 @@
                         "type": "lesson",
                         "titles": {
                             "en": "6. Dod To Dho",
-                            "ru": "6. Дод, То и межзубный Зо",
+                            "ru": "6. Дод, То и Ҙо",
                             "fr": "6. Daad, Taa, Dhaa",
                             "tr": "6. ḍād, ṭā, ẓa",
                             "id": "6. Dhod Tho Zho"
@@ -314,11 +314,11 @@
             {
                 "id": "quran",
                 "titles": {
-                    "en": "al-Quran",
-                    "ru": "аль-Коран",
-                    "fr": "Al Quran",
-                    "tr": "al-Koran",
-                    "id": "al-Quran"
+                    "en": "Quranic Ayahs",
+                    "ru": "Аяты Корана",
+                    "fr": "Quran",
+                    "tr": "Koran",
+                    "id": "Quran"
                 },
                 "items": [
                     {
@@ -676,7 +676,7 @@
             {
                 "id": "articles",
                 "titles": {
-                    "en": "Articles on learning",
+                    "en": "Short Articles",
                     "ru": "Короткие статьи",
                     "fr": "",
                     "tr": "",
@@ -895,11 +895,11 @@
                         "id": "readar",
                         "type": "link",
                         "titles": {
-                            "en": "App: Learn to join letters into words",
-                            "ru": "Приложение: Учимся соединять буквы в слова",
-                            "fr": "App : Apprendre à assembler des lettres en mots",
-                            "tr": "Uygulama: Harfleri Kelimelere Dönüştürme",
-                            "id": "Aplikasi: Belajar Menggabungkan Huruf Menjadi Kata"
+                            "en": "Read Arabic: Learn to join letters into words",
+                            "ru": "Read Arabic: Учимся соединять буквы в слова",
+                            "fr": "Read Arabic: : Apprendre à assembler des lettres en mots",
+                            "tr": "Read Arabic: Harfleri Kelimelere Dönüştürme",
+                            "id": "Read Arabic: Belajar Menggabungkan Huruf Menjadi Kata"
                         },
                         "urls": {
                             "en": "https://onelink.to/readarabic",
