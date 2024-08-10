@@ -217,11 +217,11 @@
         "indonesian": "MashaAllah!\nAnda baru saja mempelajari huruf pertama Anda!"
     },
     "CharactersLearnt": {
-        "english": "MashaAllah, you've learned %d letters out of 28!",
-        "russian": "МашаАллах, вы изучили %d из 28 букв!",
-        "french": "Très bien, tu as appris %d lettres sur 28!",
-        "turkish": "Aferin, %d harfleri 28'den öğrendiniz.",
-        "indonesian": "Selamat, anda telah mempelajari %d huruf dari total 28 huruf!"
+        "english": "MashaAllah, you've covered\n%d letters!",
+        "russian": "МашаАллах, вы изучили %d букв!",
+        "french": "Très bien, tu as appris %d lettres!",
+        "turkish": "Aferin, %d harfleri öğrendiniz.",
+        "indonesian": "Selamat, anda telah mempelajari %d huruf!"
     },
     "NewContentAvailable": {
         "english": "New item is available in the Content tab.",
