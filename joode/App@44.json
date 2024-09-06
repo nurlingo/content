@@ -35,6 +35,157 @@
                         "elements": [
                             "ا",
                             "ب"
+                        ],
+                        "items": [
+                            {
+                                "id": "0",
+                                "type": "game",
+                                "titles": {
+                                    "en": "Draw\n\nPronounce\n\nMemorize",
+                                    "ru": "Рисуем\n\nПроизносим\n\nЗапоминаем",
+                                    "fr": "Dessine\n\nPrononce\n\nMémorise",
+                                    "tr": "Çizin\n\nTelaffuz edin\n\nÖğrenin",
+                                    "id": "Gambar\n\nLafalkan\n\nMenghafalkan"
+                                },
+                                "items": [
+                                    {
+                                        "id": "ا",
+                                        "type": "drawing",
+                                        "titles": {
+                                            "en": "Draw on screen",
+                                            "ru": "Рисуем на экране",
+                                            "fr": "Dessine",
+                                            "tr": "Çizin",
+                                            "id": "Gambar"
+                                        },
+                                        "icon": "ا"
+                                    },
+                                    {
+                                        "id": "ب",
+                                        "type": "drawing",
+                                        "titles": {
+                                            "en": "Draw",
+                                            "ru": "Рисуем",
+                                            "fr": "Dessine",
+                                            "tr": "Çizin",
+                                            "id": "Gambar"
+                                        },
+                                        "icon": "ب"
+                                    },
+                                    {
+                                        "id": "ا",
+                                        "type": "sound",
+                                        "titles": {
+                                            "en": "Pick the right sound",
+                                            "ru": "Выберите правильный звук",
+                                            "fr": "Choisis le bon son",
+                                            "tr": "Doğru sesi seç",
+                                            "id": "Pilih suara yang benar"
+                                        },
+                                        "icon": "اس",
+                                        "elements": [
+                                            "ا",
+                                            "ب",
+                                            "ت"
+                                        ]
+                                    },
+                                    {
+                                        "id": "ب",
+                                        "type": "shape",
+                                        "titles": {
+                                            "en": "Pick the right letter",
+                                            "ru": "Выберите правильную букву",
+                                            "fr": "Choisis la bonne lettre",
+                                            "tr": "Doğru harfi seçin",
+                                            "id": "Pilih huruf yang benar"
+                                        },
+                                        "icon": "ب",
+                                        "elements": [
+                                            "ا",
+                                            "ب",
+                                            "ت"
+                                        ]
+                                    },
+                                    {
+                                        "id": "ا",
+                                        "type": "shape",
+                                        "titles": {
+                                            "en": "Pick the right letter",
+                                            "ru": "Выберите правильную букву",
+                                            "fr": "Choisis la bonne lettre",
+                                            "tr": "Doğru harfi seçin",
+                                            "id": "Pilih huruf yang benar"
+                                        },
+                                        "icon": "ا",
+                                        "elements": [
+                                            "ا",
+                                            "ب",
+                                            "ت"
+                                        ]
+                                    },
+                                    {
+                                        "id": "ب",
+                                        "type": "sound",
+                                        "titles": {
+                                            "en": "Pick the right sound",
+                                            "ru": "Выберите правильный звук",
+                                            "fr": "Choisis le bon son",
+                                            "tr": "Doğru sesi seç",
+                                            "id": "Pilih suara yang benar"
+                                        },
+                                        "icon": "بس",
+                                        "elements": [
+                                            "ا",
+                                            "ب",
+                                            "ت"
+                                        ]
+                                    },
+                                    {
+                                        "id": "ا",
+                                        "type": "drawing",
+                                        "titles": {
+                                            "en": "Draw",
+                                            "ru": "Рисуем",
+                                            "fr": "Dessine",
+                                            "tr": "Çizin",
+                                            "id": "Gambar"
+                                        },
+                                        "icon": "ا"
+                                    },
+                                    {
+                                        "id": "ب",
+                                        "type": "drawing",
+                                        "titles": {
+                                            "en": "Draw",
+                                            "ru": "Рисуем",
+                                            "fr": "Dessine",
+                                            "tr": "Çizin",
+                                            "id": "Gambar"
+                                        },
+                                        "icon": "ب"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "0",
+                                "type": "pronounce",
+                                "titles": {
+                                    "en": "Time to revise\n\nListen carefully\n\nRepeat",
+                                    "ru": "Теперь закрепим\n\nСлушаем внимательно\n\nПовторяем\n\n",
+                                    "fr": "Temps de révision\n\nÉcoute attentivement\n\nRépète",
+                                    "tr": "Gözden geçirme zamanı\n\nKendi iyi dinle\n\nRipitat",
+                                    "id": "Saatnya mengulang\n\nDengarkan dengan hati-hati\n\nUlangi"
+                                },
+                                "elements": [
+                                    "ا",
+                                    "ب",
+                                    "ا",
+                                    "ب",
+                                    "ب",
+                                    "ا",
+                                    "ب"
+                                ]
+                            }
                         ]
                     },
                     {
@@ -53,7 +204,134 @@
                         ],
                         "dependent_items": {
                             "0": "finish"
-                        }
+                        },
+                        "items": [
+                            {
+                                "id": "1",
+                                "type": "game",
+                                "titles": {
+                                    "en": "Draw\n\nPronounce\n\nMemorize",
+                                    "ru": "Рисуем\n\nПроизносим\n\nЗапоминаем",
+                                    "fr": "Dessine\n\nPrononce\n\nMémorise",
+                                    "tr": "Çizin\n\nTelaffuz edin\n\nÖğrenin",
+                                    "id": "Gambar\n\nLafalkan\n\nMenghafalkan"
+                                },
+                                "items": [
+                                    {
+                                        "id": "ت",
+                                        "type": "drawing",
+                                        "titles": {
+                                            "en": "Draw",
+                                            "ru": "Рисуем",
+                                            "fr": "Dessine",
+                                            "tr": "Çizin",
+                                            "id": "Gambar"
+                                        },
+                                        "icon": "ت"
+                                    },
+                                    {
+                                        "id": "ث",
+                                        "type": "drawing",
+                                        "titles": {
+                                            "en": "Draw",
+                                            "ru": "Рисуем",
+                                            "fr": "Dessine",
+                                            "tr": "Çizin",
+                                            "id": "Gambar"
+                                        },
+                                        "icon": "ث"
+                                    },
+                                    {
+                                        "id": "ت",
+                                        "type": "sound",
+                                        "titles": {
+                                            "en": "Pick the right sound",
+                                            "ru": "Выберите правильный звук",
+                                            "fr": "Choisis le bon son",
+                                            "tr": "Doğru sesi seç",
+                                            "id": "Pilih suara yang benar"
+                                        },
+                                        "icon": "تس",
+                                        "elements": [
+                                            "ا",
+                                            "ب",
+                                            "ت"
+                                        ]
+                                    },
+                                    {
+                                        "id": "ث",
+                                        "type": "shape",
+                                        "titles": {
+                                            "en": "Pick the right letter",
+                                            "ru": "Выберите правильную букву",
+                                            "fr": "Choisis la bonne lettre",
+                                            "tr": "Doğru harfi seçin",
+                                            "id": "Pilih huruf yang benar"
+                                        },
+                                        "icon": "ث",
+                                        "elements": [
+                                            "ت",
+                                            "ا",
+                                            "ث"
+                                        ]
+                                    },
+                                    {
+                                        "id": "ت",
+                                        "type": "shape",
+                                        "titles": {
+                                            "en": "Pick the right letter",
+                                            "ru": "Выберите правильную букву",
+                                            "fr": "Choisis la bonne lettre",
+                                            "tr": "Doğru harfi seçin",
+                                            "id": "Pilih huruf yang benar"
+                                        },
+                                        "icon": "ت",
+                                        "elements": [
+                                            "ب",
+                                            "ت",
+                                            "ث"
+                                        ]
+                                    },
+                                    {
+                                        "id": "ث",
+                                        "type": "sound",
+                                        "titles": {
+                                            "en": "Pick the right sound",
+                                            "ru": "Выберите правильный звук",
+                                            "fr": "Choisis le bon son",
+                                            "tr": "Doğru sesi seç",
+                                            "id": "Pilih suara yang benar"
+                                        },
+                                        "icon": "ثس",
+                                        "elements": [
+                                            "ث",
+                                            "ا",
+                                            "ب"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "1",
+                                "type": "pronounce",
+                                "titles": {
+                                    "en": "Time to revise\n\nListen carefully\n\nRepeat",
+                                    "ru": "Теперь закрепим\n\nСлушаем внимательно\n\nПовторяем\n\n",
+                                    "fr": "Temps de révision\n\nÉcoute attentivement\n\nRépète",
+                                    "tr": "Gözden geçirme zamanı\n\nKendi iyi dinle\n\nRipitat",
+                                    "id": "Saatnya mengulang\n\nDengarkan dengan hati-hati\n\nUlangi"
+                                },
+                                "elements": [
+                                    "ت",
+                                    "ث",
+                                    "ت",
+                                    "ث",
+                                    "ث",
+                                    "ت",
+                                    "ث"
+                                ]
+                            }
+                        ]
                     },
                     {
                         "id": "2",
@@ -72,7 +350,146 @@
                         ],
                         "dependent_items": {
                             "1": "finish"
-                        }
+                        },
+                        "items": [
+                            {
+                                "id": "2",
+                                "type": "game",
+                                "titles": {
+                                    "en": "Draw\n\nPronounce\n\nMemorize",
+                                    "ru": "Рисуем\n\nПроизносим\n\nЗапоминаем",
+                                    "fr": "Dessine\n\nPrononce\n\nMémorise",
+                                    "tr": "Çizin\n\nTelaffuz edin\n\nÖğrenin",
+                                    "id": "Gambar\n\nLafalkan\n\nMenghafalkan"
+                                },
+                                "items": [
+                                    {
+                                        "id": "ج",
+                                        "type": "drawing",
+                                        "titles": {
+                                            "en": "Draw",
+                                            "ru": "Рисуем",
+                                            "fr": "Dessine",
+                                            "tr": "Çizin",
+                                            "id": "Gambar"
+                                        },
+                                        "icon": "ج"
+                                    },
+                                    {
+                                        "id": "ح",
+                                        "type": "drawing",
+                                        "titles": {
+                                            "en": "Draw",
+                                            "ru": "Рисуем",
+                                            "fr": "Dessine",
+                                            "tr": "Çizin",
+                                            "id": "Gambar"
+                                        },
+                                        "icon": "ح"
+                                    },
+                                    {
+                                        "id": "خ",
+                                        "type": "drawing",
+                                        "titles": {
+                                            "en": "Draw",
+                                            "ru": "Рисуем",
+                                            "fr": "Dessine",
+                                            "tr": "Çizin",
+                                            "id": "Gambar"
+                                        },
+                                        "icon": "خ"
+                                    },
+                                    {
+                                        "id": "ج",
+                                        "type": "sound",
+                                        "titles": {
+                                            "en": "Pick the right sound",
+                                            "ru": "Выберите правильный звук",
+                                            "fr": "Choisis le bon son",
+                                            "tr": "Doğru sesi seç",
+                                            "id": "Pilih suara yang benar"
+                                        },
+                                        "icon": "جس",
+                                        "elements": [
+                                            "ج",
+                                            "ت",
+                                            "ث"
+                                        ]
+                                    },
+                                    {
+                                        "id": "ح",
+                                        "type": "shape",
+                                        "titles": {
+                                            "en": "Pick the right letter",
+                                            "ru": "Выберите правильную букву",
+                                            "fr": "Choisis la bonne lettre",
+                                            "tr": "Doğru harfi seçin",
+                                            "id": "Pilih huruf yang benar"
+                                        },
+                                        "icon": "ح",
+                                        "elements": [
+                                            "ح",
+                                            "ب",
+                                            "ج"
+                                        ]
+                                    },
+                                    {
+                                        "id": "خ",
+                                        "type": "shape",
+                                        "titles": {
+                                            "en": "Pick the right letter",
+                                            "ru": "Выберите правильную букву",
+                                            "fr": "Choisis la bonne lettre",
+                                            "tr": "Doğru harfi seçin",
+                                            "id": "Pilih huruf yang benar"
+                                        },
+                                        "icon": "خ",
+                                        "elements": [
+                                            "ث",
+                                            "خ",
+                                            "ت"
+                                        ]
+                                    },
+                                    {
+                                        "id": "ج",
+                                        "type": "sound",
+                                        "titles": {
+                                            "en": "Pick the right sound",
+                                            "ru": "Выберите правильный звук",
+                                            "fr": "Choisis le bon son",
+                                            "tr": "Doğru sesi seç",
+                                            "id": "Pilih suara yang benar"
+                                        },
+                                        "icon": "جس",
+                                        "elements": [
+                                            "ج",
+                                            "ا",
+                                            "خ"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "2",
+                                "type": "pronounce",
+                                "titles": {
+                                    "en": "Time to revise\n\nListen carefully\n\nRepeat",
+                                    "ru": "Теперь закрепим\n\nСлушаем внимательно\n\nПовторяем\n\n",
+                                    "fr": "Temps de révision\n\nÉcoute attentivement\n\nRépète",
+                                    "tr": "Gözden geçirme zamanı\n\nKendi iyi dinle\n\nRipitat",
+                                    "id": "Saatnya mengulang\n\nDengarkan dengan hati-hati\n\nUlangi"
+                                },
+                                "elements": [
+                                    "ج",
+                                    "ح",
+                                    "خ",
+                                    "ج",
+                                    "ح",
+                                    "خ",
+                                    "ج"
+                                ]
+                            }
+                        ]
                     },
                     {
                         "id": "3",
@@ -92,7 +509,159 @@
                         ],
                         "dependent_items": {
                             "2": "finish"
-                        }
+                        },
+                        "items": [
+                            {
+                                "id": "3",
+                                "type": "game",
+                                "titles": {
+                                    "en": "Draw\n\nPronounce\n\nMemorize",
+                                    "ru": "Рисуем\n\nПроизносим\n\nЗапоминаем",
+                                    "fr": "Dessine\n\nPrononce\n\nMémorise",
+                                    "tr": "Çizin\n\nTelaffuz edin\n\nÖğrenin",
+                                    "id": "Gambar\n\nLafalkan\n\nMenghafalkan"
+                                },
+                                "items": [
+                                    {
+                                        "id": "د",
+                                        "type": "drawing",
+                                        "titles": {
+                                            "en": "Draw",
+                                            "ru": "Рисуем",
+                                            "fr": "Dessine",
+                                            "tr": "Çizin",
+                                            "id": "Gambar"
+                                        },
+                                        "icon": "د"
+                                    },
+                                    {
+                                        "id": "ذ",
+                                        "type": "drawing",
+                                        "titles": {
+                                            "en": "Draw",
+                                            "ru": "Рисуем",
+                                            "fr": "Dessine",
+                                            "tr": "Çizin",
+                                            "id": "Gambar"
+                                        },
+                                        "icon": "ذ"
+                                    },
+                                    {
+                                        "id": "ر",
+                                        "type": "drawing",
+                                        "titles": {
+                                            "en": "Draw",
+                                            "ru": "Рисуем",
+                                            "fr": "Dessine",
+                                            "tr": "Çizin",
+                                            "id": "Gambar"
+                                        },
+                                        "icon": "ر"
+                                    },
+                                    {
+                                        "id": "ز",
+                                        "type": "drawing",
+                                        "titles": {
+                                            "en": "Draw",
+                                            "ru": "Рисуем",
+                                            "fr": "Dessine",
+                                            "tr": "Çizin",
+                                            "id": "Gambar"
+                                        },
+                                        "icon": "ز"
+                                    },
+                                    {
+                                        "id": "د",
+                                        "type": "sound",
+                                        "titles": {
+                                            "en": "Pick the right sound",
+                                            "ru": "Выберите правильный звук",
+                                            "fr": "Choisis le bon son",
+                                            "tr": "Doğru sesi seç",
+                                            "id": "Pilih suara yang benar"
+                                        },
+                                        "icon": "دس",
+                                        "elements": [
+                                            "ج",
+                                            "د",
+                                            "ذ"
+                                        ]
+                                    },
+                                    {
+                                        "id": "ذ",
+                                        "type": "shape",
+                                        "titles": {
+                                            "en": "Pick the right letter",
+                                            "ru": "Выберите правильную букву",
+                                            "fr": "Choisis la bonne lettre",
+                                            "tr": "Doğru harfi seçin",
+                                            "id": "Pilih huruf yang benar"
+                                        },
+                                        "icon": "ذ",
+                                        "elements": [
+                                            "ذ",
+                                            "خ",
+                                            "ر"
+                                        ]
+                                    },
+                                    {
+                                        "id": "ر",
+                                        "type": "sound",
+                                        "titles": {
+                                            "en": "Pick the right sound",
+                                            "ru": "Выберите правильный звук",
+                                            "fr": "Choisis le bon son",
+                                            "tr": "Doğru sesi seç",
+                                            "id": "Pilih suara yang benar"
+                                        },
+                                        "icon": "رس",
+                                        "elements": [
+                                            "ر",
+                                            "ذ",
+                                            "ز"
+                                        ]
+                                    },
+                                    {
+                                        "id": "ز",
+                                        "type": "shape",
+                                        "titles": {
+                                            "en": "Pick the right letter",
+                                            "ru": "Выберите правильную букву",
+                                            "fr": "Choisis la bonne lettre",
+                                            "tr": "Doğru harfi seçin",
+                                            "id": "Pilih huruf yang benar"
+                                        },
+                                        "icon": "ز",
+                                        "elements": [
+                                            "ز",
+                                            "ر",
+                                            "ذ"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "3",
+                                "type": "pronounce",
+                                "titles": {
+                                    "en": "Time to revise\n\nListen carefully\n\nRepeat",
+                                    "ru": "Теперь закрепим\n\nСлушаем внимательно\n\nПовторяем\n\n",
+                                    "fr": "Temps de révision\n\nÉcoute attentivement\n\nRépète",
+                                    "tr": "Gözden geçirme zamanı\n\nKendi iyi dinle\n\nRipitat",
+                                    "id": "Saatnya mengulang\n\nDengarkan dengan hati-hati\n\nUlangi"
+                                },
+                                "elements": [
+                                    "د",
+                                    "ذ",
+                                    "ر",
+                                    "ز",
+                                    "د",
+                                    "ذ",
+                                    "ز",
+                                    "ر"
+                                ]
+                            }
+                        ]
                     },
                     {
                         "id": "4",
@@ -111,7 +680,146 @@
                         ],
                         "dependent_items": {
                             "3": "finish"
-                        }
+                        },
+                        "items": [
+                            {
+                                "id": "4",
+                                "type": "game",
+                                "titles": {
+                                    "en": "Draw\n\nPronounce\n\nMemorize",
+                                    "ru": "Рисуем\n\nПроизносим\n\nЗапоминаем",
+                                    "fr": "Dessine\n\nPrononce\n\nMémorise",
+                                    "tr": "Çizin\n\nTelaffuz edin\n\nÖğrenin",
+                                    "id": "Gambar\n\nLafalkan\n\nMenghafalkan"
+                                },
+                                "items": [
+                                    {
+                                        "id": "س",
+                                        "type": "drawing",
+                                        "titles": {
+                                            "en": "Draw",
+                                            "ru": "Рисуем",
+                                            "fr": "Dessine",
+                                            "tr": "Çizin",
+                                            "id": "Gambar"
+                                        },
+                                        "icon": "س"
+                                    },
+                                    {
+                                        "id": "ش",
+                                        "type": "drawing",
+                                        "titles": {
+                                            "en": "Draw",
+                                            "ru": "Рисуем",
+                                            "fr": "Dessine",
+                                            "tr": "Çizin",
+                                            "id": "Gambar"
+                                        },
+                                        "icon": "ش"
+                                    },
+                                    {
+                                        "id": "ص",
+                                        "type": "drawing",
+                                        "titles": {
+                                            "en": "Draw",
+                                            "ru": "Рисуем",
+                                            "fr": "Dessine",
+                                            "tr": "Çizin",
+                                            "id": "Gambar"
+                                        },
+                                        "icon": "ص"
+                                    },
+                                    {
+                                        "id": "س",
+                                        "type": "sound",
+                                        "titles": {
+                                            "en": "Pick the right sound",
+                                            "ru": "Выберите правильный звук",
+                                            "fr": "Choisis le bon son",
+                                            "tr": "Doğru sesi seç",
+                                            "id": "Pilih suara yang benar"
+                                        },
+                                        "icon": "سس",
+                                        "elements": [
+                                            "س",
+                                            "ذ",
+                                            "ش"
+                                        ]
+                                    },
+                                    {
+                                        "id": "ش",
+                                        "type": "shape",
+                                        "titles": {
+                                            "en": "Pick the right letter",
+                                            "ru": "Выберите правильную букву",
+                                            "fr": "Choisis la bonne lettre",
+                                            "tr": "Doğru harfi seçin",
+                                            "id": "Pilih huruf yang benar"
+                                        },
+                                        "icon": "ش",
+                                        "elements": [
+                                            "ش",
+                                            "ص",
+                                            "ر"
+                                        ]
+                                    },
+                                    {
+                                        "id": "ص",
+                                        "type": "shape",
+                                        "titles": {
+                                            "en": "Pick the right letter",
+                                            "ru": "Выберите правильную букву",
+                                            "fr": "Choisis la bonne lettre",
+                                            "tr": "Doğru harfi seçin",
+                                            "id": "Pilih huruf yang benar"
+                                        },
+                                        "icon": "ص",
+                                        "elements": [
+                                            "ص",
+                                            "ش",
+                                            "س"
+                                        ]
+                                    },
+                                    {
+                                        "id": "س",
+                                        "type": "sound",
+                                        "titles": {
+                                            "en": "Pick the right sound",
+                                            "ru": "Выберите правильный звук",
+                                            "fr": "Choisis le bon son",
+                                            "tr": "Doğru sesi seç",
+                                            "id": "Pilih suara yang benar"
+                                        },
+                                        "icon": "سس",
+                                        "elements": [
+                                            "س",
+                                            "ذ",
+                                            "ص"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "4",
+                                "type": "pronounce",
+                                "titles": {
+                                    "en": "Time to revise\n\nListen carefully\n\nRepeat",
+                                    "ru": "Теперь закрепим\n\nСлушаем внимательно\n\nПовторяем\n\n",
+                                    "fr": "Temps de révision\n\nÉcoute attentivement\n\nRépète",
+                                    "tr": "Gözden geçirme zamanı\n\nKendi iyi dinle\n\nRipitat",
+                                    "id": "Saatnya mengulang\n\nDengarkan dengan hati-hati\n\nUlangi"
+                                },
+                                "elements": [
+                                    "س",
+                                    "ش",
+                                    "ص",
+                                    "س",
+                                    "ش",
+                                    "ص",
+                                    "س"
+                                ]
+                            }
+                        ]
                     },
                     {
                         "id": "5",
@@ -130,7 +838,146 @@
                         ],
                         "dependent_items": {
                             "4": "finish"
-                        }
+                        },
+                        "items": [
+                            {
+                                "id": "5",
+                                "type": "game",
+                                "titles": {
+                                    "en": "Draw\n\nPronounce\n\nMemorize",
+                                    "ru": "Рисуем\n\nПроизносим\n\nЗапоминаем",
+                                    "fr": "Dessine\n\nPrononce\n\nMémorise",
+                                    "tr": "Çizin\n\nTelaffuz edin\n\nÖğrenin",
+                                    "id": "Gambar\n\nLafalkan\n\nMenghafalkan"
+                                },
+                                "items": [
+                                    {
+                                        "id": "ض",
+                                        "type": "drawing",
+                                        "titles": {
+                                            "en": "Draw",
+                                            "ru": "Рисуем",
+                                            "fr": "Dessine",
+                                            "tr": "Çizin",
+                                            "id": "Gambar"
+                                        },
+                                        "icon": "ض"
+                                    },
+                                    {
+                                        "id": "ط",
+                                        "type": "drawing",
+                                        "titles": {
+                                            "en": "Draw",
+                                            "ru": "Рисуем",
+                                            "fr": "Dessine",
+                                            "tr": "Çizin",
+                                            "id": "Gambar"
+                                        },
+                                        "icon": "ط"
+                                    },
+                                    {
+                                        "id": "ظ",
+                                        "type": "drawing",
+                                        "titles": {
+                                            "en": "Draw",
+                                            "ru": "Рисуем",
+                                            "fr": "Dessine",
+                                            "tr": "Çizin",
+                                            "id": "Gambar"
+                                        },
+                                        "icon": "ظ"
+                                    },
+                                    {
+                                        "id": "ض",
+                                        "type": "sound",
+                                        "titles": {
+                                            "en": "Pick the right sound",
+                                            "ru": "Выберите правильный звук",
+                                            "fr": "Choisis le bon son",
+                                            "tr": "Doğru sesi seç",
+                                            "id": "Pilih suara yang benar"
+                                        },
+                                        "icon": "ضس",
+                                        "elements": [
+                                            "ض",
+                                            "ط",
+                                            "ظ"
+                                        ]
+                                    },
+                                    {
+                                        "id": "ط",
+                                        "type": "shape",
+                                        "titles": {
+                                            "en": "Pick the right letter",
+                                            "ru": "Выберите правильную букву",
+                                            "fr": "Choisis la bonne lettre",
+                                            "tr": "Doğru harfi seçin",
+                                            "id": "Pilih huruf yang benar"
+                                        },
+                                        "icon": "ط",
+                                        "elements": [
+                                            "ط",
+                                            "ض",
+                                            "ظ"
+                                        ]
+                                    },
+                                    {
+                                        "id": "ظ",
+                                        "type": "shape",
+                                        "titles": {
+                                            "en": "Pick the right letter",
+                                            "ru": "Выберите правильную букву",
+                                            "fr": "Choisis la bonne lettre",
+                                            "tr": "Doğru harfi seçin",
+                                            "id": "Pilih huruf yang benar"
+                                        },
+                                        "icon": "ظ",
+                                        "elements": [
+                                            "ظ",
+                                            "ض",
+                                            "ط"
+                                        ]
+                                    },
+                                    {
+                                        "id": "ض",
+                                        "type": "sound",
+                                        "titles": {
+                                            "en": "Pick the right sound",
+                                            "ru": "Выберите правильный звук",
+                                            "fr": "Choisis le bon son",
+                                            "tr": "Doğru sesi seç",
+                                            "id": "Pilih suara yang benar"
+                                        },
+                                        "icon": "ضس",
+                                        "elements": [
+                                            "ض",
+                                            "ط",
+                                            "ظ"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "5",
+                                "type": "pronounce",
+                                "titles": {
+                                    "en": "Time to revise\n\nListen carefully\n\nRepeat",
+                                    "ru": "Теперь закрепим\n\nСлушаем внимательно\n\nПовторяем\n\n",
+                                    "fr": "Temps de révision\n\nÉcoute attentivement\n\nRépète",
+                                    "tr": "Gözden geçirme zamanı\n\nKendi iyi dinle\n\nRipitat",
+                                    "id": "Saatnya mengulang\n\nDengarkan dengan hati-hati\n\nUlangi"
+                                },
+                                "elements": [
+                                    "ض",
+                                    "ط",
+                                    "ظ",
+                                    "ض",
+                                    "ط",
+                                    "ظ",
+                                    "ض"
+                                ]
+                            }
+                        ]
                     },
                     {
                         "id": "6",
@@ -148,7 +995,134 @@
                         ],
                         "dependent_items": {
                             "5": "finish"
-                        }
+                        },
+                        "items": [
+                            {
+                                "id": "6",
+                                "type": "game",
+                                "titles": {
+                                    "en": "Draw\n\nPronounce\n\nMemorize",
+                                    "ru": "Рисуем\n\nПроизносим\n\nЗапоминаем",
+                                    "fr": "Dessine\n\nPrononce\n\nMémorise",
+                                    "tr": "Çizin\n\nTelaffuz edin\n\nÖğrenin",
+                                    "id": "Gambar\n\nLafalkan\n\nMenghafalkan"
+                                },
+                                "items": [
+                                    {
+                                        "id": "ع",
+                                        "type": "drawing",
+                                        "titles": {
+                                            "en": "Draw",
+                                            "ru": "Рисуем",
+                                            "fr": "Dessine",
+                                            "tr": "Çizin",
+                                            "id": "Gambar"
+                                        },
+                                        "icon": "ع"
+                                    },
+                                    {
+                                        "id": "غ",
+                                        "type": "drawing",
+                                        "titles": {
+                                            "en": "Draw",
+                                            "ru": "Рисуем",
+                                            "fr": "Dessine",
+                                            "tr": "Çizin",
+                                            "id": "Gambar"
+                                        },
+                                        "icon": "غ"
+                                    },
+                                    {
+                                        "id": "ع",
+                                        "type": "sound",
+                                        "titles": {
+                                            "en": "Pick the right sound",
+                                            "ru": "Выберите правильный звук",
+                                            "fr": "Choisis le bon son",
+                                            "tr": "Doğru sesi seç",
+                                            "id": "Pilih suara yang benar"
+                                        },
+                                        "icon": "عس",
+                                        "elements": [
+                                            "ع",
+                                            "غ",
+                                            "ط"
+                                        ]
+                                    },
+                                    {
+                                        "id": "غ",
+                                        "type": "shape",
+                                        "titles": {
+                                            "en": "Pick the right letter",
+                                            "ru": "Выберите правильную букву",
+                                            "fr": "Choisis la bonne lettre",
+                                            "tr": "Doğru harfi seçin",
+                                            "id": "Pilih huruf yang benar"
+                                        },
+                                        "icon": "غ",
+                                        "elements": [
+                                            "غ",
+                                            "ع",
+                                            "ظ"
+                                        ]
+                                    },
+                                    {
+                                        "id": "ع",
+                                        "type": "shape",
+                                        "titles": {
+                                            "en": "Pick the right letter",
+                                            "ru": "Выберите правильную букву",
+                                            "fr": "Choisis la bonne lettre",
+                                            "tr": "Doğru harfi seçin",
+                                            "id": "Pilih huruf yang benar"
+                                        },
+                                        "icon": "ع",
+                                        "elements": [
+                                            "ع",
+                                            "غ",
+                                            "ط"
+                                        ]
+                                    },
+                                    {
+                                        "id": "غ",
+                                        "type": "sound",
+                                        "titles": {
+                                            "en": "Pick the right sound",
+                                            "ru": "Выберите правильный звук",
+                                            "fr": "Choisis le bon son",
+                                            "tr": "Doğru sesi seç",
+                                            "id": "Pilih suara yang benar"
+                                        },
+                                        "icon": "غس",
+                                        "elements": [
+                                            "غ",
+                                            "ع",
+                                            "ظ"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "6",
+                                "type": "pronounce",
+                                "titles": {
+                                    "en": "Time to revise\n\nListen carefully\n\nRepeat",
+                                    "ru": "Теперь закрепим\n\nСлушаем внимательно\n\nПовторяем\n\n",
+                                    "fr": "Temps de révision\n\nÉcoute attentivement\n\nRépète",
+                                    "tr": "Gözden geçirme zamanı\n\nKendi iyi dinle\n\nRipitat",
+                                    "id": "Saatnya mengulang\n\nDengarkan dengan hati-hati\n\nUlangi"
+                                },
+                                "elements": [
+                                    "ع",
+                                    "غ",
+                                    "ع",
+                                    "غ",
+                                    "ع",
+                                    "غ",
+                                    "ع"
+                                ]
+                            }
+                        ]
                     },
                     {
                         "id": "7",
@@ -167,7 +1141,146 @@
                         ],
                         "dependent_items": {
                             "6": "finish"
-                        }
+                        },
+                        "items": [
+                            {
+                                "id": "7",
+                                "type": "game",
+                                "titles": {
+                                    "en": "Draw\n\nPronounce\n\nMemorize",
+                                    "ru": "Рисуем\n\nПроизносим\n\nЗапоминаем",
+                                    "fr": "Dessine\n\nPrononce\n\nMémorise",
+                                    "tr": "Çizin\n\nTelaffuz edin\n\nÖğренin",
+                                    "id": "Gambar\n\nLafalkan\n\nMenghafalkan"
+                                },
+                                "items": [
+                                    {
+                                        "id": "ف",
+                                        "type": "drawing",
+                                        "titles": {
+                                            "en": "Draw",
+                                            "ru": "Рисуем",
+                                            "fr": "Dessine",
+                                            "tr": "Çizin",
+                                            "id": "Gambar"
+                                        },
+                                        "icon": "ف"
+                                    },
+                                    {
+                                        "id": "ق",
+                                        "type": "drawing",
+                                        "titles": {
+                                            "en": "Draw",
+                                            "ru": "Рисуем",
+                                            "fr": "Dessine",
+                                            "tr": "Çizin",
+                                            "id": "Gambar"
+                                        },
+                                        "icon": "ق"
+                                    },
+                                    {
+                                        "id": "ك",
+                                        "type": "drawing",
+                                        "titles": {
+                                            "en": "Draw",
+                                            "ru": "Рисуем",
+                                            "fr": "Dessine",
+                                            "tr": "Çizin",
+                                            "id": "Gambar"
+                                        },
+                                        "icon": "ك"
+                                    },
+                                    {
+                                        "id": "ف",
+                                        "type": "sound",
+                                        "titles": {
+                                            "en": "Pick the right sound",
+                                            "ru": "Выберите правильный звук",
+                                            "fr": "Choisis le bon son",
+                                            "tr": "Doğru sesi seç",
+                                            "id": "Pilih suara yang benar"
+                                        },
+                                        "icon": "فس",
+                                        "elements": [
+                                            "ف",
+                                            "ق",
+                                            "ك"
+                                        ]
+                                    },
+                                    {
+                                        "id": "ق",
+                                        "type": "shape",
+                                        "titles": {
+                                            "en": "Pick the right letter",
+                                            "ru": "Выберите правильную букву",
+                                            "fr": "Choisis la bonne lettre",
+                                            "tr": "Doğru harfi seçin",
+                                            "id": "Pilih huruf yang benar"
+                                        },
+                                        "icon": "ق",
+                                        "elements": [
+                                            "ق",
+                                            "ف",
+                                            "ك"
+                                        ]
+                                    },
+                                    {
+                                        "id": "ك",
+                                        "type": "shape",
+                                        "titles": {
+                                            "en": "Pick the right letter",
+                                            "ru": "Выберите правильную букву",
+                                            "fr": "Choisis la bonne lettre",
+                                            "tr": "Doğru harfi seçin",
+                                            "id": "Pilih huruf yang benar"
+                                        },
+                                        "icon": "ك",
+                                        "elements": [
+                                            "ك",
+                                            "ق",
+                                            "ف"
+                                        ]
+                                    },
+                                    {
+                                        "id": "ف",
+                                        "type": "sound",
+                                        "titles": {
+                                            "en": "Pick the right sound",
+                                            "ru": "Выберите правильный звук",
+                                            "fr": "Choisis le bon son",
+                                            "tr": "Doğru sesi seç",
+                                            "id": "Pilih suara yang benar"
+                                        },
+                                        "icon": "فس",
+                                        "elements": [
+                                            "ف",
+                                            "ق",
+                                            "ك"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "7",
+                                "type": "pronounce",
+                                "titles": {
+                                    "en": "Time to revise\n\nListen carefully\n\nRepeat",
+                                    "ru": "Теперь закрепим\n\nСлушаем внимательно\n\nПовторяем\n\n",
+                                    "fr": "Temps de révision\n\nÉcoute attentivement\n\nRépète",
+                                    "tr": "Gözden geçirme zamanı\n\nKendi iyi dinle\n\nRipitat",
+                                    "id": "Saatnya mengulang\n\nDengarkan dengan hati-hati\n\nUlangi"
+                                },
+                                "elements": [
+                                    "ف",
+                                    "ق",
+                                    "ك",
+                                    "ف",
+                                    "ق",
+                                    "ك",
+                                    "ف"
+                                ]
+                            }
+                        ]
                     },
                     {
                         "id": "8",
@@ -186,7 +1299,146 @@
                         ],
                         "dependent_items": {
                             "7": "finish"
-                        }
+                        },
+                        "items": [
+                            {
+                                "id": "8",
+                                "type": "game",
+                                "titles": {
+                                    "en": "Draw\n\nPronounce\n\nMemorize",
+                                    "ru": "Рисуем\n\nПроизносим\n\nЗапоминаем",
+                                    "fr": "Dessine\n\nPrononce\n\nMémorise",
+                                    "tr": "Çizin\n\nTelaffuz edin\n\nÖğренin",
+                                    "id": "Gambar\n\nLafalkan\n\nMenghafalkan"
+                                },
+                                "items": [
+                                    {
+                                        "id": "ل",
+                                        "type": "drawing",
+                                        "titles": {
+                                            "en": "Draw",
+                                            "ru": "Рисуем",
+                                            "fr": "Dessine",
+                                            "tr": "Çizin",
+                                            "id": "Gambar"
+                                        },
+                                        "icon": "ل"
+                                    },
+                                    {
+                                        "id": "م",
+                                        "type": "drawing",
+                                        "titles": {
+                                            "en": "Draw",
+                                            "ru": "Рисуем",
+                                            "fr": "Dessine",
+                                            "tr": "Çizin",
+                                            "id": "Gambar"
+                                        },
+                                        "icon": "م"
+                                    },
+                                    {
+                                        "id": "ن",
+                                        "type": "drawing",
+                                        "titles": {
+                                            "en": "Draw",
+                                            "ru": "Рисуем",
+                                            "fr": "Dessine",
+                                            "tr": "Çizin",
+                                            "id": "Gambar"
+                                        },
+                                        "icon": "ن"
+                                    },
+                                    {
+                                        "id": "ل",
+                                        "type": "sound",
+                                        "titles": {
+                                            "en": "Pick the right sound",
+                                            "ru": "Выберите правильный звук",
+                                            "fr": "Choisis le bon son",
+                                            "tr": "Doğru sesi seç",
+                                            "id": "Pilih suara yang benar"
+                                        },
+                                        "icon": "لس",
+                                        "elements": [
+                                            "ل",
+                                            "م",
+                                            "ن"
+                                        ]
+                                    },
+                                    {
+                                        "id": "م",
+                                        "type": "shape",
+                                        "titles": {
+                                            "en": "Pick the right letter",
+                                            "ru": "Выберите правильную букву",
+                                            "fr": "Choisis la bonne lettre",
+                                            "tr": "Doğru harfi seçin",
+                                            "id": "Pilih huruf yang benar"
+                                        },
+                                        "icon": "م",
+                                        "elements": [
+                                            "م",
+                                            "ل",
+                                            "ن"
+                                        ]
+                                    },
+                                    {
+                                        "id": "ن",
+                                        "type": "shape",
+                                        "titles": {
+                                            "en": "Pick the right letter",
+                                            "ru": "Выберите правильную букву",
+                                            "fr": "Choisis la bonne lettre",
+                                            "tr": "Doğru harfi seçin",
+                                            "id": "Pilih huruf yang benar"
+                                        },
+                                        "icon": "ن",
+                                        "elements": [
+                                            "ن",
+                                            "م",
+                                            "ل"
+                                        ]
+                                    },
+                                    {
+                                        "id": "ل",
+                                        "type": "sound",
+                                        "titles": {
+                                            "en": "Pick the right sound",
+                                            "ru": "Выберите правильный звук",
+                                            "fr": "Choisis le bon son",
+                                            "tr": "Doğru sesi seç",
+                                            "id": "Pilih suara yang benar"
+                                        },
+                                        "icon": "لس",
+                                        "elements": [
+                                            "ل",
+                                            "م",
+                                            "ن"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "8",
+                                "type": "pronounce",
+                                "titles": {
+                                    "en": "Time to revise\n\nListen carefully\n\nRepeat",
+                                    "ru": "Теперь закрепим\n\nСлушаем внимательно\n\nПовторяем\n\n",
+                                    "fr": "Temps de révision\n\nÉcoute attentivement\n\nRépète",
+                                    "tr": "Gözden geçirme zamanı\n\nKendi iyi dinle\n\nRipitat",
+                                    "id": "Saatnya mengulang\n\nDengarkan dengan hati-hati\n\nUlangi"
+                                },
+                                "elements": [
+                                    "ل",
+                                    "م",
+                                    "ن",
+                                    "ل",
+                                    "م",
+                                    "ن",
+                                    "ل"
+                                ]
+                            }
+                        ]
                     },
                     {
                         "id": "9",
@@ -205,7 +1457,146 @@
                         ],
                         "dependent_items": {
                             "8": "finish"
-                        }
+                        },
+                        "items": [
+                            {
+                                "id": "9",
+                                "type": "game",
+                                "titles": {
+                                    "en": "Draw\n\nPronounce\n\nMemorize",
+                                    "ru": "Рисуем\n\nПроизносим\n\nЗапоминаем",
+                                    "fr": "Dessine\n\nPrononce\n\nMémorise",
+                                    "tr": "Çizin\n\nTelaffuz edin\n\nÖğренin",
+                                    "id": "Gambar\n\nLafalkan\n\nMenghafalkan"
+                                },
+                                "items": [
+                                    {
+                                        "id": "ھ",
+                                        "type": "drawing",
+                                        "titles": {
+                                            "en": "Draw",
+                                            "ru": "Рисуем",
+                                            "fr": "Dessine",
+                                            "tr": "Çizin",
+                                            "id": "Gambar"
+                                        },
+                                        "icon": "ھ"
+                                    },
+                                    {
+                                        "id": "و",
+                                        "type": "drawing",
+                                        "titles": {
+                                            "en": "Draw",
+                                            "ru": "Рисуем",
+                                            "fr": "Dessine",
+                                            "tr": "Çizin",
+                                            "id": "Gambar"
+                                        },
+                                        "icon": "و"
+                                    },
+                                    {
+                                        "id": "ي",
+                                        "type": "drawing",
+                                        "titles": {
+                                            "en": "Draw",
+                                            "ru": "Рисуем",
+                                            "fr": "Dessine",
+                                            "tr": "Çizin",
+                                            "id": "Gambar"
+                                        },
+                                        "icon": "ي"
+                                    },
+                                    {
+                                        "id": "ھ",
+                                        "type": "sound",
+                                        "titles": {
+                                            "en": "Pick the right sound",
+                                            "ru": "Выберите правильный звук",
+                                            "fr": "Choisis le bon son",
+                                            "tr": "Doğru sesi seç",
+                                            "id": "Pilih suara yang benar"
+                                        },
+                                        "icon": "ھس",
+                                        "elements": [
+                                            "ھ",
+                                            "و",
+                                            "ي"
+                                        ]
+                                    },
+                                    {
+                                        "id": "و",
+                                        "type": "shape",
+                                        "titles": {
+                                            "en": "Pick the right letter",
+                                            "ru": "Выберите правильную букву",
+                                            "fr": "Choisis la bonne lettre",
+                                            "tr": "Doğru harfi seçin",
+                                            "id": "Pilih huruf yang benar"
+                                        },
+                                        "icon": "و",
+                                        "elements": [
+                                            "و",
+                                            "ھ",
+                                            "ي"
+                                        ]
+                                    },
+                                    {
+                                        "id": "ي",
+                                        "type": "shape",
+                                        "titles": {
+                                            "en": "Pick the right letter",
+                                            "ru": "Выберите правильную букву",
+                                            "fr": "Choisis la bonne lettre",
+                                            "tr": "Doğru harfi seçin",
+                                            "id": "Pilih huruf yang benar"
+                                        },
+                                        "icon": "ي",
+                                        "elements": [
+                                            "ي",
+                                            "و",
+                                            "ھ"
+                                        ]
+                                    },
+                                    {
+                                        "id": "ھ",
+                                        "type": "sound",
+                                        "titles": {
+                                            "en": "Pick the right sound",
+                                            "ru": "Выберите правильный звук",
+                                            "fr": "Choisis le bon son",
+                                            "tr": "Doğru sesi seç",
+                                            "id": "Pilih suara yang benar"
+                                        },
+                                        "icon": "ھس",
+                                        "elements": [
+                                            "ھ",
+                                            "و",
+                                            "ي"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "9",
+                                "type": "pronounce",
+                                "titles": {
+                                    "en": "Time to revise\n\nListen carefully\n\nRepeat",
+                                    "ru": "Теперь закрепим\n\nСлушаем внимательно\n\nПовторяем\n\n",
+                                    "fr": "Temps de révision\n\nÉcoute attentivement\n\nRépète",
+                                    "tr": "Gözden geçirme zamanı\n\nKendi iyi dinle\n\nRipitat",
+                                    "id": "Saatnya mengulang\n\nDengarkan dengan hati-hati\n\nUlangi"
+                                },
+                                "elements": [
+                                    "ھ",
+                                    "و",
+                                    "ي",
+                                    "ھ",
+                                    "و",
+                                    "ي",
+                                    "ھ"
+                                ]
+                            }
+                        ]
                     }
                 ]
             },
@@ -657,7 +2048,7 @@
                         }
                     },
                     {
-                        "id": "notification",
+                        "id": "notifications",
                         "type": "switch",
                         "titles": {
                             "en": "Enable notifications",
