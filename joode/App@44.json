@@ -2048,7 +2048,7 @@
                         }
                     },
                     {
-                        "id": "notifications",
+                        "id": "notification",
                         "type": "switch",
                         "titles": {
                             "en": "Enable notifications",
