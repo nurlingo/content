@@ -539,5 +539,246 @@
                 ]
             }
         ]
+    },
+    {
+        "id": "settings",
+        "type": "tab",
+        "titles": {
+            "en": "Settings",
+            "ru": "Настройки",
+            "fr": "Réglages",
+            "tr": "Ayarlar",
+            "id": "Pengaturan"
+        },
+        "icon": "gearshape",
+        "items": [
+            {
+                "id": "general_settings",
+                "type": "section",
+                "titles": {
+                    "en": "General",
+                    "ru": "Общее",
+                    "fr": "Général",
+                    "tr": "Genel",
+                    "id": "Umum"
+                },
+                "items": [
+                    {
+                        "id": "share_app",
+                        "type": "action",
+                        "titles": {
+                            "en": "Share with friends",
+                            "ru": "Порекомендовать друзьям",
+                            "fr": "Partager avec des amis",
+                            "tr": "Arkadaşlarınla paylaş",
+                            "id": "Bagikan dengan teman"
+                        }
+                    },
+                    {
+                        "id": "rate_app",
+                        "type": "action",
+                        "titles": {
+                            "en": "Rate us in the AppStore",
+                            "ru": "Оставить отзыв в AppStore",
+                            "fr": "Laisser un avis dans l'AppStore",
+                            "tr": "AppStore'da bir inceleme bırakın",
+                            "id": "Tinggalkan ulasan di AppStore"
+                        },
+                        "descriptions": {
+                            "en": "Your ratings and reviews will help us reach more people"
+                        }
+                    },
+                    {
+                        "id": "contact_developer",
+                        "type": "link",
+                        "titles": {
+                            "en": "Contact the developer",
+                            "ru": "Связаться с разработчиком",
+                            "fr": "Contact the developer",
+                            "tr": "Contact the developer",
+                            "id": "Contact the developer"
+                        },
+                        "urls": {
+                            "en": "https://api.whatsapp.com/send?phone=77765206766&text=As-salaamu `alaikum! I'm using Joode.",
+                            "ru": "https://api.whatsapp.com/send?phone=77765206766&text=Ассаляму `аляйкум! Я использую Joode.",
+                            "fr": "https://api.whatsapp.com/send?phone=77765206766&text=As-salaamu `alaikum! I'm using Joode.",
+                            "tr": "https://api.whatsapp.com/send?phone=77765206766&text=As-salaamu `alaikum! I'm using Joode.",
+                            "id": "https://api.whatsapp.com/send?phone=77765206766&text=As-salaamu `alaikum! I'm using Joode."
+                        },
+                        "shows": {
+                            "en": 1,
+                            "ru": 1,
+                            "fr": 0,
+                            "tr": 0,
+                            "id": 0
+                        }
+                    },
+                    {
+                        "id": "support_app",
+                        "type": "action",
+                        "titles": {
+                            "en": "Donate to the project",
+                            "ru": "Поддержать разработчика",
+                            "fr": "Faire un don au projet",
+                            "tr": "Projeye bağış yapın",
+                            "id": "Donasi untuk proyek"
+                        }
+                    },
+                    {
+                        "id": "notification",
+                        "type": "switch",
+                        "titles": {
+                            "en": "Enable notifications",
+                            "ru": "Включить уведомления",
+                            "fr": "Avis",
+                            "tr": "Bildirimler",
+                            "id": "Pemberitahuan"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "recommended",
+                "type": "section",
+                "titles": {
+                    "en": "Recommendations",
+                    "ru": "Рекомендации",
+                    "fr": "Applications et cours recommandés",
+                    "tr": "Önerilen Uygulamalar ve Kurslar",
+                    "id": "Aplikasi dan Kursus yang Direkomendasikan"
+                },
+                "items": [
+                    {
+                        "id": "namaz",
+                        "type": "link",
+                        "titles": {
+                            "en": "Namaz App: Learn to pray",
+                            "ru": "Namaz App: Учимся молиться",
+                            "fr": "Namaz App : Apprendre à prier",
+                            "tr": "Namaz App: Namaz Öğren",
+                            "id": "Namaz App: Belajar Berdoa"
+                        },
+                        "urls": {
+                            "en": "https://onelink.to/namaz",
+                            "ru": "https://onelink.to/namaz",
+                            "fr": "https://onelink.to/namaz",
+                            "tr": "https://onelink.to/namaz",
+                            "id": "https://onelink.to/namaz"
+                        }
+                    },
+                    {
+                        "id": "joode",
+                        "type": "link",
+                        "titles": {
+                            "en": "Joode: Arabic Alphabet in two hours",
+                            "ru": "Joode: Арабский алфавит за два часа",
+                            "fr": "Joode : L'alphabet arabe en deux heures",
+                            "tr": "Joode: İki Saatte Arap Alfabesi",
+                            "id": "Joode: Alfabet Arab dalam Dua Jam"
+                        },
+                        "urls": {
+                            "en": "https://onelink.to/joode",
+                            "ru": "https://onelink.to/joode",
+                            "fr": "https://onelink.to/joode",
+                            "tr": "https://onelink.to/joode",
+                            "id": "https://onelink.to/joode"
+                        },
+                        "shows": {
+                            "en": 0,
+                            "ru": 0,
+                            "fr": 0,
+                            "tr": 0,
+                            "id": 0
+                        }
+                    },
+                    {
+                        "id": "readar",
+                        "type": "link",
+                        "titles": {
+                            "en": "Read Arabic: Learn to join letters into words",
+                            "ru": "Read Arabic: Учимся соединять буквы в слова",
+                            "fr": "Read Arabic : Apprendre à assembler des lettres en mots",
+                            "tr": "Read Arabic: Harfleri Kelimelere Dönüştürme",
+                            "id": "Read Arabic: Belajar Menggabungkan Huruf Menjadi Kata"
+                        },
+                        "urls": {
+                            "en": "https://onelink.to/readarabic",
+                            "ru": "https://onelink.to/readar",
+                            "fr": "https://onelink.to/readarabic",
+                            "tr": "https://onelink.to/readarabic",
+                            "id": "https://onelink.to/readarabic"
+                        },
+                        "descriptions": {
+                            "en": "Next step after Joode",
+                            "ru": "Второй шаг после Joode",
+                            "fr": "Étape suivante après Joode",
+                            "tr": "Joode'den Sonraki Adım",
+                            "id": "Langkah Berikutnya setelah Joode"
+                        }
+                    },
+                    {
+                        "id": "thani",
+                        "type": "link",
+                        "titles": {
+                            "en": "Thani: Learn to read letters with vowels",
+                            "ru": "Thani: Учимся читать буквы с гласными",
+                            "fr": "Thani : Apprendre à lire les lettres avec des voyelles",
+                            "tr": "Thani: Sesli Harfleri Okumayı Öğren",
+                            "id": "Thani: Belajar Membaca Huruf dengan Vokal"
+                        },
+                        "descriptions": {},
+                        "urls": {
+                            "en": "https://apps.apple.com/ru/app/thani-learn-to-read-arabic/id6476807629",
+                            "ru": "https://apps.apple.com/ru/app/thani-learn-to-read-arabic/id6476807629",
+                            "fr": "https://apps.apple.com/ru/app/thani-learn-to-read-arabic/id6476807629",
+                            "tr": "https://apps.apple.com/ru/app/thani-learn-to-read-arabic/id6476807629",
+                            "id": "https://apps.apple.com/ru/app/thani-learn-to-read-arabic/id6476807629"
+                        }
+                    },
+                    {
+                        "id": "kiflayn",
+                        "type": "link",
+                        "titles": {
+                            "en": "Kiflayn: an affordable online course"
+                        },
+                        "descriptions": {
+                            "en": "Learn to read with a group"
+                        },
+                        "urls": {
+                            "en": "https://kiflayn.com/product/level-1-al-qaidah-al-nuraniyah-group-class/"
+                        },
+                        "shows": {
+                            "en": 1,
+                            "ru": 0,
+                            "fr": 0,
+                            "tr": 0,
+                            "id": 0
+                        }
+                    },
+                    {
+                        "id": "arabictutor",
+                        "type": "link",
+                        "titles": {
+                            "en": "Ustadh Abdusalam: one-on-one individual learning",
+                            "ru": "Платный курс: Индивидуальные занятия с учителем",
+                            "fr": "Un cours de lecture payant : Apprendre en tête-à-tête avec un enseignant",
+                            "tr": "Ücretli Okuma Kursu: Öğretmenle Birebir Öğrenin",
+                            "id": "Kurs Membaca Berbayar: Belajar Satu-satu dengan Guru"
+                        },
+                        "urls": {
+                            "en": "https://api.whatsapp.com/send?phone=447846992624&text=As-salaamu `alaikum! I'd like to sign up for the paid course to learn to read Arabic.",
+                            "ru": "https://api.whatsapp.com/send?phone=79393872939&text=Ассаляму аляйкум! Пишу из приложения Joode. Хочу записаться на платный курс по арабскому."
+                        },
+                        "shows": {
+                            "en": 1,
+                            "ru": 1,
+                            "fr": 0,
+                            "tr": 0,
+                            "id": 0
+                        }
+                    }
+                ]
+            }
+        ]
     }
 ]
