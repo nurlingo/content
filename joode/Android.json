@@ -26,15 +26,17 @@
                         "id": "0",
                         "type": "lesson",
                         "titles": {
-                            "en": "1. Alif Ba",
-                            "ru": "1. Алиф Ба",
-                            "fr": "1. Alif Ba",
-                            "tr": "1. elif be",
-                            "id": "1. Alif Ba"
+                            "en": "1. Alif Ba Ta Tha",
+                            "ru": "1. Алиф Ба Та и Ҫа",
+                            "fr": "1. Alif Ba Ta Tha",
+                            "tr": "1. elif be te s̠e",
+                            "id": "1. Alif Ba Ta Tha"
                         },
                         "elements": [
                             "ا",
-                            "ب"
+                            "ب",
+                            "ت",
+                            "ث"
                         ],
                         "items": [
                             {
@@ -163,60 +165,7 @@
                                             "id": "Gambar"
                                         },
                                         "icon": "ب"
-                                    }
-                                ]
-                            },
-                            {
-                                "id": "0",
-                                "type": "pronounce",
-                                "titles": {
-                                    "en": "Time to revise\n\nListen carefully\n\nRepeat",
-                                    "ru": "Теперь закрепим\n\nСлушаем внимательно\n\nПовторяем\n\n",
-                                    "fr": "Temps de révision\n\nÉcoute attentivement\n\nRépète",
-                                    "tr": "Gözden geçirme zamanı\n\nKendi iyi dinle\n\nRipitat",
-                                    "id": "Saatnya mengulang\n\nDengarkan dengan hati-hati\n\nUlangi"
-                                },
-                                "elements": [
-                                    "ا",
-                                    "ب",
-                                    "ا",
-                                    "ب",
-                                    "ب",
-                                    "ا",
-                                    "ب"
-                                ]
-                            }
-                        ]
-                    },
-                    {
-                        "id": "1",
-                        "type": "lesson",
-                        "titles": {
-                            "en": "2. Ta Tha",
-                            "ru": "2. Та и Ҫа",
-                            "fr": "2. Ta Tha",
-                            "tr": "2. te s̠e",
-                            "id": "2. Ta Tha"
-                        },
-                        "elements": [
-                            "ت",
-                            "ث"
-                        ],
-                        "dependent_items": {
-                            "0": "finish"
-                        },
-                        "items": [
-                            {
-                                "id": "1",
-                                "type": "game",
-                                "titles": {
-                                    "en": "Draw\n\nPronounce\n\nMemorize",
-                                    "ru": "Рисуем\n\nПроизносим\n\nЗапоминаем",
-                                    "fr": "Dessine\n\nPrononce\n\nMémorise",
-                                    "tr": "Çizin\n\nTelaffuz edin\n\nÖğrenin",
-                                    "id": "Gambar\n\nLafalkan\n\nMenghafalkan"
-                                },
-                                "items": [
+                                    },
                                     {
                                         "id": "ت",
                                         "type": "drawing",
@@ -310,50 +259,27 @@
                                         ]
                                     }
                                 ]
-                            },
-                            {
-                                "id": "1",
-                                "type": "pronounce",
-                                "titles": {
-                                    "en": "Time to revise\n\nListen carefully\n\nRepeat",
-                                    "ru": "Теперь закрепим\n\nСлушаем внимательно\n\nПовторяем\n\n",
-                                    "fr": "Temps de révision\n\nÉcoute attentivement\n\nRépète",
-                                    "tr": "Gözden geçirme zamanı\n\nKendi iyi dinle\n\nRipitat",
-                                    "id": "Saatnya mengulang\n\nDengarkan dengan hati-hati\n\nUlangi"
-                                },
-                                "elements": [
-                                    "ت",
-                                    "ث",
-                                    "ت",
-                                    "ث",
-                                    "ث",
-                                    "ت",
-                                    "ث"
-                                ]
                             }
                         ]
                     },
                     {
-                        "id": "2",
+                        "id": "1",
                         "type": "lesson",
                         "titles": {
-                            "en": "3. Jeem Ha Kho",
-                            "ru": "3. Джим Ха Ҳо",
-                            "fr": "3. Jim Ha Khaa",
-                            "tr": "3. cīm ḥā ḫa",
-                            "id": "3. Jiim Ha Kho"
+                            "en": "2. Jeem Ha Kho",
+                            "ru": "2. Джим Ха Ҳо",
+                            "fr": "2. Jim Ha Khaa",
+                            "tr": "2. cīm ḥā ḫa",
+                            "id": "2. Jiim Ha Kho"
                         },
                         "elements": [
                             "ج",
                             "ح",
                             "خ"
                         ],
-                        "dependent_items": {
-                            "1": "finish"
-                        },
                         "items": [
                             {
-                                "id": "2",
+                                "id": "1",
                                 "type": "game",
                                 "titles": {
                                     "en": "Draw\n\nPronounce\n\nMemorize",
@@ -468,38 +394,21 @@
                                         ]
                                     }
                                 ]
-                            },
-                            {
-                                "id": "2",
-                                "type": "pronounce",
-                                "titles": {
-                                    "en": "Time to revise\n\nListen carefully\n\nRepeat",
-                                    "ru": "Теперь закрепим\n\nСлушаем внимательно\n\nПовторяем\n\n",
-                                    "fr": "Temps de révision\n\nÉcoute attentivement\n\nRépète",
-                                    "tr": "Gözden geçirme zamanı\n\nKendi iyi dinle\n\nRipitat",
-                                    "id": "Saatnya mengulang\n\nDengarkan dengan hati-hati\n\nUlangi"
-                                },
-                                "elements": [
-                                    "ج",
-                                    "ح",
-                                    "خ",
-                                    "ج",
-                                    "ح",
-                                    "خ",
-                                    "ج"
-                                ]
                             }
-                        ]
+                        ],
+                        "dependent_items": {
+                            "0": "finish"
+                        }
                     },
                     {
-                        "id": "3",
+                        "id": "2",
                         "type": "lesson",
                         "titles": {
-                            "en": "4. Dal Dhal Ro Za",
-                            "ru": "4. Даль, Ҙаль, Ро и За",
-                            "fr": "4. Dal Dhal Raa Za",
-                            "tr": "4. dāl z̠el ra ze",
-                            "id": "4. Dal Dzal Ro Za"
+                            "en": "3. Dal Dhal Ro Za",
+                            "ru": "3. Даль, Ҙаль, Ро и За",
+                            "fr": "3. Dal Dhal Raa Za",
+                            "tr": "3. dāl z̠el ra ze",
+                            "id": "3. Dal Dzal Ro Za"
                         },
                         "elements": [
                             "د",
@@ -507,12 +416,9 @@
                             "ر",
                             "ز"
                         ],
-                        "dependent_items": {
-                            "2": "finish"
-                        },
                         "items": [
                             {
-                                "id": "3",
+                                "id": "2",
                                 "type": "game",
                                 "titles": {
                                     "en": "Draw\n\nPronounce\n\nMemorize",
@@ -639,51 +545,31 @@
                                         ]
                                     }
                                 ]
-                            },
-                            {
-                                "id": "3",
-                                "type": "pronounce",
-                                "titles": {
-                                    "en": "Time to revise\n\nListen carefully\n\nRepeat",
-                                    "ru": "Теперь закрепим\n\nСлушаем внимательно\n\nПовторяем\n\n",
-                                    "fr": "Temps de révision\n\nÉcoute attentivement\n\nRépète",
-                                    "tr": "Gözden geçirme zamanı\n\nKendi iyi dinle\n\nRipitat",
-                                    "id": "Saatnya mengulang\n\nDengarkan dengan hati-hati\n\nUlangi"
-                                },
-                                "elements": [
-                                    "د",
-                                    "ذ",
-                                    "ر",
-                                    "ز",
-                                    "د",
-                                    "ذ",
-                                    "ز",
-                                    "ر"
-                                ]
                             }
-                        ]
+                        ],
+                        "dependent_items": {
+                            "1": "finish"
+                        }
                     },
                     {
-                        "id": "4",
+                        "id": "3",
                         "type": "lesson",
                         "titles": {
-                            "en": "5. Seen Sheen Sod",
-                            "ru": "5. Син, Шин и Сод",
-                            "fr": "5. Sin, Chin, Saad",
-                            "tr": "5. sīn, şīn, ṣād",
-                            "id": "5. Siin Syin Shod"
+                            "en": "4. Seen Sheen Sod Dod",
+                            "ru": "4. Син, Шин и Сод Дод",
+                            "fr": "4. Sin, Chin, Saad Daad",
+                            "tr": "4. sīn, şīn, ṣād ḍād",
+                            "id": "4. Siin Syin Shod Dhod"
                         },
                         "elements": [
                             "س",
                             "ش",
-                            "ص"
+                            "ص",
+                            "ض"
                         ],
-                        "dependent_items": {
-                            "3": "finish"
-                        },
                         "items": [
                             {
-                                "id": "4",
+                                "id": "3",
                                 "type": "game",
                                 "titles": {
                                     "en": "Draw\n\nPronounce\n\nMemorize",
@@ -796,61 +682,7 @@
                                             "ذ",
                                             "ص"
                                         ]
-                                    }
-                                ]
-                            },
-                            {
-                                "id": "4",
-                                "type": "pronounce",
-                                "titles": {
-                                    "en": "Time to revise\n\nListen carefully\n\nRepeat",
-                                    "ru": "Теперь закрепим\n\nСлушаем внимательно\n\nПовторяем\n\n",
-                                    "fr": "Temps de révision\n\nÉcoute attentivement\n\nRépète",
-                                    "tr": "Gözden geçirme zamanı\n\nKendi iyi dinle\n\nRipitat",
-                                    "id": "Saatnya mengulang\n\nDengarkan dengan hati-hati\n\nUlangi"
-                                },
-                                "elements": [
-                                    "س",
-                                    "ش",
-                                    "ص",
-                                    "س",
-                                    "ش",
-                                    "ص",
-                                    "س"
-                                ]
-                            }
-                        ]
-                    },
-                    {
-                        "id": "5",
-                        "type": "lesson",
-                        "titles": {
-                            "en": "6. Dod To Dho",
-                            "ru": "6. Дод, То и Ҙо",
-                            "fr": "6. Daad, Taa, Dhaa",
-                            "tr": "6. ḍād, ṭā, ẓa",
-                            "id": "6. Dhod Tho Zho"
-                        },
-                        "elements": [
-                            "ض",
-                            "ط",
-                            "ظ"
-                        ],
-                        "dependent_items": {
-                            "4": "finish"
-                        },
-                        "items": [
-                            {
-                                "id": "5",
-                                "type": "game",
-                                "titles": {
-                                    "en": "Draw\n\nPronounce\n\nMemorize",
-                                    "ru": "Рисуем\n\nПроизносим\n\nЗапоминаем",
-                                    "fr": "Dessine\n\nPrononce\n\nMémorise",
-                                    "tr": "Çizin\n\nTelaffuz edin\n\nÖğrenin",
-                                    "id": "Gambar\n\nLafalkan\n\nMenghafalkan"
-                                },
-                                "items": [
+                                    },
                                     {
                                         "id": "ض",
                                         "type": "drawing",
@@ -863,6 +695,75 @@
                                         },
                                         "icon": "ض"
                                     },
+                                    {
+                                        "id": "ض",
+                                        "type": "sound",
+                                        "titles": {
+                                            "en": "Pick the right sound",
+                                            "ru": "Выберите правильный звук",
+                                            "fr": "Choisis le bon son",
+                                            "tr": "Doğru sesi seç",
+                                            "id": "Pilih suara yang benar"
+                                        },
+                                        "icon": "ضس",
+                                        "elements": [
+                                            "ض",
+                                            "ط",
+                                            "ظ"
+                                        ]
+                                    },
+                                    {
+                                        "id": "ض",
+                                        "type": "sound",
+                                        "titles": {
+                                            "en": "Pick the right sound",
+                                            "ru": "Выберите правильный звук",
+                                            "fr": "Choisis le bon son",
+                                            "tr": "Doğru sesi seç",
+                                            "id": "Pilih suara yang benar"
+                                        },
+                                        "icon": "ضس",
+                                        "elements": [
+                                            "ض",
+                                            "ط",
+                                            "ظ"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "dependent_items": {
+                            "2": "finish"
+                        }
+                    },
+                    {
+                        "id": "4",
+                        "type": "lesson",
+                        "titles": {
+                            "en": "5. To Dho 'Ain Ghoin",
+                            "ru": "5. То и Ҙо 'Айн и Ғойн",
+                            "fr": "5. Taa, Dhaa 'Ain, Ghain",
+                            "tr": "5. ṭā, ẓa ayn, gayn",
+                            "id": "5. Tho Zho 'Ain Ghoin"
+                        },
+                        "elements": [
+                            "ط",
+                            "ظ",
+                            "ع",
+                            "غ"
+                        ],
+                        "items": [
+                            {
+                                "id": "4",
+                                "type": "game",
+                                "titles": {
+                                    "en": "Draw\n\nPronounce\n\nMemorize",
+                                    "ru": "Рисуем\n\nПроизносим\n\nЗапоминаем",
+                                    "fr": "Dessine\n\nPrononce\n\nMémorise",
+                                    "tr": "Çizin\n\nTelaffuz edin\n\nÖğrenin",
+                                    "id": "Gambar\n\nLafalkan\n\nMenghafalkan"
+                                },
+                                "items": [
                                     {
                                         "id": "ط",
                                         "type": "drawing",
@@ -886,23 +787,6 @@
                                             "id": "Gambar"
                                         },
                                         "icon": "ظ"
-                                    },
-                                    {
-                                        "id": "ض",
-                                        "type": "sound",
-                                        "titles": {
-                                            "en": "Pick the right sound",
-                                            "ru": "Выберите правильный звук",
-                                            "fr": "Choisis le bon son",
-                                            "tr": "Doğru sesi seç",
-                                            "id": "Pilih suara yang benar"
-                                        },
-                                        "icon": "ضس",
-                                        "elements": [
-                                            "ض",
-                                            "ط",
-                                            "ظ"
-                                        ]
                                     },
                                     {
                                         "id": "ط",
@@ -938,76 +822,6 @@
                                             "ط"
                                         ]
                                     },
-                                    {
-                                        "id": "ض",
-                                        "type": "sound",
-                                        "titles": {
-                                            "en": "Pick the right sound",
-                                            "ru": "Выберите правильный звук",
-                                            "fr": "Choisis le bon son",
-                                            "tr": "Doğru sesi seç",
-                                            "id": "Pilih suara yang benar"
-                                        },
-                                        "icon": "ضس",
-                                        "elements": [
-                                            "ض",
-                                            "ط",
-                                            "ظ"
-                                        ]
-                                    }
-                                ]
-                            },
-                            {
-                                "id": "5",
-                                "type": "pronounce",
-                                "titles": {
-                                    "en": "Time to revise\n\nListen carefully\n\nRepeat",
-                                    "ru": "Теперь закрепим\n\nСлушаем внимательно\n\nПовторяем\n\n",
-                                    "fr": "Temps de révision\n\nÉcoute attentivement\n\nRépète",
-                                    "tr": "Gözden geçirme zamanı\n\nKendi iyi dinle\n\nRipitat",
-                                    "id": "Saatnya mengulang\n\nDengarkan dengan hati-hati\n\nUlangi"
-                                },
-                                "elements": [
-                                    "ض",
-                                    "ط",
-                                    "ظ",
-                                    "ض",
-                                    "ط",
-                                    "ظ",
-                                    "ض"
-                                ]
-                            }
-                        ]
-                    },
-                    {
-                        "id": "6",
-                        "type": "lesson",
-                        "titles": {
-                            "en": "7. 'Ain Ghoin",
-                            "ru": "7. 'Айн и Ғойн",
-                            "fr": "7. 'Ain, Ghain",
-                            "tr": "7. ayn, gayn",
-                            "id": "7. 'Ain Ghoin"
-                        },
-                        "elements": [
-                            "ع",
-                            "غ"
-                        ],
-                        "dependent_items": {
-                            "5": "finish"
-                        },
-                        "items": [
-                            {
-                                "id": "6",
-                                "type": "game",
-                                "titles": {
-                                    "en": "Draw\n\nPronounce\n\nMemorize",
-                                    "ru": "Рисуем\n\nПроизносим\n\nЗапоминаем",
-                                    "fr": "Dessine\n\nPrononce\n\nMémorise",
-                                    "tr": "Çizin\n\nTelaffuz edin\n\nÖğrenin",
-                                    "id": "Gambar\n\nLafalkan\n\nMenghafalkan"
-                                },
-                                "items": [
                                     {
                                         "id": "ع",
                                         "type": "drawing",
@@ -1101,50 +915,30 @@
                                         ]
                                     }
                                 ]
-                            },
-                            {
-                                "id": "6",
-                                "type": "pronounce",
-                                "titles": {
-                                    "en": "Time to revise\n\nListen carefully\n\nRepeat",
-                                    "ru": "Теперь закрепим\n\nСлушаем внимательно\n\nПовторяем\n\n",
-                                    "fr": "Temps de révision\n\nÉcoute attentivement\n\nRépète",
-                                    "tr": "Gözden geçirme zamanı\n\nKendi iyi dinle\n\nRipitat",
-                                    "id": "Saatnya mengulang\n\nDengarkan dengan hati-hati\n\nUlangi"
-                                },
-                                "elements": [
-                                    "ع",
-                                    "غ",
-                                    "ع",
-                                    "غ",
-                                    "ع",
-                                    "غ",
-                                    "ع"
-                                ]
                             }
-                        ]
+                        ],
+                        "dependent_items": {
+                            "3": "finish"
+                        }
                     },
                     {
-                        "id": "7",
+                        "id": "5",
                         "type": "lesson",
                         "titles": {
-                            "en": "8. Fa Qof Kaf",
-                            "ru": "8. Фа, Каф и Коф",
-                            "fr": "8. Fa, Qaaf, Kaf",
-                            "tr": "8. fe, kāf, qāf",
-                            "id": "8. Fa Qof Kaf"
+                            "en": "6. Fa Qof Kaf",
+                            "ru": "6. Фа, Каф и Коф",
+                            "fr": "6. Fa, Qaaf, Kaf",
+                            "tr": "6. fe, kāf, qāf",
+                            "id": "6. Fa Qof Kaf"
                         },
                         "elements": [
                             "ف",
                             "ق",
                             "ك"
                         ],
-                        "dependent_items": {
-                            "6": "finish"
-                        },
                         "items": [
                             {
-                                "id": "7",
+                                "id": "5",
                                 "type": "game",
                                 "titles": {
                                     "en": "Draw\n\nPronounce\n\nMemorize",
@@ -1259,50 +1053,30 @@
                                         ]
                                     }
                                 ]
-                            },
-                            {
-                                "id": "7",
-                                "type": "pronounce",
-                                "titles": {
-                                    "en": "Time to revise\n\nListen carefully\n\nRepeat",
-                                    "ru": "Теперь закрепим\n\nСлушаем внимательно\n\nПовторяем\n\n",
-                                    "fr": "Temps de révision\n\nÉcoute attentivement\n\nRépète",
-                                    "tr": "Gözden geçirme zamanı\n\nKendi iyi dinle\n\nRipitat",
-                                    "id": "Saatnya mengulang\n\nDengarkan dengan hati-hati\n\nUlangi"
-                                },
-                                "elements": [
-                                    "ف",
-                                    "ق",
-                                    "ك",
-                                    "ف",
-                                    "ق",
-                                    "ك",
-                                    "ف"
-                                ]
                             }
-                        ]
+                        ],
+                        "dependent_items": {
+                            "4": "finish"
+                        }
                     },
                     {
-                        "id": "8",
+                        "id": "6",
                         "type": "lesson",
                         "titles": {
-                            "en": "9. Lam Meem Noon",
-                            "ru": "9. Лям, Мим и Нун",
-                            "fr": "9. Lam, Mim, Noun",
-                            "tr": "9. lām, mīm, nūn",
-                            "id": "9. Lam Meem Noon"
+                            "en": "7. Lam Meem Noon",
+                            "ru": "7. Лям, Мим и Нун",
+                            "fr": "7. Lam, Mim, Noun",
+                            "tr": "7. lām, mīm, nūn",
+                            "id": "7. Lam Meem Noon"
                         },
                         "elements": [
                             "ل",
                             "م",
                             "ن"
                         ],
-                        "dependent_items": {
-                            "7": "finish"
-                        },
                         "items": [
                             {
-                                "id": "8",
+                                "id": "6",
                                 "type": "game",
                                 "titles": {
                                     "en": "Draw\n\nPronounce\n\nMemorize",
@@ -1417,50 +1191,30 @@
                                         ]
                                     }
                                 ]
-                            },
-                            {
-                                "id": "8",
-                                "type": "pronounce",
-                                "titles": {
-                                    "en": "Time to revise\n\nListen carefully\n\nRepeat",
-                                    "ru": "Теперь закрепим\n\nСлушаем внимательно\n\nПовторяем\n\n",
-                                    "fr": "Temps de révision\n\nÉcoute attentivement\n\nRépète",
-                                    "tr": "Gözden geçirme zamanı\n\nKendi iyi dinle\n\nRipitat",
-                                    "id": "Saatnya mengulang\n\nDengarkan dengan hati-hati\n\nUlangi"
-                                },
-                                "elements": [
-                                    "ل",
-                                    "م",
-                                    "ن",
-                                    "ل",
-                                    "م",
-                                    "ن",
-                                    "ل"
-                                ]
                             }
-                        ]
+                        ],
+                        "dependent_items": {
+                            "5": "finish"
+                        }
                     },
                     {
-                        "id": "9",
+                        "id": "7",
                         "type": "lesson",
                         "titles": {
-                            "en": "10. Ha Waw Ya",
-                            "ru": "10. hа, Уау и Йа",
-                            "fr": "10. Ha, Waw, Ya",
-                            "tr": "10. he, vāv, ye",
-                            "id": "10. Ha Waw Ya"
+                            "en": "8. Ha Waw Ya",
+                            "ru": "8. hа, Уау и Йа",
+                            "fr": "8. Ha, Waw, Ya",
+                            "tr": "8. he, vāv, ye",
+                            "id": "8. Ha Waw Ya"
                         },
                         "elements": [
                             "ھ",
                             "و",
                             "ي"
                         ],
-                        "dependent_items": {
-                            "8": "finish"
-                        },
                         "items": [
                             {
-                                "id": "9",
+                                "id": "7",
                                 "type": "game",
                                 "titles": {
                                     "en": "Draw\n\nPronounce\n\nMemorize",
@@ -1575,28 +1329,11 @@
                                         ]
                                     }
                                 ]
-                            },
-                            {
-                                "id": "9",
-                                "type": "pronounce",
-                                "titles": {
-                                    "en": "Time to revise\n\nListen carefully\n\nRepeat",
-                                    "ru": "Теперь закрепим\n\nСлушаем внимательно\n\nПовторяем\n\n",
-                                    "fr": "Temps de révision\n\nÉcoute attentivement\n\nRépète",
-                                    "tr": "Gözden geçirme zamanı\n\nKendi iyi dinle\n\nRipitat",
-                                    "id": "Saatnya mengulang\n\nDengarkan dengan hati-hati\n\nUlangi"
-                                },
-                                "elements": [
-                                    "ھ",
-                                    "و",
-                                    "ي",
-                                    "ھ",
-                                    "و",
-                                    "ي",
-                                    "ھ"
-                                ]
                             }
-                        ]
+                        ],
+                        "dependent_items": {
+                            "6": "finish"
+                        }
                     }
                 ]
             },
@@ -1622,7 +1359,7 @@
                             "id": "https://apps.apple.com/app/id1364988718"
                         },
                         "dependent_items": {
-                            "9": "finish"
+                            "7": "finish"
                         }
                     }
                 ]
@@ -1817,7 +1554,7 @@
                             "id": "Surat Ash-Sharh (94)"
                         },
                         "dependent_items": {
-                            "7": "finish"
+                            "6": "finish"
                         }
                     },
                     {
@@ -1838,7 +1575,7 @@
                             "id": "Surat Al-Jumu'ah (62: 9-11)"
                         },
                         "dependent_items": {
-                            "8": "finish"
+                            "7": "finish"
                         }
                     }
                 ]
@@ -1872,7 +1609,7 @@
                             "id": "Adzan - panggilan shalat"
                         },
                         "dependent_items": {
-                            "9": "finish"
+                            "7": "finish"
                         }
                     }
                 ]
@@ -1910,7 +1647,7 @@
                             "id": "Huruf Vokal"
                         },
                         "dependent_items": {
-                            "5": "finish"
+                            "7": "finish"
                         }
                     },
                     {
