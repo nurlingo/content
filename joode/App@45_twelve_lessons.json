@@ -1,0 +1,599 @@
+[
+    {
+        "id": "syllabus",
+        "type": "tab",
+        "titles": {
+            "en": "Alphabet",
+            "ru": "Алфавит",
+            "fr": "L'alphabet",
+            "tr": "Alfabe",
+            "id": "Alfabet"
+        },
+        "icon": "home",
+        "items": [
+            {
+                "id": "lessons",
+                "type": "section",
+                "titles": {
+                    "en": "Alphabet",
+                    "ru": "Алфавит",
+                    "fr": "L'alphabet",
+                    "tr": "Alfabe",
+                    "id": "Alfabet"
+                },
+                "items": [
+                    {
+                        "id": "0",
+                        "type": "lesson",
+                        "titles": {
+                            "en": "Alif Ba Ta Tha",
+                            "ru": "Алиф Ба Та и Ҫа",
+                            "fr": "Alif Ba Ta Tha",
+                            "tr": "elif be te s̠e",
+                            "id": "Alif Ba Ta Tha"
+                        },
+                        "elements": [
+                            "ا",
+                            "ب",
+                            "ت",
+                            "ث"
+                        ]
+                    },
+                    {
+                        "id": "1",
+                        "type": "lesson",
+                        "titles": {
+                            "en": "Jeem Ha Kho",
+                            "ru": "Джим Ха Ҳо",
+                            "fr": "Jim Ha Khaa",
+                            "tr": "cīm ḥā ḫa",
+                            "id": "Jiim Ha Kho"
+                        },
+                        "elements": [
+                            "ج",
+                            "ح",
+                            "خ"
+                        ],
+                        "dependent_items": {
+                            "0": "finish"
+                        }
+                    },
+                    {
+                        "id": "practice1",
+                        "type": "practice",
+                        "titles": {
+                            "en": "Practice 1",
+                            "ru": "Закрепление 1",
+                            "fr": "Pratique 1",
+                            "tr": "Pratik 1.",
+                            "id": "Sesi Latihan 1"
+                        },
+                        "dependent_items": {
+                            "1": "finish"
+                        }
+                    },
+                    {
+                        "id": "2",
+                        "type": "lesson",
+                        "titles": {
+                            "en": "Dal Dhal Ro Za",
+                            "ru": "Даль Ҙаль Ро За",
+                            "fr": "Dal Dhal Raa Za",
+                            "tr": "dāl z̠el ra ze",
+                            "id": "Dal Dzal Ro Za"
+                        },
+                        "elements": [
+                            "د",
+                            "ذ",
+                            "ر",
+                            "ز"
+                        ],
+                        "dependent_items": {
+                            "practice1": "finish"
+                        }
+                    },
+                    {
+                        "id": "3",
+                        "type": "lesson",
+                        "titles": {
+                            "en": "Seen Sheen Sod Dod",
+                            "ru": "Син Шин Сод Дод",
+                            "fr": "Sin, Chin, Saad Daad",
+                            "tr": "sīn, şīn, ṣād ḍād",
+                            "id": "Siin Syin Shod Dhod"
+                        },
+                        "elements": [
+                            "س",
+                            "ش",
+                            "ص",
+                            "ض"
+                        ],
+                        "dependent_items": {
+                            "2": "finish"
+                        }
+                    },
+                    {
+                        "id": "practice2",
+                        "type": "practice",
+                        "titles": {
+                            "en": "Practice 2",
+                            "ru": "Закрепление 2",
+                            "fr": "Pratique 2",
+                            "tr": "Pratik 2.",
+                            "id": "Sesi Latihan 2"
+                        },
+                        "dependent_items": {
+                            "3": "finish"
+                        }
+                    },
+                    {
+                        "id": "4",
+                        "type": "lesson",
+                        "titles": {
+                            "en": "To Dho 'Ain Ghoin",
+                            "ru": "То Ҙо 'Айн Ғойн",
+                            "fr": "Taa, Dhaa 'Ain, Ghain",
+                            "tr": "ṭā, ẓa ayn, gayn",
+                            "id": "Tho Zho 'Ain Ghoin"
+                        },
+                        "elements": [
+                            "ط",
+                            "ظ",
+                            "ع",
+                            "غ"
+                        ],
+                        "dependent_items": {
+                            "practice2": "finish"
+                        }
+                    },
+                    {
+                        "id": "5",
+                        "type": "lesson",
+                        "titles": {
+                            "en": "Fa Qof Kaf",
+                            "ru": "Фа Қоф Каф",
+                            "fr": "Fa, Qaaf, Kaf",
+                            "tr": "fe, kāf, qāf",
+                            "id": "Fa Qof Kaf"
+                        },
+                        "elements": [
+                            "ف",
+                            "ق",
+                            "ك"
+                        ],
+                        "dependent_items": {
+                            "4": "finish"
+                        }
+                    },
+                    {
+                        "id": "practice3",
+                        "type": "practice",
+                        "titles": {
+                            "en": "Practice 3",
+                            "ru": "Закрепление 3",
+                            "fr": "Pratique 3",
+                            "tr": "Pratik 3.",
+                            "id": "Sesi Latihan 3"
+                        },
+                        "dependent_items": {
+                            "5": "finish"
+                        }
+                    },
+                    {
+                        "id": "6",
+                        "type": "lesson",
+                        "titles": {
+                            "en": "Lam Meem Noon",
+                            "ru": "Лям Мим Нун",
+                            "fr": "Lam, Mim, Noun",
+                            "tr": "lām, mīm, nūn",
+                            "id": "Lam Meem Noon"
+                        },
+                        "elements": [
+                            "ل",
+                            "م",
+                            "ن"
+                        ],
+                        "dependent_items": {
+                            "practice3": "finish"
+                        }
+                    },
+                    {
+                        "id": "7",
+                        "type": "lesson",
+                        "titles": {
+                            "en": "Ha Waw Ya",
+                            "ru": "hа Уау Йа",
+                            "fr": "Ha, Waw, Ya",
+                            "tr": "he, vāv, ye",
+                            "id": "Ha Waw Ya"
+                        },
+                        "elements": [
+                            "ھ",
+                            "و",
+                            "ي"
+                        ],
+                        "dependent_items": {
+                            "6": "finish"
+                        }
+                    },
+                    {
+                        "id": "practice4",
+                        "type": "practice",
+                        "titles": {
+                            "en": "Practice 4",
+                            "ru": "Закрепление 4",
+                            "fr": "Pratique 4",
+                            "tr": "Pratik 4.",
+                            "id": "Sesi Latihan 4"
+                        },
+                        "dependent_items": {
+                            "7": "finish"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "after_lessons",
+                "type": "section",
+                "items": [
+                    {
+                        "id": "what_is_next",
+                        "type": "article",
+                        "titles": {
+                            "en": "Next step after Joode",
+                            "ru": "Что делать после Joode",
+                            "fr": "Prochaine étape après Joode",
+                            "tr": "Joode'den Sonraki Adım",
+                            "id": "Langkah Selanjutnya setelah Joode"
+                        },
+                        "urls": {
+                            "en": "https://www.namaz.live/after-joode",
+                            "ru": "https://www.namaz.live/after-joode-ru",
+                            "fr": "https://apps.apple.com/app/id1364988718",
+                            "tr": "https://apps.apple.com/app/id1364988718",
+                            "id": "https://apps.apple.com/app/id1364988718"
+                        },
+                        "dependent_items": {
+                            "practice4": "finish"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "content",
+        "type": "tab",
+        "titles": {
+            "en": "Content",
+            "ru": "Библиотека",
+            "fr": "Contenu",
+            "tr": "İçerik",
+            "id": "Konten"
+        },
+        "icon": "headphones",
+        "items": [
+            {
+                "id": "quran",
+                "type": "section",
+                "titles": {
+                    "en": "Quranic Ayahs",
+                    "ru": "Аяты Корана",
+                    "fr": "Quran",
+                    "tr": "Koran",
+                    "id": "Quran"
+                },
+                "items": [
+                    {
+                        "id": "The Opening",
+                        "type": "audio",
+                        "titles": {
+                            "en": "The Seven Oft-Repeated",
+                            "ru": "Семь часто повторяемых",
+                            "tr": "Yedi satır",
+                            "fr": "Les sept versets repétés",
+                            "id": "Tujuh Baris"
+                        },
+                        "descriptions": {
+                            "en": "Sura Al-Fatiha (1)",
+                            "ru": "Сура Аль-Фатиха (1)",
+                            "fr": "Sourate Al-Fatiha (1)",
+                            "tr": "Fâtiha Sûresi (1)",
+                            "id": "Surah Al-Fatihah (1)"
+                        },
+                        "dependent_items": {
+                            "0": "finish"
+                        }
+                    },
+                    {
+                        "id": "The Book",
+                        "type": "audio",
+                        "titles": {
+                            "en": "The Book of Allah",
+                            "ru": "Книга Аллаха",
+                            "tr": "Allah'ın Kitabı",
+                            "fr": "Le livre d'Allah",
+                            "id": "Kitab Allah"
+                        },
+                        "descriptions": {
+                            "en": "Sura Al-Baqara (2: 1-5)",
+                            "ru": "Сура Аль-Бакара (2: 1-5)",
+                            "fr": "Sourate Al-Baqara (2: 1-5)",
+                            "tr": "Bakara Sûresi (2: 1-5)",
+                            "id": "Surat Al-Baqarah (2: 1-5)"
+                        },
+                        "dependent_items": {
+                            "1": "finish"
+                        }
+                    },
+                    {
+                        "id": "The Message",
+                        "type": "audio",
+                        "titles": {
+                            "en": "The Message",
+                            "ru": "Послание",
+                            "tr": "Mesaj",
+                            "fr": "Le Message",
+                            "id": "Risalah"
+                        },
+                        "descriptions": {
+                            "en": "Sura Al-Baqara (2: 21-25)",
+                            "ru": "Сура Аль-Бакара (2: 21-25)",
+                            "fr": "Sourate Al-Baqara (2: 21-25)",
+                            "tr": "Bakara Sûresi (2: 21-25)",
+                            "id": "Surat Al-Baqarah (2: 21-25)"
+                        },
+                        "dependent_items": {
+                            "practice1": "finish"
+                        }
+                    },
+                    {
+                        "id": "The Parents",
+                        "type": "audio",
+                        "titles": {
+                            "en": "The Parents",
+                            "ru": "Начало",
+                            "tr": "Ebeveynler",
+                            "fr": "Les Parents",
+                            "id": "Ibu dan Ayah"
+                        },
+                        "descriptions": {
+                            "en": "Sura Al-Baqara (2: 30-38)",
+                            "ru": "Сура Аль-Бакара (2: 30-38)",
+                            "fr": "Sourate Al-Baqara (2: 30-38)",
+                            "tr": "Bakara Sûresi (2: 30-38)",
+                            "id": "Surat Al-Baqarah (2: 30-38)"
+                        },
+                        "dependent_items": {
+                            "2": "finish"
+                        }
+                    },
+                    {
+                        "id": "The Almighty",
+                        "type": "audio",
+                        "titles": {
+                            "en": "The Throne",
+                            "ru": "Престол",
+                            "tr": "Kürsi",
+                            "fr": "Le Repose-pied",
+                            "id": "Ayat Qursi"
+                        },
+                        "descriptions": {
+                            "en": "Sura Al-Baqara (2: 255)",
+                            "ru": "Сура Аль-Бакара (2: 255)",
+                            "fr": "Sourate Al-Baqara (2: 255)",
+                            "tr": "Bakara Sûresi (2: 255)",
+                            "id": "Surat Al-Baqarah (2: 255)"
+                        },
+                        "dependent_items": {
+                            "3": "finish"
+                        }
+                    },
+                    {
+                        "id": "The Beloved ﷺ",
+                        "type": "audio",
+                        "titles": {
+                            "en": "The Messenger ﷺ",
+                            "ru": "Посланник ﷺ",
+                            "tr": "Elçi ﷺ",
+                            "fr": "Le Messager ﷺ",
+                            "id": "Sang Utusan ﷺ"
+                        },
+                        "descriptions": {
+                            "en": "Sura Al-Ahzab (33: 40-48)",
+                            "ru": "Сура Аль-Ахзаб (33: 40-48)",
+                            "fr": "Sourate Al-Ahzab (33: 40-48)",
+                            "tr": "Ahzâb Sûresi (33: 40-48)",
+                            "id": "Surat Al-Ahzab (33: 40-48)"
+                        },
+                        "dependent_items": {
+                            "practice2": "finish"
+                        }
+                    },
+                    {
+                        "id": "The Morning light",
+                        "type": "audio",
+                        "titles": {
+                            "en": "The Morning light",
+                            "ru": "Утро",
+                            "tr": "Sabah ışığı",
+                            "fr": "Le jour montant",
+                            "id": "Sinar Pagi"
+                        },
+                        "descriptions": {
+                            "en": "Sura Ad-Dhuha (93)",
+                            "ru": "Сура Ад-Духа (93)",
+                            "fr": "Sourate Ad-Dhuha (93)",
+                            "tr": "Duhâ Sûresi (93)",
+                            "id": "Surat Ad-Dhuha (93)"
+                        },
+                        "dependent_items": {
+                            "4": "finish"
+                        }
+                    },
+                    {
+                        "id": "The Relief",
+                        "type": "audio",
+                        "titles": {
+                            "en": "The Relief",
+                            "ru": "Раскрытие",
+                            "tr": "Genişlemek",
+                            "fr": "L’épanouissement",
+                            "id": "Melapangkan"
+                        },
+                        "descriptions": {
+                            "en": "Sura Ash-Sharh (94)",
+                            "ru": "Сура Аш-Шарх (94)",
+                            "fr": "Sourate Ach-Charh (94)",
+                            "tr": "İnşirah Suresi (94)",
+                            "id": "Surat Ash-Sharh (94)"
+                        },
+                        "dependent_items": {
+                            "5": "finish"
+                        }
+                    },
+                    {
+                        "id": "Friday",
+                        "type": "audio",
+                        "titles": {
+                            "en": "The Gathering",
+                            "ru": "Собрание",
+                            "tr": "Toplanma",
+                            "fr": "Le rassemblement",
+                            "id": "Jamaah"
+                        },
+                        "descriptions": {
+                            "en": "Sura Al-Jumu'a (62: 9-11)",
+                            "ru": "Сура Аль-Джум'а (62: 9-11)",
+                            "fr": "Sourate Al-Joumou'a (62: 9-11)",
+                            "tr": "Cuma Sûresi (62: 9-11)",
+                            "id": "Surat Al-Jumu'ah (62: 9-11)"
+                        },
+                        "dependent_items": {
+                            "practice3": "finish"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "dhikr",
+                "type": "section",
+                "titles": {
+                    "en": "Dhikr and Dua",
+                    "ru": "Зикр и дуа",
+                    "fr": "Dhikr et Dua",
+                    "tr": "Zikir ve Dua",
+                    "id": "Dzikir dan Doa"
+                },
+                "items": [
+                    {
+                        "id": "The Call",
+                        "type": "audio",
+                        "titles": {
+                            "en": "The Call",
+                            "ru": "Азан",
+                            "tr": "Çağrı",
+                            "fr": "L'appel",
+                            "id": "Panggilan"
+                        },
+                        "descriptions": {
+                            "en": "Adhan - the call to prayer",
+                            "ru": "Азан - призыв к молитве",
+                            "fr": "L'Adhan - l'appel à la prière",
+                            "tr": "Adhan - namaza çağrı",
+                            "id": "Adzan - panggilan shalat"
+                        },
+                        "dependent_items": {
+                            "6": "finish"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "songs",
+                "type": "section",
+                "titles": {
+                    "en": "Educational",
+                    "ru": "Обучающее",
+                    "fr": "Éducatif",
+                    "tr": "Eğitici",
+                    "id": "Edukasi"
+                },
+                "items": [
+                    {
+                        "id": "alphabet",
+                        "type": "song",
+                        "titles": {
+                            "en": "Alphabet Song",
+                            "ru": "Песня-алфавит",
+                            "fr": "La chanson de l'alphabet",
+                            "tr": "Alfabe şarkısı",
+                            "id": "Lagu Alfabet"
+                        }
+                    },
+                    {
+                        "id": "vowels",
+                        "type": "song",
+                        "titles": {
+                            "en": "Vowels Song",
+                            "ru": "Песня гласных",
+                            "fr": "La chanson des voyelles",
+                            "tr": "Ünlüler",
+                            "id": "Huruf Vokal"
+                        },
+                        "dependent_items": {
+                            "7": "finish"
+                        }
+                    },
+                    {
+                        "id": "dua",
+                        "type": "song",
+                        "titles": {
+                            "en": "Alphabet Dua (bonus)",
+                            "ru": "Дуа-алфавит (бонус)",
+                            "fr": "Alphabet Dua (bonus)",
+                            "tr": "Alfabe Duası (bonus)",
+                            "id": "Alfabet Dua (bonus)"
+                        },
+                        "dependent_items": {
+                            "proposition": "success"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "articles",
+                "type": "section",
+                "titles": {
+                    "en": "Short Articles",
+                    "ru": "Короткие статьи",
+                    "fr": "",
+                    "tr": "",
+                    "id": ""
+                },
+                "items": [
+                    {
+                        "id": "learning_to_read_arabic",
+                        "type": "article",
+                        "titles": {
+                            "en": "Learning to read Arabic",
+                            "ru": "Научись читать по-арабски"
+                        },
+                        "urls": {
+                            "en": "https://www.namaz.live/arabic",
+                            "ru": "https://www.namaz.live/arabic-ru"
+                        },
+                        "shows": {
+                            "en": 1,
+                            "ru": 1,
+                            "fr": 0,
+                            "tr": 0,
+                            "id": 0
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+]
