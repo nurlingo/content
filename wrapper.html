@@ -22,7 +22,7 @@
   <script>
     const targetPage = new URLSearchParams(window.location.search).get("page") || "home";
     const realUrl = "https://sites.google.com/view/namazlive/" + targetPage;
-    const proxyUrl = "https://namazlive.herokuapp.com/proxy?url=" + encodeURIComponent(realUrl);
+    const proxyUrl = "https://namazlive.herokuapp.com/proxy/bs4?url=" + encodeURIComponent(realUrl);
     document.querySelector("iframe").src = proxyUrl;
   </script>
 </body>
