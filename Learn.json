@@ -9,11 +9,11 @@
             {
                 "id": "namaz",
                 "type": "article",
-                "urlRu": "https://www.namaz.live/namaz-intro-ru",
+                "urlRu": "https://sites.google.com/view/namazlive/namaz-intro-ru",
                 "titleRu": "О намазе",
                 "detailRu": "Молитва в Исламе и это приложение",
                 "showRu": 1,
-                "urlEn": "https://www.namaz.live/what-is-namaz",
+                "urlEn": "https://sites.google.com/view/namazlive/what-is-namaz",
                 "titleEn": "About Namaz",
                 "detailEn": "FAQ from the developer",
                 "showEn": 1
@@ -21,11 +21,11 @@
             {
                 "id": "action_categories",
                 "type": "article",
-                "urlRu": "https://www.namaz.live/action-categories-ru",
+                "urlRu": "https://sites.google.com/view/namazlive/action-categories-ru",
                 "titleRu": "Категории действий в Исламе",
                 "detailRu": "",
                 "showRu": 0,
-                "urlEn": "https://www.namaz.live/action-categories",
+                "urlEn": "https://sites.google.com/view/namazlive/action-categories",
                 "titleEn": "Categories of action in Islam",
                 "detailEn": "",
                 "showEn": 1
@@ -42,11 +42,11 @@
             {
                 "id": "prayer_essentials",
                 "type": "article",
-                "urlRu": "https://www.namaz.live/prayer-fard-ru",
+                "urlRu": "https://sites.google.com/view/namazlive/prayer-fard-ru",
                 "titleRu": "Фард действия в намазе",
                 "detailRu": "",
                 "showRu": 0,
-                "urlEn": "https://www.namaz.live/prayer-fard",
+                "urlEn": "https://sites.google.com/view/namazlive/prayer-fard",
                 "titleEn": "Fard of salah: 11 essentials in prayer",
                 "detailEn": "",
                 "showEn": 1
@@ -54,11 +54,11 @@
             {
                 "id": "prayer_conditions",
                 "type": "article",
-                "urlRu": "https://www.namaz.live/prayer-shurut-ru",
+                "urlRu": "https://sites.google.com/view/namazlive/prayer-shurut-ru",
                 "titleRu": "Условия намаза",
                 "detailRu": "",
                 "showRu": 0,
-                "urlEn": "https://www.namaz.live/prayer-shurut",
+                "urlEn": "https://sites.google.com/view/namazlive/prayer-shurut",
                 "titleEn": "Shurut: conditions for validity of prayer",
                 "detailEn": "",
                 "showEn": 1
@@ -66,11 +66,11 @@
             {
                 "id": "prayer_integrals",
                 "type": "article",
-                "urlRu": "https://www.namaz.live/prayer-arkan-ru",
+                "urlRu": "https://sites.google.com/view/namazlive/prayer-arkan-ru",
                 "titleRu": "Арканы намаза",
                 "descriptionRu": "",
                 "showRu": 0,
-                "urlEn": "https://www.namaz.live/prayer-arkan",
+                "urlEn": "https://sites.google.com/view/namazlive/prayer-arkan",
                 "titleEn": "Arkan: integrals with prayer",
                 "descriptionEn": "",
                 "showEn": 1
@@ -78,11 +78,11 @@
             {
                 "id": "prayer_categories",
                 "type": "article",
-                "urlRu": "https://www.namaz.live/prayer-categories-ru",
+                "urlRu": "https://sites.google.com/view/namazlive/prayer-categories-ru",
                 "titleRu": "Категории намаза",
                 "detailRu": "",
                 "showRu": 1,
-                "urlEn": "https://www.namaz.live/prayer-categories",
+                "urlEn": "https://sites.google.com/view/namazlive/prayer-categories",
                 "titleEn": "Categories of prayer",
                 "detailEn": "",
                 "showEn": 1
@@ -90,11 +90,11 @@
             {
                 "id": "prayer_times",
                 "type": "article",
-                "urlRu": "https://www.namaz.live/prayer-times-ru",
+                "urlRu": "https://sites.google.com/view/namazlive/prayer-times-ru",
                 "titleRu": "Время намаза",
                 "detailRu": "",
                 "showRu": 1,
-                "urlEn": "https://www.namaz.live/prayer-times",
+                "urlEn": "https://sites.google.com/view/namazlive/prayer-times",
                 "titleEn": "Prayer times",
                 "detailEn": "",
                 "showEn": 1
@@ -102,11 +102,11 @@
             {
                 "id": "jumu3ah",
                 "type": "article",
-                "urlRu": "https://www.namaz.live/jumu3ah-friday-prayer-ru",
+                "urlRu": "https://sites.google.com/view/namazlive/jumu3ah-friday-prayer-ru",
                 "titleRu": "Джуму'а: пятничный намаз",
                 "detailRu": "",
                 "showRu": 0,
-                "urlEn": "https://www.namaz.live/jumu3ah-friday-prayer",
+                "urlEn": "https://sites.google.com/view/namazlive/jumu3ah-friday-prayer",
                 "titleEn": "Jumu'ah: Friday prayer",
                 "detailEn": "",
                 "showEn": 1
@@ -114,11 +114,11 @@
             {
                 "id": "tahajjud",
                 "type": "article",
-                "urlRu": "https://www.namaz.live/tahajjud-ru",
+                "urlRu": "https://sites.google.com/view/namazlive/tahajjud-ru",
                 "titleRu": "Тахаджуд: ночной намаз",
                 "detailRu": "",
                 "showRu": 1,
-                "urlEn": "https://www.namaz.live/tahajjud",
+                "urlEn": "https://sites.google.com/view/namazlive/tahajjud",
                 "titleEn": "Tahajjud: night prayer",
                 "detailEn": "",
                 "showEn": 1
@@ -135,11 +135,11 @@
             {
                 "id": "purity_types",
                 "type": "article",
-                "urlRu": "https://www.namaz.live/purity-types-ru",
+                "urlRu": "https://sites.google.com/view/namazlive/purity-types-ru",
                 "titleRu": "Два вида чистоты",
                 "detailRu": "Физическая и ритуальная",
                 "showRu": 1,
-                "urlEn": "https://www.namaz.live/purity-types",
+                "urlEn": "https://sites.google.com/view/namazlive/purity-types",
                 "titleEn": "The two types of purity",
                 "detailEn": "Islam highlights both physical & spiritual purity",
                 "showEn": 1
@@ -151,7 +151,7 @@
                 "titleRu": "Физические нечистоты",
                 "detailRu": "Знать, чтобы избегать",
                 "showRu": 0,
-                "urlEn": "https://www.namaz.live/physical-impurities",
+                "urlEn": "https://sites.google.com/view/namazlive/physical-impurities",
                 "titleEn": "Physical Impurities",
                 "detailEn": "Learn about common impure substances",
                 "showEn": 1
@@ -163,7 +163,7 @@
                 "titleRu": "Очищение тела, одежды и места",
                 "detailRu": "Как подготовить их к намазу",
                 "showRu": 0,
-                "urlEn": "https://www.namaz.live/removing-physical-impurities",
+                "urlEn": "https://sites.google.com/view/namazlive/removing-physical-impurities",
                 "titleEn": "How to remove physical impurities",
                 "detailEn": "Practical knowledge needed for prayer",
                 "showEn": 1
@@ -171,11 +171,11 @@
             {
                 "id": "istinja",
                 "type": "article",
-                "urlRu": "https://www.namaz.live/istinja-ru",
+                "urlRu": "https://sites.google.com/view/namazlive/istinja-ru",
                 "titleRu": "Истинджа - очищение после туалета",
                 "detailRu": "Вода, бумага и другие аспекты",
                 "showRu": 1,
-                "urlEn": "https://www.namaz.live/istinja",
+                "urlEn": "https://sites.google.com/view/namazlive/istinja",
                 "titleEn": "Istinja - cleaning after toilet",
                 "detailEn": "Water, paper, and other important aspects",
                 "showEn": 1
@@ -192,11 +192,11 @@
             {
                 "id": "ghusl",
                 "type": "article",
-                "urlRu": "https://www.namaz.live/ghusl-ru",
+                "urlRu": "https://sites.google.com/view/namazlive/ghusl-ru",
                 "titleRu": "Гусль - полное омовение",
                 "detailRu": "Совершается впоследствии оргазма, секса или завершения менструации.",
                 "showRu": 1,
-                "urlEn": "https://www.namaz.live/ghusl",
+                "urlEn": "https://sites.google.com/view/namazlive/ghusl",
                 "titleEn": "Ghusl - full-body washing",
                 "detailEn": "Washing after sexual intercourse, orgasm, or end of menstruation period",
                 "showEn": 1
@@ -204,11 +204,11 @@
             {
                 "id": "wudu",
                 "type": "article",
-                "urlRu": "https://www.namaz.live/wudu-ru",
+                "urlRu": "https://sites.google.com/view/namazlive/wudu-ru",
                 "titleRu": "Вуду - малое омовение",
                 "detailRu": "Совершается после справления нужды, пускания газов, сна, и нескольких других действий.",
                 "showRu": 1,
-                "urlEn": "https://www.namaz.live/wudu",
+                "urlEn": "https://sites.google.com/view/namazlive/wudu",
                 "titleEn": "Wudu - ablution",
                 "detailEn": "Washing after releaving oneself, passing a wind, sleeping and a few other things",
                 "showEn": 1
@@ -216,11 +216,11 @@
             {
                 "id": "tayammum",
                 "type": "article",
-                "urlRu": "https://www.namaz.live/tayammum-ru",
+                "urlRu": "https://sites.google.com/view/namazlive/tayammum-ru",
                 "titleRu": "Таяммум - сухое очищение",
                 "detailRu": "Совершается когда необходимо сделать гусль или вуду, но нет воды, либо ее применение опасно для здоровья",
                 "showRu": 1,
-                "urlEn": "https://www.namaz.live/tayammum",
+                "urlEn": "https://sites.google.com/view/namazlive/tayammum",
                 "titleEn": "Tayammum - dry purification",
                 "detailEn": "Performed in the place of ghusl and wudu, when there is no water or using it will harm the person",
                 "showEn": 1
@@ -237,10 +237,10 @@
             {
                 "id": "shahadah",
                 "type": "article",
-                "urlRu": "https://www.namaz.live/islam-iman-ihsan-ru",
+                "urlRu": "https://sites.google.com/view/namazlive/islam-iman-ihsan-ru",
                 "titleRu": "Врата, ведущие в Ислам",
                 "showRu": 1,
-                "urlEn": "https://www.namaz.live/shahadah",
+                "urlEn": "https://sites.google.com/view/namazlive/shahadah",
                 "titleEn": "Shahadah: The Declaration of Faith",
                 "detailEn": "What makes one a Muslim",
                 "showEn": 1
@@ -248,11 +248,11 @@
             {
                 "id": "iman",
                 "type": "article",
-                "urlRu": "https://www.namaz.live/iman-ru",
+                "urlRu": "https://sites.google.com/view/namazlive/iman-ru",
                 "titleRu": "Иман: краткие ответы о вере",
                 "detailRu": "",
                 "showRu": 1,
-                "urlEn": "https://www.namaz.live/iman",
+                "urlEn": "https://sites.google.com/view/namazlive/iman",
                 "titleEn": "Iman: true faith",
                 "detailEn": "What makes one a Muslim",
                 "showEn": 1
@@ -260,11 +260,11 @@
             {
                 "id": "quran",
                 "type": "article",
-                "urlRu": "https://www.namaz.live/quran-ru",
+                "urlRu": "https://sites.google.com/view/namazlive/quran-ru",
                 "titleRu": "Коран: Книга Аллаха",
                 "detailRu": "",
                 "showRu": 0,
-                "urlEn": "https://www.namaz.live/quran",
+                "urlEn": "https://sites.google.com/view/namazlive/quran",
                 "titleEn": "Al Quran: the Book of Allah",
                 "detailEn": "",
                 "showEn": 1
@@ -272,11 +272,11 @@
             {
                 "id": "messenger",
                 "type": "article",
-                "urlRu": "https://www.namaz.live/messenger-ru",
+                "urlRu": "https://sites.google.com/view/namazlive/messenger-ru",
                 "titleRu": "Пророк Мухаммад (ﷺ)",
                 "detailRu": "",
                 "showRu": 1,
-                "urlEn": "https://www.namaz.live/messenger",
+                "urlEn": "https://sites.google.com/view/namazlive/messenger",
                 "titleEn": "Prophet Muhammad (ﷺ)",
                 "detailEn": "",
                 "showEn": 1
@@ -284,10 +284,10 @@
             {
                 "id": "hadith_on_niyyah",
                 "type": "article",
-                "urlRu": "https://www.namaz.live/intention-ru",
+                "urlRu": "https://sites.google.com/view/namazlive/intention-ru",
                 "titleRu": "Хадис о намерении",
                 "showRu": 1,
-                "urlEn": "https://www.namaz.live/intention",
+                "urlEn": "https://sites.google.com/view/namazlive/intention",
                 "titleEn": "The Hadith of intention",
                 "detailEn": "Something emphasized in our deen",
                 "showEn": 1
@@ -295,10 +295,10 @@
             {
                 "id": "islam_imaan_ihsan",
                 "type": "article",
-                "urlRu": "https://www.namaz.live/islam-iman-ihsan-ru",
+                "urlRu": "https://sites.google.com/view/namazlive/islam-iman-ihsan-ru",
                 "titleRu": "Хадис Джибриля (мир ему)",
                 "showRu": 0,
-                "urlEn": "https://www.namaz.live/islam-iman-ihsan",
+                "urlEn": "https://sites.google.com/view/namazlive/islam-iman-ihsan",
                 "titleEn": "The Hadith of Jibreel (peace be upon him)",
                 "detailEn": "Islam, Iman, Ihsan",
                 "showEn": 1
@@ -309,7 +309,7 @@
                 "urlRu": "",
                 "titleRu": "Дуа - мольба к Аллаhу",
                 "showRu": 0,
-                "urlEn": "https://www.namaz.live/dua",
+                "urlEn": "https://sites.google.com/view/namazlive/dua",
                 "titleEn": "How to make dua",
                 "showEn": 1
             }
@@ -325,10 +325,10 @@
             {
                 "id": "ramadan_faq",
                 "type": "article",
-                "urlRu": "https://www.namaz.live/ramadan-ru",
+                "urlRu": "https://sites.google.com/view/namazlive/ramadan-ru",
                 "titleRu": "Пост в Рамадан",
                 "showRu": 1,
-                "urlEn": "https://www.namaz.live/ramadan",
+                "urlEn": "https://sites.google.com/view/namazlive/ramadan",
                 "titleEn": "Fasting in Ramadan",
                 "detailEn": "The best of deeds in the best of months",
                 "showEn": 1
@@ -336,11 +336,11 @@
             {
                 "id": "taraweeh",
                 "type": "article",
-                "urlRu": "https://www.namaz.live/taraweeh-ru",
+                "urlRu": "https://sites.google.com/view/namazlive/taraweeh-ru",
                 "titleRu": "Тарауих намаз",
                 "detailRu": "",
                 "showRu": 1,
-                "urlEn": "https://www.namaz.live/taraweeh",
+                "urlEn": "https://sites.google.com/view/namazlive/taraweeh",
                 "titleEn": "Taraweeh prayer",
                 "detailEn": "",
                 "showEn": 1
@@ -348,11 +348,11 @@
             {
                 "id": "laylatul_qadr",
                 "type": "article",
-                "urlRu": "https://www.namaz.live/laylatul-qadr-ru",
+                "urlRu": "https://sites.google.com/view/namazlive/laylatul-qadr-ru",
                 "titleRu": "Ночь Предопределения",
                 "detailRu": "",
                 "showRu": 1,
-                "urlEn": "https://www.namaz.live/laylatul-qadr",
+                "urlEn": "https://sites.google.com/view/namazlive/laylatul-qadr",
                 "titleEn": "Laylatul Qadr: the Night of Divine Decree",
                 "detailEn": "",
                 "showEn": 1
@@ -360,11 +360,11 @@
             {
                 "id": "fitr",
                 "type": "article",
-                "urlRu": "https://www.namaz.live/fitr-ru",
+                "urlRu": "https://sites.google.com/view/namazlive/fitr-ru",
                 "titleRu": "Фитр-садака: милостыня разговения",
                 "descriptionRu": "",
                 "showRu": 1,
-                "urlEn": "https://www.namaz.live/fitr",
+                "urlEn": "https://sites.google.com/view/namazlive/fitr",
                 "titleEn": "Sadaqat ul-Fitr",
                 "descriptionEn": "",
                 "showEn": 1
@@ -372,11 +372,11 @@
             {
                 "id": "eid_prayer",
                 "type": "article",
-                "urlRu": "https://www.namaz.live/eid-prayer-ru",
+                "urlRu": "https://sites.google.com/view/namazlive/eid-prayer-ru",
                 "titleRu": "Празничный ('Ид) намаз",
                 "descriptionRu": "",
                 "showRu": 0,
-                "urlEn": "https://www.namaz.live/eid-prayer",
+                "urlEn": "https://sites.google.com/view/namazlive/eid-prayer",
                 "titleEn": "Eid Prayer",
                 "descriptionEn": "",
                 "showEn": 1
@@ -384,10 +384,10 @@
             {
                 "id": "dhul-hijjah",
                 "type": "article",
-                "urlRu": "https://www.namaz.live/dhul-hijjah-ru",
+                "urlRu": "https://sites.google.com/view/namazlive/dhul-hijjah-ru",
                 "titleRu": "Зуль-Хиджа: первые 10 дней",
                 "showRu": 1,
-                "urlEn": "https://www.namaz.live/dhul-hijjah",
+                "urlEn": "https://sites.google.com/view/namazlive/dhul-hijjah",
                 "titleEn": "The 10 days of Dhul Hijjah",
                 "showEn": 1
             }
