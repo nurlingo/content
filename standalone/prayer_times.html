@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <title>Таблица времён намаза</title>
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      overflow: visible !important;
+    }
+    .table-container {
+      overflow-x: visible !important;
+      overflow-y: visible !important;
+      width: 100%;
+    }
+    .full-table {
+      border-collapse: collapse;
+      width: 100%;
+      table-layout: auto;
+      overflow: visible;
+      max-width: none;
+    }
+    .full-table th,
+    .full-table td {
+      border: 1px solid black;
+      padding: 5px;
+      text-align: left;
+    }
+  </style>
+</head>
+<body>
+  <div class="table-container">
+    <table class="full-table">
+      <thead>
+        <tr>
+          <th>Намаз</th>
+          <th>Начинается</th>
+          <th>Длится до</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Фаджр</td>
+          <td>С появлением утренней зари – рассветом</td>
+          <td>Восхода солнца</td>
+        </tr>
+        <tr>
+          <td>Зухр</td>
+          <td>Когда солнце вышло из зенита</td>
+          <td>Асра</td>
+        </tr>
+        <tr>
+          <td>Аср</td>
+          <td>Когда тень объекта равна его длине</td>
+          <td>Магриба</td>
+        </tr>
+        <tr>
+          <td>Магриб</td>
+          <td>С полным заходом солнца</td>
+          <td>Иша</td>
+        </tr>
+        <tr>
+          <td>Иша</td>
+          <td>Когда исчезли сумерки</td>
+          <td>Фаджра</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</body>
+</html>
