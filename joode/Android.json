@@ -360,6 +360,23 @@
                                         ]
                                     },
                                     {
+                                        "id": "ج",
+                                        "type": "shape",
+                                        "titles": {
+                                            "en": "Pick the right letter",
+                                            "ru": "Выберите правильную букву",
+                                            "fr": "Choisis la bonne lettre",
+                                            "tr": "Doğru harfi seçin",
+                                            "id": "Pilih huruf yang benar"
+                                        },
+                                        "icon": "ج",
+                                        "elements": [
+                                            "ث",
+                                            "ج",
+                                            "ح"
+                                        ]
+                                    },
+                                    {
                                         "id": "خ",
                                         "type": "shape",
                                         "titles": {
@@ -377,7 +394,7 @@
                                         ]
                                     },
                                     {
-                                        "id": "ج",
+                                        "id": "ح",
                                         "type": "sound",
                                         "titles": {
                                             "en": "Pick the right sound",
@@ -386,12 +403,65 @@
                                             "tr": "Doğru sesi seç",
                                             "id": "Pilih suara yang benar"
                                         },
-                                        "icon": "جس",
+                                        "icon": "حس",
                                         "elements": [
                                             "ج",
-                                            "ا",
+                                            "ح",
                                             "خ"
                                         ]
+                                    },
+                                    {
+                                        "id": "خ",
+                                        "type": "sound",
+                                        "titles": {
+                                            "en": "Pick the right sound",
+                                            "ru": "Выберите правильный звук",
+                                            "fr": "Choisis le bon son",
+                                            "tr": "Doğru sesi seç",
+                                            "id": "Pilih suara yang benar"
+                                        },
+                                        "icon": "خس",
+                                        "elements": [
+                                            "ج",
+                                            "ح",
+                                            "خ"
+                                        ]
+                                    },
+                                    {
+                                        "id": "خ",
+                                        "type": "drawing",
+                                        "titles": {
+                                            "en": "Draw",
+                                            "ru": "Рисуем",
+                                            "fr": "Dessine",
+                                            "tr": "Çizin",
+                                            "id": "Gambar"
+                                        },
+                                        "icon": "خ"
+                                    },
+                                    {
+                                        "id": "ح",
+                                        "type": "drawing",
+                                        "titles": {
+                                            "en": "Draw",
+                                            "ru": "Рисуем",
+                                            "fr": "Dessine",
+                                            "tr": "Çizin",
+                                            "id": "Gambar"
+                                        },
+                                        "icon": "ح"
+                                    },
+                                    {
+                                        "id": "ج",
+                                        "type": "drawing",
+                                        "titles": {
+                                            "en": "Draw",
+                                            "ru": "Рисуем",
+                                            "fr": "Dessine",
+                                            "tr": "Çizin",
+                                            "id": "Gambar"
+                                        },
+                                        "icon": "ج"
                                     }
                                 ]
                             }
@@ -543,6 +613,122 @@
                                             "ر",
                                             "ذ"
                                         ]
+                                    },
+                                    {
+                                        "id": "د",
+                                        "type": "shape",
+                                        "titles": {
+                                            "en": "Pick the right letter",
+                                            "ru": "Выберите правильную букву",
+                                            "fr": "Choisis la bonne lettre",
+                                            "tr": "Doğru harfi seçin",
+                                            "id": "Pilih huruf yang benar"
+                                        },
+                                        "icon": "د",
+                                        "elements": [
+                                            "ر",
+                                            "د",
+                                            "ذ"
+                                        ]
+                                    },
+                                    {
+                                        "id": "ذ",
+                                        "type": "sound",
+                                        "titles": {
+                                            "en": "Pick the right sound",
+                                            "ru": "Выберите правильный звук",
+                                            "fr": "Choisis le bon son",
+                                            "tr": "Doğru sesi seç",
+                                            "id": "Pilih suara yang benar"
+                                        },
+                                        "icon": "ذس",
+                                        "elements": [
+                                            "ذ",
+                                            "د",
+                                            "ر"
+                                        ]
+                                    },
+                                    {
+                                        "id": "ر",
+                                        "type": "shape",
+                                        "titles": {
+                                            "en": "Pick the right letter",
+                                            "ru": "Выберите правильную букву",
+                                            "fr": "Choisis la bonne lettre",
+                                            "tr": "Doğru harfi seçin",
+                                            "id": "Pilih huruf yang benar"
+                                        },
+                                        "icon": "ر",
+                                        "elements": [
+                                            "ر",
+                                            "ذ",
+                                            "ز"
+                                        ]
+                                    },
+                                    {
+                                        "id": "ز",
+                                        "type": "sound",
+                                        "titles": {
+                                            "en": "Pick the right sound",
+                                            "ru": "Выберите правильный звук",
+                                            "fr": "Choisis le bon son",
+                                            "tr": "Doğru sesi seç",
+                                            "id": "Pilih suara yang benar"
+                                        },
+                                        "icon": "زس",
+                                        "elements": [
+                                            "ز",
+                                            "ر",
+                                            "ذ"
+                                        ]
+                                    },
+                                    {
+                                        "id": "ر",
+                                        "type": "drawing",
+                                        "titles": {
+                                            "en": "Draw",
+                                            "ru": "Рисуем",
+                                            "fr": "Dessine",
+                                            "tr": "Çizin",
+                                            "id": "Gambar"
+                                        },
+                                        "icon": "ر"
+                                    },
+                                    {
+                                        "id": "ز",
+                                        "type": "drawing",
+                                        "titles": {
+                                            "en": "Draw",
+                                            "ru": "Рисуем",
+                                            "fr": "Dessine",
+                                            "tr": "Çizin",
+                                            "id": "Gambar"
+                                        },
+                                        "icon": "ز"
+                                    },
+                                    {
+                                        "id": "د",
+                                        "type": "drawing",
+                                        "titles": {
+                                            "en": "Draw",
+                                            "ru": "Рисуем",
+                                            "fr": "Dessine",
+                                            "tr": "Çizin",
+                                            "id": "Gambar"
+                                        },
+                                        "icon": "د"
+                                    },
+                                    {
+                                        "id": "ذ",
+                                        "type": "drawing",
+                                        "titles": {
+                                            "en": "Draw",
+                                            "ru": "Рисуем",
+                                            "fr": "Dessine",
+                                            "tr": "Çizin",
+                                            "id": "Gambar"
+                                        },
+                                        "icon": "ذ"
                                     }
                                 ]
                             }
