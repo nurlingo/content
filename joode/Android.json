@@ -7,7 +7,8 @@
             "ru": "Алфавит",
             "fr": "L'alphabet",
             "tr": "Alfabe",
-            "id": "Alfabet"
+            "id": "Alfabet",
+            "uz": "Alifbo"
         },
         "icon": "home",
         "items": [
@@ -19,7 +20,8 @@
                     "ru": "Алфавит",
                     "fr": "L'alphabet",
                     "tr": "Alfabe",
-                    "id": "Alfabet"
+                    "id": "Alfabet",
+                    "uz": "Alifbo"
                 },
                 "items": [
                     {
@@ -30,7 +32,8 @@
                             "ru": "1. Алиф Ба Та и Ҫа",
                             "fr": "1. Alif Ba Ta Tha",
                             "tr": "1. elif be te s̠e",
-                            "id": "1. Alif Ba Ta Tha"
+                            "id": "1. Alif Ba Ta Tha",
+                            "uz": "1. Alif Ba Ta Sa"
                         },
                         "elements": [
                             "ا",
@@ -47,7 +50,8 @@
                                     "ru": "Рисуем\n\nПроизносим\n\nЗапоминаем",
                                     "fr": "Dessine\n\nPrononce\n\nMémorise",
                                     "tr": "Çizin\n\nTelaffuz edin\n\nÖğrenin",
-                                    "id": "Gambar\n\nLafalkan\n\nMenghafalkan"
+                                    "id": "Gambar\n\nLafalkan\n\nMenghafalkan",
+                                    "uz": "Chizing\n\nTalaffuz qiling\n\nYod oling"
                                 },
                                 "items": [
                                     {
@@ -58,7 +62,8 @@
                                             "ru": "Рисуем на экране",
                                             "fr": "Dessine",
                                             "tr": "Çizin",
-                                            "id": "Gambar"
+                                            "id": "Gambar",
+                                            "uz": "Ekranda chizing"
                                         },
                                         "icon": "ا"
                                     },
@@ -70,7 +75,8 @@
                                             "ru": "Рисуем",
                                             "fr": "Dessine",
                                             "tr": "Çizin",
-                                            "id": "Gambar"
+                                            "id": "Gambar",
+                                            "uz": "Chizing"
                                         },
                                         "icon": "ب"
                                     },
@@ -82,7 +88,8 @@
                                             "ru": "Выберите правильный звук",
                                             "fr": "Choisis le bon son",
                                             "tr": "Doğru sesi seç",
-                                            "id": "Pilih suara yang benar"
+                                            "id": "Pilih suara yang benar",
+                                            "uz": "To‘g‘ri tovushni tanlang"
                                         },
                                         "icon": "اس",
                                         "elements": [
@@ -99,7 +106,8 @@
                                             "ru": "Выберите правильную букву",
                                             "fr": "Choisis la bonne lettre",
                                             "tr": "Doğru harfi seçin",
-                                            "id": "Pilih huruf yang benar"
+                                            "id": "Pilih huruf yang benar",
+                                            "uz": "To‘g‘ri harfni tanlang"
                                         },
                                         "icon": "ب",
                                         "elements": [
@@ -116,7 +124,8 @@
                                             "ru": "Выберите правильную букву",
                                             "fr": "Choisis la bonne lettre",
                                             "tr": "Doğru harfi seçin",
-                                            "id": "Pilih huruf yang benar"
+                                            "id": "Pilih huruf yang benar",
+                                            "uz": "To‘g‘ri harfni tanlang"
                                         },
                                         "icon": "ا",
                                         "elements": [
@@ -133,7 +142,8 @@
                                             "ru": "Выберите правильный звук",
                                             "fr": "Choisis le bon son",
                                             "tr": "Doğru sesi seç",
-                                            "id": "Pilih suara yang benar"
+                                            "id": "Pilih suara yang benar",
+                                            "uz": "To‘g‘ri tovushni tanlang"
                                         },
                                         "icon": "بس",
                                         "elements": [
@@ -150,7 +160,8 @@
                                             "ru": "Рисуем",
                                             "fr": "Dessine",
                                             "tr": "Çizin",
-                                            "id": "Gambar"
+                                            "id": "Gambar",
+                                            "uz": "Chizing"
                                         },
                                         "icon": "ا"
                                     },
@@ -162,7 +173,8 @@
                                             "ru": "Рисуем",
                                             "fr": "Dessine",
                                             "tr": "Çizin",
-                                            "id": "Gambar"
+                                            "id": "Gambar",
+                                            "uz": "Chizing"
                                         },
                                         "icon": "ب"
                                     },
@@ -174,7 +186,8 @@
                                             "ru": "Рисуем",
                                             "fr": "Dessine",
                                             "tr": "Çizin",
-                                            "id": "Gambar"
+                                            "id": "Gambar",
+                                            "uz": "Chizing"
                                         },
                                         "icon": "ت"
                                     },
@@ -186,7 +199,8 @@
                                             "ru": "Рисуем",
                                             "fr": "Dessine",
                                             "tr": "Çizin",
-                                            "id": "Gambar"
+                                            "id": "Gambar",
+                                            "uz": "Chizing"
                                         },
                                         "icon": "ث"
                                     },
@@ -198,7 +212,8 @@
                                             "ru": "Выберите правильный звук",
                                             "fr": "Choisis le bon son",
                                             "tr": "Doğru sesi seç",
-                                            "id": "Pilih suara yang benar"
+                                            "id": "Pilih suara yang benar",
+                                            "uz": "To‘g‘ri tovushni tanlang"
                                         },
                                         "icon": "تس",
                                         "elements": [
@@ -215,7 +230,8 @@
                                             "ru": "Выберите правильную букву",
                                             "fr": "Choisis la bonne lettre",
                                             "tr": "Doğru harfi seçin",
-                                            "id": "Pilih huruf yang benar"
+                                            "id": "Pilih huruf yang benar",
+                                            "uz": "To‘g‘ri harfni tanlang"
                                         },
                                         "icon": "ث",
                                         "elements": [
@@ -232,7 +248,8 @@
                                             "ru": "Выберите правильную букву",
                                             "fr": "Choisis la bonne lettre",
                                             "tr": "Doğru harfi seçin",
-                                            "id": "Pilih huruf yang benar"
+                                            "id": "Pilih huruf yang benar",
+                                            "uz": "To‘g‘ri harfni tanlang"
                                         },
                                         "icon": "ت",
                                         "elements": [
@@ -249,7 +266,8 @@
                                             "ru": "Выберите правильный звук",
                                             "fr": "Choisis le bon son",
                                             "tr": "Doğru sesi seç",
-                                            "id": "Pilih suara yang benar"
+                                            "id": "Pilih suara yang benar",
+                                            "uz": "To‘g‘ri tovushni tanlang"
                                         },
                                         "icon": "ثس",
                                         "elements": [
@@ -270,7 +288,8 @@
                             "ru": "2. Джим Ха Ҳо",
                             "fr": "2. Jim Ha Khaa",
                             "tr": "2. cīm ḥā ḫa",
-                            "id": "2. Jiim Ha Kho"
+                            "id": "2. Jiim Ha Kho",
+                            "uz": "2. Jim Ha Xo"
                         },
                         "elements": [
                             "ج",
@@ -286,7 +305,8 @@
                                     "ru": "Рисуем\n\nПроизносим\n\nЗапоминаем",
                                     "fr": "Dessine\n\nPrononce\n\nMémorise",
                                     "tr": "Çizin\n\nTelaffuz edin\n\nÖğrenin",
-                                    "id": "Gambar\n\nLafalkan\n\nMenghafalkan"
+                                    "id": "Gambar\n\nLafalkan\n\nMenghafalkan",
+                                    "uz": "Chizing\n\nTalaffuz qiling\n\nYod oling"
                                 },
                                 "items": [
                                     {
@@ -297,7 +317,8 @@
                                             "ru": "Рисуем",
                                             "fr": "Dessine",
                                             "tr": "Çizin",
-                                            "id": "Gambar"
+                                            "id": "Gambar",
+                                            "uz": "Chizing"
                                         },
                                         "icon": "ج"
                                     },
@@ -309,7 +330,8 @@
                                             "ru": "Рисуем",
                                             "fr": "Dessine",
                                             "tr": "Çizin",
-                                            "id": "Gambar"
+                                            "id": "Gambar",
+                                            "uz": "Chizing"
                                         },
                                         "icon": "ح"
                                     },
@@ -321,7 +343,8 @@
                                             "ru": "Рисуем",
                                             "fr": "Dessine",
                                             "tr": "Çizin",
-                                            "id": "Gambar"
+                                            "id": "Gambar",
+                                            "uz": "Chizing"
                                         },
                                         "icon": "خ"
                                     },
@@ -333,7 +356,8 @@
                                             "ru": "Выберите правильный звук",
                                             "fr": "Choisis le bon son",
                                             "tr": "Doğru sesi seç",
-                                            "id": "Pilih suara yang benar"
+                                            "id": "Pilih suara yang benar",
+                                            "uz": "To‘g‘ri tovushni tanlang"
                                         },
                                         "icon": "جس",
                                         "elements": [
@@ -350,7 +374,8 @@
                                             "ru": "Выберите правильную букву",
                                             "fr": "Choisis la bonne lettre",
                                             "tr": "Doğru harfi seçin",
-                                            "id": "Pilih huruf yang benar"
+                                            "id": "Pilih huruf yang benar",
+                                            "uz": "To‘g‘ri harfni tanlang"
                                         },
                                         "icon": "ح",
                                         "elements": [
@@ -367,7 +392,8 @@
                                             "ru": "Выберите правильную букву",
                                             "fr": "Choisis la bonne lettre",
                                             "tr": "Doğru harfi seçin",
-                                            "id": "Pilih huruf yang benar"
+                                            "id": "Pilih huruf yang benar",
+                                            "uz": "To‘g‘ri harfni tanlang"
                                         },
                                         "icon": "ج",
                                         "elements": [
@@ -384,7 +410,8 @@
                                             "ru": "Выберите правильную букву",
                                             "fr": "Choisis la bonne lettre",
                                             "tr": "Doğru harfi seçin",
-                                            "id": "Pilih huruf yang benar"
+                                            "id": "Pilih huruf yang benar",
+                                            "uz": "To‘g‘ri harfni tanlang"
                                         },
                                         "icon": "خ",
                                         "elements": [
@@ -401,7 +428,8 @@
                                             "ru": "Выберите правильный звук",
                                             "fr": "Choisis le bon son",
                                             "tr": "Doğru sesi seç",
-                                            "id": "Pilih suara yang benar"
+                                            "id": "Pilih suara yang benar",
+                                            "uz": "To‘g‘ri tovushni tanlang"
                                         },
                                         "icon": "حس",
                                         "elements": [
@@ -418,7 +446,8 @@
                                             "ru": "Выберите правильный звук",
                                             "fr": "Choisis le bon son",
                                             "tr": "Doğru sesi seç",
-                                            "id": "Pilih suara yang benar"
+                                            "id": "Pilih suara yang benar",
+                                            "uz": "To‘g‘ri tovushni tanlang"
                                         },
                                         "icon": "خس",
                                         "elements": [
@@ -435,7 +464,8 @@
                                             "ru": "Рисуем",
                                             "fr": "Dessine",
                                             "tr": "Çizin",
-                                            "id": "Gambar"
+                                            "id": "Gambar",
+                                            "uz": "Chizing"
                                         },
                                         "icon": "خ"
                                     },
@@ -447,7 +477,8 @@
                                             "ru": "Рисуем",
                                             "fr": "Dessine",
                                             "tr": "Çizin",
-                                            "id": "Gambar"
+                                            "id": "Gambar",
+                                            "uz": "Chizing"
                                         },
                                         "icon": "ح"
                                     },
@@ -459,7 +490,8 @@
                                             "ru": "Рисуем",
                                             "fr": "Dessine",
                                             "tr": "Çizin",
-                                            "id": "Gambar"
+                                            "id": "Gambar",
+                                            "uz": "Chizing"
                                         },
                                         "icon": "ج"
                                     }
@@ -478,7 +510,8 @@
                             "ru": "3. Даль, Ҙаль, Ро и За",
                             "fr": "3. Dal Dhal Raa Za",
                             "tr": "3. dāl z̠el ra ze",
-                            "id": "3. Dal Dzal Ro Za"
+                            "id": "3. Dal Dzal Ro Za",
+                            "uz": "3. Dal Zal Ro Za"
                         },
                         "elements": [
                             "د",
@@ -495,7 +528,8 @@
                                     "ru": "Рисуем\n\nПроизносим\n\nЗапоминаем",
                                     "fr": "Dessine\n\nPrononce\n\nMémorise",
                                     "tr": "Çizin\n\nTelaffuz edin\n\nÖğrenin",
-                                    "id": "Gambar\n\nLafalkan\n\nMenghafalkan"
+                                    "id": "Gambar\n\nLafalkan\n\nMenghafalkan",
+                                    "uz": "Chizing\n\nTalaffuz qiling\n\nYod oling"
                                 },
                                 "items": [
                                     {
@@ -506,7 +540,8 @@
                                             "ru": "Рисуем",
                                             "fr": "Dessine",
                                             "tr": "Çizin",
-                                            "id": "Gambar"
+                                            "id": "Gambar",
+                                            "uz": "Chizing"
                                         },
                                         "icon": "د"
                                     },
@@ -518,7 +553,8 @@
                                             "ru": "Рисуем",
                                             "fr": "Dessine",
                                             "tr": "Çizin",
-                                            "id": "Gambar"
+                                            "id": "Gambar",
+                                            "uz": "Chizing"
                                         },
                                         "icon": "ذ"
                                     },
@@ -530,7 +566,8 @@
                                             "ru": "Рисуем",
                                             "fr": "Dessine",
                                             "tr": "Çizin",
-                                            "id": "Gambar"
+                                            "id": "Gambar",
+                                            "uz": "Chizing"
                                         },
                                         "icon": "ر"
                                     },
@@ -542,7 +579,8 @@
                                             "ru": "Рисуем",
                                             "fr": "Dessine",
                                             "tr": "Çizin",
-                                            "id": "Gambar"
+                                            "id": "Gambar",
+                                            "uz": "Chizing"
                                         },
                                         "icon": "ز"
                                     },
@@ -554,7 +592,8 @@
                                             "ru": "Выберите правильный звук",
                                             "fr": "Choisis le bon son",
                                             "tr": "Doğru sesi seç",
-                                            "id": "Pilih suara yang benar"
+                                            "id": "Pilih suara yang benar",
+                                            "uz": "To‘g‘ri tovushni tanlang"
                                         },
                                         "icon": "دس",
                                         "elements": [
@@ -571,7 +610,8 @@
                                             "ru": "Выберите правильную букву",
                                             "fr": "Choisis la bonne lettre",
                                             "tr": "Doğru harfi seçin",
-                                            "id": "Pilih huruf yang benar"
+                                            "id": "Pilih huruf yang benar",
+                                            "uz": "To‘g‘ri harfni tanlang"
                                         },
                                         "icon": "ذ",
                                         "elements": [
@@ -588,7 +628,8 @@
                                             "ru": "Выберите правильный звук",
                                             "fr": "Choisis le bon son",
                                             "tr": "Doğru sesi seç",
-                                            "id": "Pilih suara yang benar"
+                                            "id": "Pilih suara yang benar",
+                                            "uz": "To‘g‘ri tovushni tanlang"
                                         },
                                         "icon": "رس",
                                         "elements": [
@@ -605,7 +646,8 @@
                                             "ru": "Выберите правильную букву",
                                             "fr": "Choisis la bonne lettre",
                                             "tr": "Doğru harfi seçin",
-                                            "id": "Pilih huruf yang benar"
+                                            "id": "Pilih huruf yang benar",
+                                            "uz": "To‘g‘ri harfni tanlang"
                                         },
                                         "icon": "ز",
                                         "elements": [
@@ -622,7 +664,8 @@
                                             "ru": "Выберите правильную букву",
                                             "fr": "Choisis la bonne lettre",
                                             "tr": "Doğru harfi seçin",
-                                            "id": "Pilih huruf yang benar"
+                                            "id": "Pilih huruf yang benar",
+                                            "uz": "To‘g‘ri harfni tanlang"
                                         },
                                         "icon": "د",
                                         "elements": [
@@ -639,7 +682,8 @@
                                             "ru": "Выберите правильный звук",
                                             "fr": "Choisis le bon son",
                                             "tr": "Doğru sesi seç",
-                                            "id": "Pilih suara yang benar"
+                                            "id": "Pilih suara yang benar",
+                                            "uz": "To‘g‘ri tovushni tanlang"
                                         },
                                         "icon": "ذس",
                                         "elements": [
@@ -656,7 +700,8 @@
                                             "ru": "Выберите правильную букву",
                                             "fr": "Choisis la bonne lettre",
                                             "tr": "Doğru harfi seçin",
-                                            "id": "Pilih huruf yang benar"
+                                            "id": "Pilih huruf yang benar",
+                                            "uz": "To‘g‘ri harfni tanlang"
                                         },
                                         "icon": "ر",
                                         "elements": [
@@ -673,7 +718,8 @@
                                             "ru": "Выберите правильный звук",
                                             "fr": "Choisis le bon son",
                                             "tr": "Doğru sesi seç",
-                                            "id": "Pilih suara yang benar"
+                                            "id": "Pilih suara yang benar",
+                                            "uz": "To‘g‘ri tovushni tanlang"
                                         },
                                         "icon": "زس",
                                         "elements": [
@@ -690,7 +736,8 @@
                                             "ru": "Рисуем",
                                             "fr": "Dessine",
                                             "tr": "Çizin",
-                                            "id": "Gambar"
+                                            "id": "Gambar",
+                                            "uz": "Chizing"
                                         },
                                         "icon": "ر"
                                     },
@@ -702,7 +749,8 @@
                                             "ru": "Рисуем",
                                             "fr": "Dessine",
                                             "tr": "Çizin",
-                                            "id": "Gambar"
+                                            "id": "Gambar",
+                                            "uz": "Chizing"
                                         },
                                         "icon": "ز"
                                     },
@@ -714,7 +762,8 @@
                                             "ru": "Рисуем",
                                             "fr": "Dessine",
                                             "tr": "Çizin",
-                                            "id": "Gambar"
+                                            "id": "Gambar",
+                                            "uz": "Chizing"
                                         },
                                         "icon": "د"
                                     },
@@ -726,7 +775,8 @@
                                             "ru": "Рисуем",
                                             "fr": "Dessine",
                                             "tr": "Çizin",
-                                            "id": "Gambar"
+                                            "id": "Gambar",
+                                            "uz": "Chizing"
                                         },
                                         "icon": "ذ"
                                     }
@@ -745,7 +795,8 @@
                             "ru": "4. Син, Шин и Сод Дод",
                             "fr": "4. Sin, Chin, Saad Daad",
                             "tr": "4. sīn, şīn, ṣād ḍād",
-                            "id": "4. Siin Syin Shod Dhod"
+                            "id": "4. Siin Syin Shod Dhod",
+                            "uz": "4. Sin Shin Sod Dod"
                         },
                         "elements": [
                             "س",
@@ -762,7 +813,8 @@
                                     "ru": "Рисуем\n\nПроизносим\n\nЗапоминаем",
                                     "fr": "Dessine\n\nPrononce\n\nMémorise",
                                     "tr": "Çizin\n\nTelaffuz edin\n\nÖğrenin",
-                                    "id": "Gambar\n\nLafalkan\n\nMenghafalkan"
+                                    "id": "Gambar\n\nLafalkan\n\nMenghafalkan",
+                                    "uz": "Chizing\n\nTalaffuz qiling\n\nYod oling"
                                 },
                                 "items": [
                                     {
@@ -773,7 +825,8 @@
                                             "ru": "Рисуем",
                                             "fr": "Dessine",
                                             "tr": "Çizin",
-                                            "id": "Gambar"
+                                            "id": "Gambar",
+                                            "uz": "Chizing"
                                         },
                                         "icon": "س"
                                     },
@@ -785,7 +838,8 @@
                                             "ru": "Рисуем",
                                             "fr": "Dessine",
                                             "tr": "Çizin",
-                                            "id": "Gambar"
+                                            "id": "Gambar",
+                                            "uz": "Chizing"
                                         },
                                         "icon": "ش"
                                     },
@@ -797,7 +851,8 @@
                                             "ru": "Рисуем",
                                             "fr": "Dessine",
                                             "tr": "Çizin",
-                                            "id": "Gambar"
+                                            "id": "Gambar",
+                                            "uz": "Chizing"
                                         },
                                         "icon": "ص"
                                     },
@@ -809,7 +864,8 @@
                                             "ru": "Выберите правильный звук",
                                             "fr": "Choisis le bon son",
                                             "tr": "Doğru sesi seç",
-                                            "id": "Pilih suara yang benar"
+                                            "id": "Pilih suara yang benar",
+                                            "uz": "To‘g‘ri tovushni tanlang"
                                         },
                                         "icon": "سس",
                                         "elements": [
@@ -826,7 +882,8 @@
                                             "ru": "Выберите правильную букву",
                                             "fr": "Choisis la bonne lettre",
                                             "tr": "Doğru harfi seçin",
-                                            "id": "Pilih huruf yang benar"
+                                            "id": "Pilih huruf yang benar",
+                                            "uz": "To‘g‘ri harfni tanlang"
                                         },
                                         "icon": "ش",
                                         "elements": [
@@ -843,7 +900,8 @@
                                             "ru": "Выберите правильную букву",
                                             "fr": "Choisis la bonne lettre",
                                             "tr": "Doğru harfi seçin",
-                                            "id": "Pilih huruf yang benar"
+                                            "id": "Pilih huruf yang benar",
+                                            "uz": "To‘g‘ri harfni tanlang"
                                         },
                                         "icon": "ص",
                                         "elements": [
@@ -853,19 +911,20 @@
                                         ]
                                     },
                                     {
-                                        "id": "س",
+                                        "id": "ش",
                                         "type": "sound",
                                         "titles": {
                                             "en": "Pick the right sound",
                                             "ru": "Выберите правильный звук",
                                             "fr": "Choisis le bon son",
                                             "tr": "Doğru sesi seç",
-                                            "id": "Pilih suara yang benar"
+                                            "id": "Pilih suara yang benar",
+                                            "uz": "To‘g‘ri tovushni tanlang"
                                         },
-                                        "icon": "سس",
+                                        "icon": "شس",
                                         "elements": [
                                             "س",
-                                            "ذ",
+                                            "ش",
                                             "ص"
                                         ]
                                     },
@@ -877,7 +936,8 @@
                                             "ru": "Рисуем",
                                             "fr": "Dessine",
                                             "tr": "Çizin",
-                                            "id": "Gambar"
+                                            "id": "Gambar",
+                                            "uz": "Chizing"
                                         },
                                         "icon": "ض"
                                     },
@@ -889,7 +949,8 @@
                                             "ru": "Выберите правильный звук",
                                             "fr": "Choisis le bon son",
                                             "tr": "Doğru sesi seç",
-                                            "id": "Pilih suara yang benar"
+                                            "id": "Pilih suara yang benar",
+                                            "uz": "To‘g‘ri tovushni tanlang"
                                         },
                                         "icon": "ضس",
                                         "elements": [
@@ -899,21 +960,110 @@
                                         ]
                                     },
                                     {
-                                        "id": "ض",
+                                        "id": "س",
+                                        "type": "shape",
+                                        "titles": {
+                                            "en": "Pick the right letter",
+                                            "ru": "Выберите правильную букву",
+                                            "fr": "Choisis la bonne lettre",
+                                            "tr": "Doğru harfi seçin",
+                                            "id": "Pilih huruf yang benar",
+                                            "uz": "To‘g‘ri harfni tanlang"
+                                        },
+                                        "icon": "س",
+                                        "elements": [
+                                            "ص",
+                                            "ش",
+                                            "س"
+                                        ]
+                                    },
+                                    {
+                                        "id": "ص",
                                         "type": "sound",
                                         "titles": {
                                             "en": "Pick the right sound",
                                             "ru": "Выберите правильный звук",
                                             "fr": "Choisis le bon son",
                                             "tr": "Doğru sesi seç",
-                                            "id": "Pilih suara yang benar"
+                                            "id": "Pilih suara yang benar",
+                                            "uz": "To‘g‘ri tovushni tanlang"
                                         },
-                                        "icon": "ضس",
+                                        "icon": "صس",
+                                        "elements": [
+                                            "س",
+                                            "ص",
+                                            "ش"
+                                        ]
+                                    },
+                                    {
+                                        "id": "ض",
+                                        "type": "shape",
+                                        "titles": {
+                                            "en": "Pick the right letter",
+                                            "ru": "Выберите правильную букву",
+                                            "fr": "Choisis la bonne lettre",
+                                            "tr": "Doğru harfi seçin",
+                                            "id": "Pilih huruf yang benar",
+                                            "uz": "To‘g‘ri harfni tanlang"
+                                        },
+                                        "icon": "ض",
                                         "elements": [
                                             "ض",
                                             "ط",
                                             "ظ"
                                         ]
+                                    },
+                                    {
+                                        "id": "ص",
+                                        "type": "drawing",
+                                        "titles": {
+                                            "en": "Draw",
+                                            "ru": "Рисуем",
+                                            "fr": "Dessine",
+                                            "tr": "Çizin",
+                                            "id": "Gambar",
+                                            "uz": "Chizing"
+                                        },
+                                        "icon": "ص"
+                                    },
+                                    {
+                                        "id": "ض",
+                                        "type": "drawing",
+                                        "titles": {
+                                            "en": "Draw",
+                                            "ru": "Рисуем",
+                                            "fr": "Dessine",
+                                            "tr": "Çizin",
+                                            "id": "Gambar",
+                                            "uz": "Chizing"
+                                        },
+                                        "icon": "ض"
+                                    },
+                                    {
+                                        "id": "س",
+                                        "type": "drawing",
+                                        "titles": {
+                                            "en": "Draw",
+                                            "ru": "Рисуем",
+                                            "fr": "Dessine",
+                                            "tr": "Çizin",
+                                            "id": "Gambar",
+                                            "uz": "Chizing"
+                                        },
+                                        "icon": "س"
+                                    },
+                                    {
+                                        "id": "ش",
+                                        "type": "drawing",
+                                        "titles": {
+                                            "en": "Draw",
+                                            "ru": "Рисуем",
+                                            "fr": "Dessine",
+                                            "tr": "Çizin",
+                                            "id": "Gambar",
+                                            "uz": "Chizing"
+                                        },
+                                        "icon": "ش"
                                     }
                                 ]
                             }
@@ -930,7 +1080,8 @@
                             "ru": "5. То и Ҙо 'Айн и Ғойн",
                             "fr": "5. Taa, Dhaa 'Ain, Ghain",
                             "tr": "5. ṭā, ẓa ayn, gayn",
-                            "id": "5. Tho Zho 'Ain Ghoin"
+                            "id": "5. Tho Zho 'Ain Ghoin",
+                            "uz": "5. To Zo 'Ayn G‘oyn"
                         },
                         "elements": [
                             "ط",
@@ -947,7 +1098,8 @@
                                     "ru": "Рисуем\n\nПроизносим\n\nЗапоминаем",
                                     "fr": "Dessine\n\nPrononce\n\nMémorise",
                                     "tr": "Çizin\n\nTelaffuz edin\n\nÖğrenin",
-                                    "id": "Gambar\n\nLafalkan\n\nMenghafalkan"
+                                    "id": "Gambar\n\nLafalkan\n\nMenghafalkan",
+                                    "uz": "Chizing\n\nTalaffuz qiling\n\nYod oling"
                                 },
                                 "items": [
                                     {
@@ -958,7 +1110,8 @@
                                             "ru": "Рисуем",
                                             "fr": "Dessine",
                                             "tr": "Çizin",
-                                            "id": "Gambar"
+                                            "id": "Gambar",
+                                            "uz": "Chizing"
                                         },
                                         "icon": "ط"
                                     },
@@ -970,7 +1123,8 @@
                                             "ru": "Рисуем",
                                             "fr": "Dessine",
                                             "tr": "Çizin",
-                                            "id": "Gambar"
+                                            "id": "Gambar",
+                                            "uz": "Chizing"
                                         },
                                         "icon": "ظ"
                                     },
@@ -982,7 +1136,8 @@
                                             "ru": "Выберите правильную букву",
                                             "fr": "Choisis la bonne lettre",
                                             "tr": "Doğru harfi seçin",
-                                            "id": "Pilih huruf yang benar"
+                                            "id": "Pilih huruf yang benar",
+                                            "uz": "To‘g‘ri harfni tanlang"
                                         },
                                         "icon": "ط",
                                         "elements": [
@@ -999,7 +1154,8 @@
                                             "ru": "Выберите правильную букву",
                                             "fr": "Choisis la bonne lettre",
                                             "tr": "Doğru harfi seçin",
-                                            "id": "Pilih huruf yang benar"
+                                            "id": "Pilih huruf yang benar",
+                                            "uz": "To‘g‘ri harfni tanlang"
                                         },
                                         "icon": "ظ",
                                         "elements": [
@@ -1016,7 +1172,8 @@
                                             "ru": "Рисуем",
                                             "fr": "Dessine",
                                             "tr": "Çizin",
-                                            "id": "Gambar"
+                                            "id": "Gambar",
+                                            "uz": "Chizing"
                                         },
                                         "icon": "ع"
                                     },
@@ -1028,7 +1185,8 @@
                                             "ru": "Рисуем",
                                             "fr": "Dessine",
                                             "tr": "Çizin",
-                                            "id": "Gambar"
+                                            "id": "Gambar",
+                                            "uz": "Chizing"
                                         },
                                         "icon": "غ"
                                     },
@@ -1040,7 +1198,8 @@
                                             "ru": "Выберите правильный звук",
                                             "fr": "Choisis le bon son",
                                             "tr": "Doğru sesi seç",
-                                            "id": "Pilih suara yang benar"
+                                            "id": "Pilih suara yang benar",
+                                            "uz": "To‘g‘ri tovushni tanlang"
                                         },
                                         "icon": "عس",
                                         "elements": [
@@ -1057,13 +1216,50 @@
                                             "ru": "Выберите правильную букву",
                                             "fr": "Choisis la bonne lettre",
                                             "tr": "Doğru harfi seçin",
-                                            "id": "Pilih huruf yang benar"
+                                            "id": "Pilih huruf yang benar",
+                                            "uz": "To‘g‘ri harfni tanlang"
                                         },
                                         "icon": "غ",
                                         "elements": [
                                             "غ",
                                             "ع",
                                             "ظ"
+                                        ]
+                                    },
+                                    {
+                                        "id": "ظ",
+                                        "type": "sound",
+                                        "titles": {
+                                            "en": "Pick the right sound",
+                                            "ru": "Выберите правильный звук",
+                                            "fr": "Choisis le bon son",
+                                            "tr": "Doğru sesi seç",
+                                            "id": "Pilih suara yang benar",
+                                            "uz": "To‘g‘ri tovushni tanlang"
+                                        },
+                                        "icon": "ظس",
+                                        "elements": [
+                                            "ظ",
+                                            "غ",
+                                            "ط"
+                                        ]
+                                    },
+                                    {
+                                        "id": "ط",
+                                        "type": "sound",
+                                        "titles": {
+                                            "en": "Pick the right sound",
+                                            "ru": "Выберите правильный звук",
+                                            "fr": "Choisis le bon son",
+                                            "tr": "Doğru sesi seç",
+                                            "id": "Pilih suara yang benar",
+                                            "uz": "To‘g‘ri tovushni tanlang"
+                                        },
+                                        "icon": "طس",
+                                        "elements": [
+                                            "ع",
+                                            "غ",
+                                            "ط"
                                         ]
                                     },
                                     {
@@ -1074,13 +1270,14 @@
                                             "ru": "Выберите правильную букву",
                                             "fr": "Choisis la bonne lettre",
                                             "tr": "Doğru harfi seçin",
-                                            "id": "Pilih huruf yang benar"
+                                            "id": "Pilih huruf yang benar",
+                                            "uz": "To‘g‘ri harfni tanlang"
                                         },
                                         "icon": "ع",
                                         "elements": [
-                                            "ع",
+                                            "ظ",
                                             "غ",
-                                            "ط"
+                                            "ع"
                                         ]
                                     },
                                     {
@@ -1091,7 +1288,8 @@
                                             "ru": "Выберите правильный звук",
                                             "fr": "Choisis le bon son",
                                             "tr": "Doğru sesi seç",
-                                            "id": "Pilih suara yang benar"
+                                            "id": "Pilih suara yang benar",
+                                            "uz": "To‘g‘ri tovushni tanlang"
                                         },
                                         "icon": "غس",
                                         "elements": [
@@ -1099,6 +1297,58 @@
                                             "ع",
                                             "ظ"
                                         ]
+                                    },
+                                    {
+                                        "id": "ط",
+                                        "type": "drawing",
+                                        "titles": {
+                                            "en": "Draw",
+                                            "ru": "Рисуем",
+                                            "fr": "Dessine",
+                                            "tr": "Çizin",
+                                            "id": "Gambar",
+                                            "uz": "Chizing"
+                                        },
+                                        "icon": "ط"
+                                    },
+                                    {
+                                        "id": "ظ",
+                                        "type": "drawing",
+                                        "titles": {
+                                            "en": "Draw",
+                                            "ru": "Рисуем",
+                                            "fr": "Dessine",
+                                            "tr": "Çizin",
+                                            "id": "Gambar",
+                                            "uz": "Chizing"
+                                        },
+                                        "icon": "ظ"
+                                    },
+                                    {
+                                        "id": "ع",
+                                        "type": "drawing",
+                                        "titles": {
+                                            "en": "Draw",
+                                            "ru": "Рисуем",
+                                            "fr": "Dessine",
+                                            "tr": "Çizin",
+                                            "id": "Gambar",
+                                            "uz": "Chizing"
+                                        },
+                                        "icon": "ع"
+                                    },
+                                    {
+                                        "id": "غ",
+                                        "type": "drawing",
+                                        "titles": {
+                                            "en": "Draw",
+                                            "ru": "Рисуем",
+                                            "fr": "Dessine",
+                                            "tr": "Çizin",
+                                            "id": "Gambar",
+                                            "uz": "Chizing"
+                                        },
+                                        "icon": "غ"
                                     }
                                 ]
                             }
@@ -1115,7 +1365,8 @@
                             "ru": "6. Фа, Каф и Коф",
                             "fr": "6. Fa, Qaaf, Kaf",
                             "tr": "6. fe, kāf, qāf",
-                            "id": "6. Fa Qof Kaf"
+                            "id": "6. Fa Qof Kaf",
+                            "uz": "6. Fa Qof Kaf"
                         },
                         "elements": [
                             "ف",
@@ -1131,7 +1382,8 @@
                                     "ru": "Рисуем\n\nПроизносим\n\nЗапоминаем",
                                     "fr": "Dessine\n\nPrononce\n\nMémorise",
                                     "tr": "Çizin\n\nTelaffuz edin\n\nÖğренin",
-                                    "id": "Gambar\n\nLafalkan\n\nMenghafalkan"
+                                    "id": "Gambar\n\nLafalkan\n\nMenghafalkan",
+                                    "uz": "Chizing\n\nTalaffuz qiling\n\nYod oling"
                                 },
                                 "items": [
                                     {
@@ -1142,7 +1394,8 @@
                                             "ru": "Рисуем",
                                             "fr": "Dessine",
                                             "tr": "Çizin",
-                                            "id": "Gambar"
+                                            "id": "Gambar",
+                                            "uz": "Chizing"
                                         },
                                         "icon": "ف"
                                     },
@@ -1154,7 +1407,8 @@
                                             "ru": "Рисуем",
                                             "fr": "Dessine",
                                             "tr": "Çizin",
-                                            "id": "Gambar"
+                                            "id": "Gambar",
+                                            "uz": "Chizing"
                                         },
                                         "icon": "ق"
                                     },
@@ -1166,7 +1420,8 @@
                                             "ru": "Рисуем",
                                             "fr": "Dessine",
                                             "tr": "Çizin",
-                                            "id": "Gambar"
+                                            "id": "Gambar",
+                                            "uz": "Chizing"
                                         },
                                         "icon": "ك"
                                     },
@@ -1178,7 +1433,8 @@
                                             "ru": "Выберите правильный звук",
                                             "fr": "Choisis le bon son",
                                             "tr": "Doğru sesi seç",
-                                            "id": "Pilih suara yang benar"
+                                            "id": "Pilih suara yang benar",
+                                            "uz": "To‘g‘ri tovushni tanlang"
                                         },
                                         "icon": "فس",
                                         "elements": [
@@ -1195,7 +1451,8 @@
                                             "ru": "Выберите правильную букву",
                                             "fr": "Choisis la bonne lettre",
                                             "tr": "Doğru harfi seçin",
-                                            "id": "Pilih huruf yang benar"
+                                            "id": "Pilih huruf yang benar",
+                                            "uz": "To‘g‘ri harfni tanlang"
                                         },
                                         "icon": "ق",
                                         "elements": [
@@ -1212,7 +1469,8 @@
                                             "ru": "Выберите правильную букву",
                                             "fr": "Choisis la bonne lettre",
                                             "tr": "Doğru harfi seçin",
-                                            "id": "Pilih huruf yang benar"
+                                            "id": "Pilih huruf yang benar",
+                                            "uz": "To‘g‘ri harfni tanlang"
                                         },
                                         "icon": "ك",
                                         "elements": [
@@ -1229,7 +1487,8 @@
                                             "ru": "Выберите правильный звук",
                                             "fr": "Choisis le bon son",
                                             "tr": "Doğru sesi seç",
-                                            "id": "Pilih suara yang benar"
+                                            "id": "Pilih suara yang benar",
+                                            "uz": "To‘g‘ri tovushni tanlang"
                                         },
                                         "icon": "فس",
                                         "elements": [
@@ -1253,7 +1512,8 @@
                             "ru": "7. Лям, Мим и Нун",
                             "fr": "7. Lam, Mim, Noun",
                             "tr": "7. lām, mīm, nūn",
-                            "id": "7. Lam Meem Noon"
+                            "id": "7. Lam Meem Noon",
+                            "uz": "7. Lam Mim Nun"
                         },
                         "elements": [
                             "ل",
@@ -1269,7 +1529,8 @@
                                     "ru": "Рисуем\n\nПроизносим\n\nЗапоминаем",
                                     "fr": "Dessine\n\nPrononce\n\nMémorise",
                                     "tr": "Çizin\n\nTelaffuz edin\n\nÖğренin",
-                                    "id": "Gambar\n\nLafalkan\n\nMenghafalkan"
+                                    "id": "Gambar\n\nLafalkan\n\nMenghafalkan",
+                                    "uz": "Chizing\n\nTalaffuz qiling\n\nYod oling"
                                 },
                                 "items": [
                                     {
@@ -1280,7 +1541,8 @@
                                             "ru": "Рисуем",
                                             "fr": "Dessine",
                                             "tr": "Çizin",
-                                            "id": "Gambar"
+                                            "id": "Gambar",
+                                            "uz": "Chizing"
                                         },
                                         "icon": "ل"
                                     },
@@ -1292,7 +1554,8 @@
                                             "ru": "Рисуем",
                                             "fr": "Dessine",
                                             "tr": "Çizin",
-                                            "id": "Gambar"
+                                            "id": "Gambar",
+                                            "uz": "Chizing"
                                         },
                                         "icon": "م"
                                     },
@@ -1304,7 +1567,8 @@
                                             "ru": "Рисуем",
                                             "fr": "Dessine",
                                             "tr": "Çizin",
-                                            "id": "Gambar"
+                                            "id": "Gambar",
+                                            "uz": "Chizing"
                                         },
                                         "icon": "ن"
                                     },
@@ -1316,7 +1580,8 @@
                                             "ru": "Выберите правильный звук",
                                             "fr": "Choisis le bon son",
                                             "tr": "Doğru sesi seç",
-                                            "id": "Pilih suara yang benar"
+                                            "id": "Pilih suara yang benar",
+                                            "uz": "To‘g‘ri tovushni tanlang"
                                         },
                                         "icon": "لس",
                                         "elements": [
@@ -1333,7 +1598,8 @@
                                             "ru": "Выберите правильную букву",
                                             "fr": "Choisis la bonne lettre",
                                             "tr": "Doğru harfi seçin",
-                                            "id": "Pilih huruf yang benar"
+                                            "id": "Pilih huruf yang benar",
+                                            "uz": "To‘g‘ri harfni tanlang"
                                         },
                                         "icon": "م",
                                         "elements": [
@@ -1350,7 +1616,8 @@
                                             "ru": "Выберите правильную букву",
                                             "fr": "Choisis la bonne lettre",
                                             "tr": "Doğru harfi seçin",
-                                            "id": "Pilih huruf yang benar"
+                                            "id": "Pilih huruf yang benar",
+                                            "uz": "To‘g‘ri harfni tanlang"
                                         },
                                         "icon": "ن",
                                         "elements": [
@@ -1367,7 +1634,8 @@
                                             "ru": "Выберите правильный звук",
                                             "fr": "Choisis le bon son",
                                             "tr": "Doğru sesi seç",
-                                            "id": "Pilih suara yang benar"
+                                            "id": "Pilih suara yang benar",
+                                            "uz": "To‘g‘ri tovushni tanlang"
                                         },
                                         "icon": "لس",
                                         "elements": [
@@ -1391,7 +1659,8 @@
                             "ru": "8. hа, Уау и Йа",
                             "fr": "8. Ha, Waw, Ya",
                             "tr": "8. he, vāv, ye",
-                            "id": "8. Ha Waw Ya"
+                            "id": "8. Ha Waw Ya",
+                            "uz": "8. Ha Vav Ya"
                         },
                         "elements": [
                             "ھ",
@@ -1407,7 +1676,8 @@
                                     "ru": "Рисуем\n\nПроизносим\n\nЗапоминаем",
                                     "fr": "Dessine\n\nPrononce\n\nMémorise",
                                     "tr": "Çizin\n\nTelaffuz edin\n\nÖğренin",
-                                    "id": "Gambar\n\nLafalkan\n\nMenghafalkan"
+                                    "id": "Gambar\n\nLafalkan\n\nMenghafalkan",
+                                    "uz": "Chizing\n\nTalaffuz qiling\n\nYod oling"
                                 },
                                 "items": [
                                     {
@@ -1418,7 +1688,8 @@
                                             "ru": "Рисуем",
                                             "fr": "Dessine",
                                             "tr": "Çizin",
-                                            "id": "Gambar"
+                                            "id": "Gambar",
+                                            "uz": "Chizing"
                                         },
                                         "icon": "ھ"
                                     },
@@ -1430,7 +1701,8 @@
                                             "ru": "Рисуем",
                                             "fr": "Dessine",
                                             "tr": "Çizin",
-                                            "id": "Gambar"
+                                            "id": "Gambar",
+                                            "uz": "Chizing"
                                         },
                                         "icon": "و"
                                     },
@@ -1442,7 +1714,8 @@
                                             "ru": "Рисуем",
                                             "fr": "Dessine",
                                             "tr": "Çizin",
-                                            "id": "Gambar"
+                                            "id": "Gambar",
+                                            "uz": "Chizing"
                                         },
                                         "icon": "ي"
                                     },
@@ -1454,7 +1727,8 @@
                                             "ru": "Выберите правильный звук",
                                             "fr": "Choisis le bon son",
                                             "tr": "Doğru sesi seç",
-                                            "id": "Pilih suara yang benar"
+                                            "id": "Pilih suara yang benar",
+                                            "uz": "To‘g‘ri tovushni tanlang"
                                         },
                                         "icon": "ھس",
                                         "elements": [
@@ -1471,7 +1745,8 @@
                                             "ru": "Выберите правильную букву",
                                             "fr": "Choisis la bonne lettre",
                                             "tr": "Doğru harfi seçin",
-                                            "id": "Pilih huruf yang benar"
+                                            "id": "Pilih huruf yang benar",
+                                            "uz": "To‘g‘ri harfni tanlang"
                                         },
                                         "icon": "و",
                                         "elements": [
@@ -1488,7 +1763,8 @@
                                             "ru": "Выберите правильную букву",
                                             "fr": "Choisis la bonne lettre",
                                             "tr": "Doğru harfi seçin",
-                                            "id": "Pilih huruf yang benar"
+                                            "id": "Pilih huruf yang benar",
+                                            "uz": "To‘g‘ri harfni tanlang"
                                         },
                                         "icon": "ي",
                                         "elements": [
@@ -1505,7 +1781,8 @@
                                             "ru": "Выберите правильный звук",
                                             "fr": "Choisis le bon son",
                                             "tr": "Doğru sesi seç",
-                                            "id": "Pilih suara yang benar"
+                                            "id": "Pilih suara yang benar",
+                                            "uz": "To‘g‘ri tovushni tanlang"
                                         },
                                         "icon": "ھس",
                                         "elements": [
@@ -1535,14 +1812,16 @@
                             "ru": "Что делать после Joode",
                             "fr": "Prochaine étape après Joode",
                             "tr": "Joode'den Sonraki Adım",
-                            "id": "Langkah Selanjutnya setelah Joode"
+                            "id": "Langkah Selanjutnya setelah Joode",
+                            "uz": "Joode dan keyingi bosqich"
                         },
                         "urls": {
                             "en": "https://www.namaz.live/after-joode",
                             "ru": "https://www.namaz.live/after-joode-ru",
                             "fr": "https://apps.apple.com/app/id1364988718",
                             "tr": "https://apps.apple.com/app/id1364988718",
-                            "id": "https://apps.apple.com/app/id1364988718"
+                            "id": "https://apps.apple.com/app/id1364988718",
+                            "uz": "https://apps.apple.com/app/id1364988718"
                         },
                         "dependent_items": {
                             "7": "finish"
@@ -1560,7 +1839,8 @@
             "ru": "Библиотека",
             "fr": "Contenu",
             "tr": "İçerik",
-            "id": "Konten"
+            "id": "Konten",
+            "uz": "Tarkib"
         },
         "icon": "headphones",
         "items": [
@@ -1572,7 +1852,8 @@
                     "ru": "Аяты Корана",
                     "fr": "Quran",
                     "tr": "Koran",
-                    "id": "Quran"
+                    "id": "Quran",
+                    "uz": "Qur'on Oyatlari"
                 },
                 "items": [
                     {
@@ -1583,14 +1864,16 @@
                             "ru": "Семь часто повторяемых",
                             "tr": "Yedi satır",
                             "fr": "Les sept versets repétés",
-                            "id": "Tujuh Baris"
+                            "id": "Tujuh Baris",
+                            "uz": "Tez-tez takrorlanadigan Yettilik"
                         },
                         "descriptions": {
                             "en": "Sura Al-Fatiha (1)",
                             "ru": "Сура Аль-Фатиха (1)",
                             "fr": "Sourate Al-Fatiha (1)",
                             "tr": "Fâtiha Sûresi (1)",
-                            "id": "Surah Al-Fatihah (1)"
+                            "id": "Surah Al-Fatihah (1)",
+                            "uz": "Fotiha surasi (1)"
                         },
                         "dependent_items": {
                             "0": "finish"
@@ -1604,14 +1887,16 @@
                             "ru": "Книга Аллаха",
                             "tr": "Allah'ın Kitabı",
                             "fr": "Le livre d'Allah",
-                            "id": "Kitab Allah"
+                            "id": "Kitab Allah",
+                            "uz": "Alloh ning Kitobi"
                         },
                         "descriptions": {
                             "en": "Sura Al-Baqara (2: 1-5)",
                             "ru": "Сура Аль-Бакара (2: 1-5)",
                             "fr": "Sourate Al-Baqara (2: 1-5)",
                             "tr": "Bakara Sûresi (2: 1-5)",
-                            "id": "Surat Al-Baqarah (2: 1-5)"
+                            "id": "Surat Al-Baqarah (2: 1-5)",
+                            "uz": "Baqara surasi (2: 1-5)"
                         },
                         "dependent_items": {
                             "1": "finish"
@@ -1625,14 +1910,16 @@
                             "ru": "Послание",
                             "tr": "Mesaj",
                             "fr": "Le Message",
-                            "id": "Risalah"
+                            "id": "Risalah",
+                            "uz": "Xabar"
                         },
                         "descriptions": {
                             "en": "Sura Al-Baqara (2: 21-25)",
                             "ru": "Сура Аль-Бакара (2: 21-25)",
                             "fr": "Sourate Al-Baqara (2: 21-25)",
                             "tr": "Bakara Sûresi (2: 21-25)",
-                            "id": "Surat Al-Baqarah (2: 21-25)"
+                            "id": "Surat Al-Baqarah (2: 21-25)",
+                            "uz": "Baqara surasi (2: 21-25)"
                         },
                         "dependent_items": {
                             "2": "finish"
@@ -1646,14 +1933,16 @@
                             "ru": "Начало",
                             "tr": "Ebeveynler",
                             "fr": "Les Parents",
-                            "id": "Ibu dan Ayah"
+                            "id": "Ibu dan Ayah",
+                            "uz": "Muqaddima"
                         },
                         "descriptions": {
                             "en": "Sura Al-Baqara (2: 30-38)",
                             "ru": "Сура Аль-Бакара (2: 30-38)",
                             "fr": "Sourate Al-Baqara (2: 30-38)",
                             "tr": "Bakara Sûresi (2: 30-38)",
-                            "id": "Surat Al-Baqarah (2: 30-38)"
+                            "id": "Surat Al-Baqarah (2: 30-38)",
+                            "uz": "Baqara surasi (2: 30-38)"
                         },
                         "dependent_items": {
                             "3": "finish"
@@ -1667,14 +1956,16 @@
                             "ru": "Престол",
                             "tr": "Kürsi",
                             "fr": "Le Repose-pied",
-                            "id": "Ayat Qursi"
+                            "id": "Ayat Qursi",
+                            "uz": "Kursiy oyati"
                         },
                         "descriptions": {
                             "en": "Sura Al-Baqara (2: 255)",
                             "ru": "Сура Аль-Бакара (2: 255)",
                             "fr": "Sourate Al-Baqara (2: 255)",
                             "tr": "Bakara Sûresi (2: 255)",
-                            "id": "Surat Al-Baqarah (2: 255)"
+                            "id": "Surat Al-Baqarah (2: 255)",
+                            "uz": "Baqara surasi (2: 255)"
                         },
                         "dependent_items": {
                             "4": "finish"
@@ -1688,14 +1979,16 @@
                             "ru": "Посланник ﷺ",
                             "tr": "Elçi ﷺ",
                             "fr": "Le Messager ﷺ",
-                            "id": "Sang Utusan ﷺ"
+                            "id": "Sang Utusan ﷺ",
+                            "uz": "Payg‘ambar ﷺ"
                         },
                         "descriptions": {
                             "en": "Sura Al-Ahzab (33: 40-48)",
                             "ru": "Сура Аль-Ахзаб (33: 40-48)",
                             "fr": "Sourate Al-Ahzab (33: 40-48)",
                             "tr": "Ahzâb Sûresi (33: 40-48)",
-                            "id": "Surat Al-Ahzab (33: 40-48)"
+                            "id": "Surat Al-Ahzab (33: 40-48)",
+                            "uz": "Ahzob surasi (33: 40-48)"
                         },
                         "dependent_items": {
                             "5": "finish"
@@ -1709,14 +2002,16 @@
                             "ru": "Утро",
                             "tr": "Sabah ışığı",
                             "fr": "Le jour montant",
-                            "id": "Sinar Pagi"
+                            "id": "Sinar Pagi",
+                            "uz": "Tong nuri"
                         },
                         "descriptions": {
                             "en": "Sura Ad-Dhuha (93)",
                             "ru": "Сура Ад-Духа (93)",
                             "fr": "Sourate Ad-Dhuha (93)",
                             "tr": "Duhâ Sûresi (93)",
-                            "id": "Surat Ad-Dhuha (93)"
+                            "id": "Surat Ad-Dhuha (93)",
+                            "uz": "Zuho surasi (93)"
                         },
                         "dependent_items": {
                             "6": "finish"
@@ -1730,14 +2025,16 @@
                             "ru": "Раскрытие",
                             "tr": "Genişlemek",
                             "fr": "L’épanouissement",
-                            "id": "Melapangkan"
+                            "id": "Melapangkan",
+                            "uz": "Yengillik"
                         },
                         "descriptions": {
                             "en": "Sura Ash-Sharh (94)",
                             "ru": "Сура Аш-Шарх (94)",
                             "fr": "Sourate Ach-Charh (94)",
                             "tr": "İnşirah Suresi (94)",
-                            "id": "Surat Ash-Sharh (94)"
+                            "id": "Surat Ash-Sharh (94)",
+                            "uz": "Sharh surasi (94)"
                         },
                         "dependent_items": {
                             "6": "finish"
@@ -1751,14 +2048,16 @@
                             "ru": "Собрание",
                             "tr": "Toplanma",
                             "fr": "Le rassemblement",
-                            "id": "Jamaah"
+                            "id": "Jamaah",
+                            "uz": "Jamoat"
                         },
                         "descriptions": {
                             "en": "Sura Al-Jumu'a (62: 9-11)",
                             "ru": "Сура Аль-Джум'а (62: 9-11)",
                             "fr": "Sourate Al-Joumou'a (62: 9-11)",
                             "tr": "Cuma Sûresi (62: 9-11)",
-                            "id": "Surat Al-Jumu'ah (62: 9-11)"
+                            "id": "Surat Al-Jumu'ah (62: 9-11)",
+                            "uz": "Jumu'a surasi (62: 9-11)"
                         },
                         "dependent_items": {
                             "7": "finish"
@@ -1774,7 +2073,8 @@
                     "ru": "Зикр и дуа",
                     "fr": "Dhikr et Dua",
                     "tr": "Zikir ve Dua",
-                    "id": "Dzikir dan Doa"
+                    "id": "Dzikir dan Doa",
+                    "uz": "Zikr va Duo"
                 },
                 "items": [
                     {
@@ -1785,14 +2085,16 @@
                             "ru": "Азан",
                             "tr": "Çağrı",
                             "fr": "L'appel",
-                            "id": "Panggilan"
+                            "id": "Panggilan",
+                            "uz": "Azon"
                         },
                         "descriptions": {
                             "en": "Adhan - the call to prayer",
                             "ru": "Азан - призыв к молитве",
                             "fr": "L'Adhan - l'appel à la prière",
                             "tr": "Adhan - namaza çağrı",
-                            "id": "Adzan - panggilan shalat"
+                            "id": "Adzan - panggilan shalat",
+                            "uz": "Azon - namozga chaqiriq"
                         },
                         "dependent_items": {
                             "7": "finish"
@@ -1808,7 +2110,8 @@
                     "ru": "Обучающее",
                     "fr": "Éducatif",
                     "tr": "Eğitici",
-                    "id": "Edukasi"
+                    "id": "Edukasi",
+                    "uz": "Tarbiyaviy"
                 },
                 "items": [
                     {
@@ -1819,7 +2122,8 @@
                             "ru": "Песня-алфавит",
                             "fr": "La chanson de l'alphabet",
                             "tr": "Alfabe şarkısı",
-                            "id": "Lagu Alfabet"
+                            "id": "Lagu Alfabet",
+                            "uz": "Alifbo qo‘shig‘i"
                         }
                     },
                     {
@@ -1830,7 +2134,8 @@
                             "ru": "Песня гласных",
                             "fr": "La chanson des voyelles",
                             "tr": "Ünlüler",
-                            "id": "Huruf Vokal"
+                            "id": "Huruf Vokal",
+                            "uz": "Unli harflar qo‘shig‘i"
                         },
                         "dependent_items": {
                             "7": "finish"
@@ -1844,7 +2149,8 @@
                             "ru": "Дуа-алфавит (бонус)",
                             "fr": "Alphabet Dua (bonus)",
                             "tr": "Alfabe Duası (bonus)",
-                            "id": "Alfabet Dua (bonus)"
+                            "id": "Alfabet Dua (bonus)",
+                            "uz": "Alifbo duosi (bonus)"
                         },
                         "dependent_items": {
                             "proposition": "success"
@@ -1860,7 +2166,8 @@
                     "ru": "Короткие статьи",
                     "fr": "",
                     "tr": "",
-                    "id": ""
+                    "id": "",
+                    "uz": "Qisqa maqolalar"
                 },
                 "items": [
                     {
@@ -1868,7 +2175,8 @@
                         "type": "article",
                         "titles": {
                             "en": "Learning to read Arabic",
-                            "ru": "Научись читать по-арабски"
+                            "ru": "Научись читать по-арабски",
+                            "uz": "Arab tilida o‘qishni o‘rganish"
                         },
                         "urls": {
                             "en": "https://www.namaz.live/arabic",
@@ -1879,7 +2187,8 @@
                             "ru": 1,
                             "fr": 0,
                             "tr": 0,
-                            "id": 0
+                            "id": 0,
+                            "uz": 0
                         }
                     }
                 ]
@@ -1894,7 +2203,8 @@
             "ru": "Настройки",
             "fr": "Réglages",
             "tr": "Ayarlar",
-            "id": "Pengaturan"
+            "id": "Pengaturan",
+            "uz": "Sozlamalar"
         },
         "icon": "gearshape",
         "items": [
@@ -1906,7 +2216,8 @@
                     "ru": "Общее",
                     "fr": "Général",
                     "tr": "Genel",
-                    "id": "Umum"
+                    "id": "Umum",
+                    "uz": "Umumiy"
                 },
                 "items": [
                     {
@@ -1917,7 +2228,8 @@
                             "ru": "Порекомендовать друзьям",
                             "fr": "Partager avec des amis",
                             "tr": "Arkadaşlarınla paylaş",
-                            "id": "Bagikan dengan teman"
+                            "id": "Bagikan dengan teman",
+                            "uz": "Do‘stlar bilan ulashing"
                         }
                     },
                     {
@@ -1928,10 +2240,12 @@
                             "ru": "Оставить отзыв в AppStore",
                             "fr": "Laisser un avis dans l'AppStore",
                             "tr": "AppStore'da bir inceleme bırakın",
-                            "id": "Tinggalkan ulasan di AppStore"
+                            "id": "Tinggalkan ulasan di AppStore",
+                            "uz": "AppStore’da baholang"
                         },
                         "descriptions": {
-                            "en": "Your ratings and reviews will help us reach more people"
+                            "en": "Your ratings and reviews will help us reach more people",
+                            "uz": "Sizning baholaringiz va sharhlaringiz bizga ko'proq odamlarni jalb qilishimizga yordam beradi"
                         }
                     },
                     {
@@ -1942,21 +2256,24 @@
                             "ru": "Связаться с разработчиком",
                             "fr": "Contact the developer",
                             "tr": "Contact the developer",
-                            "id": "Contact the developer"
+                            "id": "Contact the developer",
+                            "uz": "Dasturchi bilan bog‘lanish"
                         },
                         "urls": {
                             "en": "https://api.whatsapp.com/send?phone=77765206766&text=As-salaamu `alaikum! I'm using Joode.",
                             "ru": "https://api.whatsapp.com/send?phone=77765206766&text=Ассаляму `аляйкум! Я использую Joode.",
                             "fr": "https://api.whatsapp.com/send?phone=77765206766&text=As-salaamu `alaikum! I'm using Joode.",
                             "tr": "https://api.whatsapp.com/send?phone=77765206766&text=As-salaamu `alaikum! I'm using Joode.",
-                            "id": "https://api.whatsapp.com/send?phone=77765206766&text=As-salaamu `alaikum! I'm using Joode."
+                            "id": "https://api.whatsapp.com/send?phone=77765206766&text=As-salaamu `alaikum! I'm using Joode.",
+                            "uz": "https://api.whatsapp.com/send?phone=77765206766&text=Assalomu alaykum! Men Joode ilovasidan foydalanyapman."
                         },
                         "shows": {
                             "en": 1,
                             "ru": 1,
                             "fr": 0,
                             "tr": 0,
-                            "id": 0
+                            "id": 0,
+                            "uz": 0
                         }
                     },
                     {
@@ -1967,7 +2284,8 @@
                             "ru": "Поддержать разработчика",
                             "fr": "Faire un don au projet",
                             "tr": "Projeye bağış yapın",
-                            "id": "Donasi untuk proyek"
+                            "id": "Donasi untuk proyek",
+                            "uz": "Loyihaga xayriya qiling"
                         }
                     },
                     {
@@ -1978,7 +2296,8 @@
                             "ru": "Включить уведомления",
                             "fr": "Avis",
                             "tr": "Bildirimler",
-                            "id": "Pemberitahuan"
+                            "id": "Pemberitahuan",
+                            "uz": "Bildirishnomalarni yoqing"
                         }
                     }
                 ]
@@ -1991,7 +2310,8 @@
                     "ru": "Рекомендации",
                     "fr": "Applications et cours recommandés",
                     "tr": "Önerilen Uygulamalar ve Kurslar",
-                    "id": "Aplikasi dan Kursus yang Direkomendasikan"
+                    "id": "Aplikasi dan Kursus yang Direkomendasikan",
+                    "uz": "Tavsiyalar"
                 },
                 "items": [
                     {
@@ -2000,16 +2320,18 @@
                         "titles": {
                             "en": "Namaz App: Learn to pray",
                             "ru": "Namaz App: Учимся молиться",
-                            "fr": "Namaz App : Apprendre à prier",
+                            "fr": "Namaz App: Apprendre à prier",
                             "tr": "Namaz App: Namaz Öğren",
-                            "id": "Namaz App: Belajar Berdoa"
+                            "id": "Namaz App: Belajar Berdoa",
+                            "uz": "Namaz App: Namoz o'qishni o‘rganing"
                         },
                         "urls": {
                             "en": "https://onelink.to/namaz",
                             "ru": "https://onelink.to/namaz",
                             "fr": "https://onelink.to/namaz",
                             "tr": "https://onelink.to/namaz",
-                            "id": "https://onelink.to/namaz"
+                            "id": "https://onelink.to/namaz",
+                            "uz": "https://onelink.to/namaz"
                         }
                     },
                     {
@@ -2018,23 +2340,26 @@
                         "titles": {
                             "en": "Joode: Arabic Alphabet in two hours",
                             "ru": "Joode: Арабский алфавит за два часа",
-                            "fr": "Joode : L'alphabet arabe en deux heures",
+                            "fr": "Joode: L'alphabet arabe en deux heures",
                             "tr": "Joode: İki Saatte Arap Alfabesi",
-                            "id": "Joode: Alfabet Arab dalam Dua Jam"
+                            "id": "Joode: Alfabet Arab dalam Dua Jam",
+                            "uz": "Joode: Ikki soatda Arab alifbosi"
                         },
                         "urls": {
                             "en": "https://onelink.to/joode",
                             "ru": "https://onelink.to/joode",
                             "fr": "https://onelink.to/joode",
                             "tr": "https://onelink.to/joode",
-                            "id": "https://onelink.to/joode"
+                            "id": "https://onelink.to/joode",
+                            "uz": "https://onelink.to/joode"
                         },
                         "shows": {
                             "en": 0,
                             "ru": 0,
                             "fr": 0,
                             "tr": 0,
-                            "id": 0
+                            "id": 0,
+                            "uz": 0
                         }
                     },
                     {
@@ -2043,23 +2368,26 @@
                         "titles": {
                             "en": "Read Arabic: Learn to join letters into words",
                             "ru": "Read Arabic: Учимся соединять буквы в слова",
-                            "fr": "Read Arabic : Apprendre à assembler des lettres en mots",
+                            "fr": "Read Arabic: Apprendre à assembler des lettres en mots",
                             "tr": "Read Arabic: Harfleri Kelimelere Dönüştürme",
-                            "id": "Read Arabic: Belajar Menggabungkan Huruf Menjadi Kata"
+                            "id": "Read Arabic: Belajar Menggabungkan Huruf Menjadi Kata",
+                            "uz": "Read Arabic: Harflarni so‘zlarga birlashtiring"
                         },
                         "urls": {
                             "en": "https://onelink.to/readarabic",
                             "ru": "https://onelink.to/readar",
                             "fr": "https://onelink.to/readarabic",
                             "tr": "https://onelink.to/readarabic",
-                            "id": "https://onelink.to/readarabic"
+                            "id": "https://onelink.to/readarabic",
+                            "uz": "https://onelink.to/readarabic"
                         },
                         "descriptions": {
                             "en": "Next step after Joode",
                             "ru": "Второй шаг после Joode",
                             "fr": "Étape suivante après Joode",
                             "tr": "Joode'den Sonraki Adım",
-                            "id": "Langkah Berikutnya setelah Joode"
+                            "id": "Langkah Berikutnya setelah Joode",
+                            "uz": "Joode'dan keyingi bosqich"
                         }
                     },
                     {
@@ -2068,9 +2396,10 @@
                         "titles": {
                             "en": "Thani: Learn to read letters with vowels",
                             "ru": "Thani: Учимся читать буквы с гласными",
-                            "fr": "Thani : Apprendre à lire les lettres avec des voyelles",
+                            "fr": "Thani: Apprendre à lire les lettres avec des voyelles",
                             "tr": "Thani: Sesli Harfleri Okumayı Öğren",
-                            "id": "Thani: Belajar Membaca Huruf dengan Vokal"
+                            "id": "Thani: Belajar Membaca Huruf dengan Vokal",
+                            "uz": "Thani: Harflarni harakatlari bilan o‘qishni o‘rganing"
                         },
                         "descriptions": {},
                         "urls": {
@@ -2078,17 +2407,20 @@
                             "ru": "https://apps.apple.com/ru/app/thani-learn-to-read-arabic/id6476807629",
                             "fr": "https://apps.apple.com/ru/app/thani-learn-to-read-arabic/id6476807629",
                             "tr": "https://apps.apple.com/ru/app/thani-learn-to-read-arabic/id6476807629",
-                            "id": "https://apps.apple.com/ru/app/thani-learn-to-read-arabic/id6476807629"
+                            "id": "https://apps.apple.com/ru/app/thani-learn-to-read-arabic/id6476807629",
+                            "uz": "https://apps.apple.com/ru/app/thani-learn-to-read-arabic/id6476807629"
                         }
                     },
                     {
                         "id": "kiflayn",
                         "type": "link",
                         "titles": {
-                            "en": "Kiflayn: an affordable online course"
+                            "en": "Kiflayn: an affordable online course",
+                            "uz": "Kiflayn: Hamyonbop onlayn kurs"
                         },
                         "descriptions": {
-                            "en": "Learn to read with a group"
+                            "en": "Learn to read with a group",
+                            "uz": "Guruh bilan o‘qishni o‘rganing"
                         },
                         "urls": {
                             "en": "https://kiflayn.com/product/level-1-al-qaidah-al-nuraniyah-group-class/"
@@ -2098,7 +2430,8 @@
                             "ru": 0,
                             "fr": 0,
                             "tr": 0,
-                            "id": 0
+                            "id": 0,
+                            "uz": 0
                         }
                     },
                     {
@@ -2109,18 +2442,21 @@
                             "ru": "Платный курс: Индивидуальные занятия с учителем",
                             "fr": "Un cours de lecture payant : Apprendre en tête-à-tête avec un enseignant",
                             "tr": "Ücretli Okuma Kursu: Öğretmenle Birebir Öğrenin",
-                            "id": "Kurs Membaca Berbayar: Belajar Satu-satu dengan Guru"
+                            "id": "Kurs Membaca Berbayar: Belajar Satu-satu dengan Guru",
+                            "uz": "Ustoz Abdusalom: Yakka tartibdagi darslar"
                         },
                         "urls": {
                             "en": "https://api.whatsapp.com/send?phone=447846992624&text=As-salaamu `alaikum! I'd like to sign up for the paid course to learn to read Arabic.",
-                            "ru": "https://api.whatsapp.com/send?phone=79393872939&text=Ассаляму аляйкум! Пишу из приложения Joode. Хочу записаться на платный курс по арабскому."
+                            "ru": "https://api.whatsapp.com/send?phone=79393872939&text=Ассаляму аляйкум! Пишу из приложения Joode. Хочу записаться на платный курс по арабскому.",
+                            "uz": "https://api.whatsapp.com/send?phone=79393872939&text=Assalomu alaykum! Men Joode ilovasidan yozyapman. Men pullik arab tili kursiga yozilmoqchiman."
                         },
                         "shows": {
                             "en": 1,
                             "ru": 1,
                             "fr": 0,
                             "tr": 0,
-                            "id": 0
+                            "id": 0,
+                            "uz": 0
                         }
                     }
                 ]
