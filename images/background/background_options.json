@@ -1,0 +1,193 @@
+{
+  "id": "background_options",
+  "type": "list",
+  "items": [
+    {
+      "id": "amazing-details-of-an-illuminated-leaf",
+      "type": "image",
+      "titles": {
+        "en": "Amazing Details of an Illuminated Leaf",
+        "ru": "Amazing Details of an Illuminated Leaf"
+      },
+      "values": {
+        "en": "https://nurlingo.github.io/content/images/background/amazing-details-of-an-illuminated-leaf.jpg"
+      }
+    },
+    {
+      "id": "green-canopy-of-leaves",
+      "type": "image",
+      "titles": {
+        "en": "Green Canopy of Leaves",
+        "ru": "Green Canopy of Leaves"
+      },
+      "values": {
+        "en": "https://nurlingo.github.io/content/images/background/green-canopy-of-leaves.jpg"
+      }
+    },
+    {
+      "id": "jagged-ocean-cliff",
+      "type": "image",
+      "titles": {
+        "en": "Jagged Ocean Cliff",
+        "ru": "Jagged Ocean Cliff"
+      },
+      "values": {
+        "en": "https://nurlingo.github.io/content/images/background/jagged-ocean-cliff.jpg"
+      }
+    },
+    {
+      "id": "looking-down-at-the-ocean",
+      "type": "image",
+      "titles": {
+        "en": "Looking Down at the Ocean",
+        "ru": "Looking Down at the Ocean"
+      },
+      "values": {
+        "en": "https://nurlingo.github.io/content/images/background/looking-down-at-the-ocean.jpg"
+      }
+    },
+    {
+      "id": "lupine-flower",
+      "type": "image",
+      "titles": {
+        "en": "Lupine Flower",
+        "ru": "Lupine Flower"
+      },
+      "values": {
+        "en": "https://nurlingo.github.io/content/images/background/lupine-flower.jpg"
+      }
+    },
+    {
+      "id": "red-flower-pattern",
+      "type": "image",
+      "titles": {
+        "en": "Red Flower Pattern",
+        "ru": "Red Flower Pattern"
+      },
+      "values": {
+        "en": "https://nurlingo.github.io/content/images/background/red-flower-pattern.jpg"
+      }
+    },
+    {
+      "id": "rocky-seacoast",
+      "type": "image",
+      "titles": {
+        "en": "Rocky Seacoast",
+        "ru": "Rocky Seacoast"
+      },
+      "values": {
+        "en": "https://nurlingo.github.io/content/images/background/rocky-seacoast.jpg"
+      }
+    },
+    {
+      "id": "so-many-stars",
+      "type": "image",
+      "titles": {
+        "en": "So Many Stars",
+        "ru": "So Many Stars"
+      },
+      "values": {
+        "en": "https://nurlingo.github.io/content/images/background/so-many-stars.jpg"
+      }
+    },
+    {
+      "id": "stars-above-a-glowing-forest",
+      "type": "image",
+      "titles": {
+        "en": "Stars Above a Glowing Forest",
+        "ru": "Stars Above a Glowing Forest"
+      },
+      "values": {
+        "en": "https://nurlingo.github.io/content/images/background/stars-above-a-glowing-forest.jpg"
+      }
+    },
+    {
+      "id": "stars-and-clouds-over-tree",
+      "type": "image",
+      "titles": {
+        "en": "Stars and Clouds Over Tree",
+        "ru": "Stars and Clouds Over Tree"
+      },
+      "values": {
+        "en": "https://nurlingo.github.io/content/images/background/stars-and-clouds-over-tree.jpg"
+      }
+    },
+    {
+      "id": "stone-texture",
+      "type": "image",
+      "titles": {
+        "en": "Stone Texture",
+        "ru": "Stone Texture"
+      },
+      "values": {
+        "en": "https://nurlingo.github.io/content/images/background/stone-texture.jpg"
+      }
+    },
+    {
+      "id": "stone-wall",
+      "type": "image",
+      "titles": {
+        "en": "Stone Wall",
+        "ru": "Stone Wall"
+      },
+      "values": {
+        "en": "https://nurlingo.github.io/content/images/background/stone-wall.jpg"
+      }
+    },
+    {
+      "id": "tree-canopy",
+      "type": "image",
+      "titles": {
+        "en": "Tree Canopy",
+        "ru": "Tree Canopy"
+      },
+      "values": {
+        "en": "https://nurlingo.github.io/content/images/background/tree-canopy.jpg"
+      }
+    },
+    {
+      "id": "white-flower-sunlight",
+      "type": "image",
+      "titles": {
+        "en": "White Flower Sunlight",
+        "ru": "White Flower Sunlight"
+      },
+      "values": {
+        "en": "https://nurlingo.github.io/content/images/background/white-flower-sunlight.jpg"
+      }
+    },
+    {
+      "id": "winter-forest",
+      "type": "image",
+      "titles": {
+        "en": "Winter Forest",
+        "ru": "Winter Forest"
+      },
+      "values": {
+        "en": "https://nurlingo.github.io/content/images/background/winter-forest.jpg"
+      }
+    },
+    {
+      "id": "yellow-autumn-maple-tree",
+      "type": "image",
+      "titles": {
+        "en": "Yellow Autumn Maple Tree",
+        "ru": "Yellow Autumn Maple Tree"
+      },
+      "values": {
+        "en": "https://nurlingo.github.io/content/images/background/yellow-autumn-maple-tree.jpg"
+      }
+    },
+    {
+      "id": "yellow-flowers",
+      "type": "image",
+      "titles": {
+        "en": "Yellow Flowers",
+        "ru": "Yellow Flowers"
+      },
+      "values": {
+        "en": "https://nurlingo.github.io/content/images/background/yellow-flowers.jpg"
+      }
+    }
+  ]
+}
